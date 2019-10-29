@@ -9,6 +9,18 @@ UDJO
 Uglification
 : @@
 
+UI
+: → User Interface
+
+URI
+: → @@
+
+URL
+: → @@
+
+Usability
+: @@
+
 Use Declarations Just Once
 : @@
 
@@ -19,6 +31,9 @@ User agent
 : @@
 
 User Experience
+: @@
+
+User Interface
 : @@
 
 UX

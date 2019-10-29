@@ -6,6 +6,9 @@ W3C
 WASP
 : → @@
 
+Waterfall
+: @@
+
 Web browser
 : → User agent
 
@@ -17,6 +20,9 @@ Web font
 
 Web framework
 : → Framework
+
+Web standard
+: @@
 
 Web typography
 : @@

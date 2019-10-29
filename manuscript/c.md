@@ -3,16 +3,25 @@
 Cache
 : @@
 
+Caching
+: @@
+
 Cascading Style Sheets
 : @@
 
 Chrome
 : @@
 
+Client
+: @@
+
 CMS
 : → Content Management System
 
 Color blindness
+: @@
+
+Comment
 : @@
 
 Compatibility
@@ -36,7 +45,13 @@ Contrast
 CORS
 : → @@
 
+CRM
+: → Customer Relationship Management
+
 CSS
 : → Cascading Style Sheets
+
+Customer Relationship Management
+: @@
 
 @@

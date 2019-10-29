@@ -4,7 +4,13 @@ React
 : @@
 
 Read the Fucking Manual
-: A concept that doesn’t usually apply to web development.
+: @@
+
+Recommendation
+: → Specification
+
+Rem
+: @@
 
 Reset
 : → Reset style sheet
@@ -12,11 +18,20 @@ Reset
 Reset style sheet
 : @@
 
+Resolution
+: @@
+
 Responsive web design
 : @@
 
 Responsiveness
 : → Responsive web design
+
+Roadmap
+: @@
+
+RSS
+: → @@
 
 Rule
 : @@

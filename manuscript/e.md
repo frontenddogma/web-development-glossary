@@ -9,7 +9,13 @@ Edge
 Editor
 : @@
 
+Efficiency
+: @@
+
 Element
+: @@
+
+Em
 : @@
 
 Error
@@ -17,5 +23,8 @@ Error
 
 ES
 : → ECMAScript
+
+External
+: @@
 
 @@

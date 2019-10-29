@@ -3,17 +3,38 @@
 Safari
 : @@
 
+Script
+: @@
+
 Scripting
+: @@
+
+Scrum
 : @@
 
 Security
 : → Information security
 
+Selector
+: @@
+
+Semantics
+: @@
+
 Separation of concerns
+: @@
+
+Server
 : @@
 
 Service worker
 : @@
+
+SGML:
+: → @@
+
+SOAP
+: → @@
 
 SOC
 : → Separation of concerns
@@ -21,7 +42,13 @@ SOC
 Spaghetti code
 : @@
 
+Specification
+: @@
+
 Splash screen
+: @@
+
+Sprint
 : @@
 
 SSR

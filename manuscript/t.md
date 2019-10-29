@@ -6,6 +6,9 @@ Tag
 Tailoring
 : @@
 
+Template
+: @@
+
 Trident
 : @@
 
