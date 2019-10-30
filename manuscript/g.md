@@ -9,6 +9,9 @@ GIF
 Graceful Degradation
 : @@
 
+Graphic
+: → Image
+
 Graphical User Interface
 : @@
 

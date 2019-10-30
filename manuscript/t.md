@@ -9,6 +9,12 @@ Tailoring
 Template
 : @@
 
+Terminal
+: @@
+
+Ternary operator
+: @@
+
 Trident
 : @@
 

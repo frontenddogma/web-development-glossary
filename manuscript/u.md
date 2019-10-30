@@ -12,6 +12,9 @@ Uglification
 UI
 : → User Interface
 
+UNIX
+: → @@
+
 URI
 : → @@
 
@@ -22,6 +25,9 @@ Usability
 : @@
 
 Use Declarations Just Once
+: @@
+
+Usenet
 : @@
 
 User

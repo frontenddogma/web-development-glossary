@@ -3,6 +3,9 @@
 Safari
 : @@
 
+Sass
+: @@
+
 Script
 : @@
 
@@ -21,7 +24,7 @@ Selector
 Semantics
 : @@
 
-Separation of concerns
+Separation of Concerns
 : @@
 
 Server
@@ -37,7 +40,7 @@ SOAP
 : → @@
 
 SOC
-: → Separation of concerns
+: → Separation of Concerns
 
 Spaghetti code
 : @@
@@ -57,6 +60,12 @@ SSR
 Stacking context
 : @@
 
+Standard
+: @@
+
+Standards mode
+: @@
+
 Static Site Generator
 : @@
 
@@ -65,5 +74,8 @@ Styling
 
 Support
 : @@
+
+SVG
+: → @@
 
 @@

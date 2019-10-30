@@ -6,4 +6,7 @@ Quality assurance
 Quality control
 : @@
 
+Quirks mode
+: @@
+
 @@

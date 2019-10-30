@@ -27,10 +27,16 @@ Comment
 Compatibility
 : @@
 
+Compatibility mode
+: @@
+
 Compression
 : @@
 
 Conditional Comments
+: @@
+
+Console
 : @@
 
 Constant

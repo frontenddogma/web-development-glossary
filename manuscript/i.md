@@ -45,4 +45,7 @@ Internationalization
 Internet Explorer
 : @@
 
+IRC
+: → @@
+
 @@

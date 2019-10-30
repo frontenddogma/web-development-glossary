@@ -12,6 +12,9 @@ Landing page
 Language
 : @@
 
+LESS
+: @@
+
 Link
 : @@
 
