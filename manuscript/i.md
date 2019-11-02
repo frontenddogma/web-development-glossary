@@ -6,7 +6,13 @@
 I18N
 : → Internationalization
 
+ICANN
+: → @@
+
 IDE
+: → @@
+
+IETF
 : → @@
 
 Iframe

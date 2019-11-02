@@ -30,6 +30,9 @@ MIME type
 Minification
 : @@
 
+Modular
+: @@
+
 Mosaic
 : @@
 

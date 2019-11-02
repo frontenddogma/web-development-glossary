@@ -6,6 +6,12 @@ JAMStack
 JavaScript
 : → ECMAScript
 
+JPEG
+: → @@
+
+JPG
+: → @@
+
 jQuery
 : @@
 

@@ -15,6 +15,12 @@ Language
 LESS
 : @@
 
+Line end
+: @@
+
+Line feed
+: @@
+
 Link
 : @@
 
@@ -22,6 +28,9 @@ Liquid
 : @@
 
 Localization
+: @@
+
+Lynx
 : @@
 
 @@

@@ -18,6 +18,9 @@ Web design
 Web font
 : @@
 
+Web forms
+: @@
+
 Web framework
 : → Framework
 
@@ -29,6 +32,12 @@ Web typography
 
 WebKit
 : @@
+
+WebP
+: → @@
+
+WHATWG
+: → @@
 
 World Wide Web Consortium
 : @@

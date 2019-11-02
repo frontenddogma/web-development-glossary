@@ -33,7 +33,7 @@ Server
 Service worker
 : @@
 
-SGML:
+SGML
 : → @@
 
 SOAP
@@ -41,6 +41,9 @@ SOAP
 
 SOC
 : → Separation of Concerns
+
+SPA
+: → @@
 
 Spaghetti code
 : @@
@@ -64,6 +67,9 @@ Standard
 : @@
 
 Standards mode
+: @@
+
+Static
 : @@
 
 Static Site Generator

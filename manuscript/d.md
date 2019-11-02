@@ -60,4 +60,7 @@ DTD
 DX
 : → Developer Experience
 
+Dynamic
+: @@
+
 @@
