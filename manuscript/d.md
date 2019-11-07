@@ -1,9 +1,15 @@
 # D
 
+Debugging
+: @@
+
 Declaration
 : @@
 
 Decoration
+: @@
+
+Deployment
 : @@
 
 Deprecated
@@ -39,10 +45,16 @@ Document Object Model
 Document Type Definition
 : @@
 
+Documentation
+: @@
+
 DOM
 : → Document Object Model
 
 Domain
+: @@
+
+Domain Name
 : @@
 
 Domain Name Service

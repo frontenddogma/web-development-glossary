@@ -21,6 +21,9 @@ Permalink
 PHP
 : → @@
 
+Plugin
+: @@
+
 PNG
 : → @@
 
@@ -53,5 +56,8 @@ Pseudo-element
 
 PWA
 : → Progressive Web App
+
+Python
+: @@
 
 @@

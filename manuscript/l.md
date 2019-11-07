@@ -15,6 +15,9 @@ Language
 LESS
 : @@
 
+Library
+: @@
+
 Line end
 : @@
 

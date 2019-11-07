@@ -6,6 +6,9 @@
 I18N
 : → Internationalization
 
+IA
+: → Information Architecture
+
 ICANN
 : → @@
 
@@ -22,6 +25,9 @@ Image
 : @@
 
 Image map
+: @@
+
+Information Architecture
 : @@
 
 Information design

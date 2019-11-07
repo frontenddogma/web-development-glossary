@@ -30,6 +30,15 @@ MIME type
 Minification
 : @@
 
+Minifier
+: @@
+
+Mobile
+: @@
+
+Mobile First
+: @@
+
 Modular
 : @@
 
@@ -38,5 +47,11 @@ Mosaic
 
 Multimedia
 : @@
+
+MVP
+: → @@
+
+MySQL
+: → @@
 
 @@

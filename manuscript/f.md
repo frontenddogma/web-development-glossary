@@ -39,4 +39,7 @@ Framework
 Frontend
 : @@
 
+Full Stack
+: @@
+
 @@

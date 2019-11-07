@@ -33,6 +33,9 @@ Server
 Service worker
 : @@
 
+Sitemap
+: @@
+
 SGML
 : → @@
 
@@ -41,6 +44,12 @@ SOAP
 
 SOC
 : → Separation of Concerns
+
+Software
+: @@
+
+Software development
+: @@
 
 SPA
 : → @@
@@ -56,6 +65,9 @@ Splash screen
 
 Sprint
 : @@
+
+SSL
+: → @@
 
 SSR
 : → @@

@@ -1,12 +1,9 @@
 # A
 
-ActiveX
-: @@
-
-Agile
-: @@
-
 A List Apart
+: @@
+
+ActiveX
 : @@
 
 A11Y
@@ -18,17 +15,29 @@ Accessibility
 Accessible
 : → Accessibility
 
+Adaptive
+: @@
+
 Agile
 : → @@
 
 AJAX
 : → @@
 
+Algorithm
+: @@
+
 Anonymous block element
 : @@
 
 API
 : → Application Programming Interface
+
+App
+: → Application
+
+Application
+: @@
 
 Application Programming Interface
 : @@

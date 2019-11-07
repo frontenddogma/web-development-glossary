@@ -15,6 +15,9 @@ Web browser
 Web design
 : @@
 
+Web development
+: @@
+
 Web font
 : @@
 
@@ -38,6 +41,9 @@ WebP
 
 WHATWG
 : → @@
+
+Wireframe
+: @@
 
 World Wide Web Consortium
 : @@

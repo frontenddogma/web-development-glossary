@@ -9,6 +9,15 @@ Gecko
 GIF
 : → @@
 
+Git
+: @@
+
+GitHub
+: @@
+
+GitLab
+: @@
+
 Goanna
 : @@
 

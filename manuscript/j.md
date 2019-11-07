@@ -3,6 +3,9 @@
 JAMStack
 : @@
 
+Java
+: @@
+
 JavaScript
 : → ECMAScript
 

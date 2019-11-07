@@ -9,6 +9,12 @@ Variable
 Verification
 : @@
 
+Version control
+: @@
+
+Versioning
+: @@
+
 Vue
 : @@
 
