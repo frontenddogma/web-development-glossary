@@ -27,6 +27,9 @@ Image
 Image map
 : @@
 
+Increment
+: A term from the → Scrum framework that describes a piece of working software that adds to previously created software and that, in total, forms respective product.
+
 Information Architecture
 : @@
 

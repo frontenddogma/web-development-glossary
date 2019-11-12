@@ -15,6 +15,15 @@ Scripting
 Scrum
 : @@
 
+Scrum Master
+: A → Scrum role that is accountable for guiding, coaching, and helping a → Scrum Team and its environment to use Scrum. 
+
+Scrum Team
+: @@
+
+Scrum Values
+: @@
+
 Security
 : → Information security
 
@@ -66,6 +75,9 @@ Splash screen
 Sprint
 : @@
 
+Sprint Goal
+: @@
+
 SSL
 : → @@
 
@@ -80,6 +92,9 @@ Standard
 
 Standards mode
 : @@
+
+Standup
+: → Daily Scrum
 
 Static
 : @@

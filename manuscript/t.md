@@ -6,6 +6,9 @@ Tag
 Tailoring
 : @@
 
+Technical Debt
+: @@
+
 Template
 : @@
 
