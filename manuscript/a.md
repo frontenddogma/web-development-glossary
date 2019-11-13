@@ -42,6 +42,9 @@ Application
 Application Programming Interface
 : @@
 
+Array
+: @@
+
 Aspect ratio
 : @@
 

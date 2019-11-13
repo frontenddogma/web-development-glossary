@@ -48,6 +48,9 @@ Progressive Enhancement
 Progressive Web App
 : @@
 
+Promise
+: @@
+
 Property
 : @@
 

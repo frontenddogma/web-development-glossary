@@ -102,6 +102,9 @@ Static
 Static Site Generator
 : @@
 
+String
+: @@
+
 Styling
 : @@
 

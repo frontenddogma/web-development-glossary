@@ -12,11 +12,21 @@ Cascading Style Sheets
 Chrome
 : @@
 
+Class
+: @@
+: @@
+
 Client
 : @@
 
 CMS
 : → Content Management System
+
+Coalescing
+: @@
+
+Chaining
+: @@
 
 Code
 : @@
