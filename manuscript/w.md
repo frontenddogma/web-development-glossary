@@ -12,6 +12,9 @@ Waterfall
 Web browser
 : → User agent
 
+Web content
+: @@
+
 Web design
 : @@
 

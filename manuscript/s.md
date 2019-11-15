@@ -48,6 +48,9 @@ Sitemap
 SGML
 : → @@
 
+Smashing Magazine
+: @@
+
 SOAP
 : → @@
 
