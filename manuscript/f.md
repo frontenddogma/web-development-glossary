@@ -9,6 +9,9 @@ Feed
 Fixed
 : @@
 
+Flash
+: @@
+
 Fluid
 : → Liquid
 

@@ -30,6 +30,9 @@ Graphic
 Graphical User Interface
 : @@
 
+Guetzli
+: @@
+
 GUI
 : → Graphical User Interface
 
