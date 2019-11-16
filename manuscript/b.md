@@ -27,6 +27,9 @@ Bézier curve
 Bidi
 : @@
 
+Big Bang
+: @@
+
 Blink
 : @@
 

@@ -25,16 +25,16 @@ Adaptive
 : An aspect of or synonym for → Agile development.
 
 Agile
-: → @@
+: An iterative, adaptive approach to project management and software development that’s characterized by self-organizing, cross-functional teams that cooperate with customers and users to deliver value in increments.
 
 AJAX
-: → @@
+: → Asynchronous JavaScript and XML
 
 ALA
 : → A List Apart
 
 Algorithm
-: @@
+: A finite sequence of well-defined, computer-implementable instructions.
 
 Alignment
 : @@
@@ -76,6 +76,9 @@ Assistive technology
 : @@
 
 Asynchronous
+: @@
+
+Asynchronous JavaScript and XML
 : @@
 
 ATAG
