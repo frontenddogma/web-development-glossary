@@ -1,10 +1,22 @@
 # H
 
+HEIC
+: → @@
+
 Hit
+: @@
+
+Hoisting
 : @@
 
 Home Screen
 : @@
+
+Houdini
+: @@
+
+HSTS
+: → @@
 
 HTML
 : → HyperText Markup Language
@@ -23,6 +35,9 @@ HTTPS
 
 Hyperlink
 : → Link
+
+Hypertext
+: @@
 
 HyperText Markup Language
 : @@

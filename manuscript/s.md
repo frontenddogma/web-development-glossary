@@ -105,6 +105,9 @@ Static
 Static Site Generator
 : @@
 
+Status code
+: @@
+
 String
 : @@
 

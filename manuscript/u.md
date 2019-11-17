@@ -4,7 +4,7 @@ UA
 : → User agent
 
 UDJO
-: → Use Declarations Just Once
+: → Using Declarations Just Once
 
 Uglification
 : @@
@@ -24,7 +24,7 @@ URL
 Usability
 : @@
 
-Use Declarations Just Once
+Using Declarations Just Once
 : @@
 
 Usenet

@@ -12,6 +12,9 @@ IA
 ICANN
 : → @@
 
+ID
+: @@
+
 IDE
 : → @@
 
@@ -25,6 +28,9 @@ Image
 : @@
 
 Image map
+: @@
+
+Immutable
 : @@
 
 Increment
@@ -57,10 +63,25 @@ Internal
 Internationalization
 : @@
 
+Internet
+: @@
+
 Internet Explorer
 : @@
 
+IP
+: → @@
+
+IPv4
+: @@
+
+IPv6
+: @@
+
 IRC
+: → @@
+
+ISO
 : → @@
 
 @@

@@ -27,11 +27,17 @@ Responsive web design
 Responsiveness
 : → Responsive web design
 
+Right-to-Left
+: @@
+
 Roadmap
 : @@
 
 RSS
 : → @@
+
+RTL
+: → Right-to-Left
 
 Ruby
 : → @@

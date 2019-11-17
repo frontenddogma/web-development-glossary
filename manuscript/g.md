@@ -3,6 +3,9 @@
 Gamma
 : @@
 
+Garbage collection
+: @@
+
 Gecko
 : @@
 
@@ -18,8 +21,29 @@ GitHub
 GitLab
 : @@
 
+Global
+: @@
+
+Global object
+: @@
+
+Global scope
+: @@
+
+Global variable
+: @@
+
+Glyph
+: @@
+
 Goanna
 : @@
+
+GPL
+: → @@
+
+GPU
+: → @@
 
 Graceful Degradation
 : @@
@@ -30,7 +54,16 @@ Graphic
 Graphical User Interface
 : @@
 
+Grid
+: @@
+
+Grid Track
+: @@
+
 Guetzli
+: @@
+
+Gutter
 : @@
 
 GUI

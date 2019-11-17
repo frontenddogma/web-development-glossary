@@ -3,6 +3,9 @@
 JAMStack
 : @@
 
+Jank
+: @@
+
 Java
 : @@
 
@@ -13,6 +16,9 @@ JPEG
 : → @@
 
 JPG
+: → @@
+
+JSON
 : → @@
 
 jQuery

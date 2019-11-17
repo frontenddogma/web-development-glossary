@@ -1,6 +1,12 @@
 # P
 
+Packet
+: @@
+
 Page
+: @@
+
+Page prediction
 : @@
 
 Page view
@@ -9,7 +15,22 @@ Page view
 Paradigm
 : @@
 
+Parameter
+: @@
+
+Parse
+: @@
+
+Parser
+: @@
+
 Pattern
+: @@
+
+PDF
+: → @@
+
+Perceived performance
 : @@
 
 Performance
@@ -21,16 +42,40 @@ Permalink
 PHP
 : → @@
 
+Pixel
+: @@
+
+Placeholder
+: @@
+
+Plaintext
+: @@
+
 Plugin
 : @@
 
 PNG
 : → @@
 
+Polyfill
+: @@
+
+Port
+: @@
+
 POUR
 : @@
 
+Prefetch
+: @@
+
+Prerender
+: @@
+
 Presto
+: @@
+
+Primitive
 : @@
 
 Print style sheet
@@ -53,6 +98,10 @@ Promise
 
 Property
 : @@
+: @@
+
+Protocol
+: @@
 
 Prototype
 : @@
@@ -61,6 +110,9 @@ Pseudo-class
 : @@
 
 Pseudo-element
+: @@
+
+Pseudocode
 : @@
 
 PWA
