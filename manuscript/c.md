@@ -6,10 +6,43 @@ Cache
 Caching
 : @@
 
+Callback
+: @@
+
+Canvas
+: @@
+
+Card sorting
+: @@
+
+Caret
+: @@
+
 Cascading Style Sheets
 : @@
 
+CDN
+: → @@
+
+Certificate
+: @@
+
+Character
+: @@
+
+Character encoding
+: @@
+
+Character set
+: @@
+
+Charset
+: → Character set
+
 Chrome
+: @@
+
+Cipher
 : @@
 
 Class
@@ -17,6 +50,12 @@ Class
 : @@
 
 Client
+: @@
+
+Client hints
+: @@
+
+Closure
 : @@
 
 CMS
@@ -34,6 +73,9 @@ Code
 Color blindness
 : @@
 
+Code splitting
+: @@
+
 Comment
 : @@
 
@@ -43,7 +85,16 @@ Compatibility
 Compatibility mode
 : @@
 
+Compile
+: @@
+
+Compiler
+: @@
+
 Compression
+: @@
+
+Conditional
 : @@
 
 Conditional Comments
@@ -61,14 +112,29 @@ Content Management System
 Contrast
 : @@
 
+Constructor
+: @@
+
+Cookie
+: @@
+
 CORS
 : → @@
+
+Crawler
+: @@
 
 CRM
 : → Customer Relationship Management
 
+CSP
+: → @@
+
 CSS
 : → Cascading Style Sheets
+
+CSSOM
+: → @@
 
 Customer Relationship Management
 : @@

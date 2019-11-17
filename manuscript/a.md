@@ -36,9 +36,6 @@ ALA
 Algorithm
 : A finite sequence of well-defined, computer-implementable instructions.
 
-Alignment
-: @@
-
 Anonymous block element
 : @@
 
