@@ -15,11 +15,17 @@ A11Y
 Accessibility
 : The design and development of products, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.
 
+Accessibility Object Model
+: @@
+
 Accessibility tree
 : A representation of the → DOM that is being used by → assistive technology.
 
 Accessible
 : → Accessibility
+
+Accessible Rich Internet Applications
+: @@
 
 Adaptive
 : An aspect of or synonym for → Agile development.
@@ -36,11 +42,14 @@ ALA
 Algorithm
 : A finite sequence of well-defined, computer-implementable instructions.
 
+American Standard Code for Information Interchange
+: @@
+
 Anonymous block element
 : @@
 
 AOM
-: → @@
+: → Accessibility Object Model
 
 API
 : → Application Programming Interface
@@ -58,13 +67,13 @@ Argument
 : @@
 
 ARIA
-: → @@
+: → Accessible Rich Internet Applications
 
 Array
 : @@
 
 ASCII
-: → @@
+: → American Standard Code for Information Interchange
 
 Aspect ratio
 : @@
