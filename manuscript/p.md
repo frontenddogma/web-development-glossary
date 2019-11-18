@@ -27,6 +27,9 @@ Parser
 Pattern
 : @@
 
+Pattern library
+: @@
+
 PDF
 : → @@
 

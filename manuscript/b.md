@@ -36,6 +36,9 @@ Blink
 Block element
 : @@
 
+BOM
+: → @@
+
 Boolean
 : @@
 

@@ -3,13 +3,28 @@
 Safari
 : @@
 
+Same origin
+: @@
+
 Sass
+: @@
+
+SCM
+: → @@
+
+Scope
+: @@
+
+Screenreader
 : @@
 
 Script
 : @@
 
 Scripting
+: @@
+
+Scrolling
 : @@
 
 Scrum
@@ -30,8 +45,14 @@ Security
 Selector
 : @@
 
+SEM
+: → @@
+
 Semantics
 : @@
+
+SEO
+: → @@
 
 Separation of Concerns
 : @@
@@ -48,7 +69,28 @@ Sitemap
 SGML
 : → @@
 
+Shadow tree
+: @@
+
+Shadow DOM
+: @@
+
+Shim
+: @@
+
+Site
+: → Website
+
+Slug
+: @@
+
 Smashing Magazine
+: @@
+
+Smoke test
+: @@
+
+Snap position
 : @@
 
 SOAP
@@ -81,6 +123,12 @@ Sprint
 Sprint Goal
 : @@
 
+SQL
+: → @@
+
+SQL injection
+: @@
+
 SSL
 : → @@
 
@@ -99,6 +147,9 @@ Standards mode
 Standup
 : → Daily Scrum
 
+State
+: @@
+
 Static
 : @@
 
@@ -114,10 +165,25 @@ String
 Styling
 : @@
 
+Subversion
+: @@
+
 Support
 : @@
 
 SVG
 : → @@
+
+SVN
+: → Subversion
+
+Symbol
+: @@
+
+Synchronous
+: @@
+
+Syntax
+: @@
 
 @@
