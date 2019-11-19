@@ -7,7 +7,7 @@ Abstraction
 : A way to reduce complexity by hiding it behind simpler implementations, like APIs.
 
 ActiveX
-: A software framework that allows applications to share information and functionality. It’s based on the Component Object Model (COM) and Object Linking and Embedding (OLE) and has been introduced by Microsoft in 1996.
+: A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
 A11Y
 : → Accessibility
@@ -28,7 +28,7 @@ Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍 [w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
 Active Server Pages
-: @@
+: A server-side script engine for dynamic web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.
 
 Adaptive
 : An aspect of or synonym for Agile development.
@@ -46,16 +46,16 @@ Algorithm
 : A finite sequence of well-defined, computer-implementable instructions.
 
 Amaya
-: @@
+: A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
 American National Standards Institute
-: @@
+: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” 🌍 [ansi.org](https://www.ansi.org/)
 
 American Standard Code for Information Interchange
-: @@
+: A character encoding standard for electronic communication. ASCII was conceived in 1960 and published in 1963 by the ASA (American Standards Association), now ANSI.
 
 Anchor
-: @@
+: Technical name for a link, usually referring to the underlying `a` element.
 
 Animation
 : @@
