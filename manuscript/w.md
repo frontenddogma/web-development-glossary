@@ -6,6 +6,9 @@ W3C
 WAI
 : → @@
 
+WAP
+: → @@
+
 WASP
 : → @@
 
@@ -57,6 +60,9 @@ WebM
 WebP
 : → @@
 
+WebStorm
+: @@
+
 Website
 : @@
 
@@ -72,6 +78,9 @@ Whitespace
 Wireframe
 : @@
 
+WML
+: → @@
+
 World Wide Web
 : @@
 
@@ -80,5 +89,8 @@ World Wide Web Consortium
 
 WWW
 : → World Wide Web
+
+WYSIWYG
+: → @@
 
 @@

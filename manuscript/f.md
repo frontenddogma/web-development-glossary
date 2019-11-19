@@ -66,13 +66,22 @@ FOUC
 FOUT
 : → @@
 
-Framework
+Frame
 : @@
 
 Frame rate
 : @@
 
+Framework
+: @@
+
+Frameset
+: @@
+
 Frontend
+: @@
+
+FrontPage
 : @@
 
 FTP

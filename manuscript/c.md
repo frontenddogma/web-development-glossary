@@ -21,6 +21,10 @@ Caret
 Cascading Style Sheets
 : @@
 
+Case
+: @@
+: @@
+
 CDN
 : → @@
 
@@ -47,6 +51,12 @@ Cipher
 
 Class
 : @@
+: @@
+
+Click
+: @@
+
+Clickthrough Rate
 : @@
 
 Client

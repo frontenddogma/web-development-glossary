@@ -21,6 +21,9 @@ XPath
 XQuery
 : @@
 
+XSD
+: → @@
+
 XSL
 : → @@
 

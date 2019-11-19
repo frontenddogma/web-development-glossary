@@ -1,5 +1,8 @@
 # E
 
+E-Mail
+: @@
+
 ECMA
 : → @@
 
@@ -19,6 +22,9 @@ Element
 : @@
 
 Em
+: @@
+
+Emacs
 : @@
 
 Empiricism

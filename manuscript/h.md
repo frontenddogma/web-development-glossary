@@ -12,6 +12,12 @@ Hoisting
 Home Screen
 : @@
 
+Homepage
+: @@
+
+HomeSite
+: @@
+
 Houdini
 : @@
 

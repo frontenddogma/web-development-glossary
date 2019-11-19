@@ -9,6 +9,9 @@ I18N
 IA
 : → Information Architecture
 
+IAB
+: → @@
+
 ICANN
 : → @@
 
@@ -19,6 +22,9 @@ IDE
 : → @@
 
 IETF
+: → @@
+
+IIS
 : → @@
 
 Iframe
@@ -54,6 +60,9 @@ Inheritance
 Inline element
 : @@
 
+IntelliJ IDEA
+: @@
+
 Interaction design
 : @@
 
@@ -72,6 +81,9 @@ Internet Explorer
 IP
 : → @@
 
+IP address
+: @@
+
 IPv4
 : @@
 
@@ -88,6 +100,9 @@ IRL
 : → @@
 
 ISO
+: → @@
+
+ISP
 : → @@
 
 @@

@@ -12,6 +12,9 @@ Bad Neighborhood
 Bandwidth
 : @@
 
+Banner
+: @@
+
 Below the fold
 : @@
 
@@ -36,8 +39,14 @@ Blink
 Block element
 : @@
 
+BMP
+: → @@
+
 BOM
 : → @@
+
+Bookmark
+: @@
 
 Boolean
 : @@
@@ -52,6 +61,9 @@ Breadcrumb
 : @@
 
 Brotli
+: @@
+
+Browse
 : @@
 
 Browser

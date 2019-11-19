@@ -30,8 +30,20 @@ Version control
 Versioning
 : @@
 
+vi
+: @@
+
 Viewport
 : @@
+
+Vim
+: @@
+
+Visual Studio Code
+: @@
+
+VS Code
+: → Visual Studio Code
 
 Vue
 : @@

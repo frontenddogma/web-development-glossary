@@ -21,6 +21,9 @@ JPG
 JSON
 : → @@
 
+JSP
+: → @@
+
 jQuery
 : @@
 

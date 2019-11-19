@@ -87,6 +87,9 @@ Slug
 Smashing Magazine
 : @@
 
+SMIL
+: → @@
+
 Smoke test
 : @@
 
@@ -111,7 +114,13 @@ SPA
 Spaghetti code
 : @@
 
+Spam
+: @@
+
 Specification
+: @@
+
+Spider
 : @@
 
 Splash screen
@@ -169,6 +178,9 @@ Subversion
 : @@
 
 Support
+: @@
+
+Surf
 : @@
 
 SVG

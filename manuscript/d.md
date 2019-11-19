@@ -99,6 +99,12 @@ Don’t Repeat Yourself
 DoS
 : → Denial of Service
 
+Downtime
+: @@
+
+Dreamweaver
+: @@
+
 DRY
 : → Don’t Repeat Yourself
 

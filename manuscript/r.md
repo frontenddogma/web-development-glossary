@@ -24,6 +24,9 @@ Real User Monitoring
 Recommendation
 : → Specification
 
+Redirect
+: @@
+
 Reflow
 : @@
 

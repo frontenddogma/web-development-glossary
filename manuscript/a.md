@@ -27,6 +27,9 @@ Accessible
 Accessible Rich Internet Applications
 : @@
 
+Active Server Pages
+: @@
+
 Adaptive
 : An aspect of or synonym for → Agile development.
 
@@ -42,20 +45,41 @@ ALA
 Algorithm
 : A finite sequence of well-defined, computer-implementable instructions.
 
+Amaya
+: @@
+
+American National Standards Institute
+: @@
+
 American Standard Code for Information Interchange
+: @@
+
+Anchor
+: @@
+
+Animation
 : @@
 
 Anonymous block element
 : @@
 
+ANSI
+: → American National Standards Institute
+
 AOM
 : → Accessibility Object Model
+
+Apache
+: @@
 
 API
 : → Application Programming Interface
 
 App
 : → Application
+
+Applet
+: @@
 
 Application
 : @@
@@ -74,6 +98,9 @@ Array
 
 ASCII
 : → American Standard Code for Information Interchange
+
+ASP
+: → Active Server Pages
 
 Aspect ratio
 : @@

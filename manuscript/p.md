@@ -45,6 +45,12 @@ Permalink
 PHP
 : → @@
 
+PhpStorm
+: @@
+
+Ping
+: @@
+
 Pixel
 : @@
 
@@ -61,6 +67,9 @@ PNG
 : → @@
 
 Polyfill
+: @@
+
+POP
 : @@
 
 Port
