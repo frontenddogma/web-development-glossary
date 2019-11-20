@@ -58,10 +58,19 @@ Anchor
 : Technical name for a link, usually referring to the underlying `a` element.
 
 Animation
-: @@
+: A method in which images or graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.
+
+Anonymous block box
+: Within a block container box, a block-level box forced by the presence of other block-level boxes. In `<div>Some text<p>More text</div>`, “Some text” resides in an anonymous block-level box because `<p>` spawned a block-level box.
 
 Anonymous block element
-: @@
+: → Anonymous block box
+
+Anonymous inline box
+: Inline boxes that do not have an associated inline-level element.
+
+Anonymous inline element
+: Any text that is directly contained inside a block container element that’s not inside an inline element.
 
 ANSI
 : → American National Standards Institute
@@ -70,7 +79,10 @@ AOM
 : → Accessibility Object Model
 
 Apache
-: @@
+: → Apache HTTP Server
+
+Apache HTTP Server
+: A free and open-source cross-platform web server. The Apache server was first released in 1995. 🌍 [httpd.apache.org](https://httpd.apache.org/)
 
 API
 : → Application Programming Interface
@@ -79,7 +91,7 @@ App
 : → Application
 
 Applet
-: @@
+: A small application that performs a specific task running within the scope of a dedicated widget engine or a larger program, often as a plug-in. Usually referring to small Java programs embedded in web pages.
 
 Application
 : @@

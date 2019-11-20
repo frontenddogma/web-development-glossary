@@ -9,6 +9,9 @@ Jank
 Java
 : @@
 
+Java applet
+: → Applet
+
 JavaScript
 : → ECMAScript
 

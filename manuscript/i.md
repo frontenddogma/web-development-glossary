@@ -57,7 +57,16 @@ Infosec
 Inheritance
 : @@
 
+Inline box
+: @@
+
 Inline element
+: @@
+
+Inline-level box
+: @@
+
+Inline-level element
 : @@
 
 IntelliJ IDEA
