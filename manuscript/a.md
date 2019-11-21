@@ -94,19 +94,19 @@ Applet
 : A small application that performs a specific task running within the scope of a dedicated widget engine or a larger program, often as a plug-in. Usually referring to small Java programs embedded in web pages.
 
 Application
-: @@
+: A computer program developed and designed to perform or assist with an activity.
 
 Application Programming Interface
-: @@
+: Routines, protocols, and tools for building software.
 
 Argument
-: @@
+: A particular kind of variable provided as input for a subroutine or function.
 
 ARIA
 : → Accessible Rich Internet Applications
 
 Array
-: @@
+: A data structure or list-like object of unspecified length whose elements are identified by at least one array index or key.
 
 ASCII
 : → American Standard Code for Information Interchange
@@ -115,7 +115,7 @@ ASP
 : → Active Server Pages
 
 Aspect ratio
-: @@
+: A proportional relationship between an image’s width and height.
 
 Assistive technology
 : @@
