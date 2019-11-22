@@ -65,6 +65,9 @@ Client
 Client hints
 : @@
 
+Client side
+: @@
+
 Closure
 : @@
 

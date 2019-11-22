@@ -118,19 +118,19 @@ Aspect ratio
 : A proportional relationship between an image’s width and height.
 
 Assistive technology
-: @@
+: Assistive, adaptive, and rehabilitative devices and software for people with disabilities. 
 
 Asynchronous
-: @@
+: Independent of the main program flow.
 
 Asynchronous JavaScript and XML
-: @@
+: Web development techniques for the client-side to create asynchronous web applications.
 
 ATAG
 : → Authoring Tool Accessibility Guidelines
 
 Atom
-: @@
+: An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Attribute
 : @@

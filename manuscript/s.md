@@ -60,6 +60,9 @@ Separation of Concerns
 Server
 : @@
 
+Server side
+: @@
+
 Service worker
 : @@
 
