@@ -133,21 +133,21 @@ Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Attribute
-: @@
+: A property of an object, element, or file. In web development usually referring to HTML or XML.
 
 Authentication
-: @@
+: The act of proving an assertion, like verifying an identity.
 
 Authoring Tool Accessibility Guidelines
-: @@
+: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. 🌍 [w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
 Authorization
-: @@
+: The specifying of access rights or privileges to resources, and defining an access policy.
 
 Automagic
-: @@
+: A blend of “automatic” and “magic,” referring to an action that’s performed automatically but in such a way as to seem magical.
 
 Automation
-: @@
+: A technology by which a process or procedure is performed with minimal to no human assistance.
 
-@@
+T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/a.md) and get listed as a glossary contributor!
