@@ -37,7 +37,7 @@ Line feed
 : @@
 
 Link
-: @@
+: A reference from one web resource to another web resource, made by an anchor.
 
 Liquid
 : @@

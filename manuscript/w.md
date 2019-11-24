@@ -42,6 +42,9 @@ Web framework
 Web performance
 : → Performance
 
+Web resource
+: @@
+
 Web standard
 : @@
 
