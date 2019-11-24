@@ -22,13 +22,16 @@ BEM
 : → Block Element Modifier
 
 Best practice
-: @@
+: A method that has been generally accepted as superior to alternatives because it produces results that are superior to those achieved by other means, or because it has become a standard way of doing things.
 
 Bézier curve
+: A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points usually do not lie on the curve. Named after Pierre Bézier (1910–1999).
+
+Bidirectional
 : @@
 
 Bidi
-: @@
+: → Bidirectional (text)
 
 Big Bang
 : @@

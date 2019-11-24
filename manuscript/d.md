@@ -54,6 +54,9 @@ Device pixel
 DHTML
 : → Dynamic HTML
 
+Directionality
+: @@
+
 Dither
 : @@
 
