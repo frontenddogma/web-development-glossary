@@ -33,17 +33,38 @@ Fixed
 Flash
 : @@
 
+Flash of Faux Text
+: @@
+
+Flash of Invisible Text
+: @@
+
+Flash of Unstyled Content
+: @@
+
+Flash of Unstyled Text
+: @@
+
 Flex
 : @@
 
 Flexbox
 : @@
 
+FLOSS
+: → Free/Libre and Open Source Software
+
 Fluid
 : → Liquid
 
+FOFT
+: → Flash of Faux Text
+
 Fold
 : @@
+
+FOIT
+: → Flash of Invisible Text
 
 Font
 : @@
@@ -52,19 +73,19 @@ Fork
 : @@
 
 Form
-: → @@
+: @@
 
 FOSS
-: → @@
+: → Free and Open Source Software
 
-FTP
-: → @@
+Free and Open Source Software
+: @@
 
 FOUC
-: → @@
+: → Flash of Unstyled Content
 
 FOUT
-: → @@
+: → Flash of Unstyled Text
 
 Frame
 : @@

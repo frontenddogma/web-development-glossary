@@ -15,17 +15,32 @@ Java applet
 JavaScript
 : → ECMAScript
 
+JavaScript Object Notation
+: @@
+
+JavaScript Object Notation for Linked Data
+: @@
+
+JavaServer Pages
+: @@
+
+Joint Photographic Experts Group
+: @@
+
 JPEG
-: → @@
+: → JPG
 
 JPG
-: → @@
+: @@
 
 JSON
-: → @@
+: → JavaScript Object Notation
+
+JSON-LD
+: → JavaScript Object Notation for Linked Data
 
 JSP
-: → @@
+: → JavaServer Pages
 
 jQuery
 : @@

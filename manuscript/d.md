@@ -24,6 +24,9 @@ Decryption
 Definition of Done
 : A → Scrum term that means a shared understanding of expectations that an → increment must meet in order to be ready to be released.
 
+Demilitarized Zone
+: @@
+
 Denial of Service
 : @@
 
@@ -61,7 +64,7 @@ Dither
 : @@
 
 DMZ
-: → @@
+: → Demilitarized Zone
 
 DNS
 : → Domain Name Service

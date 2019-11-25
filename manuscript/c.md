@@ -26,7 +26,7 @@ Case
 : @@
 
 CDN
-: → @@
+: → Content Delivery Network
 
 Certificate
 : @@
@@ -122,7 +122,13 @@ Constant
 Constructor
 : @@
 
+Content Delivery Network
+: @@
+
 Content Management System
+: @@
+
+Content Security Policy
 : @@
 
 Contrast
@@ -132,7 +138,7 @@ Cookie
 : @@
 
 CORS
-: → @@
+: → Cross-Origin Resource Sharing
 
 Crawler
 : @@
@@ -140,14 +146,20 @@ Crawler
 CRM
 : → Customer Relationship Management
 
+Cross-Origin Resource Sharing
+: @@
+
 CSP
-: → @@
+: → Content Security Policy
 
 CSS
 : → Cascading Style Sheets
 
+CSS Object Model
+: @@
+
 CSSOM
-: → @@
+: → CSS Object Model
 
 Customer Relationship Management
 : @@

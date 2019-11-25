@@ -34,16 +34,25 @@ Bidi
 : → Bidirectional
 
 Big Bang
-: The practice of releasing a body of largely working software at one time, instead of incrementally. 
+: The practice of releasing a body of largely working software at one time, instead of incrementally.
+
+Bitmap
+: @@ 
 
 Blink
 : A browser engine used in the Google Chrome web browser and similar projects.
 
+Block
+: A short form for block box, block-level box, or block container box.
+
+Block box
+: A block-level box that is also a block container.
+
 Block container box
-: @@
+: A block-level box that’s not a table box or the principal box of a replaced element; it either contains only block-level boxes or, if it establishes an inline formatting context, only inline-level boxes.
 
 Block container element
-: @@
+: An element whose principal box is a block container box.
 
 Block element
 : @@
@@ -58,10 +67,10 @@ Block-level element
 : @@
 
 BMP
-: → @@
+: → Bitmap
 
 BOM
-: → @@
+: → Byte order mark
 
 Bookmark
 : @@
@@ -106,6 +115,9 @@ Buffer
 : @@
 
 Bug
+: @@
+
+Byte order mark
 : @@
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/b.md) and get listed as a glossary contributor!

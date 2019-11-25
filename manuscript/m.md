@@ -18,8 +18,11 @@ Marketing
 Markup
 : @@
 
+Mathematical Markup Language
+: @@
+
 MathML
-: → @@
+: → Mathematical Markup Language
 
 Media
 : @@
@@ -40,7 +43,7 @@ Microformat
 : @@
 
 MIME
-: → @@
+: → Multipurpose Internet Mail Extensions
 
 MIME type
 : @@
@@ -51,6 +54,9 @@ Minification
 Minifier
 : @@
 
+Minimum Viable Product
+: @@
+
 Mixin
 : @@
 
@@ -58,6 +64,9 @@ Mobile
 : @@
 
 Mobile First
+: @@
+
+Model View Controller
 : @@
 
 Modern
@@ -72,14 +81,17 @@ Mosaic
 Multimedia
 : @@
 
+Multipurpose Internet Mail Extensions
+: @@
+
 Mutable
 : @@
 
 MVC
-: → @@
+: → Model View Controller
 
 MVP
-: → @@
+: → Minimum Viable Product
 
 MySQL
 : → @@

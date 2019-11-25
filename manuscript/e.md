@@ -4,7 +4,7 @@ E-Mail
 : @@
 
 ECMA
-: → @@
+: → European Computer Manufacturers Association
 
 ECMAScript
 : @@
@@ -47,10 +47,16 @@ Entity reference
 : @@
 
 Error
-: → @@
+: @@
 
 ES
 : → ECMAScript
+
+Ethics
+: @@
+
+European Computer Manufacturers Association
+: @@
 
 Event
 : @@
