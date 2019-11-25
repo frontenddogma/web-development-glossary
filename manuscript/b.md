@@ -31,7 +31,7 @@ Bidirectional
 : @@
 
 Bidi
-: → Bidirectional (text)
+: → Bidirectional
 
 Big Bang
 : @@
