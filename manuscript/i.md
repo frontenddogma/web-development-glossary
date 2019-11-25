@@ -36,6 +36,9 @@ Image
 Image map
 : @@
 
+Image replacement
+: @@
+
 Immutable
 : @@
 

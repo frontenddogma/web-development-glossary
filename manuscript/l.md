@@ -18,6 +18,12 @@ Latency
 Lazy loading
 : @@
 
+Layout
+: @@
+
+Layout engine
+: → Browser engine
+
 Left-to-Right
 : @@
 

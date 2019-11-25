@@ -43,7 +43,7 @@ Render
 : @@
 
 Rendering engine
-: @@
+: → Browser engine
 
 Repo
 : → Repository

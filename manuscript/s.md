@@ -159,6 +159,9 @@ Standards mode
 Standup
 : → Daily Scrum
 
+Star hack
+: @@
+
 State
 : @@
 

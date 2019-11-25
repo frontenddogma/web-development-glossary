@@ -28,16 +28,16 @@ Bézier curve
 : A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points usually do not lie on the curve. Named after Pierre Bézier (1910–1999).
 
 Bidirectional
-: @@
+: Text that covers both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which usually involves text containing different types of alphabets.
 
 Bidi
 : → Bidirectional
 
 Big Bang
-: @@
+: The practice of releasing a body of largely working software at one time, instead of incrementally. 
 
 Blink
-: @@
+: A browser engine used in the Google Chrome web browser and similar projects.
 
 Block container box
 : @@
@@ -75,6 +75,12 @@ Bootstrap
 Bounce rate
 : @@
 
+Box model
+: @@
+
+Box model hack
+: @@
+
 Breadcrumb
 : @@
 
@@ -86,6 +92,9 @@ Browse
 
 Browser
 : → User agent
+
+Browser engine
+: A key software component of every web browser whose main task it is to transform HTML documents and related resources into an interactive visual representation.
 
 Browser Wars
 : @@
