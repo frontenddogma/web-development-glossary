@@ -4,7 +4,7 @@ Namespace
 : @@
 
 NaN
-: → @@
+: → Not a Number
 
 Native
 : @@
@@ -46,8 +46,11 @@ Normalizer
 Normative
 : @@
 
+Not a Number
+: @@
+
 npm
-: → @@
+: @@
 
 Null
 : @@
