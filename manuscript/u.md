@@ -4,13 +4,13 @@ UA
 : → User agent
 
 UAAG
-: → @@
+: → User Agent Accessibility Guidelines
 
 UDJO
 : → Using Declarations Just Once
 
 UDP
-: → @@
+: → User Datagram Protocol
 
 Uglification
 : @@
@@ -24,17 +24,26 @@ Undefined
 Unicode
 : @@
 
+Uniform Resource Identifier
+: @@
+
+Uniform Resource Locator
+: @@
+
+Uniform Resource Name
+: @@
+
 UNIX
-: → @@
+: @@
 
 URI
-: → @@
+: → Uniform Resource Identifier
 
 URL
-: → @@
+: → Uniform Resource Locator
 
 URN
-: → @@
+: → Uniform Resource Name
 
 Usability
 : @@
@@ -52,6 +61,12 @@ User
 : @@
 
 User agent
+: @@
+
+User Agent Accessibility Guidelines
+: @@ 🌍 [w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
+
+User Datagram Protocol
 : @@
 
 User Experience

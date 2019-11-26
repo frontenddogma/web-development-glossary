@@ -63,6 +63,9 @@ Hypertext
 HyperText Markup Language
 : @@
 
+Hypertext Preprocessor
+: @@
+
 Hypertext Transfer Protocol
 : @@
 

@@ -9,8 +9,11 @@ Same origin
 Sass
 : @@
 
+Scalable Vector Graphics
+: @@ 🌍 [w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
+
 SCM
-: → @@
+: → Source Control Management 
 
 Scope
 : @@
@@ -39,6 +42,21 @@ Scrum Team
 Scrum Values
 : @@
 
+SEA
+: → Search Engine Advertising
+
+Search Engine Advertising
+: @@
+
+Search Engine Marketing
+: @@
+
+Search Engine Optimization
+: @@
+
+Secure Sockets Layer
+: @@
+
 Security
 : → Information security
 
@@ -46,13 +64,13 @@ Selector
 : @@
 
 SEM
-: → @@
+: → Search Engine Marketing
 
 Semantics
 : @@
 
 SEO
-: → @@
+: → Search Engine Optimization
 
 Separation of Concerns
 : @@
@@ -63,6 +81,9 @@ Server
 Server side
 : @@
 
+Server-Side Rendering
+: @@
+
 Service worker
 : @@
 
@@ -70,7 +91,7 @@ Sitemap
 : @@
 
 SGML
-: → @@
+: → Standard Generalized Markup Language
 
 Shadow tree
 : @@
@@ -79,6 +100,12 @@ Shadow DOM
 : @@
 
 Shim
+: @@
+
+Simple Object Access Protocol
+: @@
+
+Single-Page Application
 : @@
 
 Site
@@ -91,7 +118,7 @@ Smashing Magazine
 : @@
 
 SMIL
-: → @@
+: → Synchronized Multimedia Integration Language
 
 Smoke test
 : @@
@@ -100,7 +127,7 @@ Snap position
 : @@
 
 SOAP
-: → @@
+: → Simple Object Access Protocol
 
 SOC
 : → Separation of Concerns
@@ -111,8 +138,11 @@ Software
 Software development
 : @@
 
+Source Control Management
+: @@
+
 SPA
-: → @@
+: → Single-Page Application
 
 Spaghetti code
 : @@
@@ -136,21 +166,24 @@ Sprint Goal
 : @@
 
 SQL
-: → @@
+: → Structured Query Language
 
 SQL injection
 : @@
 
 SSL
-: → @@
+: → Secure Sockets Layer
 
 SSR
-: → @@
+: → Server-Side Rendering
 
 Stacking context
 : @@
 
 Standard
+: @@
+
+Standard Generalized Markup Language
 : @@
 
 Standards mode
@@ -177,6 +210,9 @@ Status code
 String
 : @@
 
+Structured Query Language
+: @@
+
 Styling
 : @@
 
@@ -193,12 +229,15 @@ Surf
 : @@
 
 SVG
-: → @@
+: → Scalable Vector Graphics
 
 SVN
 : → Subversion
 
 Symbol
+: @@
+
+Synchronized Multimedia Integration Language
 : @@
 
 Synchronous

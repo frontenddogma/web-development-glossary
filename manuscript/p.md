@@ -31,7 +31,10 @@ Pattern library
 : @@
 
 PDF
-: → @@
+: → Portable Document Format
+
+Perceivable, Operable, Understandable, and Robust
+: @@
 
 Perceived performance
 : @@
@@ -43,7 +46,7 @@ Permalink
 : @@
 
 PHP
-: → @@
+: → Hypertext Preprocessor
 
 PhpStorm
 : @@
@@ -64,7 +67,7 @@ Plugin
 : @@
 
 PNG
-: → @@
+: → Portable Network Graphics
 
 Polyfill
 : @@
@@ -75,8 +78,14 @@ POP
 Port
 : @@
 
-POUR
+Portable Document Format
 : @@
+
+Portable Network Graphics
+: @@
+
+POUR
+: → Perceivable, Operable, Understandable, and Robust
 
 Prefetch
 : @@

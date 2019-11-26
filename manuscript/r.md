@@ -7,9 +7,9 @@ Raster image
 : @@
 
 RDF
-: → @@
+: → Resource Description Framework
 
-Recursion
+RDF Site Summary
 : @@
 
 React
@@ -23,6 +23,12 @@ Real User Monitoring
 
 Recommendation
 : → Specification
+
+Recursion
+: @@
+
+Red, Green, and Blue
+: @@
 
 Redirect
 : @@
@@ -54,6 +60,9 @@ Repository
 Replaced element
 : @@
 
+Representational State Transfer
+: @@
+
 Request
 : @@
 
@@ -82,10 +91,13 @@ Responsiveness
 : → Responsive web design
 
 REST
-: → @@
+: → Representational State Transfer
 
 RGB
-: → @@
+: → Red, Green, and Blue
+
+Rich Text Format
+: @@
 
 Right-to-Left
 : @@
@@ -96,6 +108,9 @@ robots.txt
 Roadmap
 : @@
 
+Round-Trip Time
+: @@
+
 Router
 : @@
 
@@ -103,17 +118,17 @@ Routine
 : @@
 
 RSS
-: → @@
+: → RDF Site Summary (alternatively Really Simple Syndication or Rich Site Summary)
 
 RTF
-: → @@
+: → Rich Text Format
 
 RTL
 : → Right-to-Left
 
 Ruby
-: → @@
-: → @@
+: @@
+: @@
 
 Ruby on Rails
 : @@
@@ -128,6 +143,6 @@ RTFM
 : → Read the Fucking Manual
 
 RTT
-: → @@
+: → Round-Trip Time
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/r.md) and get listed as a glossary contributor!

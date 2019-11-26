@@ -149,6 +149,9 @@ CRM
 Cross-Origin Resource Sharing
 : @@
 
+Cross-Site Scripting
+: @@
+
 CSP
 : → Content Security Policy
 
