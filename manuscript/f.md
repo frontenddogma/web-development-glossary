@@ -3,6 +3,9 @@
 Favicon
 : @@
 
+Favorite
+: → Bookmark
+
 Fallback
 : @@
 

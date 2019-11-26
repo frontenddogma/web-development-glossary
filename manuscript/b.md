@@ -37,7 +37,7 @@ Big Bang
 : The practice of releasing a body of largely working software at one time, instead of incrementally.
 
 Bitmap
-: @@ 
+: A digital image composed of a matrix of dots, where each dot corresponds to an individual pixel on a display.
 
 Blink
 : A browser engine used in the Google Chrome web browser and similar projects.
@@ -73,13 +73,13 @@ BOM
 : → Byte order mark
 
 Bookmark
-: @@
+: A URI, usually accompanied with a title, that is stored for later retrieval through a browser or app.
 
 Boolean
-: @@
+: A data type that has one of two values intended to represent the two truth values of logic and Boolean algebra.
 
 Bootstrap
-: @@
+: A free and open source HTML/CSS framework. 🌍 [getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
 : @@
