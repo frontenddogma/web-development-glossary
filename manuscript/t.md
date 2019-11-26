@@ -9,6 +9,9 @@ Tailoring
 TCP
 : → Transmission Control Protocol
 
+TDD
+: → Test-Driven Development
+
 Technical Debt
 : @@
 
@@ -22,6 +25,12 @@ Terminal
 : @@
 
 Ternary operator
+: @@
+
+Test
+: @@
+
+Test-Driven Development
 : @@
 
 Thread
