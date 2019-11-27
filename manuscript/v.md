@@ -39,6 +39,9 @@ Viewport
 Vim
 : @@
 
+Visual formatting model
+: @@
+
 Visual Studio Code
 : @@
 

@@ -82,19 +82,19 @@ Bootstrap
 : A free and open source HTML/CSS framework. 🌍 [getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
-: @@
+: The percentage of visitors who access a site or app and then leave instead of continue to view other pages.
 
 Box model
-: @@
+: The rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model; the boxes consist of content, padding, border, and margin areas.
 
 Box model hack
-: @@
+: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. Obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍 [tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
 Breadcrumb
-: @@
+: A location indicator, meaning a graphical element used for navigational aid.
 
 Brotli
-: @@
+: A general-purpose lossless compression algorithm that uses a combination of the LZ77 algorithm, Huffman coding, and second-order context modeling. 🌍 [github.com/google/brotli](https://github.com/google/brotli)
 
 Browse
 : @@
