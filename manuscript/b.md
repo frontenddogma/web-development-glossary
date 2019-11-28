@@ -105,19 +105,19 @@ Browser
 Browser engine
 : A key software component of every web browser whose main task it is to transform HTML documents and related resources into an interactive visual representation.
 
-Browser Wars
-: @@
+Browser War
+: A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).  
 
 Browsing context
 : @@
 
 Buffer
-: @@
+: A region of physical memory used to temporarily store data that’s being moved from one place to another.
 
 Bug
-: @@
+: A defect or error in software that causes it to produce an incorrect, unexpected, or unintended result.
 
 Byte order mark
-: @@
+: A special Unicode character (`U+FEFF BYTE ORDER MARK`) whose appearance at the start of a text stream can indicate byte order or Unicode encoding used.
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/b.md) and get listed as a glossary contributor!
