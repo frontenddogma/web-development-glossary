@@ -65,16 +65,16 @@ Exception
 : @@
 
 Extensible HyperText Markup Language
-: @@ 🌍 [w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)
+: @@ 🌍&nbsp;[w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)
 
 Extensible Markup Language
-: @@ 🌍 [w3.org/XML](https://www.w3.org/XML/)
+: @@ 🌍&nbsp;[w3.org/XML](https://www.w3.org/XML/)
 
 Extensible Stylesheet Language
-: @@ 🌍 [w3.org/Style/XSL](https://www.w3.org/Style/XSL/)
+: @@ 🌍&nbsp;[w3.org/Style/XSL](https://www.w3.org/Style/XSL/)
 
 Extensible Stylesheet Language Transformations
-: @@ 🌍 [w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
+: @@ 🌍&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
 
 External
 : @@

@@ -67,7 +67,7 @@ User agent
 : @@
 
 User Agent Accessibility Guidelines
-: @@ 🌍 [w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
+: @@ 🌍&nbsp;[w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
 
 User Datagram Protocol
 : @@

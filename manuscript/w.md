@@ -19,7 +19,7 @@ WCAG
 : → Web Content Accessibility Guidelines
 
 Web Accessibility Initiative
-: @@ 🌍 [w3.org/WAI](https://www.w3.org/WAI/)
+: @@ 🌍&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
 Web browser
 : → User agent
@@ -28,7 +28,7 @@ Web content
 : @@
 
 Web Content Accessibility Guidelines
-: @@ 🌍 [w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
+: @@ 🌍&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
 
 Web design
 : @@
@@ -46,10 +46,10 @@ Web framework
 : → Framework
 
 Web Graphics Library
-: @@ 🌍 [get.webgl.org](https://get.webgl.org/)
+: @@ 🌍&nbsp;[get.webgl.org](https://get.webgl.org/)
 
 Web Hypertext Application Technology Working Group
-: @@ 🌍 [whatwg.org](https://whatwg.org/)
+: @@ 🌍&nbsp;[whatwg.org](https://whatwg.org/)
 
 Web performance
 : → Performance
@@ -61,7 +61,7 @@ Web standard
 : @@
 
 Web Standards Project
-: @@ 🌍 [webstandards.org](https://www.webstandards.org/)
+: @@ 🌍&nbsp;[webstandards.org](https://www.webstandards.org/)
 
 Web typography
 : @@

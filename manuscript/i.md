@@ -94,7 +94,7 @@ Internal
 : @@
 
 International Organization for Standardization
-: @@ 🌍 [iso.org](https://www.iso.org/)
+: @@ 🌍&nbsp;[iso.org](https://www.iso.org/)
 
 Internationalization
 : @@
@@ -109,7 +109,7 @@ Internet Corporation for Assigned Names and Numbers
 : @@
 
 Internet Engineering Task Force
-: @@ 🌍 [ietf.org](https://ietf.org/)
+: @@ 🌍&nbsp;[ietf.org](https://ietf.org/)
 
 Internet Explorer
 : @@

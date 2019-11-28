@@ -10,7 +10,7 @@ Sass
 : @@
 
 Scalable Vector Graphics
-: @@ 🌍 [w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
+: @@ 🌍&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
 SCM
 : → Source Control Management 
@@ -44,6 +44,9 @@ Scrum Values
 
 SEA
 : → Search Engine Advertising
+
+Search
+: @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
 Search Engine Advertising
 : @@
@@ -226,7 +229,7 @@ Support
 : @@
 
 Surf
-: @@
+: → Browse
 
 SVG
 : → Scalable Vector Graphics

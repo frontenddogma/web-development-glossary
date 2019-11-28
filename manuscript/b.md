@@ -48,6 +48,9 @@ Block
 Block box
 : A block-level box that is also a block container.
 
+Block container
+: → Block container element
+
 Block container box
 : A block-level box that’s not a table box or the principal box of a replaced element; it either contains only block-level boxes or, if it establishes an inline formatting context, only inline-level boxes.
 
@@ -55,16 +58,16 @@ Block container element
 : An element whose principal box is a block container box.
 
 Block element
-: @@
+: @@ https://www.w3.org/TR/CSS22/visuren.html
 
 Block Element Modifier
-: @@
+: A naming convention for HTML and CSS classes. Block Element Modifier, or BEM, was introduced in 2005 by Yandex. 🌍&nbsp;[getbem.com](http://getbem.com/)
 
 Block-level box
-: @@
+: A box created by a block-level element.
 
 Block-level element
-: @@
+: An element that is formatted visually as a block.
 
 BMP
 : → Bitmap
@@ -79,7 +82,7 @@ Boolean
 : A data type that has one of two values intended to represent the two truth values of logic and Boolean algebra.
 
 Bootstrap
-: A free and open source HTML/CSS framework. 🌍 [getbootstrap.com](https://getbootstrap.com/)
+: A free and open source HTML/CSS framework. 🌍&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
 : The percentage of visitors who access a site or app and then leave instead of continue to view other pages.
@@ -88,16 +91,16 @@ Box model
 : The rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model; the boxes consist of content, padding, border, and margin areas.
 
 Box model hack
-: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. Obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍 [tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
+: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. Obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
 Breadcrumb
 : A location indicator, meaning a graphical element used for navigational aid.
 
 Brotli
-: A general-purpose lossless compression algorithm that uses a combination of the LZ77 algorithm, Huffman coding, and second-order context modeling. 🌍 [github.com/google/brotli](https://github.com/google/brotli)
+: A general-purpose lossless compression algorithm that uses a combination of the LZ77 algorithm, Huffman coding, and second-order context modeling. 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
 Browse
-: @@
+: To look over casually. One of the two major ways of interacting with the Web, the other one being searching.
 
 Browser
 : → User agent
