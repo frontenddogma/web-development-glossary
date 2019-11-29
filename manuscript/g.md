@@ -51,6 +51,9 @@ GPU
 Graceful Degradation
 : @@
 
+Grapheme
+: @@
+
 Graphic
 : → Image
 

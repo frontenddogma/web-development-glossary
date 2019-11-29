@@ -75,6 +75,9 @@ Fold
 FOIT
 : → Flash of Invisible Text
 
+Folksonomy
+: @@
+
 Font
 : @@
 

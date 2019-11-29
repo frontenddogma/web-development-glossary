@@ -1,22 +1,19 @@
 # C
 
 Cache
-: @@
-
-Caching
-: @@
+: A cache stores data so that future requests for that data can be served faster. Caching refers to storing data in a cache.
 
 Callback
-: @@
+: Executable code that’s provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).
 
 Canvas
-: @@
+: A container that is used for drawing elements, like geometric shapes; in HTML usually referring to the `canvas` element.
 
 Card sorting
-: @@
+: A method that aids the design or evaluation of the information architecture of a website. Card sorting is usually performed with groups, with attendees organizing topics into categories or folksonomies.
 
 Caret
-: @@
+: A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.
 
 Cascading Style Sheets
 : @@
