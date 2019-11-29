@@ -16,11 +16,10 @@ Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.
 
 Cascading Style Sheets
-: @@
+: A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification (recommendation) of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. 🌍&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
 
 Case
-: @@
-: @@
+: A selection mechanism to allow a variable to change the flow of a program.
 
 CDN
 : → Content Delivery Network
