@@ -58,7 +58,7 @@ Block container element
 : An element whose principal box is a block container box.
 
 Block element
-: @@ https://www.w3.org/TR/CSS22/visuren.html
+: → Block container element
 
 Block Element Modifier
 : A naming convention for HTML and CSS classes. Block Element Modifier, or BEM, was introduced in 2005 by Yandex. 🌍&nbsp;[getbem.com](http://getbem.com/)
@@ -112,7 +112,7 @@ Browser War
 : A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).  
 
 Browsing context
-: @@
+: The context in which a browser displays a document, as with a tab, window, or frame. The browsing context includes sessions, history, navigation, and resource loading.
 
 Buffer
 : A region of physical memory used to temporarily store data that’s being moved from one place to another.
