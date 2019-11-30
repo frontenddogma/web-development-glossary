@@ -25,10 +25,10 @@ CDN
 : → Content Delivery Network
 
 Certificate
-: @@
+: In cryptography an electronic document that proves the ownership of a public key.
 
 Character
-: @@
+: An encoded symbol that maps to a glyph.
 
 Character encoding
 : @@

@@ -34,7 +34,7 @@ Global variable
 : @@
 
 Glyph
-: @@
+: A readable mark of a particular meaning.
 
 GNU General Public License
 : @@
