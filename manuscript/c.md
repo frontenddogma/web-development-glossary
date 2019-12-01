@@ -31,16 +31,17 @@ Character
 : An encoded symbol that maps to a glyph.
 
 Character encoding
-: @@
+: A specific mapping of code points to characters, like UTF-8.
 
 Character set
-: @@
+: A general mapping of code points to characters, like Universal Character Set (UCS).
 
 Charset
 : → Character set
 
 Chrome
-: @@
+: A cross-platform web browser. Chrome was released in 2008 by Google. 🌍&nbsp;[google.com/chrome](https://www.google.com/chrome/)
+: The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 Cipher
 : @@
@@ -79,10 +80,13 @@ Chaining
 Code
 : @@
 
-Color blindness
+Code point
 : @@
 
 Code splitting
+: @@
+
+Color blindness
 : @@
 
 Comment
