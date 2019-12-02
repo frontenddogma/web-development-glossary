@@ -19,7 +19,7 @@ Accessibility
 : The design and development of products, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.
 
 Accessibility Conformance Testing
-: A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[@@](@@)
+: A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[w3.org/WAI/standards-guidelines/act](https://www.w3.org/WAI/standards-guidelines/act/)
 
 Accessibility Object Model
 : A representation of the DOM that is being used by assistive technology. 🌍&nbsp;[wicg.github.io/aom/spec](https://wicg.github.io/aom/spec/)
