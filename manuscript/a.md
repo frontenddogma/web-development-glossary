@@ -6,6 +6,9 @@ A List Apart
 Abstraction
 : A way to reduce complexity by hiding it behind simpler implementations, like APIs.
 
+ACT
+: → Accessibility Conformance Testing
+
 ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
@@ -14,6 +17,9 @@ A11Y
 
 Accessibility
 : The design and development of products, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.
+
+Accessibility Conformance Testing
+: A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[@@](@@)
 
 Accessibility Object Model
 : A representation of the DOM that is being used by assistive technology. 🌍&nbsp;[wicg.github.io/aom/spec](https://wicg.github.io/aom/spec/)
