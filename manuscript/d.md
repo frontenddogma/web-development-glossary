@@ -6,6 +6,9 @@ Daily Scrum
 Data
 : @@
 
+DCVS
+: → Distributed Concurrent Versions System
+
 DDoS
 : Distributed → Denial of Service
 
@@ -19,6 +22,9 @@ Decoration
 : @@
 
 Decryption
+: @@
+
+Defect
 : @@
 
 Definition of Done
@@ -58,6 +64,9 @@ DHTML
 : → Dynamic HTML
 
 Directionality
+: @@
+
+Distributed Concurrent Versions System
 : @@
 
 Dither

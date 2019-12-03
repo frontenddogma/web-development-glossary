@@ -21,6 +21,9 @@ Read the Fucking Manual
 Real User Monitoring
 : @@
 
+Recidivism
+: As an Agile metric, the total number of user stories completed in a sprint that entered development for the second time divided by the total number of completed stories.
+
 Recommendation
 : → Specification
 

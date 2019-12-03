@@ -21,6 +21,9 @@ Navigator
 Nesting
 : @@
 
+Net Promoter Score
+: @@
+
 Netscape
 : @@
 
@@ -54,6 +57,9 @@ Not a Number
 
 npm
 : @@
+
+NPS
+: → Net Promoter Score
 
 Null
 : @@

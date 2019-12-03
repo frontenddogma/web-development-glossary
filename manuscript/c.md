@@ -107,6 +107,9 @@ Compiler
 Compression
 : @@
 
+Concurrent Versions System
+: @@
+
 Conditional
 : @@
 
@@ -165,6 +168,12 @@ CSSOM
 : → CSS Object Model
 
 Customer Relationship Management
+: @@
+
+CVS
+: → Concurrent Versions System
+
+Cycle Time
 : @@
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/c.md) and get listed as a glossary contributor!
