@@ -15,6 +15,9 @@ Page view
 Paradigm
 : @@
 
+Parallax scrolling
+: @@
+
 Parameter
 : @@
 
