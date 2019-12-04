@@ -72,6 +72,9 @@ Plugin
 PNG
 : → Portable Network Graphics
 
+Pointing device
+: @@
+
 Polyfill
 : @@
 

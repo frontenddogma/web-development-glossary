@@ -44,14 +44,14 @@ Chrome
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 Cipher
-: @@
+: An algorithm for encryption or decryption.
 
 Class
-: @@
-: @@
+: In software development, a concrete data structure and template for creating objects.
+: In web development, the (value of the) `class` attribute, usually used as a selector for styling purposes. 
 
 Click
-: @@
+: A physical or emulated interaction with a pointing device.
 
 Clickthrough Rate
 : @@
