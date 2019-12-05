@@ -48,17 +48,20 @@ Immutable
 Increment
 : A term from the → Scrum framework that describes a piece of working software that adds to previously created software and that, in total, forms respective product.
 
+Industrial Design
+: @@
+
 Information Architecture
 : @@
 
-Information design
+Information Design
 : @@
 
-Information security
+Information Security
 : @@
 
 Infosec
-: → Information security
+: → Information Security
 
 Inheritance
 : @@
@@ -84,7 +87,7 @@ Integrated Development Environment
 Intellectual Property
 : @@
 
-Interaction design
+Interaction Design
 : @@
 
 Interactive Advertising Bureau
@@ -159,5 +162,8 @@ ISO
 
 ISP
 : → Internet Service Provider
+
+IxD
+: → Interaction Design
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/i.md) and get listed as a glossary contributor!

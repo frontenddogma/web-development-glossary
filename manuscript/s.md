@@ -61,7 +61,7 @@ Secure Sockets Layer
 : @@
 
 Security
-: → Information security
+: → Information Security
 
 Selector
 : @@

@@ -48,6 +48,9 @@ Design
 Design system
 : @@
 
+Design strategy
+: A long-term, project-encompassing vision for design. 
+
 Developer Experience
 : @@
 
