@@ -96,6 +96,9 @@ WHATWG
 Whitespace
 : @@
 
+WIP
+: → Work in Progress
+
 Wireframe
 : @@
 
@@ -107,6 +110,9 @@ Wireless Markup Language
 
 WML
 : → Wireless Markup Language
+
+Work in Progress
+: @@
 
 World Wide Web
 : @@
