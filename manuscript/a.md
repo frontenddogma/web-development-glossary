@@ -157,7 +157,7 @@ Automagic
 : A blend of “automatic” and “magic,” referring to an action that’s performed automatically but in such a way as to seem magical.
 
 Automatic Semicolon Insertion
-: A ECMAScript feature in which a semicolon is automatically inserted when two statements are separated by a line ending or a closing brace (`}`), or if a line ending follows either of `break`, `continue`, `return`, or `throw`.
+: A ECMAScript feature in which a semicolon is automatically inserted when two statements are separated by a line ending or a closing brace (`}`), or if a line ending follows either of `break`, `continue`, `return`, or `throw` (restricted production).
 
 Automation
 : A technology by which a process or procedure is performed with minimal to no human assistance.

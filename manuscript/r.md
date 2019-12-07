@@ -96,6 +96,9 @@ Responsiveness
 REST
 : → Representational State Transfer
 
+Restricted production
+: @@
+
 RGB
 : → Red, Green, and Blue
 
