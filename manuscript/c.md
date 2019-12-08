@@ -72,7 +72,8 @@ CMS
 : → Content Management System
 
 Coalescing
-: @@
+: The merging of two adjacent free blocks of memory.
+: A way to provide a default value if an operand is `null` or `undefined` (nullish coalescing). 
 
 Chaining
 : @@
