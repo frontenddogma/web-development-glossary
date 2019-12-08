@@ -82,7 +82,7 @@ Server
 : @@
 
 Server side
-: @@
+: Activities on the server as opposed to the client side in a client-server relationship.
 
 Server-Side Rendering
 : @@

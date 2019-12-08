@@ -54,19 +54,19 @@ Click
 : A physical or emulated interaction with a pointing device.
 
 Clickthrough Rate
-: @@
+: The ratio of how often users who see a page, email, or advertisement and click on a specific element in it.
 
 Client
-: @@
+: Hardware or software that accesses a service provided by a server, which is usually remote but may also be local.
 
-Client hints
-: @@
+Client Hints
+: A mechanism to allow for proactive content negotiation. 
 
 Client side
-: @@
+: Activities on the client as opposed to the server side in a client-server relationship. 
 
 Closure
-: @@
+: A function bundled with references to its surrounding state (lexical environment), allowing access to an outer function’s scope from an inner function.
 
 CMS
 : → Content Management System
