@@ -12,6 +12,9 @@ Value
 Variable
 : @@
 
+Variable scope
+: @@
+
 Vector image
 : @@
 
