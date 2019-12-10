@@ -10,6 +10,7 @@ IA
 : → Information Architecture
 
 IAB
+: → In-App Browser
 : → Interactive Advertising Bureau
 
 ICANN
@@ -44,6 +45,9 @@ Image replacement
 
 Immutable
 : @@
+
+In-App Browser
+: A browser instance in a mobile application, usually working on the basis of WebViews (Android) or WKWebViews (iOS). 
 
 Increment
 : A term from the → Scrum framework that describes a piece of working software that adds to previously created software and that, in total, forms respective product.

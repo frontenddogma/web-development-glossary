@@ -3,6 +3,9 @@
 Zeldman
 : @@
 
+Zero-indexed
+: A characteristic of programming languages that start indexing at 0 and count up from there, as with JavaScript.
+
 ZIP
 : @@
 
