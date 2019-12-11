@@ -50,6 +50,9 @@ Class
 : In software development, a concrete data structure and template for creating objects.
 : In web development, the (value of the) `class` attribute, usually used as a selector for styling purposes. 
 
+CLI
+: → Command-Line Interface
+
 Click
 : A physical or emulated interaction with a pointing device.
 
@@ -88,6 +91,9 @@ Code splitting
 : @@
 
 Color blindness
+: @@
+
+Command-Line Interface
 : @@
 
 Comment
