@@ -45,11 +45,17 @@ Line end
 Line feed
 : @@
 
+Lines of Code
+: @@
+
 Link
 : A reference from one web resource to another web resource, made by an anchor.
 
 Liquid
 : @@
+
+LOC
+: → Lines of Code
 
 Local
 : @@

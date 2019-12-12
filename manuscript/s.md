@@ -114,6 +114,9 @@ Single-Page Application
 Site
 : → Website
 
+SLOC
+: → Source Lines of Code
+
 Slug
 : @@
 
@@ -143,6 +146,9 @@ Software development
 
 Source Control Management
 : @@
+
+Source Lines of Code
+: → Lines of Code
 
 SPA
 : → Single-Page Application
