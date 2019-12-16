@@ -85,13 +85,13 @@ Code
 : @@
 
 Code point
-: @@
+: A numerical representation of a single character or formatting sign.
 
 Code splitting
-: @@
+: The splitting of code into small chunks that represent the code currently needed, usually by a web app.
 
 Color blindness
-: @@
+: A deficiency in seeing color meaning difficulty in differentiating between colors. 8% of men and 0.5% of women have some form of color blindness ([color-blindness.com](https://www.color-blindness.com/types-of-color-blindness/)). The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia. 
 
 Command-Line Interface
 : @@
