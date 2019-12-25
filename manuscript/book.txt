@@ -1,4 +1,4 @@
-prologue.md
+acknowledgments.md
 intro.md
 a.md
 b.md
