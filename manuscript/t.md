@@ -30,12 +30,6 @@ Ternary operator
 Test
 : @@
 
-Test MDN
-: This is just an MDN quote test.&nbsp;[‡](#mdn)
-
-Test Wikipedia
-: This is just a Wikipedia quote test.&nbsp;[†](#wikipedia)
-
 Test-Driven Development
 : @@
 

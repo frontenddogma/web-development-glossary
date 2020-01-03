@@ -4,10 +4,6 @@ The Web Development Glossary, except for the cover graphic, is licensed under a 
 
 The cover graphic is under copyright by [kjpargeter (Freepik)](https://www.freepik.com/kjpargeter).
 
-## Wikipedia {#wikipedia}
+Some definitions build on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). These definitions are marked. The original definitions are licensed under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-Definitions marked “†” build on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). The original definitions are licensed under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
-
-## Mozilla Developer Network {#mdn}
-
-Definitions marked “‡” build on the [MDN Web Docs Glossary](https://developer.mozilla.org/en-US/docs/Glossary). The original definitions are licensed under a [CC BY-SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
+Other definitions build on the [MDN Web Docs Glossary](https://developer.mozilla.org/en-US/docs/Glossary). These definitions are also marked. The original definitions are licensed under a [CC BY-SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
