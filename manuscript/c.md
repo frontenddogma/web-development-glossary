@@ -82,7 +82,7 @@ Chaining
 : The calling of several methods after another on an object.
 
 Code
-: The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.[^^w-code]
+: The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
 
 Code point
 : A numerical representation of a single character or formatting sign.
@@ -106,7 +106,7 @@ Compatibility mode
 : @@
 
 Compile
-: Compiling is the process of transforming a computer program written in a given language into an equivalent program of another language.[^^m-compile]
+: Compiling is the process of transforming a computer program written in a given language into an equivalent program of another language.&nbsp;[‡](#m-compile)
 
 Compiler
 : @@
