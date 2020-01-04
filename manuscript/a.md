@@ -4,7 +4,7 @@ A List Apart
 : A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” 🌍&nbsp;[alistapart.com](https://alistapart.com/)
 
 Abstraction
-: A way to reduce complexity by hiding it behind simpler implementations, like APIs.
+: A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstraction hides the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
 
 ACT
 : → Accessibility Conformance Testing

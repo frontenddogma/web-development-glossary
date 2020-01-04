@@ -4,6 +4,7 @@
 
 This book uses material from the following Wikipedia articles:
 
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-command-line-interface}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * @@
 
@@ -13,7 +14,7 @@ The original works, which are released under the [CC BY-SA 3.0 license](https://
 
 This book uses material from the following articles by Mozilla contributors:
 
-* [Compile](https://developer.mozilla.org/en-US/docs/Glossary/Compile){#m-compile}
+* [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * @@
 
 The original works, which are licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.

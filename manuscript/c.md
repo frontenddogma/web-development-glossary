@@ -94,7 +94,7 @@ Color blindness
 : A deficiency in seeing color meaning difficulty in differentiating between colors. 8% of men and 0.5% of women have some form of color blindness ([color-blindness.com](https://www.color-blindness.com/types-of-color-blindness/)). The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia. 
 
 Command-Line Interface
-: @@
+: An interface processing commands to a computer program in the form of lines of text. Operating systems implement command-line interfaces in a shell for interactive access to operating system functions or services.&nbsp;[†](#w-command-line-interface)
 
 Comment
 : @@
@@ -106,7 +106,7 @@ Compatibility mode
 : @@
 
 Compile
-: Compiling is the process of transforming a computer program written in a given language into an equivalent program of another language.&nbsp;[‡](#m-compile)
+: @@
 
 Compiler
 : @@
