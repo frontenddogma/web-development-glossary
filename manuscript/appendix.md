@@ -4,6 +4,7 @@
 
 This book uses material from the following Wikipedia articles:
 
+* [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#m-accessibility}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-command-line-interface}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * @@

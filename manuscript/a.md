@@ -16,7 +16,7 @@ A11Y
 : → Accessibility
 
 Accessibility
-: The design and development of products, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.
+: The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[‡](#m-accessibility)
 
 Accessibility Conformance Testing
 : A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[w3.org/WAI/standards-guidelines/act](https://www.w3.org/WAI/standards-guidelines/act/)
@@ -32,6 +32,8 @@ Accessible
 
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
+
+@@
 
 Active Server Pages
 : A server-side script engine for dynamic web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.
