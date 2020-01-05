@@ -7,7 +7,7 @@ A11Y
 : → Accessibility
 
 Abstract Data Type
-: @@
+: A mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.&nbsp;[†](#w-adt)
 
 Abstraction
 : A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstraction hides the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
@@ -72,8 +72,6 @@ Anchor
 Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)
 
-@@
-
 Anonymous block box
 : Within a block container box, a block-level box forced by the presence of other block-level boxes. In `<div>Some text<p>More text</div>`, “Some text” resides in an anonymous block-level box because `<p>` spawned a block-level box.
 
@@ -105,19 +103,21 @@ App
 : → Application
 
 Applet
-: A small application that performs a specific task running within the scope of a dedicated widget engine or a larger program, often as a plug-in. Usually referring to small Java programs embedded in web pages.
+: Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plug-in. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
 
 Application
-: A computer program developed and designed to perform or assist with an activity.
+: A computer program designed to help people perform an activity. An application differs from an operating system (which runs a computer), a utility (which performs maintenance or general-purpose chores), and a programming tool (with which computer programs are created). Depending on the activity for which it was designed, an application can manipulate text, numbers, audio, graphics, and a combination of these elements. Some application packages focus on a single task, such as word processing; others, called integrated software include several applications.&nbsp;[†](#w-application)
 
 Application Programming Interface
-: Routines, protocols, and tools for building software.
+: An interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API may be for a web-based system, operating system, database system, computer hardware, or software library.&nbsp;[†](#w-api)
 
 Argument
-: A particular kind of variable provided as input for a subroutine or function.
+: The actual input expression passed or supplied to a function, procedure, or routine in a call or invocation statement.&nbsp;[†](#w-parameter-argument)
 
 ARIA
 : → Accessible Rich Internet Applications
+
+@@
 
 Array
 : A data structure or list-like object of unspecified length whose elements are identified by at least one array index or key.
