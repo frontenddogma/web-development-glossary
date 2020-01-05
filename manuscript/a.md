@@ -3,6 +3,12 @@
 A List Apart
 : A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” 🌍&nbsp;[alistapart.com](https://alistapart.com/)
 
+A11Y
+: → Accessibility
+
+Abstract Data Type
+: @@
+
 Abstraction
 : A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstraction hides the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
 
@@ -11,9 +17,6 @@ ACT
 
 ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
-
-A11Y
-: → Accessibility
 
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
@@ -38,6 +41,9 @@ Active Server Pages
 
 Adaptive
 : An aspect of or synonym for Agile development.
+
+ADT
+: → Abstract Data Type
 
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
