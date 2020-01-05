@@ -117,10 +117,8 @@ Argument
 ARIA
 : → Accessible Rich Internet Applications
 
-@@
-
 Array
-: A data structure or list-like object of unspecified length whose elements are identified by at least one array index or key.
+: A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)
 
 ASCII
 : → American Standard Code for Information Interchange
@@ -132,16 +130,21 @@ ASP
 : → Active Server Pages
 
 Aspect ratio
-: A proportional relationship between an image’s width and height.
+: A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)
 
 Assistive technology
-: Assistive, adaptive, and rehabilitative devices and software for people with disabilities. 
+: Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)  
+
+@@
 
 Asynchronous
 : Independent of the main program flow.
 
 Asynchronous JavaScript and XML
 : Web development techniques for the client-side to create asynchronous web applications.
+
+AT
+: → Assistive technology
 
 ATAG
 : → Authoring Tool Accessibility Guidelines

@@ -13,6 +13,9 @@ This book uses material from the following Wikipedia articles:
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
 * [Application software](https://en.wikipedia.org/wiki/Application_software){#w-application}
+* [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
+* [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
+* [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
