@@ -16,7 +16,7 @@ A11Y
 : → Accessibility
 
 Accessibility
-: The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[‡](#m-accessibility)
+: The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
 
 Accessibility Conformance Testing
 : A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[w3.org/WAI/standards-guidelines/act](https://www.w3.org/WAI/standards-guidelines/act/)
@@ -33,16 +33,14 @@ Accessible
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
-@@
-
 Active Server Pages
-: A server-side script engine for dynamic web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.
+: A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
 
 Adaptive
 : An aspect of or synonym for Agile development.
 
 Agile
-: An iterative, adaptive approach to project management and software development that’s characterized by self-organizing, cross-functional teams that cooperate with customers and users to deliver value in increments.
+: An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
 
 AJAX
 : → Asynchronous JavaScript and XML
@@ -51,7 +49,7 @@ ALA
 : → A List Apart
 
 Algorithm
-: A finite sequence of well-defined, computer-implementable instructions.
+: A finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are unambiguous specifications for performing calculation, data processing, automated reasoning, and other tasks.&nbsp;[†](#w-algorithm)
 
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
@@ -66,7 +64,9 @@ Anchor
 : Technical name for a link, usually referring to the underlying `a` element.
 
 Animation
-: A method in which images or graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.
+: A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)
+
+@@
 
 Anonymous block box
 : Within a block container box, a block-level box forced by the presence of other block-level boxes. In `<div>Some text<p>More text</div>`, “Some text” resides in an anonymous block-level box because `<p>` spawned a block-level box.
