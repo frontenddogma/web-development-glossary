@@ -29,7 +29,7 @@ This book uses material from the following Wikipedia articles:
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [](){} @@
 
-The original works, which are released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified.
+The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified, which in most cases means that they have been shortened.
 
 ## Mozilla Developer Network (MDN) Contributions
 
@@ -38,4 +38,4 @@ This book uses material from the following articles by Mozilla contributors:
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [](){} @@
 
-The original works, which are licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.
+The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.
