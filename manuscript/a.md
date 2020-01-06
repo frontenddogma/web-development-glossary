@@ -159,6 +159,8 @@ Authentication
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. 🌍&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
+@@
+
 Authorization
 : The specifying of access rights or privileges to resources, and defining an access policy.
 
