@@ -8,6 +8,7 @@ This book uses material from the following Wikipedia articles:
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
+* [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
@@ -16,6 +17,9 @@ This book uses material from the following Wikipedia articles:
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
+* [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
+* [Attribute (computing)](https://en.wikipedia.org/wiki/Attribute_(computing)){#w-attribute}
+* [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}

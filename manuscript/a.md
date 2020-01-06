@@ -135,13 +135,11 @@ Aspect ratio
 Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)  
 
-@@
-
 Asynchronous
-: Independent of the main program flow.
+: The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
 
 Asynchronous JavaScript and XML
-: Web development techniques for the client-side to create asynchronous web applications.
+: A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
 
 AT
 : → Assistive technology
@@ -153,10 +151,10 @@ Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Attribute
-: A property of an object, element, or file. In web development usually referring to HTML or XML.
+: A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
 
 Authentication
-: The act of proving an assertion, like verifying an identity.
+: The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing's identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. 🌍&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
