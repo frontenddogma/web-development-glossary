@@ -112,7 +112,7 @@ Browser engine
 : A key software component of every web browser whose main task it is to transform HTML documents and related resources into an interactive visual representation.
 
 Browser War
-: A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).  
+: A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).
 
 Browsing context
 : The context in which a browser displays a document, as with a tab, window, or frame. The browsing context includes sessions, history, navigation, and resource loading.
