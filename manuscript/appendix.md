@@ -24,6 +24,10 @@ This book uses material from the following Wikipedia articles:
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
+* [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
+* [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
+* [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
+* [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}

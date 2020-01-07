@@ -12,34 +12,35 @@ Bad Neighborhood
 Bandwidth
 : The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
 
-@@
-
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
 Below the fold
-: The section of a web page that is only visible after scrolling down.
+: The part of a web page that is visible only after scrolling.
 
 BEM
 : → Block Element Modifier
 
 Best practice
-: A method that has been generally accepted as superior to alternatives because it produces results that are superior to those achieved by other means, or because it has become a standard way of doing things.
+: A method or technique that has been generally accepted as superior to any alternatives because it produces results that are superior to those achieved by other means or because it has become a standard way of doing things, e.g., a standard way of complying with legal or ethical requirements. Best practices are used to maintain quality as an alternative to mandatory legislated standards.&nbsp;[†](#w-best-practice)
 
 Bézier curve
-: A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points usually do not lie on the curve. Named after Pierre Bézier (1910–1999).
+: A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points (if any) generally do not lie on the curve. Named after Pierre Bézier (1910–1999).&nbsp;[†](#w-bezier-curve)
 
 Bidirectional
-: Text that covers both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which usually involves text containing different types of alphabets.
+: Text that contains both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which generally involves text containing different types of alphabets.&nbsp;[†](#w-bidirectional)
 
 Bidi
 : → Bidirectional
 
 Big Bang
-: The practice of releasing a body of largely working software at one time, instead of incrementally.
+: The practice of releasing a great amount of working software all at one time, as opposed to incrementally.
 
 Bitmap
-: A digital image composed of a matrix of dots, where each dot corresponds to an individual pixel on a display.
+: A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
+: → Raster image
+
+@@
 
 Blink
 : A browser engine used in the Google Chrome web browser and similar projects.
