@@ -21,6 +21,11 @@ Cascading Style Sheets
 Case
 : A selection mechanism to allow a variable to change the flow of a program.
 
+CD
+: → Corporate Design
+: → Continuous Delivery
+: → Continuous Deployment
+
 CDN
 : → Content Delivery Network
 
@@ -42,6 +47,10 @@ Charset
 Chrome
 : A cross-platform web browser. Chrome was released in 2008 by Google. 🌍&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
+
+CI
+: → Corporate Identity
+: → Continuous Integration
 
 Cipher
 : An algorithm for encryption or decryption.
@@ -141,10 +150,25 @@ Content Management System
 Content Security Policy
 : @@
 
+Continuous Delivery
+: @@
+
+Continuous Deployment
+: @@
+
+Continuous Integration
+: @@
+
 Contrast
 : @@
 
 Cookie
+: @@
+
+Corporate Design
+: @@
+
+Corporate Identity
 : @@
 
 CORS

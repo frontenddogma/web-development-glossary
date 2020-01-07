@@ -75,6 +75,9 @@ Plugin
 PNG
 : → Portable Network Graphics
 
+Pointer
+: @@
+
 Pointing device
 : @@
 

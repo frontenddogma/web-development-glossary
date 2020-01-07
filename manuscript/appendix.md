@@ -14,6 +14,7 @@ This book uses material from the following Wikipedia articles:
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
 * [Application software](https://en.wikipedia.org/wiki/Application_software){#w-application}
+* [APT (software)](https://en.wikipedia.org/wiki/APT_(software)){#w-apt}
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
@@ -32,7 +33,12 @@ This book uses material from the following Wikipedia articles:
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
+* [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
+* [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
+* [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
+* [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [](){} @@
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified, which in most cases means that they have been shortened.
@@ -42,6 +48,8 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 This book uses material from the following articles by Mozilla contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
+* @@
+* [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
 
 The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.

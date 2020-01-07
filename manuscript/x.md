@@ -27,6 +27,9 @@ XMLHttpRequest
 XPath
 : @@
 
+XPointer
+: @@
+
 XQuery
 : @@
 

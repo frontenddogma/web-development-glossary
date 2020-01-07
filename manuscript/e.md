@@ -64,6 +64,12 @@ Event
 Exception
 : @@
 
+Exit code
+: → Exit status
+
+Exit status
+: @@
+
 Extensible HyperText Markup Language
 : @@ 🌍&nbsp;[w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)
 
@@ -74,7 +80,7 @@ Extensible Stylesheet Language
 : @@ 🌍&nbsp;[w3.org/Style/XSL](https://www.w3.org/Style/XSL/)
 
 Extensible Stylesheet Language Transformations
-: @@ 🌍&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
+: A declarative language used to convert XML documents into other XML documents, HTML, PDF, plain text, and so on. XSLT has its own processor that accepts XML input, or any format convertible to an XQuery and XPath Data Model. The XSLT processor produces a new document based on the XML document and an XSLT stylesheet, making no changes to the original files in the process.&nbsp;[‡](#m-xslt) 🌍&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
 
 External
 : @@
