@@ -22,10 +22,12 @@ This book uses material from the following Wikipedia articles:
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
 * [Authorization](https://en.wikipedia.org/wiki/Authorization){#w-authorization}
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
+* [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
+* [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
-* @@
+* [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [](){} @@
 

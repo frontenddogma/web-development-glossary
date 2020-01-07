@@ -1,16 +1,16 @@
 # B
 
 Backend
-: The data access layer of software, usually covering business logic and data storage.
+: The data access layer of software, usually covering business logic and data storage. In the client–server model, the server is usually considered the backend.&nbsp;[†](#w-backend)
 
 Backlink
-: A link from one web resource to another web resource, made by an anchor, as viewed from the web resource being referred to.
+: A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
 Bad Neighborhood
-: Bad quality websites or websites that are being penalized and downgraded by search engines. In SEO, links to and from bad neighborhood websites are to be avoided.
+: Bad quality websites, or websites that are being penalized and downgraded by search engines. In SEO, links to and from bad neighborhood websites are therefore to be avoided.
 
 Bandwidth
-: The maximum rate of data transfer. Bandwidth may be further differentiated as network bandwidth, data bandwidth, or digital bandwidth.
+: The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
 
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
