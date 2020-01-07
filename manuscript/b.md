@@ -12,6 +12,8 @@ Bad Neighborhood
 Bandwidth
 : The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
 
+@@
+
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
