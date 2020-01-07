@@ -40,13 +40,12 @@ Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image
 
-@@
-
 Blink
-: A browser engine used in the Google Chrome web browser and similar projects.
+: A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
 Block
-: A short form for block box, block-level box, or block container box.
+: In CSS, a short form for block box, block-level box, or block container box.
+: In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block) 
 
 Block box
 : A block-level box that is also a block container.
@@ -76,7 +75,9 @@ BMP
 : → Bitmap
 
 BOM
-: → Byte order mark
+: → Byte Order Mark
+
+@@
 
 Bookmark
 : A URI, usually accompanied with a title, that is stored for later retrieval through a browser or app.
@@ -123,7 +124,7 @@ Buffer
 Bug
 : A defect or error in software that causes it to produce an incorrect, unexpected, or unintended result.
 
-Byte order mark
+Byte Order Mark
 : A special Unicode character (`U+FEFF BYTE ORDER MARK`) whose appearance at the start of a text stream can indicate byte order or Unicode encoding used.
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/b.md) and get listed as a glossary contributor!

@@ -28,6 +28,7 @@ This book uses material from the following Wikipedia articles:
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
+* [Blink (browser engine)](https://en.wikipedia.org/wiki/Blink_(browser_engine)){#w-blink}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
@@ -48,6 +49,7 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 This book uses material from the following articles by Mozilla contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
+* [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
