@@ -1,2 +1,1 @@
-The Web Development Glossary would not have been possible without help. I thank Ganesh Subramanian and 
-Yaroslav Kiyenko for legal counsel @@
+The Web Development Glossary would not have been possible without help. I thank Ganesh Subramanian and Yaroslav Kiyenko for legal counsel @@
