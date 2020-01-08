@@ -114,7 +114,7 @@ Compatibility
 Compatibility mode
 : @@
 
-Compile
+Compiling
 : @@
 
 Compiler

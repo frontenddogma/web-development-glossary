@@ -45,9 +45,6 @@ Scrum Values
 SEA
 : → Search Engine Advertising
 
-Search
-: @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
-
 Search Engine Advertising
 : @@
 
@@ -56,6 +53,9 @@ Search Engine Marketing
 
 Search Engine Optimization
 : @@
+
+Searching
+: @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
 Secure Sockets Layer
 : @@
@@ -234,8 +234,8 @@ Subversion
 Support
 : @@
 
-Surf
-: → Browse
+Surfing
+: → Browsing
 
 SVG
 : → Scalable Vector Graphics

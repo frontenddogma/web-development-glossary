@@ -1,16 +1,16 @@
 # F
 
-Favicon
-: @@
-
-Favorite
-: → Bookmark
-
 Fallback
 : @@
 
 Falsy
 : @@
+
+Favicon
+: @@
+
+Favorite
+: → Bookmark
 
 Feed
 : @@

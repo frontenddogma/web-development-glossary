@@ -77,37 +77,37 @@ BMP
 BOM
 : → Byte Order Mark
 
-@@
-
 Bookmark
-: A URI, usually accompanied with a title, that is stored for later retrieval through a browser or app.
+: A URI that is stored for later retrieval in any of various storage formats. All modern web browsers include bookmark features. Bookmarks are normally accessed through a menu in the user's web browser, and folders are commonly used for organization.&nbsp;[†](#w-bookmark) 
 
 Boolean
-: A data type that has one of two values intended to represent the two truth values of logic and Boolean algebra.
+: A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
 
 Bootstrap
 : A free and open source HTML/CSS framework. 🌍&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
-: The percentage of visitors who access a site or app and then leave instead of continue to view other pages.
+: A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
 
 Box model
-: The rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model; the boxes consist of content, padding, border, and margin areas.
+: A concept for the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model. The boxes consist of content, padding, border, and margin areas.
 
 Box model hack
-: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. Obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
+: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
 Breadcrumb
-: A location indicator, meaning a graphical element used for navigational aid.
+: A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
 
 Brotli
-: A general-purpose lossless compression algorithm that uses a combination of the LZ77 algorithm, Huffman coding, and second-order context modeling. 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
+: A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
-Browse
-: To look over casually. One of the two major ways of interacting with the Web, the other one being searching.
+Browsing
+: A kind of orienting strategy to identify something of relevance. One of the two major ways of interacting with the Web, the other one being searching.&nbsp;[†](#w-browsing)
 
 Browser
 : → User agent
+
+@@
 
 Browser engine
 : A key software component of every web browser whose main task it is to transform HTML documents and related resources into an interactive visual representation.

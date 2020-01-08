@@ -30,6 +30,12 @@ This book uses material from the following Wikipedia articles:
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
 * [Blink (browser engine)](https://en.wikipedia.org/wiki/Blink_(browser_engine)){#w-blink}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
+* [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
+* [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
+* [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
+* [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
+* [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
+* [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}

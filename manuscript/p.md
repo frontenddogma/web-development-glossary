@@ -21,7 +21,7 @@ Parallax scrolling
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
 
-Parse
+Parsing
 : @@
 
 Parser
