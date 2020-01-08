@@ -38,14 +38,21 @@ This book uses material from the following Wikipedia articles:
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
+* [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
+* [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
+* [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
+* [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
+* [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
@@ -61,6 +68,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
+* [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

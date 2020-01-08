@@ -1,25 +1,27 @@
 # C
 
 Cache
-: A cache stores data so that future requests for that data can be served faster. Caching refers to storing data in a cache.
+: A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
 Callback
-: Executable code that’s provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).
+: Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
 Canvas
-: A container that is used for drawing elements, like geometric shapes; in HTML usually referring to the `canvas` element.
+: A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
 
 Card sorting
 : A method that aids the design or evaluation of the information architecture of a website. Card sorting is usually performed with groups, with attendees organizing topics into categories or folksonomies.
 
 Caret
-: A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.
+: A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
 Cascading Style Sheets
-: A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification (recommendation) of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. 🌍&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
+: A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. 🌍&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
 
 Case
-: A selection mechanism to allow a variable to change the flow of a program.
+: In engineering, as _use_ case, a list of actions or event steps typically defining the interactions between a role (known in UML as an actor) and a system to achieve a goal. The actor can be a human or other external system. In systems engineering, use cases are used at a higher level than within software engineering, often representing missions or stakeholder goals.&nbsp;[†](#w-case-engineering)
+: In programming, a selection mechanism to allow a variable to change the flow of a program.&nbsp;[†](#w-case-programming)
+: In typography, as _letter_ case, the distinction between the letters that are in larger upper case (also uppercase, capital letters, capitals, caps, large letters, or more formally majuscule) and smaller lower case (also lowercase, small letters, or more formally minuscule) in the written representation of certain languages.&nbsp;[†](#w-case-typography)
 
 CD
 : → Corporate Design
@@ -30,7 +32,9 @@ CDN
 : → Content Delivery Network
 
 Certificate
-: In cryptography an electronic document that proves the ownership of a public key.
+: An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate) 
+
+@@
 
 Character
 : An encoded symbol that maps to a glyph.

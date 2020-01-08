@@ -18,10 +18,16 @@ Uglification
 UI
 : → User Interface
 
+UML
+: → Unified Modeling Language
+
 Undefined
 : @@
 
 Unicode
+: @@
+
+Unified Modeling Language
 : @@
 
 Uniform Resource Identifier
