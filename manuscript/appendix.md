@@ -35,7 +35,9 @@ This book uses material from the following Wikipedia articles:
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
+* [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
+* [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
@@ -43,6 +45,7 @@ This book uses material from the following Wikipedia articles:
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
@@ -56,6 +59,8 @@ This book uses material from the following articles by Mozilla contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
+* [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}
+* [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

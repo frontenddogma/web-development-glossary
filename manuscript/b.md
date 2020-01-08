@@ -78,7 +78,7 @@ BOM
 : → Byte Order Mark
 
 Bookmark
-: A URI that is stored for later retrieval in any of various storage formats. All modern web browsers include bookmark features. Bookmarks are normally accessed through a menu in the user's web browser, and folders are commonly used for organization.&nbsp;[†](#w-bookmark) 
+: A URI that is stored for later retrieval in any of various storage formats. All modern web browsers include bookmark features. Bookmarks are normally accessed through a menu in the user’s web browser, and folders are commonly used for organization.&nbsp;[†](#w-bookmark) 
 
 Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
@@ -101,30 +101,28 @@ Breadcrumb
 Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
-Browsing
-: A kind of orienting strategy to identify something of relevance. One of the two major ways of interacting with the Web, the other one being searching.&nbsp;[†](#w-browsing)
-
 Browser
 : → User agent
 
-@@
-
 Browser engine
-: A key software component of every web browser whose main task it is to transform HTML documents and related resources into an interactive visual representation.
+: A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user’s device. Besides “browser engine,” two other terms are in common use regarding related concepts: “layout engine” and “rendering engine.” In theory, layout and rendering (or “painting”) could be handled by separate engines. In practice, however, they are tightly coupled and rarely considered separately.&nbsp;[†](#w-browser-engine)
 
 Browser War
 : A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).
 
+Browsing
+: A kind of orienting strategy to identify something of relevance. One of the two major ways of interacting with the Web, the other one being searching.&nbsp;[†](#w-browsing)
+
 Browsing context
-: The context in which a browser displays a document, as with a tab, window, or frame. The browsing context includes sessions, history, navigation, and resource loading.
+: The environment in which a browser displays a document, as with a tab, window, or frame. Each browsing context has a specific origin, the origin of the active document, and a history that lists all the displayed documents in order. Communication between browsing contexts is severely restricted.&nbsp;[‡](#m-browsing-context)
 
 Buffer
-: A region of physical memory used to temporarily store data that’s being moved from one place to another.
+: A storage in physical memory used to temporarily store data while it is being transferred from one place to another.&nbsp;[‡](#m-buffer)
 
 Bug
-: A defect or error in software that causes it to produce an incorrect, unexpected, or unintended result.
+: A error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program’s source code or its design.&nbsp;[†](#w-bug)
 
 Byte Order Mark
-: A special Unicode character (`U+FEFF BYTE ORDER MARK`) whose appearance at the start of a text stream can indicate byte order or Unicode encoding used.
+: A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/b.md) and get listed as a glossary contributor!
