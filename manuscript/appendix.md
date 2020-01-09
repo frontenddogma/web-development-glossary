@@ -41,6 +41,8 @@ This book uses material from the following Wikipedia articles:
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
+* [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
+* [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
