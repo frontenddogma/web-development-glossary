@@ -108,7 +108,7 @@ Portable Network Graphics
 Post mortem
 : @@
 
-Postel's Law
+Postel’s Law
 : @@
 
 POUR

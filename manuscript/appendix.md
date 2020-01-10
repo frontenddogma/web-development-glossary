@@ -48,9 +48,17 @@ This book uses material from the following Wikipedia articles:
 * [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
 * [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
-* @@
+* [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
+* [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
+* [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
+* [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
+* [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
+* [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
+* [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
+* @@
+* [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
@@ -79,6 +87,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
 * [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
+* [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
+* [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

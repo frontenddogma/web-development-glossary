@@ -89,8 +89,6 @@ Coalescing
 : The merging of two adjacent free blocks of memory, which is relevant as when an application frees memory, gaps can fall in the memory segment that the application uses.&nbsp;[†](#w-coalescing)
 : A way to provide a default value if an operand is `null` or `undefined`. This so-called null or nullish coalescing allows a default value to be defined for cases where a more specific value is not available.&nbsp;[†](#w-coalescing-operator)
 
-@@
-
 Chaining
 : The calling of several methods after another on an object.
 
@@ -98,40 +96,43 @@ Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
 
 Code point
-: A numerical representation of a single character or formatting sign.
+: Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
 
 Code splitting
-: The splitting of code into small chunks that represent the code currently needed, usually by a web app.
+: The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
 Color blindness
-: A deficiency in seeing color meaning difficulty in differentiating between colors. 8% of men and 0.5% of women have some form of color blindness ([color-blindness.com](https://www.color-blindness.com/types-of-color-blindness/)). The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia. 
+: The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
 
 Command-Line Interface
 : An interface processing commands to a computer program in the form of lines of text. Operating systems implement command-line interfaces in a shell for interactive access to operating system functions or services.&nbsp;[†](#w-cli)
 
 Comment
-: @@
+: A developer-readable explanation or annotation in the source code of a computer program. Comments are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. The syntax of comments in various programming languages varies considerably.&nbsp;[†](#w-comment)
 
 Compatibility
-: @@
+: The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)
 
 Compatibility mode
-: @@
+: A software mechanism in which a software either emulates an older version of software, or mimics another operating system in order to allow older or incompatible software or files to remain compatible with the computer’s newer hardware or software. Examples of the software using the mode are operating systems and Internet Explorer.&nbsp;[†](#w-compatibility-mode)
 
 Compiling
-: @@
+: Translating computer code written in one programming language into another language.&nbsp;[†](#w-compiler)
 
 Compiler
-: @@
+: A computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g., assembly language, object code, or machine code) to create an executable program.&nbsp;[†](#w-compiler)
 
 Compression
-: @@
+: The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
+
+Concurrent Versioning System
+: → Concurrent Versions System
 
 Concurrent Versions System
-: @@
+: A free client-server revision control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) 🌍&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
 
 Conditional
-: @@
+: A set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. An instruction or a set of instructions is executed, if a specific condition is fulfilled. Otherwise, another instruction is executed. It is also possible to repeat the execution of an instruction, or set of instructions, while a condition is not yet fulfilled.&nbsp;[‡](#m-conditional)
 
 Conditional Comments
 : @@
