@@ -57,9 +57,26 @@ This book uses material from the following Wikipedia articles:
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
+* [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
+* [Console application](https://en.wikipedia.org/wiki/Console_application){#w-console}
+* [Constant (computer programming)](https://en.wikipedia.org/wiki/Constant_(computer_programming)){#w-constant}
+* [Constructor (object-oriented programming)](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)){#w-constructor}
+* [Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network){#w-cdn}
+* [Content management system](https://en.wikipedia.org/wiki/Content_management_system){#w-cms}
+* [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy){#w-csp}
+* [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery){#w-continuous-delivery}
+* [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment){#w-continuous-deployment}
+* [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
+* [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
+* [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
+* [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
+* [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
+* [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * @@
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
+* [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
+* [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
@@ -70,6 +87,7 @@ This book uses material from the following Wikipedia articles:
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
+* [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
@@ -89,6 +107,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
 * [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
+* [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
+* [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

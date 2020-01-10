@@ -111,6 +111,9 @@ Shadow tree
 Shadow DOM
 : @@
 
+Shell
+: @@
+
 Shim
 : @@
 
@@ -178,7 +181,7 @@ Specification
 : @@
 
 Spider
-: @@
+: → Crawler
 
 Splash screen
 : @@

@@ -25,7 +25,7 @@ Template
 : @@
 
 Terminal
-: @@
+: → Console
 
 Ternary operator
 : @@

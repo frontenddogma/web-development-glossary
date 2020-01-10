@@ -135,61 +135,64 @@ Conditional
 : A set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. An instruction or a set of instructions is executed, if a specific condition is fulfilled. Otherwise, another instruction is executed. It is also possible to repeat the execution of an instruction, or set of instructions, while a condition is not yet fulfilled.&nbsp;[‡](#m-conditional)
 
 Conditional Comments
-: @@
+: Conditional statements in HTML interpreted by Microsoft Internet Explorer 5–9. Conditional comments can be used to provide and hide code to and from Internet Explorer. Conditional comments are no longer supported in IE 10 and 11.&nbsp;[†](#w-conditional-comments)
 
 Console
-: @@
+: A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
 
 Constant
-: @@
+: A value that cannot be altered by the program during normal execution, i.e., the value is constant. When associated with an identifier, a constant is said to be "named," although the terms "constant" and "named constant" are often used interchangeably. This is contrasted with a variable.&nbsp;[†](#w-constant)
 
 Constructor
-: @@
+: A special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.&nbsp;[†](#w-constructor)
 
 Content Delivery Network
-: @@
+: A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating the performance bottlenecks of the Internet. They are a layer in the internet ecosystem.&nbsp;[†](#w-cdn)
 
 Content Management System
-: @@
+: A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps and programme code that display content and interact with the user.&nbsp;[†](#w-cms)
 
 Content Security Policy
-: @@
+: A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML5 features.&nbsp;[†](#w-csp) 🌍&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
 
 Continuous Delivery
-: @@
+: A software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, doing so manually. CD aims at building, testing, and releasing software with greater speed and frequency, and helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery.&nbsp;[†](#w-continuous-delivery)
 
 Continuous Deployment
-: @@
+: A software engineering approach in which software functionalities are delivered frequently through automated deployments.&nbsp;[†](#w-continuous-deployment)
 
 Continuous Integration
-: @@
+: The practice of merging all developers' working copies to a shared mainline (version control) several times a day.&nbsp;[†](#w-continuous-integration)
+
+Continuous Media
+: Data for which there is a timing relationship between source and destination. The most common examples of continuous media are audio and motion video. Continuous media can be real-time (interactive), where there is a "tight" timing relationship between source and sink, or streaming (playback), where the relationship is less strict.&nbsp;[‡](#m-continuous-media)
 
 Contrast
-: @@
+: The difference in appearance of two or more parts of a field seen simultaneously or successively (hence: brightness contrast, lightness contrast, color contrast, simultaneous contrast, successive contrast, etc.). Visual information is always contained in some kind of visual contrast, thus contrast is an essential performance (and accessibility) feature of electronic visual displays.&nbsp;[†](#w-contrast)
 
 Cookie
-: @@
+: A small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user's browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
 Corporate Design
-: @@
+: The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
 
 Corporate Identity
-: @@
+: The manner in which a corporation, firm, or business enterprise presents itself to the public. The corporate identity is typically visualized by branding and with the use of trademarks, but it can also include things like product design, advertising, public relations, etc. Corporate identity is a primary goal of corporate communications, in order to maintain and build the identity to accord with and facilitate the corporate business objectives.&nbsp;[†](#w-corporate-identity)
 
 CORS
 : → Cross-Origin Resource Sharing
 
 Crawler
-: @@
+: An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites' web content.&nbsp;[†](#w-crawler)
 
 CRM
 : → Customer Relationship Management
 
 Cross-Origin Resource Sharing
-: @@
+: A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain "cross-domain" requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
 
 Cross-Site Scripting
-: @@
+: A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss) 
 
 CSP
 : → Content Security Policy
@@ -198,7 +201,7 @@ CSS
 : → Cascading Style Sheets
 
 CSS Object Model
-: @@
+: A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
 
 CSSOM
 : → CSS Object Model
@@ -207,7 +210,7 @@ CTR
 : → Clickthrough Rate
 
 Customer Relationship Management
-: @@
+: An approach to manage a company's interaction with current and potential customers. It uses data analysis about customers' history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
 
 CVS
 : → Concurrent Versions System
