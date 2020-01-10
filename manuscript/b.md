@@ -1,7 +1,7 @@
 # B
 
 Backend
-: The data access layer of software, usually covering business logic and data storage. In the client–server model, the server is usually considered the backend.&nbsp;[†](#w-backend)
+: The data access layer of software, usually covering business logic and data storage. In the client-server model, the server is usually considered the backend.&nbsp;[†](#w-backend)
 
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)

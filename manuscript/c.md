@@ -67,7 +67,7 @@ CLI
 Click
 : A physical or emulated interaction with a pointing device.
 
-Clickthrough Rate
+Click-Through Rate
 : The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.&nbsp;[†](#w-ctr)
 
 Client
@@ -141,7 +141,7 @@ Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
 
 Constant
-: A value that cannot be altered by the program during normal execution, i.e., the value is constant. When associated with an identifier, a constant is said to be "named," although the terms "constant" and "named constant" are often used interchangeably. This is contrasted with a variable.&nbsp;[†](#w-constant)
+: A value that cannot be altered by the program during normal execution, i.e., the value is constant. When associated with an identifier, a constant is said to be “named,” although the terms “constant” and “named constant” are often used interchangeably. This is contrasted with a variable.&nbsp;[†](#w-constant)
 
 Constructor
 : A special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.&nbsp;[†](#w-constructor)
@@ -162,16 +162,16 @@ Continuous Deployment
 : A software engineering approach in which software functionalities are delivered frequently through automated deployments.&nbsp;[†](#w-continuous-deployment)
 
 Continuous Integration
-: The practice of merging all developers' working copies to a shared mainline (version control) several times a day.&nbsp;[†](#w-continuous-integration)
+: The practice of merging all developers’ working copies to a shared mainline (version control) several times a day.&nbsp;[†](#w-continuous-integration)
 
 Continuous Media
-: Data for which there is a timing relationship between source and destination. The most common examples of continuous media are audio and motion video. Continuous media can be real-time (interactive), where there is a "tight" timing relationship between source and sink, or streaming (playback), where the relationship is less strict.&nbsp;[‡](#m-continuous-media)
+: Data for which there is a timing relationship between source and destination. The most common examples of continuous media are audio and motion video. Continuous media can be real-time (interactive), where there is a “tight” timing relationship between source and sink, or streaming (playback), where the relationship is less strict.&nbsp;[‡](#m-continuous-media)
 
 Contrast
 : The difference in appearance of two or more parts of a field seen simultaneously or successively (hence: brightness contrast, lightness contrast, color contrast, simultaneous contrast, successive contrast, etc.). Visual information is always contained in some kind of visual contrast, thus contrast is an essential performance (and accessibility) feature of electronic visual displays.&nbsp;[†](#w-contrast)
 
 Cookie
-: A small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user's browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
+: A small piece of data sent from a website and stored on the user’s computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
@@ -183,13 +183,13 @@ CORS
 : → Cross-Origin Resource Sharing
 
 Crawler
-: An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites' web content.&nbsp;[†](#w-crawler)
+: An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)
 
 CRM
 : → Customer Relationship Management
 
 Cross-Origin Resource Sharing
-: A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain "cross-domain" requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
+: A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
 
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss) 
@@ -207,10 +207,10 @@ CSSOM
 : → CSS Object Model
 
 CTR
-: → Clickthrough Rate
+: → Click-Through Rate
 
 Customer Relationship Management
-: An approach to manage a company's interaction with current and potential customers. It uses data analysis about customers' history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
+: An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
 
 CVS
 : → Concurrent Versions System
