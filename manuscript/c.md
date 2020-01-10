@@ -73,23 +73,23 @@ Clickthrough Rate
 Client
 : A piece of computer hardware or software that accesses a service made available by a server. The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network.&nbsp;[†](#w-client)
 
-@@
-
 Client Hints
-: A mechanism to allow for proactive content negotiation. 
+: A set of HTTP request header fields for proactive content negotiation allowing clients to indicate a list of device and agent specific preferences. Client Hints enable automated delivery of optimized assets like the automatic negotiation of image DPR resolution.&nbsp;[‡](#m-client-hints) 
 
 Client side
-: Activities on the client as opposed to the server side in a client-server relationship. 
+: Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side) 
 
 Closure
-: A function bundled with references to its surrounding state (lexical environment), allowing access to an outer function’s scope from an inner function.
+: A technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those captured variables through the closure’s copies of their values or references, even when the function is invoked outside their scope.&nbsp;[†](#w-closure)
 
 CMS
 : → Content Management System
 
 Coalescing
-: The merging of two adjacent free blocks of memory.
-: A way to provide a default value if an operand is `null` or `undefined` (nullish coalescing). 
+: The merging of two adjacent free blocks of memory, which is relevant as when an application frees memory, gaps can fall in the memory segment that the application uses.&nbsp;[†](#w-coalescing)
+: A way to provide a default value if an operand is `null` or `undefined`. This so-called null or nullish coalescing allows a default value to be defined for cases where a more specific value is not available.&nbsp;[†](#w-coalescing-operator)
+
+@@
 
 Chaining
 : The calling of several methods after another on an object.

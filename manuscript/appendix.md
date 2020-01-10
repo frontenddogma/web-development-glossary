@@ -45,6 +45,9 @@ This book uses material from the following Wikipedia articles:
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
+* [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
+* [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
+* [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
@@ -52,8 +55,10 @@ This book uses material from the following Wikipedia articles:
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
+* [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
@@ -73,6 +78,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
 * [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
+* [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
