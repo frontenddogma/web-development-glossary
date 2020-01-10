@@ -1,7 +1,7 @@
 # D
 
 Daily Scrum
-: A daily → Scrum event of 15 minutes in which the → Development Team plans the next development day.
+: A daily Scrum event of 15 minutes in which the Development Team plans the next development day.
 
 Data
 : @@
@@ -28,7 +28,7 @@ Defect
 : @@
 
 Definition of Done
-: A → Scrum term that means a shared understanding of expectations that an → increment must meet in order to be ready to be released.
+: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be ready to be released.
 
 Demilitarized Zone
 : @@
@@ -55,7 +55,7 @@ Developer Experience
 : @@
 
 Development Team
-: A → Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable → increment of software.
+: A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software.
 
 Developer Tools
 : @@
