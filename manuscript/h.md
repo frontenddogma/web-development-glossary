@@ -9,6 +9,9 @@ HEIC
 HEIF
 : → High Efficiency Image File Format
 
+Hick’s Law
+: @@
+
 High Efficiency Image Coding
 : @@
 

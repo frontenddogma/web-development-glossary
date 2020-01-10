@@ -54,6 +54,9 @@ Link
 Liquid
 : @@
 
+Little’s Law
+: @@
+
 LOC
 : → Lines of Code
 

@@ -21,6 +21,12 @@ Parallax scrolling
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
 
+Pareto Principle
+: @@
+
+Parkinson’s Law
+: @@
+
 Parsing
 : @@
 
@@ -32,6 +38,9 @@ Pattern
 
 Pattern library
 : @@
+
+PBI
+: → Product Backlog Item
 
 PDF
 : → Portable Document Format
@@ -99,6 +108,9 @@ Portable Network Graphics
 Post mortem
 : @@
 
+Postel's Law
+: @@
+
 POUR
 : → Perceivable, Operable, Understandable, and Robust
 
@@ -121,10 +133,13 @@ Print style sheet
 : @@
 
 Product Backlog
-: In → Scrum, a prioritized list of work needed to be done to create and maintain a product. The Product Backlog is managed by a → Product Owner. 
+: In Scrum, a prioritized list of work needed to be done to create and maintain a product. The Product Backlog is managed by a Product Owner.
+
+Product Backlog Item
+: @@ 
 
 Product Owner
-: A → Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for respective product.
+: A Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for respective product.
 
 Progressive Enhancement
 : @@

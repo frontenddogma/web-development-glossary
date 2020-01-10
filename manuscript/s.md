@@ -12,6 +12,9 @@ Sass
 Scalable Vector Graphics
 : @@ 🌍&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
+Scaled Scrum
+: → Nexus
+
 SCM
 : → Source Control Management 
 
@@ -87,6 +90,12 @@ Server side
 Server-Side Rendering
 : @@
 
+Service Level Agreement
+: @@
+
+Service Level Expectation
+: @@
+
 Service worker
 : @@
 
@@ -113,6 +122,12 @@ Single-Page Application
 
 Site
 : → Website
+
+SLA
+: → Service Level Agreement
+
+SLE
+: → Service Level Expectation
 
 SLOC
 : → Source Lines of Code

@@ -30,6 +30,9 @@ Terminal
 Ternary operator
 : @@
 
+Tesler’s Law
+: @@
+
 Test
 : @@
 

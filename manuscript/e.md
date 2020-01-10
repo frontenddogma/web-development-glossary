@@ -3,6 +3,9 @@
 E-Mail
 : @@
 
+EBM
+: → Evidence-Based Management
+
 ECMA
 : → European Computer Manufacturers Association
 
@@ -59,6 +62,9 @@ European Computer Manufacturers Association
 : @@
 
 Event
+: @@
+
+Evidence-Based Management
 : @@
 
 Exception

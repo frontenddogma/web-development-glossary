@@ -18,6 +18,9 @@ React
 Read the Fucking Manual
 : @@
 
+Read–Eval–Print Loop
+: @@
+
 Real User Monitoring
 : @@
 
@@ -59,6 +62,9 @@ Repo
 
 Repository
 : @@
+
+REPL
+: → Read–Eval–Print Loop
 
 Replaced element
 : @@
@@ -110,6 +116,9 @@ Right-to-Left
 
 robots.txt
 : @@
+
+Robustness principle
+: → Postel's Law
 
 Roadmap
 : @@

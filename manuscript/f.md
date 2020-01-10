@@ -36,6 +36,9 @@ First meaningful paint
 First paint
 : @@
 
+Fitts’ Law
+: @@
+
 Fixed
 : @@
 

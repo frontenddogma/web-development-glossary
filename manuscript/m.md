@@ -42,6 +42,9 @@ Method
 Microformat
 : @@
 
+Miller’s Law
+: @@
+
 MIME
 : → Multipurpose Internet Mail Extensions
 
