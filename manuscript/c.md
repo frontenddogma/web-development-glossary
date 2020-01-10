@@ -64,16 +64,16 @@ Class
 CLI
 : → Command-Line Interface
 
-@@
-
 Click
 : A physical or emulated interaction with a pointing device.
 
 Clickthrough Rate
-: The ratio of how often users who see a page, email, or advertisement and click on a specific element in it.
+: The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.&nbsp;[†](#w-ctr)
 
 Client
-: Hardware or software that accesses a service provided by a server, which is usually remote but may also be local.
+: A piece of computer hardware or software that accesses a service made available by a server. The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network.&nbsp;[†](#w-client)
+
+@@
 
 Client Hints
 : A mechanism to allow for proactive content negotiation. 
@@ -201,6 +201,9 @@ CSS Object Model
 
 CSSOM
 : → CSS Object Model
+
+CTR
+: → Clickthrough Rate
 
 Customer Relationship Management
 : @@

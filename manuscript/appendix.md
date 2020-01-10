@@ -43,6 +43,8 @@ This book uses material from the following Wikipedia articles:
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
+* [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
+* [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
 * @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
