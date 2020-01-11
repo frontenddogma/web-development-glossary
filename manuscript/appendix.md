@@ -77,7 +77,11 @@ This book uses material from the following Wikipedia articles:
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Declaration block (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Declaration_block){#w-declaration}
+* [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
+* [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
+* [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
+* [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
@@ -89,6 +93,7 @@ This book uses material from the following Wikipedia articles:
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
+* [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}

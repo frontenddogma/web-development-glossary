@@ -25,25 +25,28 @@ Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plaintext.&nbsp;[†](#w-cryptography)
 
 Defect
-: @@
+: → Bug
 
 Definition of Done
-: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be ready to be released.
+: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. Mutually defined by the Development Teams of an organization’s Scrum teams.
 
 Demilitarized Zone
-: @@
+: A physical or logical subnetwork that contains and exposes an organization’s external-facing services to an untrusted network, usually a larger network such as the Internet. The purpose of a DMZ is to add an additional layer of security to an organization’s local area network (LAN): an external network node can access only what is exposed in the DMZ, while the rest of the organization’s network is firewalled.&nbsp;[†](#w-dmz) 
 
 Denial of Service
-: @@
+: A cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.&nbsp;[†](#w-dos)
 
 Deployment
-: @@
+: All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, “deployment” should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
 
 Deprecated
-: @@
+: → Deprecation
+
+Deprecation
+: The discouragement of use of some terminology, feature, design, or practice, typically because it has been superseded or is no longer considered efficient or safe, without completely removing it or prohibiting its use.&nbsp;[†](#w-deprecation)
 
 Design
-: @@
+: A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
 
 Design system
 : @@
