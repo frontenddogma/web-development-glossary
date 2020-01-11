@@ -243,6 +243,9 @@ String
 Structured Query Language
 : @@
 
+Style guide
+: @@. May be part of a design system.
+
 Styling
 : @@
 

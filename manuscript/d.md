@@ -48,35 +48,45 @@ Deprecation
 Design
 : A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
 
+Design language
+: → Design system
+
 Design system
-: @@
+: A structured collection of design particles, elements, patterns, and components, alongside documentation and guidelines as well as, occasionally, code and tools.
 
 Design strategy
-: A long-term, project-encompassing vision for design. 
+: The development and application of future-oriented design principles in order to increase an organization’s innovative and competitive qualities. Its foundations lie in the analysis of external and internal trends and data, which enables design decisions to be made on the basis of facts rather than aesthetics or intuition. Strategic design is regarded as an effective way to bridge innovation, research, management, and design.&nbsp;[†](#w-design-strategy)
+
+Design vocabulary
+: → Design system
 
 Developer Experience
-: @@
+: The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 
 Development Team
-: A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software.
+: A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
 Developer Tools
-: @@
+: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
+: A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). 🌍&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
 
 Device pixel
-: @@
+: The physical pixels of a device.
 
 DHTML
 : → Dynamic HTML
 
 Directionality
-: @@
+: The direction in which a text is written.
 
 Distributed Concurrent Versions System
-: @@
+: A distributed revision control system that enables software developers working on locally distributed sites to efficiently collaborate on a software project. DCVS is based on Concurrent Versions System.&nbsp;[†](#w-dcvs)
+
+Distributed Version Control System
+: A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up of most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups.&nbsp;[†](#w-dvcs)
 
 Dither
-: @@
+: An intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images. Dither is routinely used in processing of both digital audio and video data.&nbsp;[†](#w-dither)
 
 DMZ
 : → Demilitarized Zone
@@ -131,6 +141,9 @@ DRY
 
 DTD
 : → Document Type Definition
+
+DVCS
+: → Distributed Version Control System
 
 DX
 : → Developer Experience

@@ -81,6 +81,9 @@ This book uses material from the following Wikipedia articles:
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
+* [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
+* [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
+* [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
@@ -94,9 +97,11 @@ This book uses material from the following Wikipedia articles:
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
+* [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
+* [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}

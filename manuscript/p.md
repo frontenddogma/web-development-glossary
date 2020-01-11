@@ -37,7 +37,7 @@ Pattern
 : @@
 
 Pattern library
-: @@
+: @@. May be part of a design system.
 
 PBI
 : → Product Backlog Item
