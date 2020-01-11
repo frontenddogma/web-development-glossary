@@ -71,10 +71,14 @@ This book uses material from the following Wikipedia articles:
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
+* [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
-* @@
+* [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
+* [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
+* [Declaration block (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Declaration_block){#w-declaration}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
+* @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}

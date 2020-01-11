@@ -41,7 +41,7 @@ Encapsulation
 : @@
 
 Encryption
-: @@
+: The process of converting ordinary information (called plaintext) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
 
 Entity
 : @@

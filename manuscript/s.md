@@ -117,6 +117,9 @@ Shell
 Shim
 : @@
 
+Shorthand
+: @@
+
 Simple Object Access Protocol
 : @@
 
