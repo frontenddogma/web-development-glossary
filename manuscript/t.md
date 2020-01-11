@@ -42,6 +42,9 @@ Test-Driven Development
 Thread
 : @@
 
+Time box
+: @@
+
 Time to First Byte
 : @@
 
