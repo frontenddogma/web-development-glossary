@@ -85,6 +85,9 @@ This book uses material from the following Wikipedia articles:
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
+* [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model){#w-dom}
+* [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration){#w-doctype}
+* [Document type definition](https://en.wikipedia.org/wiki/Document_type_definition){#w-dtd}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
@@ -123,6 +126,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
+* [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

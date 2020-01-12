@@ -95,16 +95,19 @@ DNS
 : → Domain Name Service
 
 Doctype
-: @@
+: An instruction that associates a particular SGML (for example, a web page) with a document type definition (DTD) (for example, the formal definition of a particular version of HTML) or XML document. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks mode or standards mode. The `text/html` serialization of HTML, which is not SGML-based, uses the doctype only for mode selection. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they don’t use DTDs and will not access them even if a URL is provided. The doctype is retained in current HTML as a “mostly useless, but required“ header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
 
 Document directive
-: @@
+: A way to govern the properties of a document or worker environment to which a content security policy (CSP) applies. Document directives don’t fall back to the `default-src` directive.&nbsp;[‡](#m-document-directive)
 
 Document Object Model
-: @@
+: A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) 🌍&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
+
+Document type declaration
+: → Doctype
 
 Document Type Definition
-: @@
+: A set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference.&nbsp;[†](#w-dtd)
 
 Documentation
 : @@
