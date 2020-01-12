@@ -87,6 +87,9 @@ Website
 WebSocket
 : @@
 
+WET
+: The opposite of DRY.
+
 What You See Is What You Get
 : @@
 

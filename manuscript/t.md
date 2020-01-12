@@ -93,6 +93,9 @@ TTL
 Type
 : @@
 
+Type system
+: @@
+
 Typography
 : @@
 

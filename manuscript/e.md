@@ -1,8 +1,5 @@
 # E
 
-E-Mail
-: @@
-
 EBM
 : → Evidence-Based Management
 
@@ -29,6 +26,9 @@ Em
 : @@
 
 Emacs
+: @@
+
+Email
 : @@
 
 Empiricism

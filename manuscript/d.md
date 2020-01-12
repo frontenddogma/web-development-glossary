@@ -110,34 +110,34 @@ Document Type Definition
 : A set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference.&nbsp;[†](#w-dtd)
 
 Documentation
-: @@
+: A set of documents provided on paper, or online, or on digital or analog media. Examples are user guides, white papers, on-line help, quick-reference guides. Paper or hard-copy documentation has become less common.&nbsp;[†](#w-documentation)
 
 DOM
 : → Document Object Model
 
 Domain
-: @@
+: An administrative grouping of multiple private computer networks or hosts within the same infrastructure. Domains can be identified using a domain name; domains which need to be accessible from the public Internet can be assigned a globally unique name within the Domain Name System (DNS).&nbsp;[†](#w-domain)
 
-Domain Name
-: @@
+Domain name
+: An identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site, or the web site itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
 
 Domain Name Service
-: @@
+: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
 
 Domain sharding
-: @@
+: The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
 
 Don’t Repeat Yourself
-: @@
+: A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
 
 DoS
 : → Denial of Service
 
 Downtime
-: @@
+: A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a timespan that a system is unavailable or offline. The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
 
 Dreamweaver
-: @@
+: A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe Systems in 2005.&nbsp;[†](#w-dreamweaver)
 
 DRY
 : → Don’t Repeat Yourself
@@ -152,12 +152,12 @@ DX
 : → Developer Experience
 
 Dynamic
-: @@
+: A type of website being dynamic on the server or on the client side: A _server-side_ dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A _client-side_ dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
 
 Dynamic HTML
-: @@
+: A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)
 
 Dynamic typing
-: @@
+: An interpreter’s assigning at runtime of a type to a variable, based on the variable's value at the time.&nbsp;[‡](#m-dynamic-typing)
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/d.md) and get listed as a glossary contributor!

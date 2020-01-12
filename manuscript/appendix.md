@@ -7,6 +7,7 @@ This book uses material from the following Wikipedia articles:
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
+* [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
@@ -88,10 +89,18 @@ This book uses material from the following Wikipedia articles:
 * [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model){#w-dom}
 * [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration){#w-doctype}
 * [Document type definition](https://en.wikipedia.org/wiki/Document_type_definition){#w-dtd}
+* [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
+* [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
+* [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
+* [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
+* [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
+* [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
+* [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
@@ -127,6 +136,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
+* [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
+* [Dynamic typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing){#m-dynamic-typing}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
