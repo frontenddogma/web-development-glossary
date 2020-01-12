@@ -92,7 +92,7 @@ This book uses material from the following Wikipedia articles:
 * [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
-* [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
+* [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
