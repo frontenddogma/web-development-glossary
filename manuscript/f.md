@@ -102,6 +102,9 @@ FOUC
 FOUT
 : → Flash of Unstyled Text
 
+Fragment identifier
+: @@
+
 Frame
 : @@
 

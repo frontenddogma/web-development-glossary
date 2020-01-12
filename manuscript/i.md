@@ -16,6 +16,15 @@ IAB
 ICANN
 : → Internet Corporation for Assigned Names and Numbers
 
+Icon
+: @@
+
+Icon font
+: @@
+
+Icon system
+: @@
+
 ID
 : → Identifier
 
