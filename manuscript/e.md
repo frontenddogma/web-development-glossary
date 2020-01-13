@@ -25,17 +25,16 @@ Efficiency
 : The (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result. In a more general sense, it is the ability to do things well, successfully, and without waste. In more mathematical or scientific terms, it is a measure of the extent to which input is well used for an intended task or function (output). It often specifically comprises the capability of a specific application of effort to produce a specific outcome with a minimum amount or quantity of waste, expense, or unnecessary effort. Not to be confused with effectiveness.&nbsp;[†](#w-efficiency)
 
 Element
-: @@
-: @@
+: In HTML, a part of an HTML (Hypertext Markup Language) document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, or meaning.&nbsp;[†](#w-element)
 
 Em
-: @@
+: A typographic unit equal to the currently specified point size. For example, one em in a 16-point typeface is 16 points. Therefore, this unit is the same for all typefaces at a given point size. In CSS, the `em` unit is the height of the font in nominal points or inches.&nbsp;[†](#w-em)
 
 Emacs
-: @@
+: A family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as “the extensible, customizable, self-documenting, real-time display editor.” Development of the first Emacs began in the mid-1970s, and work on its direct descendant, GNU Emacs, continues actively as of 2019.&nbsp;[†](#w-emacs) 🌍&nbsp;[gnu.org/software/emacs](https://www.gnu.org/software/emacs/)
 
 Email
-: @@
+: A method of exchanging messages (“mail”) between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today’s email systems are based on a store-and-forward model.&nbsp;[†](#w-email)
 
 Empiricism
 : A model in which only the past is accepted as certain and in which decisions are based on observation, experience, and experimentation. Empiricism is based on the concepts of transparency, inspection, and adaptation.
@@ -48,6 +47,9 @@ Encapsulation
 
 Encryption
 : The process of converting ordinary information (called plaintext) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
+
+End tag
+: @@
 
 End-to-end testing
 : @@

@@ -105,8 +105,12 @@ This book uses material from the following Wikipedia articles:
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
 * [Efficiency](https://en.wikipedia.org/wiki/Efficiency){#w-efficiency}
+* [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
+* [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
+* [Email](https://en.wikipedia.org/wiki/Email){#w-email}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
+* [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
