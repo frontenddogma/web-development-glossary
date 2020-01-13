@@ -1,5 +1,8 @@
 # E
 
+E2E
+: → End-to-end (testing)
+
 EBM
 : → Evidence-Based Management
 
@@ -45,6 +48,9 @@ Encapsulation
 
 Encryption
 : The process of converting ordinary information (called plaintext) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
+
+End-to-end testing
+: @@
 
 Entity
 : @@
