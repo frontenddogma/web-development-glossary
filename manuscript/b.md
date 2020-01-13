@@ -27,6 +27,9 @@ Best practice
 Bézier curve
 : A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points (if any) generally do not lie on the curve. Named after Pierre Bézier (1910–1999).&nbsp;[†](#w-bezier-curve)
 
+BHO
+: → Browser Helper Object
+
 Bidirectional
 : Text that contains both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which generally involves text containing different types of alphabets.&nbsp;[†](#w-bidirectional)
 
@@ -102,10 +105,13 @@ Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
 Browser
-: → User agent
+: A software application for accessing information on the World Wide Web. When a user requests a particular website, the web browser retrieves the necessary content from a web server and displays the resulting web page on the user's device. As of March 2019, more than 4.3 billion people use a browser, which is about 55% of the world's population. The three most popular browsers are Chrome, Firefox, and Safari.&nbsp;[†](#w-browser)
 
 Browser engine
 : A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user’s device. Besides “browser engine,” two other terms are in common use regarding related concepts: “layout engine” and “rendering engine.” In theory, layout and rendering (or “painting”) could be handled by separate engines. In practice, however, they are tightly coupled and rarely considered separately.&nbsp;[†](#w-browser-engine)
+
+Browser Helper Object
+: A DLL module designed as a plugin for Microsoft's Internet Explorer web browser to provide added functionality. BHOs were introduced in October 1997 with the release of version 4 of Internet Explorer. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)
 
 Browser War
 : A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).

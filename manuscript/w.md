@@ -22,7 +22,7 @@ Web Accessibility Initiative
 : @@ 🌍&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
 Web browser
-: → User agent
+: → Browser
 
 Web content
 : @@

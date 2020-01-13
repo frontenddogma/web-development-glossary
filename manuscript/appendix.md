@@ -37,6 +37,7 @@ This book uses material from the following Wikipedia articles:
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
+* [Browser Helper Object](https://en.wikipedia.org/wiki/Browser_Helper_Object){#w-bho}
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
@@ -96,10 +97,12 @@ This book uses material from the following Wikipedia articles:
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
+* [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
@@ -112,6 +115,7 @@ This book uses material from the following Wikipedia articles:
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
+* [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
