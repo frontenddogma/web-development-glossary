@@ -19,7 +19,7 @@ BDD
 : → Behavior-Driven Development
 
 Behavior-Driven Development
-: @@
+: An Agile software development process that encourages collaboration among developers, QA, and non-technical or business participants in a software project. BDD encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. It emerged from Test-Driven Development (TDD). BDD combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.&nbsp;[†](#w-bdd)
 
 Below the fold
 : The part of a web page that is visible only after scrolling.
@@ -105,7 +105,7 @@ Box model hack
 : A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
 Boyscout Rule
-: @@
+: The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)

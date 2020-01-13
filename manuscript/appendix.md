@@ -19,6 +19,7 @@ This book uses material from the following Wikipedia articles:
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
+* [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
 * [Attribute (computing)](https://en.wikipedia.org/wiki/Attribute_(computing)){#w-attribute}
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
@@ -26,6 +27,7 @@ This book uses material from the following Wikipedia articles:
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
+* [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
@@ -56,6 +58,7 @@ This book uses material from the following Wikipedia articles:
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
+* [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
@@ -79,9 +82,11 @@ This book uses material from the following Wikipedia articles:
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Declaration block (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Declaration_block){#w-declaration}
+* [Definition and characteristics of components (Component-based software engineering)](https://en.wikipedia.org/wiki/Component-based_software_engineering#Software_component){#w-component}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
+* [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
@@ -98,6 +103,8 @@ This book uses material from the following Wikipedia articles:
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
+* [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
+* [Efficiency](https://en.wikipedia.org/wiki/Efficiency){#w-efficiency}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
@@ -112,6 +119,7 @@ This book uses material from the following Wikipedia articles:
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
+* [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}

@@ -148,7 +148,7 @@ Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
 
 Association for Computing Machinery
-: @@ 🌍&nbsp;[acm.org](https://www.acm.org/)
+: An international learned society for computing. The ACM was founded in 1947, and is the world's largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) 🌍&nbsp;[acm.org](https://www.acm.org/)
 
 Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
@@ -166,7 +166,7 @@ Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Atomic CSS
-: @@
+: A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” 🌍&nbsp;[acss.io](https://acss.io/)
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)

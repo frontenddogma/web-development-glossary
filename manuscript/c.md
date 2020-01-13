@@ -23,6 +23,12 @@ Case
 : In programming, a selection mechanism to allow a variable to change the flow of a program.&nbsp;[†](#w-case-programming)
 : In typography, as _letter_ case, the distinction between the letters that are in larger upper case (also uppercase, capital letters, capitals, caps, large letters, or more formally majuscule) and smaller lower case (also lowercase, small letters, or more formally minuscule) in the written representation of certain languages.&nbsp;[†](#w-case-typography)
 
+CBD:
+: → Component-Based Development
+
+CBSE
+: → Component-Based Software Engineering
+
 CD
 : → Corporate Design
 : → Continuous Delivery
@@ -123,7 +129,13 @@ Compiler
 : A computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g., assembly language, object code, or machine code) to create an executable program.&nbsp;[†](#w-compiler)
 
 Component
-: @@
+: A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-component)
+
+Component-Based Development
+: → Component-Based Software Engineering
+
+Component-Based Software Engineering
+: A branch of software engineering that emphasizes the separation of concerns with respect to the wide-ranging functionality available throughout a given software system. It is a reuse-based approach to defining, implementing and composing loosely coupled independent components into systems.&nbsp;[†](#w-cbse)
 
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
