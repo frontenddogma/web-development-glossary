@@ -18,7 +18,7 @@ React
 Read the Fucking Manual
 : @@
 
-Read–Eval–Print Loop
+Read-Eval-Print Loop
 : @@
 
 Real User Monitoring
@@ -67,7 +67,7 @@ Repository
 : @@
 
 REPL
-: → Read–Eval–Print Loop
+: → Read-Eval-Print Loop
 
 Replaced element
 : @@
