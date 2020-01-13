@@ -45,6 +45,9 @@ Unit test
 UNIX
 : @@
 
+UPA
+: → Usability Professionals Association
+
 URI
 : → Uniform Resource Identifier
 
@@ -55,6 +58,12 @@ URN
 : → Uniform Resource Name
 
 Usability
+: @@
+
+Usability Professionals Association
+: @@
+
+Usability testing
 : @@
 
 Usenet
@@ -84,6 +93,9 @@ User Experience
 User Interface
 : @@
 
+User testing
+: → Usability testing
+
 UTF-8
 : @@
 
@@ -91,6 +103,9 @@ UTF-16
 : @@
 
 UTF-32
+: @@
+
+Utility
 : @@
 
 UX

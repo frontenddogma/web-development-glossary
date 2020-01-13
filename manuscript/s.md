@@ -9,6 +9,9 @@ Same origin
 Sass
 : @@
 
+Scalable and Modular Architecture for CSS
+: @@ 🌍&nbsp;[smacss.com](http://smacss.com/)
+
 Scalable Vector Graphics
 : @@ 🌍&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
@@ -141,6 +144,9 @@ SLOC
 Slug
 : @@
 
+SMACSS
+: → Scalable and Modular Architecture for CSS
+
 Smashing Magazine
 : @@
 
@@ -237,6 +243,9 @@ Static Site Generator
 Status code
 : @@
 
+Stream
+: @@
+
 String
 : @@
 
@@ -253,6 +262,9 @@ Subroutine
 : @@
 
 Subversion
+: @@
+
+SUIT CSS
 : @@
 
 Support

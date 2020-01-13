@@ -73,6 +73,9 @@ Developer Tools
 Device pixel
 : The physical pixels of a device.
 
+DevOps
+: @@
+
 DHTML
 : → Dynamic HTML
 

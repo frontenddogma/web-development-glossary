@@ -12,10 +12,19 @@ Object-Oriented CSS
 Object-Oriented Programming
 : @@
 
+Objectives and Key Results
+: @@
+
 Offline
 : @@
 
 Offline First
+: @@
+
+OKR
+: → Objectives and Key Results
+
+One-Time Password
 : @@
 
 OOCSS
@@ -59,6 +68,9 @@ OS
 
 OTA
 : → Over the Air
+
+OTP
+: → One-Time Password
 
 Over the Air
 : @@

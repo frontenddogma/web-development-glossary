@@ -66,6 +66,9 @@ Web Standards Project
 Web typography
 : @@
 
+WebAuthn
+: @@
+
 WebGL
 : → Web Graphics Library
 

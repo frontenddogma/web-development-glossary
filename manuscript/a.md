@@ -15,6 +15,9 @@ Abstract Data Type
 Abstraction
 : A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstraction hides the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
 
+ACM
+: → Association for Computing Machinery
+
 ACT
 : → Accessibility Conformance Testing
 
@@ -144,6 +147,9 @@ Aspect ratio
 Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
 
+Association for Computing Machinery
+: @@ 🌍&nbsp;[acm.org](https://www.acm.org/)
+
 Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
 
@@ -158,6 +164,9 @@ ATAG
 
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
+
+Atomic CSS
+: @@
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)

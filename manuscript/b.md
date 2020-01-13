@@ -15,6 +15,12 @@ Bandwidth
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
+BDD
+: → Behavior-Driven Development
+
+Behavior-Driven Development
+: @@
+
 Below the fold
 : The part of a web page that is visible only after scrolling.
 
@@ -97,6 +103,9 @@ Box model
 
 Box model hack
 : A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
+
+Boyscout Rule
+: @@
 
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)

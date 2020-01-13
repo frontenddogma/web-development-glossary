@@ -13,6 +13,9 @@ IAB
 : → In-App Browser
 : → Interactive Advertising Bureau
 
+IaC
+: → Infrastructure as Code
+
 ICANN
 : → Internet Corporation for Assigned Names and Numbers
 
@@ -76,6 +79,9 @@ Information Security
 Infosec
 : → Information Security
 
+Infrastructure as Code
+: @@
+
 Inheritance
 : @@
 
@@ -101,6 +107,9 @@ Intellectual Property
 : @@
 
 Interaction Design
+: @@
+
+Interaction Design Association
 : @@
 
 Interactive Advertising Bureau
@@ -148,6 +157,9 @@ Internet Service Provider
 Interoperability
 : @@
 
+Inverted Triangle CSS
+: @@
+
 IP
 : → Intellectual Property
 : → Internet Protocol
@@ -176,7 +188,13 @@ ISO
 ISP
 : → Internet Service Provider
 
+ITCSS
+: → Inverted Triangle CSS
+
 IxD
 : → Interaction Design
+
+IxDA
+: → Interaction Design Association
 
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/i.md) and get listed as a glossary contributor!
