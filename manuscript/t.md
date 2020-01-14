@@ -1,5 +1,11 @@
 # T
 
+Tab
+: @@
+
+Tab icon
+: → Favicon
+
 Tachyons
 : @@
 
@@ -104,6 +110,9 @@ TTL
 : → Time to Live
 
 Type
+: @@
+
+Type conversion
 : @@
 
 Type system

@@ -63,6 +63,9 @@ Search Engine Optimization
 Searching
 : @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
+Secure Shell
+: @@
+
 Secure Sockets Layer
 : @@
 
@@ -102,6 +105,9 @@ Service Level Expectation
 Service worker
 : @@
 
+SFTP
+: → SSH File Transfer Protocol
+
 Sitemap
 : @@
 
@@ -119,6 +125,9 @@ Shell
 
 Shim
 : @@
+
+Shortcut icon
+: → Favicon
 
 Shorthand
 : @@
@@ -205,6 +214,12 @@ SQL
 : → Structured Query Language
 
 SQL injection
+: @@
+
+SSH
+: → Secure Shell
+
+SSH File Transfer Protocol
 : @@
 
 SSL

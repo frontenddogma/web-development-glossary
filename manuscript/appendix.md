@@ -115,6 +115,9 @@ This book uses material from the following Wikipedia articles:
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
+* [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
+* [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
+* [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -139,6 +142,7 @@ This book uses material from the following Wikipedia articles:
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
+* [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
 * [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
@@ -168,6 +172,9 @@ This book uses material from the following articles by Mozilla contributors:
 * [Dynamic typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing){#m-dynamic-typing}
 * [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}
 * [Exception](https://developer.mozilla.org/en-US/docs/Glossary/Exception){#m-exception}
+* [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy){#m-falsy}
+* [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
+* [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

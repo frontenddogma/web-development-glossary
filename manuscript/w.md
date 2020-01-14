@@ -36,6 +36,9 @@ Web design
 Web development
 : @@
 
+Web feed
+: → Feed
+
 Web font
 : @@
 

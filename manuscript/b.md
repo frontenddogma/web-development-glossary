@@ -87,7 +87,10 @@ BOM
 : → Byte Order Mark
 
 Bookmark
-: A URI that is stored for later retrieval in any of various storage formats. All modern web browsers include bookmark features. Bookmarks are normally accessed through a menu in the user’s web browser, and folders are commonly used for organization.&nbsp;[†](#w-bookmark) 
+: A URI that is stored for later retrieval in any of various storage formats. All modern web browsers include bookmark features. Bookmarks are normally accessed through a menu in the user’s web browser, and folders are commonly used for organization.&nbsp;[†](#w-bookmark)
+
+Bookmark icon
+: → Favicon
 
 Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
