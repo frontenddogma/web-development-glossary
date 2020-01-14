@@ -19,7 +19,7 @@ Scaled Scrum
 : → Nexus
 
 SCM
-: → Source Control Management 
+: → Source Control Management
 
 Scope
 : @@
@@ -40,7 +40,7 @@ Scrum
 : @@
 
 Scrum Master
-: A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum. 
+: A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum.
 
 Scrum Team
 : @@

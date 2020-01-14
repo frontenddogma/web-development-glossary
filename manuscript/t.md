@@ -104,7 +104,7 @@ Trust on First Use
 : @@
 
 TTFB
-: → Time to First Byte 
+: → Time to First Byte
 
 TTL
 : → Time to Live

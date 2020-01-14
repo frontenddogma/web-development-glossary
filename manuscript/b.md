@@ -54,7 +54,7 @@ Blink
 
 Block
 : In CSS, a short form for block box, block-level box, or block container box.
-: In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block) 
+: In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block)
 
 Block box
 : A block-level box that is also a block container.

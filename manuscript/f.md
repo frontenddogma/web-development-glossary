@@ -7,7 +7,7 @@ Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops.&nbsp;[‡](#m-falsy)
 
 Favicon
-: A file containing one or more small icons, associated with a particular website or web page. Browsers that provide favicon support typically display a page's favicon in the browser's address bar (sometimes in the history as well) and next to the page's name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page's favicon next to the page's title on the tab, and site-specific browsers use the favicon as a desktop icon.&nbsp;[†](#w-favicon)
+: A file containing one or more small icons, associated with a particular website or web page. Browsers that provide favicon support typically display a page’s favicon in the browser’s address bar (sometimes in the history as well) and next to the page’s name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page’s favicon next to the page’s title on the tab, and site-specific browsers use the favicon as a desktop icon.&nbsp;[†](#w-favicon)
 
 Favorite
 : → Bookmark
@@ -28,7 +28,7 @@ Firefox
 : A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. 🌍&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
 
 First Contentful Paint
-: The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading. The question "Is it happening?" is "yes" when the first contentful paint completes.&nbsp;[‡](#m-fcp)
+: The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading. The question “Is it happening?” is “yes” when the first contentful paint completes.&nbsp;[‡](#m-fcp)
 
 First CPU Idle
 : The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all of visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
