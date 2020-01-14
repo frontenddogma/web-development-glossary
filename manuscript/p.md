@@ -184,4 +184,4 @@ PWA
 Python
 : @@
 
-T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/p.md) and get listed as a glossary contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/p.md) and become a glossary&nbsp;contributor!

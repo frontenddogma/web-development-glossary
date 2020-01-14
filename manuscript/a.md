@@ -189,4 +189,4 @@ Automatic Semicolon Insertion
 Automation
 : A technology by which a process or procedure is performed with minimal human assistance. Automation or automatic control is the use of various control systems for operating equipment.&nbsp;[†](#w-automation)
 
-T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/a.md) and get listed as a glossary contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/a.md) and become a glossary&nbsp;contributor!

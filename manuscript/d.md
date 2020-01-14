@@ -169,4 +169,4 @@ Dynamic HTML
 Dynamic typing
 : An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time.&nbsp;[‡](#m-dynamic-typing)
 
-T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/d.md) and get listed as a glossary contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/d.md) and become a glossary&nbsp;contributor!

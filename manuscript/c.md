@@ -240,4 +240,4 @@ CVS
 Cycle Time
 : The amount of time between the start of work on a task to the time it’s delivered.
 
-T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/c.md) and get listed as a glossary contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/c.md) and become a glossary&nbsp;contributor!
