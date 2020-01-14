@@ -4,7 +4,7 @@ Tachyons
 : @@
 
 Tag
-: @@
+: @@ Not to be confused with an element.
 
 Tag Management System
 : @@
