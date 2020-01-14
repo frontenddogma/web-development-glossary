@@ -9,6 +9,9 @@ Page
 Page prediction
 : @@
 
+Page Quality
+: @@
+
 Page view
 : @@
 
@@ -113,6 +116,9 @@ Postel’s Law
 
 POUR
 : → Perceivable, Operable, Understandable, and Robust
+
+PQ
+: → Page Quality
 
 Prefetch
 : @@
