@@ -79,6 +79,9 @@ DevOps
 DHTML
 : → Dynamic HTML
 
+Digital Rights Management
+: @@
+
 Directionality
 : The direction in which a text is written.
 
@@ -141,6 +144,9 @@ Downtime
 
 Dreamweaver
 : A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe Systems in 2005.&nbsp;[†](#w-dreamweaver)
+
+DRM
+: → Digital Rights Management
 
 DRY
 : → Don’t Repeat Yourself

@@ -36,6 +36,9 @@ Emacs
 Email
 : A method of exchanging messages (“mail”) between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today’s email systems are based on a store-and-forward model.&nbsp;[†](#w-email)
 
+EME
+: → Encrypted Media Extensions
+
 Empiricism
 : A model in which only the past is accepted as certain and in which decisions are based on observation, experience, and experimentation. Empiricism is based on the concepts of transparency, inspection, and adaptation.
 
@@ -43,6 +46,9 @@ Empty element
 : @@
 
 Encapsulation
+: @@
+
+Encrypted Media Extensions
 : @@
 
 Encryption
