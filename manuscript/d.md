@@ -63,12 +63,12 @@ Design vocabulary
 Developer Experience
 : The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 
-Development Team
-: A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
-
 Developer Tools
 : Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
 : A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). 🌍&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
+
+Development Team
+: A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
 Device pixel
 : The physical pixels of a device.
