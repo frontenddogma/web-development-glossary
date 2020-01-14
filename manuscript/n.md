@@ -70,4 +70,7 @@ Null
 Number
 : @@
 
+Numeric character reference
+: A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
+
 T> Is something important missing, or did you find a mistake? Please [share your ideas](https://github.com/j9t/web-development-glossary/blob/master/manuscript/n.md) and get listed as a glossary contributor!

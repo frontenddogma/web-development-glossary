@@ -46,6 +46,13 @@ Character
 Character encoding
 : A mapping of code points to characters, like UTF-8.
 
+Character entity reference
+: A character reference that refers to a character by the name of an entity which has the desired character as its replacement text. The entity must either be predefined (built into the markup language) or explicitly declared in a Document Type Definition (DTD). The format is the same as for any entity reference: `&name;`, where “name” is the case-sensitive name of the entity.&nbsp;[†](#w-character-reference)
+
+Character reference
+: → Character entity reference
+: → Numeric character reference
+
 Character set
 : → Character encoding
 

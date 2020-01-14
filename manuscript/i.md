@@ -116,7 +116,7 @@ Interactive Advertising Bureau
 : @@
 
 Internal
-: @@
+: Not developed outside of one’s organization.
 
 International Organization for Standardization
 : @@ 🌍&nbsp;[iso.org](https://www.iso.org/)

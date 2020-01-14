@@ -87,6 +87,7 @@ This book uses material from the following Wikipedia articles:
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
+* [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
@@ -102,17 +103,24 @@ This book uses material from the following Wikipedia articles:
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
+* [Ecma International](https://en.wikipedia.org/wiki/Ecma_International){#w-ecma-international}
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
 * [Efficiency](https://en.wikipedia.org/wiki/Efficiency){#w-efficiency}
 * [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
+* [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
+* [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
+* [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
+* [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
+* [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
@@ -121,6 +129,7 @@ This book uses material from the following Wikipedia articles:
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
+* [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
@@ -130,6 +139,9 @@ This book uses material from the following Wikipedia articles:
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
+* [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
+* [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
+* [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
@@ -154,6 +166,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
 * [Dynamic typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing){#m-dynamic-typing}
+* [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}
+* [Exception](https://developer.mozilla.org/en-US/docs/Glossary/Exception){#m-exception}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

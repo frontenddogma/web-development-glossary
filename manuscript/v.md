@@ -48,6 +48,9 @@ Visual formatting model
 Visual Studio Code
 : @@
 
+Void element
+: An element from HTML, SVG, or MathML that cannot have any child nodes (i.e., nested elements or text nodes). For HTML, the void elements are `<area>`, `<base>`, `<br>`, `<col>`, `<embed>`, `<hr>`, `<img>`, `<input>`, `<link>`, `<meta>`, `<param>`, `<source>`, `<track>`, and `<wbr>`.&nbsp;[‡](#m-void-element)
+
 VS Code
 : → Visual Studio Code
 

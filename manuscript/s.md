@@ -232,7 +232,7 @@ Star hack
 : @@
 
 Start tag
-: @@
+: The opening tag of an HTML or another markup language’s element, like `<form>`, a form’s start tag. Not to be confused with an element (like a `div` element) or an attribute (like an `alt` attribute and its value).
 
 State
 : @@

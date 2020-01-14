@@ -138,6 +138,9 @@ Principal box
 Print style sheet
 : @@
 
+Privacy
+: @@
+
 Product Backlog
 : In Scrum, a prioritized list of work needed to be done to create and maintain a product. The Product Backlog is managed by a Product Owner.
 

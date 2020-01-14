@@ -21,6 +21,9 @@ TDD
 Technical Debt
 : @@
 
+Technological Protection Measures
+: → Digital Rights Management
+
 Telnet
 : @@
 
@@ -40,6 +43,9 @@ Test
 : @@
 
 Test-Driven Development
+: @@
+
+Third party
 : @@
 
 Thread
@@ -71,6 +77,10 @@ TOFU
 
 Top-Level Domain
 : @@
+
+TPM
+: @@
+: → Technological Protection Measures
 
 Tracer
 : @@
