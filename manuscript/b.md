@@ -15,6 +15,9 @@ Bandwidth
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
+Bash
+: @@
+
 BDD
 : → Behavior-Driven Development
 
@@ -100,6 +103,9 @@ Bootstrap
 
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
+
+Bourne shell
+: @@
 
 Box model
 : A concept for the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model. The boxes consist of content, padding, border, and margin areas.
