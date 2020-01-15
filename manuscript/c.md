@@ -154,7 +154,7 @@ Concurrent Versioning System
 : → Concurrent Versions System
 
 Concurrent Versions System
-: A free client-server revision control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) 🌍&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
+: A client-server revision control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) 🌍&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
 
 Conditional
 : A set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. An instruction or a set of instructions is executed, if a specific condition is fulfilled. Otherwise, another instruction is executed. It is also possible to repeat the execution of an instruction, or set of instructions, while a condition is not yet fulfilled.&nbsp;[‡](#m-conditional)

@@ -99,7 +99,7 @@ Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
 
 Bootstrap
-: A free and open source HTML/CSS framework. 🌍&nbsp;[getbootstrap.com](https://getbootstrap.com/)
+: A HTML/CSS framework. 🌍&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)

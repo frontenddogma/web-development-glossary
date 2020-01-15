@@ -52,7 +52,7 @@ ADT
 : → Abstract Data Type
 
 Advanced Package Tool
-: A free software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages.&nbsp;[†](#w-apt)
+: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages.&nbsp;[†](#w-apt)
 
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
@@ -103,7 +103,7 @@ Apache
 : → Apache HTTP Server
 
 Apache HTTP Server
-: A free and open-source cross-platform web server. The Apache server was first released in 1995. 🌍&nbsp;[httpd.apache.org](https://httpd.apache.org/)
+: A cross-platform web server. The Apache server was first released in 1995. 🌍&nbsp;[httpd.apache.org](https://httpd.apache.org/)
 
 API
 : → Application Programming Interface
