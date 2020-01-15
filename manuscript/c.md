@@ -4,7 +4,7 @@ Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
 Call to Action
-: @@
+: A marketing term used extensively in advertising and selling. It refers to any device designed to prompt an immediate response or encourage an immediate sale. A CTA most often refers to the use of words or phrases that can be incorporated into sales scripts, advertising messages or web pages that encourage consumers to take prompt action.&nbsp;[†](#w-cta)
 
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)

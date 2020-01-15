@@ -37,7 +37,7 @@ First Interactive
 : → First CPU Idle
 
 First Meaningful Paint
-: @@
+: The paint after which the biggest above-the-fold layout change has happened and web fonts have loaded. It is when the answer to “Is it useful?” becomes “yes,” upon first meaningful paint completion.&nbsp;[‡](#m-fmp)
 
 First Paint
 : @@
@@ -74,6 +74,9 @@ FLOSS
 
 Fluid
 : → Liquid
+
+FMP
+: → First Meaningful Paint
 
 FOFT
 : → Flash of Faux Text

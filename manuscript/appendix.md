@@ -27,6 +27,7 @@ This book uses material from the following Wikipedia articles:
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
+* [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
 * [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
@@ -36,6 +37,7 @@ This book uses material from the following Wikipedia articles:
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
+* [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell){#w-bourne-shell}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
@@ -43,6 +45,7 @@ This book uses material from the following Wikipedia articles:
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
+* [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
@@ -175,6 +178,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy){#m-falsy}
 * [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
+* [First Meaningful Paint](https://developer.mozilla.org/en-US/docs/Glossary/first_meaningful_paint){#m-fmp}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

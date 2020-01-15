@@ -16,7 +16,7 @@ Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
 Bash
-: @@
+: A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, Bash has been used widely as the default login shell for most Linux distributions and Apple’s macOS Mojave and earlier versions.&nbsp;[†](#w-bash)
 
 BDD
 : → Behavior-Driven Development
@@ -105,7 +105,7 @@ Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
 
 Bourne shell
-: @@
+: A shell, or command-line interpreter, for computer operating systems. Developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name (`sh`). The Bourne shell was released in 1979 in the Version 7 Unix release distributed to colleges and universities.&nbsp;[†](#w-bourne-shell)
 
 Box model
 : A concept for the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model. The boxes consist of content, padding, border, and margin areas.
