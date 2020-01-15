@@ -36,6 +36,9 @@ JPEG
 JPG
 : @@
 
+JScript
+: @@
+
 JSON
 : → JavaScript Object Notation
 

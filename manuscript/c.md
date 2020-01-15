@@ -117,8 +117,20 @@ Code point
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
+CoffeeScript
+: @@
+
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
+
+Command
+: @@
+
+Command and Control
+: @@
+
+Command and Feedback
+: @@
 
 Command-Line Interface
 : An interface processing commands to a computer program in the form of lines of text. Operating systems implement command-line interfaces in a shell for interactive access to operating system functions or services.&nbsp;[†](#w-cli)
@@ -161,6 +173,9 @@ Conditional
 
 Conditional Comments
 : Conditional statements in HTML interpreted by Microsoft Internet Explorer 5–9. Conditional comments can be used to provide and hide code to and from Internet Explorer. Conditional comments are no longer supported in IE 10 and 11.&nbsp;[†](#w-conditional-comments)
+
+Cone of Uncertainty
+: @@
 
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)

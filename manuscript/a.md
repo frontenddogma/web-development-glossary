@@ -42,6 +42,9 @@ Accessible
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
+ActionScript
+: @@
+
 Active Server Pages
 : A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
 

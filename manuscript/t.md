@@ -24,7 +24,7 @@ TCP
 TDD
 : → Test-Driven Development
 
-Technical Debt
+Technical debt
 : @@
 
 Technological Protection Measures
@@ -116,6 +116,9 @@ Type conversion
 : @@
 
 Type system
+: @@
+
+TypeScript
 : @@
 
 Typography
