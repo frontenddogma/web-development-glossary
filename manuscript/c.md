@@ -118,7 +118,7 @@ Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
 CoffeeScript
-: A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) 🌍&nbsp;[coffeescript.org](https://coffeescript.org/)
+: A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) 🌍&nbsp;[coffeescript.org](https://coffeescript.org/)
 
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)

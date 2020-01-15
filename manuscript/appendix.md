@@ -127,7 +127,7 @@ This book uses material from the following Wikipedia articles:
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
-* [Fitts's law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
+* [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * @@

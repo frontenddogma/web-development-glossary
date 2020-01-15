@@ -40,10 +40,10 @@ First Meaningful Paint
 : The paint after which the biggest above-the-fold layout change has happened and web fonts have loaded. It is when the answer to “Is it useful?” becomes “yes,” upon first meaningful paint completion.&nbsp;[‡](#m-fmp)
 
 First Paint
-: The time between navigation and when the browser render the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question "is it happening?"&nbsp;[‡](#m-first-paint)
+: The time between navigation and when the browser render the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “is it happening?”&nbsp;[‡](#m-first-paint)
 
 Fitts’ Law
-: A predictive model of human movement primarily used in human–computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts' Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
+: A predictive model of human movement primarily used in human–computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
 
 Fixed
 : A web design approach in which page elements have a fixed as opposed to variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
@@ -61,13 +61,13 @@ Flash of Unstyled Content
 : → Flash of Unstyled Text
 
 Flash of Unstyled Text
-: The effect when a web page appears briefly with the browser's default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting.&nbsp;[†](#w-fout)
+: The effect when a web page appears briefly with the browser’s default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting.&nbsp;[†](#w-fout)
 
 Flash Player
 : A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe Systems since Adobe acquired Macromedia in 2005. In July 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML5 standards in place of Flash.&nbsp;[†](#w-flash-player)
 
 Flex
-: A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element's children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied.&nbsp;[‡](#m-flex)
+: A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element’s children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied.&nbsp;[‡](#m-flex)
 : → Flexbox
 
 Flexbox
