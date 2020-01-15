@@ -96,6 +96,9 @@ Response
 Response header
 : @@
 
+Responsive design
+: → Responsive web design
+
 Responsive web design
 : @@
 

@@ -132,7 +132,7 @@ Browser Helper Object
 : A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in October 1997 with the release of version 4 of Internet Explorer. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)
 
 Browser testing
-: @@
+: The testing of web sites and apps in different web browsers.
 
 Browser War
 : A market competitions between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).

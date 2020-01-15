@@ -126,6 +126,9 @@ Shell
 Shim
 : @@
 
+Shockwave Flash
+: → Flash player
+
 Shortcut icon
 : → Favicon
 

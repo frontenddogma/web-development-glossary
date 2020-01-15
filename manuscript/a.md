@@ -43,13 +43,16 @@ Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
 ActionScript
-: @@
+: An object-oriented programming language originally developed by Macromedia (later acquired by Adobe Systems). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
 
 Active Server Pages
 : A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
 
 Adaptive
 : An aspect of or synonym for Agile development.
+
+Adobe Flash
+: → Flash
 
 ADT
 : → Abstract Data Type

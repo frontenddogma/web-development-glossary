@@ -6,8 +6,11 @@ This book uses material from the following Wikipedia articles:
 
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
+* [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
+* [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash){#w-flash}
+* [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
@@ -56,7 +59,9 @@ This book uses material from the following Wikipedia articles:
 * [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
+* [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
+* [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
@@ -66,6 +71,7 @@ This book uses material from the following Wikipedia articles:
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
 * [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
+* [Cone of Uncertainty](https://en.wikipedia.org/wiki/Cone_of_Uncertainty){#w-cone-of-uncertainty}
 * [Console application](https://en.wikipedia.org/wiki/Console_application){#w-console}
 * [Constant (computer programming)](https://en.wikipedia.org/wiki/Constant_(computer_programming)){#w-constant}
 * [Constructor (object-oriented programming)](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)){#w-constructor}
@@ -121,6 +127,9 @@ This book uses material from the following Wikipedia articles:
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
+* [Fitts's law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
+* [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
+* [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -179,6 +188,9 @@ This book uses material from the following articles by Mozilla contributors:
 * [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
 * [First Meaningful Paint](https://developer.mozilla.org/en-US/docs/Glossary/first_meaningful_paint){#m-fmp}
+* [First paint](https://developer.mozilla.org/en-US/docs/Glossary/First_paint){#m-first-paint}
+* [Flex](https://developer.mozilla.org/en-US/docs/Glossary/Flex){#m-flex}
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

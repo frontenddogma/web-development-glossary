@@ -118,19 +118,13 @@ Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
 CoffeeScript
-: @@
+: A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) 🌍&nbsp;[coffeescript.org](https://coffeescript.org/)
 
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
 
 Command
-: @@
-
-Command and Control
-: @@
-
-Command and Feedback
-: @@
+: A directive to a computer program to perform a specific task. It may be issued via a command-line interface, such as a shell, or as input to a network service as part of a network protocol, or as an event in a graphical user interface triggered by the user selecting an option in a menu.&nbsp;[†](#w-command)
 
 Command-Line Interface
 : An interface processing commands to a computer program in the form of lines of text. Operating systems implement command-line interfaces in a shell for interactive access to operating system functions or services.&nbsp;[†](#w-cli)
@@ -175,7 +169,7 @@ Conditional Comments
 : Conditional statements in HTML interpreted by Microsoft Internet Explorer 5–9. Conditional comments can be used to provide and hide code to and from Internet Explorer. Conditional comments are no longer supported in IE 10 and 11.&nbsp;[†](#w-conditional-comments)
 
 Cone of Uncertainty
-: @@
+: A model for the evolution of the amount of best case uncertainty during a project. At the beginning of a project, comparatively little is known about the product or work results, and so estimates are subject to large uncertainty. As more research and development is done, more information is learned about the project, and the uncertainty then tends to decrease. The change in uncertainty makes for the shape of a cone.&nbsp;[†](#w-cone-of-uncertainty)
 
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
