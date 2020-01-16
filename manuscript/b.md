@@ -116,6 +116,9 @@ Box model hack
 Boyscout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
+Braille
+: @@
+
 Branch
 : A duplicate of an object under version control. Branches are also known as trees, streams or codelines. The originating branch is sometimes called the parent branch, the upstream branch (or simply upstream, especially if the branches are maintained by different organizations or individuals), or the backing stream. Child branches are branches that have a parent; a branch without a parent is referred to as the trunk or the mainline.&nbsp;[†](#w-branching)
 
