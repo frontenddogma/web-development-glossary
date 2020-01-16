@@ -42,6 +42,7 @@ This book uses material from the following Wikipedia articles:
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell){#w-bourne-shell}
 * [Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control)){#w-branching}
+* [Braille](https://en.wikipedia.org/wiki/Braille){#w-braille}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
