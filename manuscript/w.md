@@ -66,6 +66,9 @@ Web performance
 Web resource
 : @@
 
+Web site
+: → Website
+
 Web standard
 : @@
 

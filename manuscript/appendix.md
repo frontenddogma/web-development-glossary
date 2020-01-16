@@ -164,12 +164,17 @@ This book uses material from the following Wikipedia articles:
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
 * [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
+* [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
-* @@
+* [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
+* [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
+* [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
+* @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
+* [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
@@ -248,6 +253,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Grid](https://developer.mozilla.org/en-US/docs/Glossary/Grid){#m-grid}
 * [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
+* [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
