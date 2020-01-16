@@ -93,6 +93,12 @@ Modular
 Mosaic
 : @@
 
+Moving Picture Experts Group
+: @@
+
+MPEG
+: → Moving Picture Experts Group
+
 Multimedia
 : @@
 

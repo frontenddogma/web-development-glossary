@@ -153,7 +153,6 @@ This book uses material from the following Wikipedia articles:
 * [GitLab](https://en.wikipedia.org/wiki/GitLab){#w-gitlab}
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
-* [Graceful degradation](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation){#m-graceful-degradation}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
@@ -162,7 +161,10 @@ This book uses material from the following Wikipedia articles:
 * [Gutter](https://en.wikipedia.org/wiki/Gutter){#w-gutter}
 * [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
+* [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
+* [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
+* [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * @@
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
@@ -192,11 +194,20 @@ This book uses material from the following Wikipedia articles:
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
+* [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
+* [XLink](https://en.wikipedia.org/wiki/XLink){#w-xlink}
 * [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
+* [XML Schema (W3C)](https://en.wikipedia.org/wiki/XML_Schema_(W3C)){#w-xsd}
+* [XMLHttpRequest](https://en.wikipedia.org/wiki/XMLHttpRequest){#w-xmlhttprequest}
+* [XPath](https://en.wikipedia.org/wiki/XPath){#w-xpath}
+* [XPointer](https://en.wikipedia.org/wiki/XPointer){#w-xpointer}
+* [XQuery](https://en.wikipedia.org/wiki/XQuery){#w-xquery}
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
+* [XUL](https://en.wikipedia.org/wiki/XUL){#w-xul}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
-* [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-indexed}
+* [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
+* [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [](){} @@
 
@@ -233,8 +244,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
+* [Graceful degradation](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation){#m-graceful-degradation}
 * [Grid](https://developer.mozilla.org/en-US/docs/Glossary/Grid){#m-grid}
 * [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
+* [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

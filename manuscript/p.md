@@ -1,5 +1,8 @@
 # P
 
+Packed
+: A property of an array that consists only of elements, and that can be optimized accordingly.
+
 Packet
 : @@
 

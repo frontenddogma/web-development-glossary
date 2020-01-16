@@ -24,6 +24,9 @@ Offline First
 OKR
 : → Objectives and Key Results
 
+One-based indexing
+: @@
+
 One-Time Password
 : @@
 

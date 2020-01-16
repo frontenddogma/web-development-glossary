@@ -19,22 +19,22 @@ Hick-Hyman Law
 : → Hick’s Law
 
 High Efficiency Image Coding
-: @@
+: → High Efficiency Image File Format
 
 High Efficiency Image File Format
-: @@
+: A file format for individual images and image sequences. It was developed by the Moving Picture Experts Group (MPEG) and is defined by MPEG-H Part 12 (ISO/IEC 23008-12). The MPEG group claims that twice as much information can be stored in a HEIF image as in a JPEG image of the same size, resulting in a better quality image. HEIF also supports animation, and is capable of storing more information than an animated GIF at a small fraction of the size.&nbsp;[†](#w-heif)
 
 Hit
-: @@
+: A request to a web server for a file (such as a web page, image, script, or style sheet). There may be many hits per page view since an HTML page can contain multiple files, such as images.&nbsp;[†](#w-hit)
 
 Hoisting
-: @@
+: A general way of thinking about how execution contexts (specifically the creation and execution phases) work in JavaScript. While conceptually, a strict definition of hoisting suggests that variable and function declarations are physically moved to the top of your code, the variable and function declarations are instead put into memory during the compile phase. Only declarations are hoisted, not initializations.&nbsp;[‡](#m-hoisting)
 
 Holey
-: @@
+: A property of an array that misses elements, and cannot be optimized as effectively anymore.
 
 Home Screen
-: @@
+: The main screen on a mobile operating system or computer program. Home screens are not identical because users can rearrange icons as they please, and home screens often differ across mobile operating systems. Almost every smartphone has some form of home screen, which typically displays links to applications, settings, and notifications.&nbsp;[†](#w-home-screen)
 
 Homepage
 : @@

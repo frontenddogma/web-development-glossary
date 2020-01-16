@@ -163,8 +163,14 @@ Slug
 SMACSS
 : → Scalable and Modular Architecture for CSS
 
+Small integer
+: @@
+
 Smashing Magazine
 : @@
+
+Smi
+: → Small integer
 
 SMIL
 : → Synchronized Multimedia Integration Language
