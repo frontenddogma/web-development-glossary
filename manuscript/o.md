@@ -37,7 +37,7 @@ Open Source
 : @@
 
 Open Web Application Security Project
-: @@ 🌍&nbsp;[owasp.org](https://www.owasp.org/)
+: @@ ℹ︎&nbsp;[owasp.org](https://www.owasp.org/)
 
 Opera
 : @@

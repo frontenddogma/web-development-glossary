@@ -10,15 +10,16 @@ Sass
 : @@
 
 Scalable and Modular Architecture for CSS
-: @@ 🌍&nbsp;[smacss.com](http://smacss.com/)
+: @@ ℹ︎&nbsp;[smacss.com](http://smacss.com/)
 
 Scalable Vector Graphics
-: @@ 🌍&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
+: @@ ℹ︎&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
 Scaled Scrum
 : → Nexus
 
 SCM
+: → Source Code Management
 : → Source Control Management
 
 Scope
@@ -195,6 +196,9 @@ Software stack
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
 
+Source Code Management
+: → Version control
+
 Source Control Management
 : @@
 
@@ -211,6 +215,9 @@ Spam
 : @@
 
 Specification
+: @@
+
+Specificity
 : @@
 
 Spider

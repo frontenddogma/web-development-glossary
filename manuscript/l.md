@@ -61,7 +61,7 @@ LOC
 : → Lines of Code
 
 Local
-: @@
+: → Local scope
 
 Local scope
 : @@

@@ -1,7 +1,7 @@
 # A
 
 A List Apart
-: A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” 🌍&nbsp;[alistapart.com](https://alistapart.com/)
+: A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
 
 A11Y
 : → Accessibility
@@ -28,10 +28,10 @@ Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
 
 Accessibility Conformance Testing
-: A rule format for the testing of conformance with accessibility standards. 🌍&nbsp;[w3.org/WAI/standards-guidelines/act](https://www.w3.org/WAI/standards-guidelines/act/)
+: A rule format for the testing of conformance with accessibility standards. ℹ︎&nbsp;[w3.org/WAI/standards-guidelines/act](https://www.w3.org/WAI/standards-guidelines/act/)
 
 Accessibility Object Model
-: A representation of the DOM that is being used by assistive technology. 🌍&nbsp;[wicg.github.io/aom/spec](https://wicg.github.io/aom/spec/)
+: A representation of the DOM that is being used by assistive technology. ℹ︎&nbsp;[wicg.github.io/aom/spec](https://wicg.github.io/aom/spec/)
 
 Accessibility tree
 : → Accessibility Object Model
@@ -40,7 +40,7 @@ Accessible
 : → Accessibility
 
 Accessible Rich Internet Applications
-: A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. 🌍&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
+: A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. ℹ︎&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
 ActionScript
 : An object-oriented programming language originally developed by Macromedia (later acquired by Adobe Systems). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
@@ -76,7 +76,7 @@ Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
 American National Standards Institute
-: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” 🌍&nbsp;[ansi.org](https://www.ansi.org/)
+: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” ℹ︎&nbsp;[ansi.org](https://www.ansi.org/)
 
 American Standard Code for Information Interchange
 : A character encoding standard for electronic communication. ASCII was conceived in 1960 and published in 1963 by the ASA (American Standards Association), now ANSI.
@@ -109,7 +109,7 @@ Apache
 : → Apache HTTP Server
 
 Apache HTTP Server
-: A cross-platform web server. The Apache server was first released in 1995. 🌍&nbsp;[httpd.apache.org](https://httpd.apache.org/)
+: A cross-platform web server. The Apache server was first released in 1995. ℹ︎&nbsp;[httpd.apache.org](https://httpd.apache.org/)
 
 API
 : → Application Programming Interface
@@ -154,7 +154,7 @@ Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
 
 Association for Computing Machinery
-: An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) 🌍&nbsp;[acm.org](https://www.acm.org/)
+: An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) ℹ︎&nbsp;[acm.org](https://www.acm.org/)
 
 Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
@@ -172,7 +172,7 @@ Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Atomic CSS
-: A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” 🌍&nbsp;[acss.io](https://acss.io/)
+: A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
@@ -181,7 +181,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring Tool Accessibility Guidelines
-: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. 🌍&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
+: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
 Authorization
 : The specifying of access rights and privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)

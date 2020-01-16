@@ -25,7 +25,7 @@ Firebird
 : → Firefox
 
 Firefox
-: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. 🌍&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
+: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. ℹ︎&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
 
 First Contentful Paint
 : The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading. The question “Is it happening?” is “yes” when the first contentful paint completes.&nbsp;[‡](#m-fcp)
@@ -71,7 +71,7 @@ Flex
 : → Flexbox
 
 Flexbox
-: A CSS web layout model for displaying items in a single dimension, as a row or as a column. In the specification for the CSS Flexible Box Layout Module, Flexbox is described as a layout model for user interface design. The key feature of Flexbox is the fact that items in a flex layout can grow and shrink. Space can be assigned to the items themselves, or distributed between or around the items. Flexbox also enables alignment of items on the main or cross axis, thus providing a high level of control over the size and alignment of a group of items.&nbsp;[‡](#m-flexbox) 🌍&nbsp;[w3.org/TR/css-flexbox-1](https://www.w3.org/TR/css-flexbox-1/)
+: A CSS web layout model for displaying items in a single dimension, as a row or as a column. In the specification for the CSS Flexible Box Layout Module, Flexbox is described as a layout model for user interface design. The key feature of Flexbox is the fact that items in a flex layout can grow and shrink. Space can be assigned to the items themselves, or distributed between or around the items. Flexbox also enables alignment of items on the main or cross axis, thus providing a high level of control over the size and alignment of a group of items.&nbsp;[‡](#m-flexbox) ℹ︎&nbsp;[w3.org/TR/css-flexbox-1](https://www.w3.org/TR/css-flexbox-1/)
 
 FLOSS
 : → Free/Libre and Open Source Software
@@ -141,11 +141,17 @@ Frameset
 Free and Open Source Software
 : Software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
 
+Free Software Foundation
+: A non-profit organization founded by Richard Stallman in 1985 to support the free software movement, which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization's preference for software being distributed under copyleft ("share alike") terms, such as with its own GNU General Public License. The FSF was incorporated in Massachusetts, U.S., where it is also based.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)
+
 Frontend
 : The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)
 
 FrontPage
 : A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in December 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
+
+FSF
+: → Free Software Foundation
 
 FTP
 : → File Transfer Protocol

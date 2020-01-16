@@ -75,7 +75,7 @@ Block element
 : → Block container element
 
 Block Element Modifier
-: A naming convention for HTML and CSS classes. Block Element Modifier, or BEM, was introduced in 2005 by Yandex. 🌍&nbsp;[getbem.com](http://getbem.com/)
+: A naming convention for HTML and CSS classes. Block Element Modifier, or BEM, was introduced in 2005 by Yandex. ℹ︎&nbsp;[getbem.com](http://getbem.com/)
 
 Block-level box
 : A box created by a block-level element.
@@ -99,7 +99,7 @@ Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
 
 Bootstrap
-: A HTML/CSS framework. 🌍&nbsp;[getbootstrap.com](https://getbootstrap.com/)
+: A HTML/CSS framework. ℹ︎&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
@@ -111,7 +111,7 @@ Box model
 : A concept for the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model. The boxes consist of content, padding, border, and margin areas.
 
 Box model hack
-: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). 🌍&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
+: A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). ℹ︎&nbsp;[tantek.com/CSS/Examples/boxmodelhack.html](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
 Boyscout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
@@ -126,7 +126,7 @@ Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
 
 Brotli
-: A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) 🌍&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
+: A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) ℹ︎&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
 Browser
 : A software application for accessing information on the World Wide Web. When a user requests a particular website, the web browser retrieves the necessary content from a web server and displays the resulting web page on the user’s device. As of March 2019, more than 4.3 billion people use a browser, which is about 55% of the world’s population. The three most popular browsers are Chrome, Firefox, and Safari.&nbsp;[†](#w-browser)

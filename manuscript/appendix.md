@@ -119,6 +119,7 @@ This book uses material from the following Wikipedia articles:
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
 * [Efficiency](https://en.wikipedia.org/wiki/Efficiency){#w-efficiency}
+* [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation){#w-eff}
 * [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
@@ -140,8 +141,28 @@ This book uses material from the following Wikipedia articles:
 * [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
 * [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
 * [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software){#w-foss}
+* [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation){#w-fsf}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-frontend-backend}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
+* [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
+* [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
+* [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
+* [GIF](https://en.wikipedia.org/wiki/GIF){#w-gif}
+* [Git](https://en.wikipedia.org/wiki/Git){#w-git}
+* [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}
+* [GitLab](https://en.wikipedia.org/wiki/GitLab){#w-gitlab}
+* [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
+* [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
+* [Graceful degradation](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation){#m-graceful-degradation}
+* [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
+* [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
+* [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
+* [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
+* [Guetzli](https://en.wikipedia.org/wiki/Guetzli){#w-guetzli}
+* [Gutter](https://en.wikipedia.org/wiki/Gutter){#w-gutter}
+* [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
+* [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
+* [Hick's law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
 * @@
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
@@ -209,6 +230,11 @@ This book uses material from the following articles by Mozilla contributors:
 * [Flex](https://developer.mozilla.org/en-US/docs/Glossary/Flex){#m-flex}
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
+* [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
+* [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
+* [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
+* [Grid](https://developer.mozilla.org/en-US/docs/Glossary/Grid){#m-grid}
+* [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

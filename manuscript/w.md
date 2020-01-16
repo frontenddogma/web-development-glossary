@@ -22,7 +22,7 @@ WCAG
 : → Web Content Accessibility Guidelines
 
 Web Accessibility Initiative
-: @@ 🌍&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
+: @@ ℹ︎&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
 Web Application Framework
 : → Web framework
@@ -34,7 +34,7 @@ Web content
 : @@
 
 Web Content Accessibility Guidelines
-: @@ 🌍&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
+: @@ ℹ︎&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
 
 Web design
 : @@
@@ -55,10 +55,10 @@ Web framework
 : Software that supports the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications. Web frameworks aim to automate the overhead associated with common activities performed in web development. For example, many web frameworks provide libraries for database access, templating frameworks, and session management, and they often promote code reuse. Although they often target development of dynamic web sites, they are also applicable to static websites.&nbsp;[†](#w-web-framework)
 
 Web Graphics Library
-: @@ 🌍&nbsp;[get.webgl.org](https://get.webgl.org/)
+: @@ ℹ︎&nbsp;[get.webgl.org](https://get.webgl.org/)
 
 Web Hypertext Application Technology Working Group
-: @@ 🌍&nbsp;[whatwg.org](https://whatwg.org/)
+: @@ ℹ︎&nbsp;[whatwg.org](https://whatwg.org/)
 
 Web performance
 : → Performance
@@ -70,7 +70,7 @@ Web standard
 : @@
 
 Web Standards Project
-: @@ 🌍&nbsp;[webstandards.org](https://www.webstandards.org/)
+: @@ ℹ︎&nbsp;[webstandards.org](https://www.webstandards.org/)
 
 Web typography
 : @@

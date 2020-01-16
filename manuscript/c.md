@@ -21,8 +21,11 @@ Card sorting
 Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
+Cascade
+: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration “wins”).
+
 Cascading Style Sheets
-: A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. 🌍&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
+: A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. ℹ︎&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
 
 Case
 : In engineering, as _use_ case, a list of actions or event steps typically defining the interactions between a role (known in UML as an actor) and a system to achieve a goal. The actor can be a human or other external system. In systems engineering, use cases are used at a higher level than within software engineering, often representing missions or stakeholder goals.&nbsp;[†](#w-case-engineering)
@@ -66,7 +69,7 @@ Charset
 : → Character encoding
 
 Chrome
-: A cross-platform web browser. Chrome was released in 2008 by Google. 🌍&nbsp;[google.com/chrome](https://www.google.com/chrome/)
+: A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 CI
@@ -124,7 +127,7 @@ Codeline
 : → Branch
 
 CoffeeScript
-: A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) 🌍&nbsp;[coffeescript.org](https://coffeescript.org/)
+: A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
 
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
@@ -166,7 +169,7 @@ Concurrent Versioning System
 : → Concurrent Versions System
 
 Concurrent Versions System
-: A client-server revision control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) 🌍&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
+: A client-server revision control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) ℹ︎&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
 
 Conditional
 : A set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not. An instruction or a set of instructions is executed, if a specific condition is fulfilled. Otherwise, another instruction is executed. It is also possible to repeat the execution of an instruction, or set of instructions, while a condition is not yet fulfilled.&nbsp;[‡](#m-conditional)
@@ -193,7 +196,7 @@ Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps and programme code that display content and interact with the user.&nbsp;[†](#w-cms)
 
 Content Security Policy
-: A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML5 features.&nbsp;[†](#w-csp) 🌍&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
+: A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML5 features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
 
 Continuous Delivery
 : A software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, doing so manually. CD aims at building, testing, and releasing software with greater speed and frequency, and helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery.&nbsp;[†](#w-continuous-delivery)

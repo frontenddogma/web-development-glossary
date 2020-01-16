@@ -119,7 +119,7 @@ Internal
 : Not developed outside of one’s organization.
 
 International Organization for Standardization
-: @@ 🌍&nbsp;[iso.org](https://www.iso.org/)
+: @@ ℹ︎&nbsp;[iso.org](https://www.iso.org/)
 
 Internationalization
 : @@
@@ -134,7 +134,7 @@ Internet Corporation for Assigned Names and Numbers
 : @@
 
 Internet Engineering Task Force
-: @@ 🌍&nbsp;[ietf.org](https://ietf.org/)
+: @@ ℹ︎&nbsp;[ietf.org](https://ietf.org/)
 
 Internet Explorer
 : @@

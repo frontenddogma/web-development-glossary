@@ -74,7 +74,7 @@ Developer Experience
 
 Developer Tools
 : Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
-: A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). 🌍&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
+: A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). ℹ︎&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
 
 Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
@@ -116,7 +116,7 @@ Document directive
 : A way to govern the properties of a document or worker environment to which a content security policy (CSP) applies. Document directives don’t fall back to the `default-src` directive.&nbsp;[‡](#m-document-directive)
 
 Document Object Model
-: A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) 🌍&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
+: A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) ℹ︎&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
 
 Document type declaration
 : → Doctype
