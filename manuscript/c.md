@@ -32,7 +32,7 @@ Case
 : In programming, a selection mechanism to allow a variable to change the flow of a program.&nbsp;[†](#w-case-programming)
 : In typography, as _letter_ case, the distinction between the letters that are in larger upper case (also uppercase, capital letters, capitals, caps, large letters, or more formally majuscule) and smaller lower case (also lowercase, small letters, or more formally minuscule) in the written representation of certain languages.&nbsp;[†](#w-case-typography)
 
-CBD:
+CBD
 : → Component-Based Development
 
 CBSE
