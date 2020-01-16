@@ -193,7 +193,7 @@ Software stack
 : → Solution stack
 
 Solution stack
-: A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform.&nbsp;[†](#w-solution-stack)
+: A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
 
 Source Control Management
 : @@
