@@ -7,7 +7,7 @@ Garbage collection
 : A form of automatic memory management. The garbage collector, or just collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program. Garbage collection is essentially the opposite of manual memory management, which requires the programmer to specify which objects to deallocate and return to the memory system. However, many systems use a combination of approaches, including other techniques such as stack allocation and region inference.&nbsp;[†](#w-garbage-collection)
 
 Gecko
-: A browser engine developed by Mozilla. It is used in the Firefox browser, the Thunderbird email client, and many other projects. Gecko is designed to support open Internet standards, and is used by different applications to display web pages and, in some cases, an application's user interface itself (by rendering XUL). Gecko offers a rich programming API that makes it suitable for a wide variety of roles in Internet-enabled applications, such as web browsers, content presentation, and client/server.&nbsp;[†](#w-gecko) ℹ︎&nbsp;[developer.mozilla.org/Mozilla/Gecko](https://developer.mozilla.org/Mozilla/Gecko)
+: A browser engine developed by Mozilla. It is used in the Firefox browser, the Thunderbird email client, and many other projects. Gecko is designed to support open Internet standards, and is used by different applications to display web pages and, in some cases, an application’s user interface itself (by rendering XUL). Gecko offers a rich programming API that makes it suitable for a wide variety of roles in Internet-enabled applications, such as web browsers, content presentation, and client/server.&nbsp;[†](#w-gecko) ℹ︎&nbsp;[developer.mozilla.org/Mozilla/Gecko](https://developer.mozilla.org/Mozilla/Gecko)
 
 GIF
 : → Graphics Interchange Format
@@ -25,7 +25,7 @@ Global
 : → Global scope
 
 Global object
-: An object that always exists in the global scope. In JavaScript, there's always a global object defined. In a web browser, when scripts create global variables, they're created as members of the global object. (In Node.js this is not the case.) The global object's interface depends on the execution context in which the script is running.&nbsp;[‡](#m-global-object)
+: An object that always exists in the global scope. In JavaScript, there’s always a global object defined. In a web browser, when scripts create global variables, they’re created as members of the global object. (In Node.js this is not the case.) The global object’s interface depends on the execution context in which the script is running.&nbsp;[‡](#m-global-object)
 
 Global scope
 : The scope that contains, and is visible in, all other scopes. In client-side JavaScript, the global scope is generally the web page inside which all the code is being executed.&nbsp;[‡](#m-global-scope)
@@ -40,7 +40,7 @@ GNU General Public License
 : A widely-used free software license that guarantees end users the freedom to run, study, share, and modify the software. The license was originally written by Richard Stallman for the GNU Project, and grants the recipients of a computer program the rights of the Free Software Definition. The GPL is a copyleft license, which means that derivative work must be free software and distributed under the same or equivalent license terms. This is in distinction to permissive free software licenses, of which the BSD licenses and the MIT License are widely-used less-restrictive examples. GPL was the first copyleft license for general use.&nbsp;[†](#w-gpl)
 
 Goanna
-: A browser engine that is a fork of Mozilla's Gecko. It is used in the Pale Moon browser, the Basilisk browser, and other UXP-based applications. A fork of the K-Meleon browser also uses Goanna. Goanna as an independent fork of Gecko was first released in January 2016.&nbsp;[†](#w-goanna)
+: A browser engine that is a fork of Mozilla’s Gecko. It is used in the Pale Moon browser, the Basilisk browser, and other UXP-based applications. A fork of the K-Meleon browser also uses Goanna. Goanna as an independent fork of Gecko was first released in January 2016.&nbsp;[†](#w-goanna)
 
 GPL
 : → GNU General Public License
@@ -83,6 +83,6 @@ GUI
 : → Graphical User Interface
 
 gzip
-: A file format and software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the "g" is from "GNU"). Version 0.1 was released in October 1992, and version 1.0 in February 1993. gzip is based on the DEFLATE algorithm.&nbsp;[†](#w-gzip) ℹ︎&nbsp;[gnu.org/software/gzip](https://www.gnu.org/software/gzip/)
+: A file format and software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the “g” is from “GNU”). Version 0.1 was released in October 1992, and version 1.0 in February 1993. gzip is based on the DEFLATE algorithm.&nbsp;[†](#w-gzip) ℹ︎&nbsp;[gnu.org/software/gzip](https://www.gnu.org/software/gzip/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/g.md) and become a glossary&nbsp;contributor!

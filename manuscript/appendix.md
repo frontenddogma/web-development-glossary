@@ -162,7 +162,7 @@ This book uses material from the following Wikipedia articles:
 * [Gutter](https://en.wikipedia.org/wiki/Gutter){#w-gutter}
 * [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
-* [Hick's law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
+* [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
 * @@
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
