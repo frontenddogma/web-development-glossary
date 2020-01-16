@@ -92,16 +92,16 @@ FOIT
 : → Flash of Invisible Text
 
 Folksonomy
-: The system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later. Over time, this can give rise to a classification system based on those tags and how often they are applied or searched for, in contrast to a taxonomic classification designed by the owners of the content and specified when it is published. This practice is also known as collaborative tagging, social classification, social indexing, and social tagging.&nbsp;[†](#w-folksonomy) 
+: The system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later. Over time, this can give rise to a classification system based on those tags and how often they are applied or searched for, in contrast to a taxonomic classification designed by the owners of the content and specified when it is published. This practice is also known as collaborative tagging, social classification, social indexing, and social tagging.&nbsp;[†](#w-folksonomy)
 
 Font
-: @@
+: With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer roman,” “Bulmer,” “Bulmer bold” and “Bulmer extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, the font is a digital file.&nbsp;[†](#w-font)
 
 Fork
-: @@
+: The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork often implies not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 
 Form
-: @@
+: An interface that allows to enter data that is sent to a server for processing. Forms can resemble paper or database forms because web users fill out the forms using checkboxes, radio buttons, or text fields. In HTML, forms are set up using the `form` and related elements.&nbsp;[†](#w-form)
 
 FOSS
 : → Free and Open Source Software

@@ -6,6 +6,9 @@ Daily Scrum
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
+Database
+: @@
+
 DCVS
 : → Distributed Concurrent Versions System
 

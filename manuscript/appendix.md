@@ -130,6 +130,9 @@ This book uses material from the following Wikipedia articles:
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
+* [Font](https://en.wikipedia.org/wiki/Font){#w-font}
+* [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
+* [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * @@
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -150,6 +153,7 @@ This book uses material from the following Wikipedia articles:
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}

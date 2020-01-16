@@ -119,8 +119,14 @@ Type
 Type conversion
 : @@
 
+Type design
+: @@
+
 Type system
 : @@
+
+Typeface
+: The overall design of lettering, whose design can include variations, such as extra bold, bold, regular, light, italic, condensed, extended, etc. Each of these variations of the typeface is a font. Every typeface is a collection of glyphs, each of which represents an individual letter, number, punctuation mark, or other symbol. Not to be confused with a font; before the advent of digital typography and desktop publishing, the two terms had more clearly understood meanings.&nbsp;[†](#w-typeface)
 
 TypeScript
 : @@
