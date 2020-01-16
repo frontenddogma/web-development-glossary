@@ -74,7 +74,7 @@ Grid track
 : The space between two grid lines. They are defined in the explicit grid by using the `grid-template-columns` and `grid-template-rows` properties or the shorthand `grid` or `grid-template` properties. Tracks are also created in the implicit grid by positioning a grid Item outside of the tracks created in the explicit grid.&nbsp;[‡](#m-grid-track)
 
 Guetzli
-: A JPEG encoder developed by Jyrki Alakujala, Robert Obryk, and Zoltán Szabadka, and released by Google in 2017. It specializes in high-end image quality where it is claimed to produce significantly smaller files than prior encoders at equivalent quality, albeit at very low speed. It is named after the Swiss German expression for Biscuits, in line with the names of other compression technology from Google.&nbsp;[†](#w-guetzli)
+: A JPEG encoder developed by Jyrki Alakujala, Robert Obryk, and Zoltán Szabadka, and released by Google in 2017. It specializes in high-end image quality where it is claimed to produce significantly smaller files than prior encoders at equivalent quality, albeit at very low speed. It is named after the Swiss German expression for Biscuits, in line with the names of other compression technology from Google.&nbsp;[†](#w-guetzli) ℹ︎&nbsp;[github.com/google/guetzli](https://github.com/google/guetzli)
 
 Gutter
 : The space between columns of printed text, including the gap between facing pages.&nbsp;[†](#w-gutter)
