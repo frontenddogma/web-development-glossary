@@ -1,5 +1,8 @@
 # H
 
+Hashtag
+: @@
+
 hasLayout
 : @@
 
@@ -47,6 +50,9 @@ HTML
 
 HTML 5
 : → HTML
+
+HTML/CSS framework
+: A library allowing for easier, more standards-compliant web design using the Cascading Style Sheets language. Most of these frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript based functions, but are mostly design oriented and focused around interactive UI patterns. This detail differentiates CSS (or HTML/CSS) frameworks from other JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
 HTML5
 : → HTML 5

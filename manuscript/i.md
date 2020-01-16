@@ -44,7 +44,7 @@ IIS
 : → Internet Information Services
 
 Iframe
-: @@
+: A frame placed inside the body of an HTML document, usually referring to respective `iframe` element.
 
 Image
 : @@
@@ -157,8 +157,14 @@ Internet Service Provider
 Interoperability
 : @@
 
+Inversion of Control
+: @@
+
 Inverted Triangle CSS
 : @@
+
+IoC
+: → Inversion of Control
 
 IP
 : → Intellectual Property

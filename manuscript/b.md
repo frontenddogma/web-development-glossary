@@ -1,7 +1,7 @@
 # B
 
 Backend
-: The data access layer of software, usually covering business logic and data storage. In the client-server model, the server is usually considered the backend.&nbsp;[†](#w-backend)
+: The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
 
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
@@ -117,7 +117,10 @@ Boyscout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
 Branch
-: @@
+: A duplicate of an object under version control. Branches are also known as trees, streams or codelines. The originating branch is sometimes called the parent branch, the upstream branch (or simply upstream, especially if the branches are maintained by different organizations or individuals), or the backing stream. Child branches are branches that have a parent; a branch without a parent is referred to as the trunk or the mainline.&nbsp;[†](#w-branching)
+
+Branching
+: The duplication of an object under version control (such as a source code file or a directory tree) so that modifications can occur in parallel along multiple branches. Branching generally implies the ability to later merge or integrate changes back onto the parent branch.&nbsp;[†](#w-branching)
 
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)

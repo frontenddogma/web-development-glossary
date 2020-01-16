@@ -7,7 +7,13 @@ Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
 Database
-: @@
+: An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
+
+Database Management System
+: A "software system that enables users to define, create, maintain and control access to the database". The DBMS acronym is sometime extended to indicated the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+
+DBMS
+: → Database Management System
 
 DCVS
 : → Distributed Concurrent Versions System
@@ -19,7 +25,7 @@ Debugging
 : The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.&nbsp;[†](#w-debugging)
 
 Declaration
-: In CSS, a declaration assigns a value of a property (or, in case of a shorthand, several values for several properties) to a selected element. A declaration is part of a declaration block as well as a rule. It consists of a property, a colon (`:`), and a value. If there are multiple declarations in a block, a semi-colon (`;`) must be inserted to separate each declaration.&nbsp;[†](#w-declaration)
+: In CSS, a declaration assigns a value of a property (or, in case of a shorthand, several values for several properties) to a selected element. A declaration is part of a declaration block as well as a rule. It consists of a property, a colon (`:`), and a value. If there are multiple declarations in a block, a semi-colon (`;`) must be inserted to separate each declaration.&nbsp;[†](#w-css)
 
 Decoration
 : The attempt to make a physical or visual object more beautiful. Not to be confused with Design.

@@ -76,6 +76,9 @@ Flexbox
 FLOSS
 : → Free/Libre and Open Source Software
 
+Flow of control
+: → Control flow
+
 Fluid
 : → Liquid
 
@@ -106,46 +109,58 @@ Form
 FOSS
 : → Free and Open Source Software
 
-Free and Open Source Software
-: @@
-
 FOUC
 : → Flash of Unstyled Content
 
 FOUT
 : → Flash of Unstyled Text
 
+FPS
+: → Frames per Second
+
 Fragment identifier
-: @@
+: A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator in URIs is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
 
 Frame
-: @@
+: A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different web site as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
 
 Frame rate
-: @@
+: The frequency (rate) at which consecutive images called frames appear on a display. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in Hertz.&nbsp;[†](#w-frame-rate)
+
+Frames per Second
+: → Frame rate
 
 Framework
-: @@
+: → HTML/CSS framework
+: → Software framework
+: → Web framework
 
 Frameset
-: @@
+: A group of named frames to which web pages and media can be directed.&nbsp;[†](#w-frame)
+
+Free and Open Source Software
+: Software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
 
 Frontend
-: @@
+: The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)
 
 FrontPage
-: @@
+: A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in December 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
 
 FTP
 : → File Transfer Protocol
 
 Full Stack
-: @@
+: → Solution stack
+
+Full stack developer
+: A developer who can handle all aspects of website or web application development, that is, including both frontend and backend development.
+: A developer who masters a particular solution stack. 
 
 Function
-: @@
+: A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name's scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
 
-Functional Testing
-: @@
+Functional testing
+: A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes _what_ the system does.&nbsp;[†](#w-functional-testing)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/f.md) and become a glossary&nbsp;contributor!

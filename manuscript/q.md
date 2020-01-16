@@ -1,12 +1,18 @@
 # Q
 
+QA
+: → Quality Assurance
+
+QC
+: → Quality Control
+
 Quality
 : @@
 
-Quality assurance
+Quality Assurance
 : @@
 
-Quality control
+Quality Control
 : @@
 
 QUIC

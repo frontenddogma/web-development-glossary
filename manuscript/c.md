@@ -3,6 +3,9 @@
 Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
+Call stack
+: A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc.&nbsp;[‡](#m-call-stack)
+
 Call to Action
 : A marketing term used extensively in advertising and selling. It refers to any device designed to prompt an immediate response or encourage an immediate sale. A CTA most often refers to the use of words or phrases that can be incorporated into sales scripts, advertising messages or web pages that encourage consumers to take prompt action.&nbsp;[†](#w-cta)
 
@@ -117,6 +120,9 @@ Code point
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
+Codeline
+: → Branch
+
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) 🌍&nbsp;[coffeescript.org](https://coffeescript.org/)
 
@@ -145,7 +151,7 @@ Compiler
 : A computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g., assembly language, object code, or machine code) to create an executable program.&nbsp;[†](#w-compiler)
 
 Component
-: A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-component)
+: A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-cbse)
 
 Component-Based Development
 : → Component-Based Software Engineering
@@ -204,6 +210,9 @@ Continuous Media
 Contrast
 : The difference in appearance of two or more parts of a field seen simultaneously or successively (hence: brightness contrast, lightness contrast, color contrast, simultaneous contrast, successive contrast, etc.). Visual information is always contained in some kind of visual contrast, thus contrast is an essential performance (and accessibility) feature of electronic visual displays.&nbsp;[†](#w-contrast)
 
+Control flow
+: The order in which individual statements, instructions or function calls of an imperative program are executed or evaluated.&nbsp;[†](#w-control-flow)
+
 Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
@@ -233,6 +242,9 @@ CSP
 
 CSS
 : → Cascading Style Sheets
+
+CSS framework
+: → HTML/CSS framework
 
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)

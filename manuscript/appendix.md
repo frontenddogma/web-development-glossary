@@ -41,6 +41,7 @@ This book uses material from the following Wikipedia articles:
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell){#w-bourne-shell}
+* [Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control)){#w-branching}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
@@ -51,6 +52,7 @@ This book uses material from the following Wikipedia articles:
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
+* [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
@@ -81,17 +83,18 @@ This book uses material from the following Wikipedia articles:
 * [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery){#w-continuous-delivery}
 * [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment){#w-continuous-deployment}
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
+* [Control flow](https://en.wikipedia.org/wiki/Control_flow){#w-control-flow}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
+* [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
+* [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
-* [Declaration block (Cascading Style Sheets)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Declaration_block){#w-declaration}
-* [Definition and characteristics of components (Component-based software engineering)](https://en.wikipedia.org/wiki/Component-based_software_engineering#Software_component){#w-component}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
@@ -133,13 +136,19 @@ This book uses material from the following Wikipedia articles:
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
+* [Fragment identifier](https://en.wikipedia.org/wiki/Fragment_identifier){#w-fragment-identifier}
+* [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
+* [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
+* [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software){#w-foss}
+* [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-frontend-backend}
+* [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
 * @@
-* [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-backend}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
+* [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
@@ -150,6 +159,8 @@ This book uses material from the following Wikipedia articles:
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
+* [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
+* [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
@@ -159,6 +170,7 @@ This book uses material from the following Wikipedia articles:
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
+* [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
 * [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
@@ -177,6 +189,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
+* [Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack){#m-call-stack}
 * [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
@@ -195,6 +208,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [First paint](https://developer.mozilla.org/en-US/docs/Glossary/First_paint){#m-first-paint}
 * [Flex](https://developer.mozilla.org/en-US/docs/Glossary/Flex){#m-flex}
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
+* [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

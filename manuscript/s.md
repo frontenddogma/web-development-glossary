@@ -120,6 +120,9 @@ Shadow tree
 Shadow DOM
 : @@
 
+Shebang
+: @@
+
 Shell
 : @@
 
@@ -182,6 +185,15 @@ Software
 
 Software development
 : @@
+
+Software framework
+: An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. It provides a standard way to build and deploy applications and it is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or system.&nbsp;[†](#w-software-framework)
+
+Software stack
+: → Solution stack
+
+Solution stack
+: A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform.&nbsp;[†](#w-solution-stack)
 
 Source Control Management
 : @@

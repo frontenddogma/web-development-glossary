@@ -55,6 +55,9 @@ Normalizer
 Normative
 : @@
 
+NoSQL
+: @@
+
 Not a Number
 : @@
 
