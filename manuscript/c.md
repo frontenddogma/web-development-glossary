@@ -13,7 +13,7 @@ Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
 Canonical Name
-: @@
+: A type of resource record in the Domain Name System (DNS) which maps one domain name (an alias) to another (the canonical name).&nbsp;[†](#w-cname)
 
 Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
@@ -105,16 +105,20 @@ Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
 
 Cloaking
-: @@
+: A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to the user's browser. This can be done by delivering content based on the IP addresses or the User-Agent HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is sometimes to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
 
 Closure
 : A technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those captured variables through the closure’s copies of their values or references, even when the function is invoked outside their scope.&nbsp;[†](#w-closure)
 
 Cloud
-: @@
+: → Cloud computing
+: → Cloud storage
 
 Cloud computing
-: @@
+: The on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet. Large clouds, predominant today, often have functions distributed over multiple locations from central servers. If the connection to the user is relatively close, it may be designated an edge server.&nbsp;[†](#w-cloud-computing)
+
+Cloud storage
+: A model of computer data storage in which the digital data is stored in logical pools. The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a hosting company. These cloud storage providers are responsible for keeping the data available and accessible, and the physical environment protected and running. People and organizations buy or lease storage capacity from the providers to store user, organization, or application data.&nbsp;[†](#w-cloud-storage)
 
 CMS
 : → Content Management System
@@ -123,7 +127,7 @@ CNAME
 : → Canonical Name
 
 CNAME cloaking
-: @@
+: The disguising of third-party resources as first-party resources through the modification of domain CNAME entries. CNAME cloaking is used to get around tracking protections. 
 
 Coalescing
 : The merging of two adjacent free blocks of memory, which is relevant as when an application frees memory, gaps can fall in the memory segment that the application uses.&nbsp;[†](#w-coalescing)
@@ -132,11 +136,29 @@ Coalescing
 Chaining
 : The calling of several methods after another on an object.
 
+Change list
+: the set of changes made in a single commit. This can also represent a sequential view of the source code, allowing the examination of source "as of" any particular changelist ID.&nbsp;[†](#w-cl)
+
+Change set
+: → Change list
+
 Changeset
-: @@
+: A method to handle multi-package changes and versions. ℹ︎&nbsp;[github.com/atlassian/changesets](https://github.com/atlassian/changesets)
+
+CL
+: → Change list
+
+Clone detection
+: The automated process of finding duplications in source code.&nbsp;[†](#w-duplicate-code)
+
+CoC
+: → Code of Conduct
 
 Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
+
+Code of Conduct
+: A set of rules outlining the norms, rules, and responsibilities of, and or proper practices for, an individual.&nbsp;[†](#w-coc)
 
 Code point
 : Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
@@ -202,7 +224,7 @@ Cone of Uncertainty
 : A model for the evolution of the amount of best case uncertainty during a project. At the beginning of a project, comparatively little is known about the product or work results, and so estimates are subject to large uncertainty. As more research and development is done, more information is learned about the project, and the uncertainty then tends to decrease. The change in uncertainty makes for the shape of a cone.&nbsp;[†](#w-cone-of-uncertainty)
 
 Conflict of interest
-: @@
+: A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
 
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
@@ -214,8 +236,11 @@ Constructor
 : A special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.&nbsp;[†](#w-constructor)
 
 Content
-: @@
-: @@
+: → Content box
+: The information and experiences that are directed toward an end-user or audience. Content is "something that is to be expressed through some medium, as speech, writing or any of various arts." Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, e-books, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
+
+Content box
+: → Box
 
 Content Delivery Network
 : A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating the performance bottlenecks of the Internet. They are a layer in the internet ecosystem.&nbsp;[†](#w-cdn)
@@ -257,7 +282,7 @@ CORS
 : → Cross-Origin Resource Sharing
 
 Craft
-: @@
+: A pastime or a profession that requires particular skills and knowledge of skilled work. The traditional term craftsman is nowadays often replaced by artisan and rarely by craftsperson (craftspeople).&nbsp;[†](#w-craft)
 
 Crawler
 : An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)

@@ -25,7 +25,7 @@ ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
 Access control
-: @@
+: The selective restriction of access to a place or other resource while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
 
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
@@ -79,7 +79,7 @@ Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
 Amazon Web Services
-: @@
+: A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
 
 American National Standards Institute
 : A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” ℹ︎&nbsp;[ansi.org](https://www.ansi.org/)
@@ -109,7 +109,7 @@ ANSI
 : → American National Standards Institute
 
 Anti-pattern
-: @@
+: A common response to a recurring problem that is usually ineffective and risks being highly counterproductive, and that has more bad consequences than good ones.&nbsp;[†](#w-anti-pattern)
 
 AOM
 : → Accessibility Object Model

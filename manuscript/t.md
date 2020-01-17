@@ -95,7 +95,13 @@ TPM
 Tracer
 : @@
 
+Trade
+: → Craft
+
 Transmission Control Protocol
+: @@
+
+Transpiler
 : @@
 
 Transport Layer Security

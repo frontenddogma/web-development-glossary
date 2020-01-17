@@ -108,6 +108,7 @@ DMZ
 
 DNS
 : → Domain Name Service
+: → Domain Name System
 
 Doctype
 : An instruction that associates a particular SGML (for example, a web page) with a document type definition (DTD) (for example, the formal definition of a particular version of HTML) or XML document. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks mode or standards mode. The `text/html` serialization of HTML, which is not SGML-based, uses the doctype only for mode selection. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they don’t use DTDs and will not access them even if a URL is provided. The doctype is retained in current HTML as a “mostly useless, but required“ header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
@@ -137,6 +138,9 @@ Domain name
 : An identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site, or the web site itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
 
 Domain Name Service
+: → Domain Name System
+
+Domain Name System
 : A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
 
 Domain sharding
@@ -145,8 +149,8 @@ Domain sharding
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
 
-Doorway
-: @@
+Doorway page
+: A web page that is created for the deliberate manipulation of search engine indexes (spamdexing). A doorway page will affect the index of a search engine by inserting results for particular phrases while sending visitors to a different page. Doorway pages that redirect visitors without their knowledge use some form of cloaking. This usually falls under Black Hat SEO.&nbsp;[†](#w-doorway-page)
 
 DoS
 : → Denial of Service
@@ -166,8 +170,11 @@ DRY
 DTD
 : → Document Type Definition
 
-Duplication
-: @@
+Dup
+: → Duplicate code
+
+Duplicate code
+: A sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplications in source code is called clone detection.&nbsp;[†](#w-duplicate-code)
 
 DVCS
 : → Distributed Version Control System

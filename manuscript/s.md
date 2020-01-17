@@ -79,8 +79,14 @@ Selector
 SEM
 : → Search Engine Marketing
 
+Semantic Versioning
+: @@
+
 Semantics
 : @@
+
+SemVer
+: → Semantic Versioning
 
 SEO
 : → Search Engine Optimization
@@ -89,6 +95,9 @@ Separation of Concerns
 : @@
 
 Server
+: @@
+
+Server farm
 : @@
 
 Server side
@@ -223,6 +232,9 @@ Spaghetti code
 Spam
 : @@
 
+Spamdexing
+: @@
+
 Specification
 : @@
 
@@ -233,6 +245,9 @@ Spider
 : → Crawler
 
 Splash screen
+: @@
+
+Spoofing
 : @@
 
 Sprint

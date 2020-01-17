@@ -5,6 +5,7 @@
 This book uses material from the following Wikipedia articles:
 
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
+* [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
@@ -14,7 +15,9 @@ This book uses material from the following Wikipedia articles:
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
+* [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
+* [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
 * [Application software](https://en.wikipedia.org/wiki/Application_software){#w-application}
@@ -28,6 +31,7 @@ This book uses material from the following Wikipedia articles:
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
 * [Authorization](https://en.wikipedia.org/wiki/Authorization){#w-authorization}
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
+* [Babel (transpiler)](https://en.wikipedia.org/wiki/Babel_(transpiler)){#w-babel}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
@@ -35,6 +39,7 @@ This book uses material from the following Wikipedia articles:
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
+* [Black hat (computer security)](https://en.wikipedia.org/wiki/Black_hat_(computer_security)){#w-black-hat}
 * [Blink (browser engine)](https://en.wikipedia.org/wiki/Blink_(browser_engine)){#w-blink}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
@@ -59,9 +64,14 @@ This book uses material from the following Wikipedia articles:
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
 * [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
+* [Cloaking](https://en.wikipedia.org/wiki/Cloaking){#w-cloaking}
 * [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
+* [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing){#w-cloud-computing}
+* [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage){#w-cloud-storage}
+* [CNAME record](https://en.wikipedia.org/wiki/CNAME_record){#w-cname}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
+* [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
@@ -75,9 +85,11 @@ This book uses material from the following Wikipedia articles:
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
 * [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
 * [Cone of Uncertainty](https://en.wikipedia.org/wiki/Cone_of_Uncertainty){#w-cone-of-uncertainty}
+* [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest){#w-conflict-of-interest}
 * [Console application](https://en.wikipedia.org/wiki/Console_application){#w-console}
 * [Constant (computer programming)](https://en.wikipedia.org/wiki/Constant_(computer_programming)){#w-constant}
 * [Constructor (object-oriented programming)](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)){#w-constructor}
+* [Content (media)](https://en.wikipedia.org/wiki/Content_(media)){#w-content}
 * [Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network){#w-cdn}
 * [Content management system](https://en.wikipedia.org/wiki/Content_management_system){#w-cms}
 * [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy){#w-csp}
@@ -87,9 +99,11 @@ This book uses material from the following Wikipedia articles:
 * [Control flow](https://en.wikipedia.org/wiki/Control_flow){#w-control-flow}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
+* [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
+* [CSS box model](https://en.wikipedia.org/wiki/CSS_box_model){#w-box-model}
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
@@ -113,7 +127,9 @@ This book uses material from the following Wikipedia articles:
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
+* [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
+* [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * [Ecma International](https://en.wikipedia.org/wiki/Ecma_International){#w-ecma-international}
@@ -195,6 +211,7 @@ This book uses material from the following Wikipedia articles:
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
+* [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
@@ -225,6 +242,7 @@ This book uses material from the following articles by Mozilla contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
+* [Bounding Box](https://developer.mozilla.org/en-US/docs/Glossary/bounding_box){#m-bounding-box}
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
 * [Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack){#m-call-stack}

@@ -1,7 +1,7 @@
 # B
 
 Babel
-: @@
+: A JavaScript transpiler that is mainly used to convert ECMAScript 2015+ (ES6+) code into a backwards compatible version of JavaScript that can be run by older JavaScript engines.&nbsp;[†](#w-babel) ℹ︎&nbsp;[babeljs.io](https://babeljs.io/)
 
 Backend
 : The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
@@ -55,6 +55,9 @@ Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image
 
+Black hat
+: Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
+
 Blink
 : A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
@@ -107,11 +110,17 @@ Bootstrap
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
 
+Bounding box
+: The smallest possible rectangle (aligned with the axes of that element's user coordinate system) that entirely encloses an element and its descendants.&nbsp;[‡](#m-bounding-box) 
+
 Bourne shell
 : A shell, or command-line interpreter, for computer operating systems. Developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name (`sh`). The Bourne shell was released in 1979 in the Version 7 Unix release distributed to colleges and universities.&nbsp;[†](#w-bourne-shell)
 
 Border
-: @@
+: Any kind of line (solid, dotted, dashed, …) surrounding an element on a web page, if present.
+
+Box
+: The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)
 
 Box model
 : A concept for the rectangular boxes that are generated for elements in the document tree and laid out according to the visual formatting model. The boxes consist of content, padding, border, and margin areas.
