@@ -16,7 +16,7 @@ HEIF
 : → High Efficiency Image File Format
 
 Hick’s Law
-: A model describing the time it takes for a person to make a decision as a result of the possible choices he or she has: increasing the number of choices will increase the decision time logarithmically. Hick’s Law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick–Hyman law is known as the rate of gain of information.&nbsp;[†](#w-hicks-law)
+: A model describing the time it takes for a person to make a decision as a result of the possible choices he or she has: increasing the number of choices will increase the decision time logarithmically. Hick’s Law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick-Hyman law is known as the rate of gain of information.&nbsp;[†](#w-hicks-law)
 
 Hick-Hyman Law
 : → Hick’s Law

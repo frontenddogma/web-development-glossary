@@ -43,7 +43,7 @@ First Paint
 : The time between navigation and when the browser render the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “is it happening?”&nbsp;[‡](#m-first-paint)
 
 Fitts’ Law
-: A predictive model of human movement primarily used in human–computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
+: A predictive model of human movement primarily used in human-computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
 
 Fixed
 : A web design approach in which page elements have a fixed as opposed to variable width. Outdated with the popularity of mobile devices and the concept of responsive design.

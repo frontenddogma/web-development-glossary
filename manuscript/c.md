@@ -105,7 +105,7 @@ Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
 
 Cloaking
-: A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to the user's browser. This can be done by delivering content based on the IP addresses or the User-Agent HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is sometimes to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
+: A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to the user’s browser. This can be done by delivering content based on the IP addresses or the User-Agent HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is sometimes to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
 
 Closure
 : A technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those captured variables through the closure’s copies of their values or references, even when the function is invoked outside their scope.&nbsp;[†](#w-closure)
@@ -137,7 +137,7 @@ Chaining
 : The calling of several methods after another on an object.
 
 Change list
-: the set of changes made in a single commit. This can also represent a sequential view of the source code, allowing the examination of source "as of" any particular changelist ID.&nbsp;[†](#w-cl)
+: the set of changes made in a single commit. This can also represent a sequential view of the source code, allowing the examination of source “as of” any particular changelist ID.&nbsp;[†](#w-cl)
 
 Change set
 : → Change list
@@ -237,7 +237,7 @@ Constructor
 
 Content
 : → Content box
-: The information and experiences that are directed toward an end-user or audience. Content is "something that is to be expressed through some medium, as speech, writing or any of various arts." Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, e-books, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
+: The information and experiences that are directed toward an end-user or audience. Content is “something that is to be expressed through some medium, as speech, writing or any of various arts.” Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, e-books, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
 
 Content box
 : → Box
