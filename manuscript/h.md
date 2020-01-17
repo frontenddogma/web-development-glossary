@@ -39,7 +39,7 @@ Holey
 Home page
 : The initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well.&nbsp;[†](#w-home-page)
 
-Home Screen
+Home screen
 : The main screen on a mobile operating system or computer program. Home screens are not identical because users can rearrange icons as they please, and home screens often differ across mobile operating systems. Almost every smartphone has some form of home screen, which typically displays links to applications, settings, and notifications.&nbsp;[†](#w-home-screen)
 
 Homepage
