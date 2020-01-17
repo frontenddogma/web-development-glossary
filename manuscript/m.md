@@ -15,6 +15,9 @@ Maintainability
 Maintenance
 : @@
 
+Margin
+: @@
+
 Marketing
 : @@
 
@@ -37,6 +40,9 @@ Media
 : @@
 
 Media query
+: @@
+
+Merge Request
 : @@
 
 Merging
@@ -90,6 +96,15 @@ Modern
 Modular
 : @@
 
+Module
+: @@
+
+Monolith
+: @@
+
+Monorepo
+: @@
+
 Mosaic
 : @@
 
@@ -98,6 +113,9 @@ Moving Picture Experts Group
 
 MPEG
 : → Moving Picture Experts Group
+
+MR
+: → Merge Request
 
 Multimedia
 : @@

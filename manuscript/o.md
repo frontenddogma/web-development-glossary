@@ -75,6 +75,9 @@ OTA
 OTP
 : → One-Time Password
 
+Outline
+: @@
+
 Over the Air
 : @@
 

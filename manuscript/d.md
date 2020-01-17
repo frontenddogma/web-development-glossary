@@ -145,6 +145,9 @@ Domain sharding
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
 
+Doorway
+: @@
+
 DoS
 : → Denial of Service
 
@@ -162,6 +165,9 @@ DRY
 
 DTD
 : → Document Type Definition
+
+Duplication
+: @@
 
 DVCS
 : → Distributed Version Control System

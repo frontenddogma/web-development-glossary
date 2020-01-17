@@ -82,6 +82,9 @@ Null
 Number
 : @@
 
+Numeral
+: @@
+
 Numeric character reference
 : A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
 

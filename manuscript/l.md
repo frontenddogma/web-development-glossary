@@ -27,6 +27,9 @@ Layout engine
 Lead Time
 : @@
 
+Lean
+: @@
+
 Left-to-Right
 : @@
 

@@ -6,6 +6,9 @@ Hashtag
 hasLayout
 : A peculiarity in Internet Explorer ≤8 that influences how page elements are drawn or interact. Though some elements “automatically” “have layout,” hasLayout can also be forced by particular CSS properties and declarations. ℹ︎&nbsp;[sitepoint.com/internet-explorer-haslayout-property](https://www.sitepoint.com/internet-explorer-haslayout-property/)
 
+Heading content
+: @@
+
 HEIC
 : → High Efficiency Image Coding
 

@@ -6,6 +6,9 @@ Packed
 Packet
 : @@
 
+Padding
+: @@
+
 Page
 : @@
 
@@ -16,6 +19,12 @@ Page Quality
 : @@
 
 Page view
+: @@
+
+Pair programming
+: @@
+
+Palpable content
 : @@
 
 Paradigm
@@ -60,7 +69,13 @@ Perceived performance
 Performance
 : @@
 
+Perl
+: @@
+
 Permalink
+: @@
+
+Persona
 : @@
 
 Phoenix
@@ -70,6 +85,9 @@ PHP
 : → Hypertext Preprocessor
 
 PhpStorm
+: @@
+
+Phrasing content
 : @@
 
 Ping
@@ -122,6 +140,9 @@ POUR
 
 PQ
 : → Page Quality
+
+PR
+: → Pull Request
 
 Prefetch
 : @@
@@ -179,6 +200,9 @@ Pseudo-element
 : @@
 
 Pseudocode
+: @@
+
+Pull Request
 : @@
 
 PWA

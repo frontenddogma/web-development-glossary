@@ -85,6 +85,9 @@ Infrastructure as Code
 Inheritance
 : @@
 
+Inline
+: @@
+
 Inline box
 : @@
 
@@ -113,6 +116,9 @@ Interaction Design Association
 : @@
 
 Interactive Advertising Bureau
+: @@
+
+Interactive content
 : @@
 
 Internal

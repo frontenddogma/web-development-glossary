@@ -114,6 +114,9 @@ WHATWG
 Whitespace
 : @@
 
+WHOIS
+: @@
+
 WIP
 : → Work in Progress
 

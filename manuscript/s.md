@@ -214,6 +214,9 @@ Source Lines of Code
 SPA
 : → Single-Page Application
 
+Spacer
+: @@
+
 Spaghetti code
 : @@
 
@@ -242,6 +245,9 @@ SQL
 : → Structured Query Language
 
 SQL injection
+: @@
+
+Squad
 : @@
 
 SSH

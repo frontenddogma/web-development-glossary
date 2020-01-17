@@ -24,6 +24,9 @@ ACT
 ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
+Access control
+: @@
+
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
 
@@ -75,6 +78,9 @@ Algorithm
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
+Amazon Web Services
+: @@
+
 American National Standards Institute
 : A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” ℹ︎&nbsp;[ansi.org](https://www.ansi.org/)
 
@@ -101,6 +107,9 @@ Anonymous inline element
 
 ANSI
 : → American National Standards Institute
+
+Anti-pattern
+: @@
 
 AOM
 : → Accessibility Object Model
@@ -194,5 +203,8 @@ Automatic Semicolon Insertion
 
 Automation
 : A technology by which a process or procedure is performed with minimal human assistance. Automation or automatic control is the use of various control systems for operating equipment.&nbsp;[†](#w-automation)
+
+AWS
+: → Amazon Web Services
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/a.md) and become a glossary&nbsp;contributor!

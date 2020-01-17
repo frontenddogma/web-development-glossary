@@ -12,6 +12,9 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
+Canonical Name
+: @@
+
 Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
 
@@ -101,11 +104,26 @@ Client Hints
 Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
 
+Cloaking
+: @@
+
 Closure
 : A technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those captured variables through the closure’s copies of their values or references, even when the function is invoked outside their scope.&nbsp;[†](#w-closure)
 
+Cloud
+: @@
+
+Cloud computing
+: @@
+
 CMS
 : → Content Management System
+
+CNAME
+: → Canonical Name
+
+CNAME cloaking
+: @@
 
 Coalescing
 : The merging of two adjacent free blocks of memory, which is relevant as when an application frees memory, gaps can fall in the memory segment that the application uses.&nbsp;[†](#w-coalescing)
@@ -113,6 +131,9 @@ Coalescing
 
 Chaining
 : The calling of several methods after another on an object.
+
+Changeset
+: @@
 
 Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
@@ -192,6 +213,10 @@ Constant
 Constructor
 : A special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.&nbsp;[†](#w-constructor)
 
+Content
+: @@
+: @@
+
 Content Delivery Network
 : A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating the performance bottlenecks of the Internet. They are a layer in the internet ecosystem.&nbsp;[†](#w-cdn)
 
@@ -230,6 +255,9 @@ Corporate Identity
 
 CORS
 : → Cross-Origin Resource Sharing
+
+Craft
+: @@
 
 Crawler
 : An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)

@@ -33,10 +33,16 @@ Recommendation
 Recursion
 : @@
 
+Red Flag Law
+: @@
+
 Red, Green, and Blue
 : @@
 
 Redirect
+: @@
+
+Redundancy
 : @@
 
 Reflow

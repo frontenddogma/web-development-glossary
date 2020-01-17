@@ -24,6 +24,9 @@ XML User Interface Language
 XMLHttpRequest
 : An API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser’s JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML, but also HTML, JSON, or plain text.&nbsp;[†](#w-xmlhttprequest)
 
+XP
+: → Extreme Programming
+
 XPath
 : A query language for selecting nodes from an XML document. In addition, XPath may be used to compute values (e.g., strings, numbers, or Boolean values) from the content of an XML document. XPath was developed by the World Wide Web Consortium (W3C) in 1998.&nbsp;[†](#w-xpath) ℹ︎&nbsp;[w3.org/TR/xpath-3](https://www.w3.org/TR/xpath-3/)
 
