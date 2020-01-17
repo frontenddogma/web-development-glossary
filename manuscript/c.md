@@ -180,6 +180,9 @@ Conditional Comments
 Cone of Uncertainty
 : A model for the evolution of the amount of best case uncertainty during a project. At the beginning of a project, comparatively little is known about the product or work results, and so estimates are subject to large uncertainty. As more research and development is done, more information is learned about the project, and the uncertainty then tends to decrease. The change in uncertainty makes for the shape of a cone.&nbsp;[†](#w-cone-of-uncertainty)
 
+Conflict of interest
+: @@
+
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
 
