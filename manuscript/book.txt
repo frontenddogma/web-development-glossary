@@ -1,6 +1,5 @@
 acknowledgments.md
 intro.md
-legal.md
 a.md
 b.md
 c.md
