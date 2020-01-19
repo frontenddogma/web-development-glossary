@@ -58,7 +58,7 @@ Meta tag
 : @@
 
 Metadata content
-: Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of the document with other documents, or that conveys other "out of band" information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
+: Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of the document with other documents, or that conveys other “out of band” information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
 
 Method
 : @@
