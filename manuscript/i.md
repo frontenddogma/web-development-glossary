@@ -9,6 +9,9 @@ I18N
 IA
 : → Information Architecture
 
+IaaS
+: → Infrastructure as a Service
+
 IAB
 : → In-App Browser
 : → Interactive Advertising Bureau
@@ -25,9 +28,6 @@ Icon
 Icon font
 : A fonts that contains symbols and glyphs rather than letters or numbers.
 
-Icon system
-: @@
-
 ID
 : → Identifier
 
@@ -35,7 +35,7 @@ IDE
 : → Integrated Development Environment
 
 Identifier
-: @@
+: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the "object" or class may be an idea, physical or countable object (or class thereof), or physical or noncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
 
 IETF
 : → Internet Engineering Task Force
@@ -50,46 +50,49 @@ Iframe
 : A frame placed inside the body of an HTML document, usually referring to respective `iframe` element.
 
 Image
-: @@
+: An artifact that depicts visual perception, such as a photograph or other two-dimensional picture, particularly one that resembles a subject (usually a physical object). In the context of signal processing, an image is a distributed amplitude of color(s). In web development, an image often refers to an image file.&nbsp;[†](#w-image)
 
 Image map
-: @@
+: A list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination). Image maps can be created in different ways, from server-side image maps relying on the `ismap` attribute to client-side image maps using the `map` and `area` elements, or a combination of list markup and CSS styling.&nbsp;[†](#w-image-map)
 
 Image replacement
-: @@
+: An early web design technique that uses Cascading Style Sheets to replace text on a web page with an image containing that text. It is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[meiert.com/de/publications/articles/20050513](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
 
 Immediately Invoked Function Expression
-: @@
+: A JavaScript function that runs as soon as it is defined. The IIFE is a design pattern which is also known as a Self-Executing Anonymous Function and contains two major parts: The first is the anonymous function with lexical scope enclosed within the Grouping Operator (`()`). This prevents accessing variables within the IIFE idiom as well as polluting the global scope. The second part creates the immediately invoked function expression (`()`) through which the JavaScript engine will directly interpret the function.&nbsp;[‡](#m-iife)
 
 Immutable
-: @@
+: A property of an object whose state cannot be modified after it was created (an immutable or unchangeable object). This is in contrast to a mutable object. In some cases, an object is considered immutable even if some internally used attributes change, but the object's state appears unchanging from an external point of view. Strings and other concrete objects are typically expressed as immutable objects to improve readability and runtime efficiency in object-oriented programming. Immutable objects are also useful because they are inherently thread-safe.&nbsp;[†](#w-immutable)
 
 In-App Browser
 : A browser instance in a mobile application, usually working on the basis of WebViews (Android) or WKWebViews (iOS).
 
 Increment
-: A term from the Scrum framework that describes a piece of working software that adds to previously created software and that, in total, forms respective product.
+: A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. An Increment must be usable and meet the definition of "Done.” 
 
 Industrial Design
-: @@
+: A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product's form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
 Information Architecture
-: @@
+: The structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
 Information Design
-: @@
+: The practice of presenting information in a way that fosters an efficient and effective understanding of the information. The term has come to be used for a specific area of graphic design related to displaying information effectively, rather than just attractively or for artistic expression. Information design is closely related to the field of data visualization. The broad applications of information design along with its close connections to other fields of design and communication practices have created some overlap in the definitions of communication design, data visualization, and information architecture.&nbsp;[†](#w-information-design)
 
 Information Security
-: @@
+: The practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
 Infosec
 : → Information Security
 
 Infrastructure as Code
-: @@
+: The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.&nbsp;[†](#w-iac)
+
+Infrastructure as a Service
+: Online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, or backup. A hypervisor runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to varying requirements.&nbsp;[†](#w-iaas)
 
 Inheritance
-: @@
+: The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a "child object") acquires all the properties and behaviors of the parent object (except: constructors, destructor, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces.&nbsp;[†](#w-inheritance)
 
 Inline
 : @@

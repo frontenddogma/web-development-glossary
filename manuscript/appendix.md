@@ -110,6 +110,7 @@ This book uses material from the following Wikipedia articles:
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
 * [CSS box model](https://en.wikipedia.org/wiki/CSS_box_model){#w-box-model}
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
+* [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
@@ -201,6 +202,17 @@ This book uses material from the following Wikipedia articles:
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
+* [Identifier](https://en.wikipedia.org/wiki/Identifier){#w-id}
+* [Image](https://en.wikipedia.org/wiki/Image){#w-image}
+* [Image map](https://en.wikipedia.org/wiki/Image_map){#w-image-map}
+* [Immutable object](https://en.wikipedia.org/wiki/Immutable_object){#w-immutable}
+* [Industrial design](https://en.wikipedia.org/wiki/Industrial_design){#w-industrial-design}
+* [Information architecture](https://en.wikipedia.org/wiki/Information_architecture){#w-ia}
+* [Information design](https://en.wikipedia.org/wiki/Information_design){#w-information-design}
+* [Information security](https://en.wikipedia.org/wiki/Information_security){#w-infosec}
+* [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
+* [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
+* [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
 * @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
@@ -290,6 +302,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
+* [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

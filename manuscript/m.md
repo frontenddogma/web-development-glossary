@@ -45,6 +45,9 @@ Media
 Media query
 : @@
 
+Memoization
+: @@
+
 Merge Request
 : @@
 
@@ -136,6 +139,9 @@ Mustard-cutting
 : @@
 
 Mutable
+: A property of an object whose state can be modified after it was created (mutable or changeable object). This is in contrast to an immutable object.&nbsp;[†](#w-immutable)
+
+Mutation
 : @@
 
 MVC

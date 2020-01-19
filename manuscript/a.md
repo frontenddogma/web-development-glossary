@@ -192,6 +192,9 @@ Atomic CSS
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
 
+Attribute minimization
+: @@
+
 Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 

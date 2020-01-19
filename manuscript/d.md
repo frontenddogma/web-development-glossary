@@ -6,6 +6,9 @@ Daily Scrum
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
+Data visualization
+: @@
+
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 

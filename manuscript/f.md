@@ -18,6 +18,9 @@ FCP
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
 
+File
+: @@
+
 File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
 

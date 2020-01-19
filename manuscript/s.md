@@ -265,6 +265,9 @@ Sprint
 Sprint Goal
 : @@
 
+Sprite
+: @@
+
 SQL
 : → Structured Query Language
 
