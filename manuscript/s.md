@@ -142,6 +142,9 @@ Shim
 Shockwave Flash
 : → Flash player
 
+Shopping platform
+: @@
+
 Shortcut icon
 : → Favicon
 
@@ -293,6 +296,9 @@ Standup
 : → Daily Scrum
 
 Star hack
+: @@
+
+Starring
 : @@
 
 Start page

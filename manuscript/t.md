@@ -28,6 +28,9 @@ TCP
 TDD
 : → Test-Driven Development
 
+Tech Twitter
+: @@
+
 Technical debt
 : @@
 
@@ -86,6 +89,9 @@ TOFU
 : → Trust on First Use
 
 Top-Level Domain
+: @@
+
+Top-posting
 : @@
 
 TPM

@@ -87,10 +87,16 @@ WebGL
 WebKit
 : @@
 
+Weblog
+: → Blog
+
 WebM
 : @@
 
 WebP
+: @@
+
+WebSocket
 : @@
 
 WebStorm
@@ -110,6 +116,9 @@ What You See Is What You Get
 
 WHATWG
 : → Web Hypertext Application Technology Working Group
+
+Whitelist
+: @@
 
 Whitespace
 : @@

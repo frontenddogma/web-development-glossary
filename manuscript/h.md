@@ -1,5 +1,8 @@
 # H
 
+Hard reset
+: @@
+
 Hashtag
 : A type of metadata tag used on social networks such as Twitter and other microblogging services. It lets users apply dynamic, user-generated tagging that helps other users easily find messages with a specific theme or content. Users create and use hashtags by placing an octothorpe (`#`, also called a number sign, or pound sign) usually in front of a word or unspaced phrase in a message. Searching for that hashtag yields each message that someone has tagged with it. A hashtag archive is consequently collected into a single stream under the same hashtag.&nbsp;[†](#w-hashtag)
 
@@ -65,6 +68,9 @@ HTML/CSS framework
 
 HTML5
 : → HTML 5
+
+HTML5 Boilerplate
+: @@
 
 HTTP
 : → Hypertext Transfer Protocol

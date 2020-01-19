@@ -57,6 +57,9 @@ Pattern
 Pattern library
 : @@. May be part of a design system.
 
+Pave the cowpaths
+: @@
+
 PBI
 : → Product Backlog Item
 
@@ -147,10 +150,13 @@ PQ
 PR
 : → Pull Request
 
-Prefetch
+Prefetching
 : @@
 
-Prerender
+Premature optimization
+: @@
+
+Prerendering
 : @@
 
 Presto

@@ -58,6 +58,9 @@ Bitmap
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
 
+Blacklist
+: @@
+
 Blink
 : A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
@@ -89,6 +92,12 @@ Block-level box
 Block-level element
 : An element that is formatted visually as a block.
 
+Blog
+: @@
+
+Blogging
+: @@
+
 BMP
 : → Bitmap
 
@@ -118,6 +127,9 @@ Bourne shell
 
 Border
 : Any kind of line (solid, dotted, dashed, …) surrounding an element on a web page, if present.
+
+Bottom-posting
+: @@
 
 Box
 : The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)

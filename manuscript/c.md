@@ -24,6 +24,9 @@ Card sorting
 Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
+Cart
+: @@
+
 Cascade
 : The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration “wins”).
 
@@ -162,6 +165,9 @@ Code of Conduct
 
 Code point
 : Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
+
+Code review
+: @@
 
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)

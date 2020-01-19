@@ -15,11 +15,17 @@ Ecma International
 ECMAScript
 : ECMAScript (or ES) is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript to help foster multiple independent implementations. JavaScript has remained the best-known implementation of ECMAScript since the standard was first published, with other well-known implementations including JScript and ActionScript. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.&nbsp;[†](#w-ecmascript)
 
+eCommerce
+: @@
+
 Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
 
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source-code editors are a fundamental programming tool, as the fundamental job of programmers is to write and edit source code.&nbsp;[†](#w-editor)
+
+EditorConfig
+: @@
 
 EFF
 : → Electronic Frontier Foundation
@@ -87,6 +93,9 @@ ES
 
 Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
+
+Etiquette
+: @@
 
 European Computer Manufacturers Association
 : → Ecma International

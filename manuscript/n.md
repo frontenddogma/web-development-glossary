@@ -58,7 +58,7 @@ Noob
 Normalization
 : @@
 
-Normalizer
+Normalize.css
 : @@
 
 Normative

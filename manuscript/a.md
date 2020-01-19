@@ -144,6 +144,9 @@ Argument
 ARIA
 : → Accessible Rich Internet Applications
 
+ARIA role
+: @@
+
 Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)
 
