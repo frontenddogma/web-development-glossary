@@ -25,7 +25,7 @@ Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
 Cart
-: @@
+: → Shopping cart
 
 Cascade
 : The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration “wins”).
@@ -54,6 +54,9 @@ CDN
 
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
+
+CGI
+: → Common Gateway Interface
 
 Character
 : An encoded symbol that maps to a glyph.
@@ -167,7 +170,7 @@ Code point
 : Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
 
 Code review
-: @@
+: A software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation. At least one of the persons must not be the code's author. The persons performing the checking, excluding the author, are called “reviewers.”&nbsp;[†](#w-code-review)
 
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a few bytes larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
@@ -189,6 +192,9 @@ Command-Line Interface
 
 Comment
 : A developer-readable explanation or annotation in the source code of a computer program. Comments are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. The syntax of comments in various programming languages varies considerably.&nbsp;[†](#w-comment)
+
+Common Gateway Interface
+: An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
 
 Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)

@@ -3,6 +3,12 @@
 L10N
 : → Localization
 
+Lambda abstraction
+: → Anonymous function
+
+Lambda expression
+: → Anonymous function
+
 LAMP
 : @@
 

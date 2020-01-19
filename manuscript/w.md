@@ -118,7 +118,7 @@ WHATWG
 : → Web Hypertext Application Technology Working Group
 
 Whitelist
-: @@
+: The practice of explicitly allowing identified entities access to a particular privilege, service, mobility, access, or recognition. The opposite of a whitelist is a blacklist.&nbsp;[†](#w-whitelist)
 
 Whitespace
 : @@

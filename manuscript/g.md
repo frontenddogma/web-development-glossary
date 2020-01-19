@@ -40,11 +40,14 @@ GNU General Public License
 : A widely-used free software license that guarantees end users the freedom to run, study, share, and modify the software. The license was originally written by Richard Stallman for the GNU Project, and grants the recipients of a computer program the rights of the Free Software Definition. The GPL is a copyleft license, which means that derivative work must be free software and distributed under the same or equivalent license terms. This is in distinction to permissive free software licenses, of which the BSD licenses and the MIT License are widely-used less-restrictive examples. GPL was the first copyleft license for general use.&nbsp;[†](#w-gpl)
 
 Go
-: @@
-: @@
+: A statically typed, compiled programming language developed by Robert Griesemer, Rob Pike, and Ken Thompson, and released by Google in 2009. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.&nbsp;[†](#w-go) ℹ︎&nbsp;[golang.org](https://golang.org/)
+: A Google-proprietary HTML/CSS framework.
 
 Goanna
 : A browser engine that is a fork of Mozilla’s Gecko. It is used in the Pale Moon browser, the Basilisk browser, and other UXP-based applications. A fork of the K-Meleon browser also uses Goanna. Goanna as an independent fork of Gecko was first released in January 2016.&nbsp;[†](#w-goanna)
+
+Golang
+: → Go
 
 GPL
 : → GNU General Public License

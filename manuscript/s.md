@@ -64,6 +64,9 @@ Search Engine Optimization
 Searching
 : @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
+Sectioning content
+: Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
+
 Secure Shell
 : @@
 
@@ -141,6 +144,9 @@ Shim
 
 Shockwave Flash
 : → Flash player
+
+Shopping cart
+: @@
 
 Shopping platform
 : @@

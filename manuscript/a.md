@@ -100,7 +100,7 @@ Anonymous block element
 : → Anonymous block box
 
 Anonymous function
-: @@
+: A function definition that is not bound to an identifier. Anonymous functions are often arguments being passed to higher-order functions, or used for constructing the result of a higher-order function that needs to return a function. If the function is only used once, or a limited number of times, an anonymous function may be syntactically lighter than using a named function. Anonymous functions are ubiquitous in functional programming languages and other languages with first-class functions.&nbsp;[†](#w-anonymous-function)
 
 Anonymous inline box
 : Inline boxes that do not have an associated inline-level element.
@@ -147,8 +147,8 @@ Argument
 ARIA
 : → Accessible Rich Internet Applications
 
-ARIA role
-: @@
+ARIA roles
+: A set of predefined names that can be used to specify the meaning and purpose of markup elements. Roles can cover abstract use cases, widgets, document structure, landmarks, live regions, and windows, and are set using the `role` attribute.
 
 Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)

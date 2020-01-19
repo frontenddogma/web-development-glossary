@@ -59,7 +59,7 @@ Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
 
 Blacklist
-: @@
+: A basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned. Those items on the list are denied access. The opposite of a blacklist is a whitelist.&nbsp;[†](#w-blacklist)
 
 Blink
 : A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
@@ -93,10 +93,10 @@ Block-level element
 : An element that is formatted visually as a block.
 
 Blog
-: @@
+: A discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual, occasionally of a small group, and often covered a single subject or topic. In the 2010s, "multi-author blogs" (MABs) emerged.&nbsp;[†](#w-blog)
 
 Blogging
-: @@
+: The act of running a blog, and writing posts for a blog.
 
 BMP
 : → Bitmap
@@ -129,7 +129,7 @@ Border
 : Any kind of line (solid, dotted, dashed, …) surrounding an element on a web page, if present.
 
 Bottom-posting
-: @@
+: A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
 Box
 : The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)

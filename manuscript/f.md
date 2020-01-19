@@ -77,7 +77,7 @@ FLOSS
 : → Free/Libre and Open Source Software
 
 Flow content
-: @@
+: An HTML content type that includes most HTML elements. 
 
 Flow of control
 : → Control flow

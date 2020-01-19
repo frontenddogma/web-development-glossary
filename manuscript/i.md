@@ -1,7 +1,7 @@
 # I
 
 `!important`
-: @@
+: An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
 
 I18N
 : → Internationalization
@@ -20,10 +20,10 @@ ICANN
 : → Internet Corporation for Assigned Names and Numbers
 
 Icon
-: @@
+: A pictogram or ideogram displayed on a computer screen in order to help the user navigate a computer system. Icons make for a part of the graphical user interfaces of computer systems.&nbsp;[†](#w-icon)
 
 Icon font
-: @@
+: A fonts that contains symbols and glyphs rather than letters or numbers.
 
 Icon system
 : @@
@@ -100,6 +100,9 @@ Inline box
 Inline element
 : @@
 
+Inline replying
+: → Interleaved posting
+
 Inline-level box
 : @@
 
@@ -125,7 +128,10 @@ Interactive Advertising Bureau
 : @@
 
 Interactive content
-: @@
+: Content that is specifically intended for user interaction.&nbsp;§
+
+Interleaved posting
+: A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
 Internal
 : Not developed outside of one’s organization.

@@ -17,6 +17,7 @@ This book uses material from the following Wikipedia articles:
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
+* [Anonymous function](https://en.wikipedia.org/wiki/Anonymous_function){#w-anonymous-function}
 * [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
@@ -40,7 +41,9 @@ This book uses material from the following Wikipedia articles:
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
 * [Black hat (computer security)](https://en.wikipedia.org/wiki/Black_hat_(computer_security)){#w-black-hat}
+* [Blacklist (computing)](https://en.wikipedia.org/wiki/Blacklist_(computing)){#w-blacklist}
 * [Blink (browser engine)](https://en.wikipedia.org/wiki/Blink_(browser_engine)){#w-blink}
+* [Blog](https://en.wikipedia.org/wiki/Blog){#w-blog}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
@@ -72,11 +75,13 @@ This book uses material from the following Wikipedia articles:
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
+* [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
+* [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
@@ -132,6 +137,7 @@ This book uses material from the following Wikipedia articles:
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
+* [E-commerce](https://en.wikipedia.org/wiki/E-commerce){#w-e-commerce}
 * [Ecma International](https://en.wikipedia.org/wiki/Ecma_International){#w-ecma-international}
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
@@ -142,9 +148,11 @@ This book uses material from the following Wikipedia articles:
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
+* [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
+* [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
@@ -169,6 +177,7 @@ This book uses material from the following Wikipedia articles:
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}
 * [GitLab](https://en.wikipedia.org/wiki/GitLab){#w-gitlab}
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
+* [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
@@ -184,10 +193,14 @@ This book uses material from the following Wikipedia articles:
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
+* [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
+* [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
+* [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
+* [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
 * @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
@@ -199,6 +212,8 @@ This book uses material from the following Wikipedia articles:
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
+* [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
@@ -217,6 +232,7 @@ This book uses material from the following Wikipedia articles:
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
+* [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
 * [XLink](https://en.wikipedia.org/wiki/XLink){#w-xlink}
@@ -253,6 +269,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
+* [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
 * [Dynamic typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing){#m-dynamic-typing}
 * [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}

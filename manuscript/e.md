@@ -1,5 +1,8 @@
 # E
 
+E-commerce
+: The activity of electronically buying or selling of products on online services or over the Internet. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems.&nbsp;[†](#w-e-commerce)
+
 E2E
 : → End-to-end (testing)
 
@@ -15,8 +18,6 @@ Ecma International
 ECMAScript
 : ECMAScript (or ES) is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript to help foster multiple independent implementations. JavaScript has remained the best-known implementation of ECMAScript since the standard was first published, with other well-known implementations including JScript and ActionScript. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.&nbsp;[†](#w-ecmascript)
 
-eCommerce
-: @@
 
 Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
@@ -25,7 +26,7 @@ Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source-code editors are a fundamental programming tool, as the fundamental job of programmers is to write and edit source code.&nbsp;[†](#w-editor)
 
 EditorConfig
-: @@
+: A file format for defining coding styles. ℹ︎&nbsp;[editorconfig.org](https://editorconfig.org/)
 
 EFF
 : → Electronic Frontier Foundation
@@ -52,7 +53,7 @@ Email
 : A method of exchanging messages (“mail”) between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today’s email systems are based on a store-and-forward model.&nbsp;[†](#w-email)
 
 Embedded content
-: @@
+: Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, MathML `math`, `object`, `picture`, SVG `svg`, and `video` elements.&nbsp;§
 
 EME
 : → Encrypted Media Extensions
@@ -95,7 +96,7 @@ Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
 
 Etiquette
-: @@
+: The set of conventional rules of personal behaviour in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
 
 European Computer Manufacturers Association
 : → Ecma International
@@ -104,7 +105,7 @@ Event
 : An action or occurrence recognized by software, often originating asynchronously from the external environment, that may be handled by the software. Computer events can be generated or triggered by the system, by the user or in other ways. Typically, events are handled synchronously with the program flow, that is, the software may have one or more dedicated places where events are handled, frequently an event loop. A source of events includes the user, who may interact with the software by way of, for example, keystrokes on the keyboard. Another source is a hardware device such as a timer. Software can also trigger its own set of events into the event loop, e.g. to communicate the completion of a task. Software that changes its behavior in response to events is said to be event-driven, often with the goal of being interactive.&nbsp;[†](#w-event)
 
 Event handler
-: @@
+: A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
 
 Evidence-Based Management
 : An empirical framework that documents means by which value can be delivered to customers, measures the value delivered, and uses those measures to guide improvements. ℹ︎&nbsp;[scrum.org/resources/evidence-based-management](https://www.scrum.org/resources/evidence-based-management)
@@ -137,6 +138,6 @@ External
 : Not developed within one’s organization.
 
 Extreme Programming
-: @@
+: A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted. Other elements of Extreme Programming include: programming in pairs or doing extensive code review, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer's requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/e.md) and become a glossary&nbsp;contributor!

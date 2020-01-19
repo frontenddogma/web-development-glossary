@@ -25,7 +25,7 @@ Pair programming
 : @@
 
 Palpable content
-: @@
+: Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows any flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
 
 Paradigm
 : @@
@@ -66,6 +66,9 @@ PBI
 PDF
 : → Portable Document Format
 
+Peer review
+: → Code review
+
 Perceivable, Operable, Understandable, and Robust
 : @@
 
@@ -84,6 +87,9 @@ Permalink
 Persona
 : @@
 
+Personal Home Page
+: → PHP
+
 Phoenix
 : → Firefox
 
@@ -94,7 +100,7 @@ PhpStorm
 : @@
 
 Phrasing content
-: @@
+: The text of an HTML document, as well as elements that mark up that text at the intra-paragraph level. Runs of phrasing content form paragraphs.&nbsp;§
 
 Ping
 : @@
