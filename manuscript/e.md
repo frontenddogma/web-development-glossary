@@ -9,6 +9,9 @@ E2E
 EBM
 : → Evidence-Based Management
 
+Eclipse
+: @@
+
 ECMA
 : → European Computer Manufacturers Association
 
