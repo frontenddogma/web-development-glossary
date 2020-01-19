@@ -40,6 +40,9 @@ Identifier
 IETF
 : → Internet Engineering Task Force
 
+IIFE
+: → Immediately Invoked Function Expression
+
 IIS
 : → Internet Information Services
 
@@ -53,6 +56,9 @@ Image map
 : @@
 
 Image replacement
+: @@
+
+Immediately Invoked Function Expression
 : @@
 
 Immutable

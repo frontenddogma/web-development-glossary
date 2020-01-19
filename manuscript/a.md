@@ -99,6 +99,9 @@ Anonymous block box
 Anonymous block element
 : → Anonymous block box
 
+Anonymous function
+: @@
+
 Anonymous inline box
 : Inline boxes that do not have an associated inline-level element.
 
