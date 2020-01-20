@@ -48,6 +48,9 @@ Library
 Ligature
 : @@
 
+Light Mode
+: @@
+
 Line end
 : @@
 

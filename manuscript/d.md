@@ -3,6 +3,9 @@
 Daily Scrum
 : A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day.
 
+Dark Mode
+: @@
+
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 

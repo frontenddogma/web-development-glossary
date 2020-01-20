@@ -117,6 +117,9 @@ WebSocket
 WET
 : The opposite of DRY.
 
+What You See Is All You Get
+: @@
+
 What You See Is What You Get
 : @@
 
@@ -158,6 +161,9 @@ World Wide Web Consortium
 
 WWW
 : → World Wide Web
+
+WYSIAYG
+: → What You See Is All You Get
 
 WYSIWYG
 : → What You See Is What You Get

@@ -12,6 +12,12 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
+Canonical
+: @@
+
+Canonical equivalence
+: @@
+
 Canonical Name
 : A type of resource record in the Domain Name System (DNS) which maps one domain name (an alias) to another (the canonical name).&nbsp;[†](#w-cname)
 
@@ -157,6 +163,9 @@ CL
 Clone detection
 : The automated process of finding duplications in source code.&nbsp;[†](#w-duplicate-code)
 
+Cluster
+: @@
+
 CoC
 : → Code of Conduct
 
@@ -198,6 +207,9 @@ Common Gateway Interface
 
 Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)
+
+Compatibility equivalence
+: @@
 
 Compatibility mode
 : A software mechanism in which a software either emulates an older version of software, or mimics another operating system in order to allow older or incompatible software or files to remain compatible with the computer’s newer hardware or software. Examples of the software using the mode are operating systems and Internet Explorer.&nbsp;[†](#w-compatibility-mode)
