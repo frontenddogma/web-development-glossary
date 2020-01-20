@@ -169,7 +169,7 @@ ASP
 : → Active Server Pages
 
 ASP.NET
-: A server-side web application framework designed for web development to produce dynamic web pages. ASP.NET was developed by Microsoft to allow programmers to build dynamic web sites, applications, and services. It was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft's Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
+: A server-side web application framework designed for web development to produce dynamic web pages. ASP.NET was developed by Microsoft to allow programmers to build dynamic web sites, applications, and services. It was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
 
 
 Aspect ratio

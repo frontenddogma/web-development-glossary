@@ -44,7 +44,7 @@ JPG
 : → JPEG
 
 JScript
-: A dialect of the ECMAScript standard that is used in Microsoft's Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in the Internet Explorer 3.0 browser released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
+: A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in the Internet Explorer 3.0 browser released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
 
 JSON
 : → JavaScript Object Notation
