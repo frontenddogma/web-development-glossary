@@ -16,7 +16,7 @@ Canonical equivalence
 : The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)
 
 Canonical link
-: An HTML element marked `rel=canonical` that helps webmasters prevent duplicate content issues in search engine optimization by specifying the "canonical" or "preferred" version of a web page.&nbsp;[†](#w-canonical-link)
+: An HTML element marked `rel=canonical` that helps webmasters prevent duplicate content issues in search engine optimization by specifying the “canonical” or “preferred” version of a web page.&nbsp;[†](#w-canonical-link)
 
 Canonical Name
 : A type of resource record in the Domain Name System (DNS) which maps one domain name (an alias) to another (the canonical name).&nbsp;[†](#w-cname)
@@ -139,7 +139,7 @@ CNAME
 : → Canonical Name
 
 CNAME cloaking
-: The disguising of third-party resources as first-party resources through the modification of domain CNAME entries. CNAME cloaking is used to get around tracking protections. 
+: The disguising of third-party resources as first-party resources through the modification of domain CNAME entries. CNAME cloaking is used to get around tracking protections.
 
 Coalescing
 : The merging of two adjacent free blocks of memory, which is relevant as when an application frees memory, gaps can fall in the memory segment that the application uses.&nbsp;[†](#w-coalescing)

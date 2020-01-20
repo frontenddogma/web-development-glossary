@@ -77,7 +77,7 @@ In-App Browser
 : A browser instance in a mobile application, usually working on the basis of WebViews (Android) or WKWebViews (iOS).
 
 Increment
-: A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. An Increment must be usable and meet the definition of “Done.” 
+: A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. An Increment must be usable and meet the definition of “Done.”
 
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
@@ -172,7 +172,7 @@ Internet Assigned Numbers Authority
 : A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet Protocol Suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
 
 Internet Corporation for Assigned Names and Numbers
-: A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure operation. ICANN performs the actual technical maintenance work of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998.&nbsp;[†](#w-icann) ℹ︎&nbsp;[icann.org](https://www.icann.org/)
+: A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network’s stable and secure operation. ICANN performs the actual technical maintenance work of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998.&nbsp;[†](#w-icann) ℹ︎&nbsp;[icann.org](https://www.icann.org/)
 
 Internet Engineering Task Force
 : An open standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986.&nbsp;[†](#w-ietf) ℹ︎&nbsp;[ietf.org](https://ietf.org/)
@@ -196,7 +196,7 @@ Internet Service Provider
 : An organization that provides services for accessing, using, or participating in the Internet. Internet services typically provided by ISPs include Internet access, Internet transit, domain name registration, web hosting, Usenet service, and colocation.&nbsp;[†](#w-isp)
 
 Internet Society
-: A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is "to promote the open development, evolution and use of the Internet for the benefit of all people throughout the world."&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
+: A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is “to promote the open development, evolution and use of the Internet for the benefit of all people throughout the world.”&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
 
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
@@ -205,7 +205,7 @@ Inversion of Control
 : A programming principle that inverts the flow of control as compared to traditional control flow. In IoC, custom-written portions of a computer program receive the flow of control from a generic framework. A software architecture with this design inverts control as compared to traditional procedural programming, where the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks. With inversion of control, it is the framework that calls into the custom, or task-specific, code.&nbsp;[†](#w-ioc)
 
 Inverted Triangle CSS
-: A CSS management approach that promotes going from generic to specific. 
+: A CSS management approach that promotes going from generic to specific.
 
 IoC
 : → Inversion of Control

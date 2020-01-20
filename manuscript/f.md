@@ -101,7 +101,7 @@ FLOSS
 : → Free/Libre and Open Source Software
 
 Flow content
-: An HTML content type that includes most HTML elements. 
+: An HTML content type that includes most HTML elements.
 
 Flow of control
 : → Control flow
@@ -194,7 +194,7 @@ Full Stack
 
 Full stack developer
 : A developer who can handle all aspects of website or web application development, that is, including both frontend and backend development.
-: A developer who masters a particular solution stack. 
+: A developer who masters a particular solution stack.
 
 Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)

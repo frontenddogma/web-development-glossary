@@ -7,7 +7,7 @@ Tab icon
 : → Favicon
 
 Table box
-: A block-level box that contains a table's internal boxes.
+: A block-level box that contains a table’s internal boxes.
 
 Table formatting context
 : A formatting context which is used to lay out table elements.
