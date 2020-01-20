@@ -29,6 +29,7 @@ This book uses material from the following Wikipedia articles:
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
 * [Attribute (computing)](https://en.wikipedia.org/wiki/Attribute_(computing)){#w-attribute}
+* [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality){#w-ar}
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
 * [Authorization](https://en.wikipedia.org/wiki/Authorization){#w-authorization}
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}

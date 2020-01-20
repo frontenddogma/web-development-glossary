@@ -196,10 +196,10 @@ Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
 
 Attribute minimization
-: @@
+: The valid option for a Boolean attribute not to have a value if it’s set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; that is, `checked` would be required to be written `checked="checked"`.
 
 Augmented Reality
-: @@
+: An interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory. AR can be defined as a system that fulfills three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.&nbsp;[†](#w-ar)
 
 Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
