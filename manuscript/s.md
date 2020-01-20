@@ -52,6 +52,9 @@ Scrum Values
 SEA
 : → Search Engine Advertising
 
+SeaMonkey
+: @@
+
 Search Engine Advertising
 : @@
 

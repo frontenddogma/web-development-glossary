@@ -78,6 +78,9 @@ Perceived performance
 Performance
 : @@
 
+Performance indicator
+: → Key Performance Indicator
+
 Perl
 : @@
 

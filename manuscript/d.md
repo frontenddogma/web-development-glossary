@@ -12,6 +12,9 @@ Data visualization
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 
+Database index
+: @@
+
 Database Management System
 : A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometime extended to indicated the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
 

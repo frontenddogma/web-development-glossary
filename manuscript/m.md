@@ -1,5 +1,8 @@
 # M
 
+Machine Learning
+: @@
+
 Macromedia Flash
 : → Flash
 
@@ -89,6 +92,10 @@ Minimum Viable Product
 
 Mixin
 : @@
+
+ML
+: → Machine Learning
+: → Markup language
 
 Mobile
 : @@

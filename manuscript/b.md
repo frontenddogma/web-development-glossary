@@ -64,6 +64,9 @@ Blacklist
 Blink
 : A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
+Blisk
+: @@
+
 Block
 : In CSS, a short form for block box, block-level box, or block container box.
 : In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block)

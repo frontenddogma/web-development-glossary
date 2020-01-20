@@ -9,6 +9,9 @@ Hashtag
 hasLayout
 : A peculiarity in Internet Explorer ≤8 that influences how page elements are drawn or interact. Though some elements “automatically” “have layout,” hasLayout can also be forced by particular CSS properties and declarations. ℹ︎&nbsp;[sitepoint.com/internet-explorer-haslayout-property](https://www.sitepoint.com/internet-explorer-haslayout-property/)
 
+HCI
+: → Human-Computer Interaction
+
 Heading content
 : Content that defines the header of a section (whether explicitly marked up using sectioning content elements, or implied by the heading content itself), marked up through the `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, and `hgroup` elements.&nbsp;§
 
@@ -89,6 +92,9 @@ HTTP Strict Transport Security
 
 HTTPS
 : → Hypertext Transfer Protocol Secure
+
+Human-Computer Interaction
+: The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human–computer interaction is situated at the intersection of computer science, behavioural sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 
 Hyperlink
 : → Link

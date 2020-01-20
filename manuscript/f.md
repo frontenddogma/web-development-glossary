@@ -21,6 +21,12 @@ Feed
 File
 : @@
 
+File Manager
+: @@
+
+File System
+: @@
+
 File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
 
@@ -76,6 +82,9 @@ Flex
 Flexbox
 : A CSS web layout model for displaying items in a single dimension, as a row or as a column. In the specification for the CSS Flexible Box Layout Module, Flexbox is described as a layout model for user interface design. The key feature of Flexbox is the fact that items in a flex layout can grow and shrink. Space can be assigned to the items themselves, or distributed between or around the items. Flexbox also enables alignment of items on the main or cross axis, thus providing a high level of control over the size and alignment of a group of items.&nbsp;[‡](#m-flexbox) ℹ︎&nbsp;[w3.org/TR/css-flexbox-1](https://www.w3.org/TR/css-flexbox-1/)
 
+Flock
+: @@
+
 FLOSS
 : → Free/Libre and Open Source Software
 
@@ -111,6 +120,9 @@ Fork
 
 Form
 : An interface that allows to enter data that is sent to a server for processing. Forms can resemble paper or database forms because web users fill out the forms using checkboxes, radio buttons, or text fields. In HTML, forms are set up using the `form` and related elements.&nbsp;[†](#w-form)
+
+Formatting context
+: @@
 
 FOSS
 : → Free and Open Source Software

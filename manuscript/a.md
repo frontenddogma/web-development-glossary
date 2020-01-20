@@ -141,6 +141,9 @@ Application Programming Interface
 APT
 : → Advanced Package Tool
 
+AR
+: → Augmented Reality
+
 Argument
 : The actual input expression passed or supplied to a function, procedure, or routine in a call or invocation statement.&nbsp;[†](#w-parameter-argument)
 
@@ -193,6 +196,9 @@ Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
 
 Attribute minimization
+: @@
+
+Augmented Reality
 : @@
 
 Authentication

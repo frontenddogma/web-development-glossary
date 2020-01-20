@@ -45,6 +45,9 @@ Vim
 Virtual Private Network
 : @@
 
+Virtual Reality
+: @@
+
 Visual formatting model
 : @@
 
@@ -56,6 +59,9 @@ Void element
 
 VPN
 : → Virtual Private Network
+
+VR
+: → Virtual Reality
 
 VS Code
 : → Visual Studio Code

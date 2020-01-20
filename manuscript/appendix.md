@@ -199,6 +199,7 @@ This book uses material from the following Wikipedia articles:
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
+* [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
@@ -213,7 +214,17 @@ This book uses material from the following Wikipedia articles:
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
+* [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
+* [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property){#w-ip}
+* [IntelliJ IDEA](https://en.wikipedia.org/wiki/IntelliJ_IDEA){#w-intellij-idea}
+* [Interaction design](https://en.wikipedia.org/wiki/Interaction_design){#w-ixd}
+* [Interactive Advertising Bureau](https://en.wikipedia.org/wiki/Interactive_Advertising_Bureau){#w-iab}
+* [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization){#w-iso}
 * @@
+* [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
+* [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
+* [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
+* [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
@@ -224,9 +235,11 @@ This book uses material from the following Wikipedia articles:
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
