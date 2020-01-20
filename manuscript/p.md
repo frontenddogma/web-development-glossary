@@ -223,6 +223,9 @@ Pseudocode
 Pull Request
 : @@
 
+Push notification
+: @@
+
 PWA
 : → Progressive Web App
 

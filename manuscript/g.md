@@ -44,7 +44,7 @@ Go
 : A Google-proprietary HTML/CSS framework.
 
 Goanna
-: A browser engine that is a fork of Mozilla’s Gecko. It is used in the Pale Moon browser, the Basilisk browser, and other UXP-based applications. A fork of the K-Meleon browser also uses Goanna. Goanna as an independent fork of Gecko was first released in January 2016.&nbsp;[†](#w-goanna)
+: A browser engine that is a fork of Mozilla’s Gecko. It is used in the Pale Moon browser, the Basilisk browser, and other UXP-based applications. A fork of the K-Meleon browser also uses Goanna. Goanna as an independent fork of Gecko was first released in 2016.&nbsp;[†](#w-goanna)
 
 Golang
 : → Go
@@ -73,6 +73,9 @@ Graphics Interchange Format
 Graphics Processing Unit
 : A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles. Modern GPUs are very efficient at manipulating computer graphics and image processing. Their highly parallel structure makes them more efficient than general-purpose central processing units (CPUs) for algorithms that process large blocks of data in parallel.&nbsp;[†](#w-gpu)
 
+GraphQL
+: A data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides an approach to developing web APIs, and has been compared and contrasted with REST and other web service architectures. It allows clients to define the structure of the data required, and the same structure of the data is returned from the server, therefore preventing excessively large amounts of data from being returned. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015.&nbsp;[†](#w-graphql) ℹ︎&nbsp;[graphql.org](https://graphql.org/)
+
 Grid
 : In design, a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. The grid serves as an armature or framework on which a designer can organize graphic elements (images, glyphs, paragraphs, etc.) in a rational, easy-to-absorb manner. A grid can be used to organize graphic elements in relation to a page, in relation to other graphic elements on the page, or relation to other parts of the same graphic element or shape.&nbsp;[†](#w-grid)
 : In CSS, an element defined using the `grid` value of the `display` property, for which columns and rows can be specified through the `grid-template-rows` and `grid-template-columns` properties. The grid defined this way is described as the explicit grid. If content is placed outside of this explicit grid, or if auto-placement and the grid algorithm is being relied on, then extra tracks will be created in the implicit grid. The implicit grid is the grid created automatically due to content being added outside of the tracks defined.&nbsp;[‡](#m-grid)
@@ -93,6 +96,6 @@ GUI
 : → Graphical User Interface
 
 gzip
-: A file format and software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the “g” is from “GNU”). Version 0.1 was released in October 1992, and version 1.0 in February 1993. gzip is based on the DEFLATE algorithm.&nbsp;[†](#w-gzip) ℹ︎&nbsp;[gnu.org/software/gzip](https://www.gnu.org/software/gzip/)
+: A file format and software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the “g” is from “GNU”). Version 1.0 was released in 1993. gzip is based on the DEFLATE algorithm.&nbsp;[†](#w-gzip) ℹ︎&nbsp;[gnu.org/software/gzip](https://www.gnu.org/software/gzip/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/g.md) and become a glossary&nbsp;contributor!

@@ -85,7 +85,7 @@ Flash of Unstyled Text
 : The effect when a web page appears briefly with the browser’s default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting.&nbsp;[†](#w-fout)
 
 Flash Player
-: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe Systems since Adobe acquired Macromedia in 2005. In July 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML5 standards in place of Flash.&nbsp;[†](#w-flash-player)
+: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe Systems since Adobe acquired Macromedia in 2005. In 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML5 standards in place of Flash.&nbsp;[†](#w-flash-player)
 
 Flex
 : A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element’s children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied.&nbsp;[‡](#m-flex)
@@ -178,7 +178,7 @@ Frontend
 : The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)
 
 FrontPage
-: A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in December 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
+: A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
 
 fs
 : → File system

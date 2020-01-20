@@ -19,11 +19,13 @@ This book uses material from the following Wikipedia articles:
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
 * [Anonymous function](https://en.wikipedia.org/wiki/Anonymous_function){#w-anonymous-function}
 * [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
+* [Apache Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat){#w-tomcat}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
 * [Application software](https://en.wikipedia.org/wiki/Application_software){#w-application}
 * [APT (software)](https://en.wikipedia.org/wiki/APT_(software)){#w-apt}
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
+* [ASP.NET](https://en.wikipedia.org/wiki/ASP.NET){#w-aspnet}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
@@ -141,6 +143,7 @@ This book uses material from the following Wikipedia articles:
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
+* [Duck typing](https://en.wikipedia.org/wiki/Duck_typing){#w-duck-typing}
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
@@ -194,6 +197,7 @@ This book uses material from the following Wikipedia articles:
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
+* [GraphQL](https://en.wikipedia.org/wiki/GraphQL){#w-graphql}
 * [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
 * [Grid computing](https://en.wikipedia.org/wiki/Grid_computing){#w-grid-computing}
 * [Guetzli](https://en.wikipedia.org/wiki/Guetzli){#w-guetzli}
@@ -253,13 +257,23 @@ This book uses material from the following Wikipedia articles:
 * [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
-* @@
+* [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
+* [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
+* [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
+* [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
+* [JPEG](https://en.wikipedia.org/wiki/JPEG){#w-jpeg}
+* [JScript](https://en.wikipedia.org/wiki/JScript){#w-jscript}
+* [JSON](https://en.wikipedia.org/wiki/JSON){#w-json}
+* [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token){#w-jwt}
+* [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD){#w-json-ld}
+* [](){} @@
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
+* [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
@@ -309,7 +323,6 @@ This book uses material from the following Wikipedia articles:
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
-* [](){} @@
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified, which in most cases means that they have been shortened.
 
@@ -354,8 +367,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
-* @@
-* [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@
+* [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 
 The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.

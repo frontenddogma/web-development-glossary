@@ -94,6 +94,9 @@ TMS
 TOFU
 : → Trust on First Use
 
+Tomcat
+: → Apache Tomcat
+
 Top-Level Domain
 : @@
 
