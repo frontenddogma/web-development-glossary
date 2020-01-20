@@ -2,11 +2,11 @@
 
 @@
 
-The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development terms and concepts.
+The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development terms and concepts. The glossary covers some basics.
 
-Sometimes a term originates not in Web Development but in (Web) Design, Information Security, Project Management, or in another different but adjacent discipline.
+Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The glossary goes beyond “just” web development.
 
-[Adding examples](https://github.com/j9t/web-development-glossary/issues/1) is on the agenda as one of the next features.
+([Adding examples](https://github.com/j9t/web-development-glossary/issues/1) is on the agenda as one of the next features.)
 
 ## Conventions
 
