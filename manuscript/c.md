@@ -12,11 +12,11 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
-Canonical
-: @@
-
 Canonical equivalence
-: @@
+: The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)
+
+Canonical link
+: An HTML element marked `rel=canonical` that helps webmasters prevent duplicate content issues in search engine optimization by specifying the "canonical" or "preferred" version of a web page.&nbsp;[†](#w-canonical-link)
 
 Canonical Name
 : A type of resource record in the Domain Name System (DNS) which maps one domain name (an alias) to another (the canonical name).&nbsp;[†](#w-cname)
@@ -164,7 +164,7 @@ Clone detection
 : The automated process of finding duplications in source code.&nbsp;[†](#w-duplicate-code)
 
 Cluster
-: @@
+: A set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.&nbsp;[†](#w-cluster)
 
 CoC
 : → Code of Conduct
@@ -190,6 +190,9 @@ Codeline
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
 
+Collapsed margin
+: → Margin collapsing
+
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
 
@@ -209,7 +212,7 @@ Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)
 
 Compatibility equivalence
-: @@
+: The assuming of code point sequences to have possibly distinct appearances, but the same meaning in some contexts.&nbsp;[†](#w-unicode-equivalence)
 
 Compatibility mode
 : A software mechanism in which a software either emulates an older version of software, or mimics another operating system in order to allow older or incompatible software or files to remain compatible with the computer’s newer hardware or software. Examples of the software using the mode are operating systems and Internet Explorer.&nbsp;[†](#w-compatibility-mode)
@@ -258,6 +261,12 @@ Constant
 
 Constructor
 : A special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.&nbsp;[†](#w-constructor)
+
+Container
+: An HTML element that contains other elements.
+
+Containing block
+: The block (element) in which a box resides.
 
 Content
 : → Content box

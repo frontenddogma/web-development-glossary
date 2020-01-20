@@ -18,14 +18,17 @@ FCP
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
 
+FIFO
+: → First In, First Out
+
 File
-: @@
+: A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
 File Manager
-: @@
+: A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g. viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties and file permissions.&nbsp;[†](#w-file-manager)
 
-File System
-: @@
+File system
+: A software that controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. Taking its name from the way paper-based data management system is named, each group of data is called a “file.” There are many different kinds of file systems. Each one has different structure and logic, properties of speed, flexibility, security, or size.&nbsp;[†](#w-fs)
 
 File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
@@ -42,6 +45,9 @@ First Contentful Paint
 First CPU Idle
 : The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all of visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
 
+First In, First Out
+: A method for organising and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
+
 First Interactive
 : → First CPU Idle
 
@@ -50,6 +56,12 @@ First Meaningful Paint
 
 First Paint
 : The time between navigation and when the browser render the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “is it happening?”&nbsp;[‡](#m-first-paint)
+
+First-Class Function
+: A function that is treated like any other variable in respective language.&nbsp;[‡](#m-first-class-function)
+
+First-Order Function
+: → First-Class Function
 
 Fitts’ Law
 : A predictive model of human movement primarily used in human-computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
@@ -83,7 +95,7 @@ Flexbox
 : A CSS web layout model for displaying items in a single dimension, as a row or as a column. In the specification for the CSS Flexible Box Layout Module, Flexbox is described as a layout model for user interface design. The key feature of Flexbox is the fact that items in a flex layout can grow and shrink. Space can be assigned to the items themselves, or distributed between or around the items. Flexbox also enables alignment of items on the main or cross axis, thus providing a high level of control over the size and alignment of a group of items.&nbsp;[‡](#m-flexbox) ℹ︎&nbsp;[w3.org/TR/css-flexbox-1](https://www.w3.org/TR/css-flexbox-1/)
 
 Flock
-: @@
+: A discontinued web browser that specialized in providing social networking and Web 2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
 
 FLOSS
 : → Free/Libre and Open Source Software
@@ -122,7 +134,7 @@ Form
 : An interface that allows to enter data that is sent to a server for processing. Forms can resemble paper or database forms because web users fill out the forms using checkboxes, radio buttons, or text fields. In HTML, forms are set up using the `form` and related elements.&nbsp;[†](#w-form)
 
 Formatting context
-: @@
+: A concept that governs how boxes are laid out with CSS. There are different formatting contexts, like block formatting context, inline formatting context, and table formatting context.
 
 FOSS
 : → Free and Open Source Software
@@ -167,6 +179,9 @@ Frontend
 
 FrontPage
 : A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in December 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
+
+fs
+: → File system
 
 FSF
 : → Free Software Foundation

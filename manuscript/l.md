@@ -18,6 +18,9 @@ Landing page
 Language
 : @@
 
+Last In, First Out
+: → Stack
+
 Latency
 : @@
 
@@ -29,6 +32,9 @@ Layout
 
 Layout engine
 : → Browser engine
+
+Layout table
+: @@
 
 Lead Time
 : @@
@@ -42,6 +48,9 @@ Left-to-Right
 LESS
 : @@
 
+LIFO
+: → Last In, First Out
+
 Library
 : @@
 
@@ -50,6 +59,9 @@ Ligature
 
 Light Mode
 : @@
+
+Line box
+: A line (rectangular area) formed by inline boxes.
 
 Line end
 : @@
@@ -85,7 +97,7 @@ Locale
 : @@
 
 Localization
-: @@
+: The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
 
 Loop
 : @@

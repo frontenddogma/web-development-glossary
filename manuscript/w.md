@@ -135,6 +135,9 @@ Whitespace
 WHOIS
 : @@
 
+Windows
+: @@
+
 WIP
 : → Work in Progress
 
@@ -150,6 +153,9 @@ Wireless Markup Language
 WML
 : → Wireless Markup Language
 
+WORA
+: → Write Once, Run Anywhere
+
 Work in Progress
 : @@
 
@@ -157,6 +163,9 @@ World Wide Web
 : @@
 
 World Wide Web Consortium
+: @@
+
+Write Once, Run Anywhere
 : @@
 
 WWW

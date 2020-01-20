@@ -65,10 +65,14 @@ Blink
 : A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera Software, Adobe Systems, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
 Blisk
-: @@
+: A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
 
 Block
-: In CSS, a short form for block box, block-level box, or block container box.
+: → Block box
+: → Block container box
+: → Block container element
+: → Block-level box
+: → Block-level element
 : In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block)
 
 Block box
@@ -78,16 +82,19 @@ Block container
 : → Block container element
 
 Block container box
-: A block-level box that’s not a table box or the principal box of a replaced element; it either contains only block-level boxes or, if it establishes an inline formatting context, only inline-level boxes.
+: A block-level box that’s not a table box or the principal box of a replaced element. It either contains only block-level boxes or, if establishing an inline formatting context, only inline-level boxes.
 
 Block container element
 : An element whose principal box is a block container box.
 
 Block element
-: → Block container element
+: → Block-level element
 
 Block Element Modifier
 : A naming convention for HTML and CSS classes. Block Element Modifier, or BEM, was introduced in 2005 by Yandex. ℹ︎&nbsp;[getbem.com](http://getbem.com/)
+
+Block formatting context
+: A formatting context in which boxes are laid out vertically. Vertical margins are respected but collapse.
 
 Block-level box
 : A box created by a block-level element.

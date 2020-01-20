@@ -129,13 +129,19 @@ Rich Text Format
 Right-to-Left
 : @@
 
+Roadmap
+: @@
+
 robots.txt
 : @@
 
 Robustness principle
 : → Postel’s Law
 
-Roadmap
+Root
+: @@
+
+Root element
 : @@
 
 Round-Trip Time

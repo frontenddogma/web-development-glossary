@@ -1,6 +1,12 @@
 # M
 
+Mac OS
+: → macOS
+
 Machine Learning
+: @@
+
+macOS
 : @@
 
 Macromedia Flash
@@ -20,6 +26,9 @@ Maintenance
 
 Margin
 : @@
+
+Margin collapsing
+: The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
 Marketing
 : @@
@@ -67,6 +76,9 @@ Metadata content
 : Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of the document with other documents, or that conveys other “out of band” information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
 
 Method
+: @@
+
+Metro
 : @@
 
 Microformat
@@ -135,6 +147,9 @@ MPEG
 
 MR
 : → Merge Request
+
+MSIE
+: → Internet Explorer
 
 Multimedia
 : @@

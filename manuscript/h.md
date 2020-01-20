@@ -34,10 +34,10 @@ High Efficiency Image File Format
 : A file format for individual images and image sequences. It was developed by the Moving Picture Experts Group (MPEG) and is defined by MPEG-H Part 12 (ISO/IEC 23008-12). The MPEG group claims that twice as much information can be stored in a HEIF image as in a JPEG image of the same size, resulting in a better quality image. HEIF also supports animation, and is capable of storing more information than an animated GIF at a small fraction of the size.&nbsp;[†](#w-heif)
 
 Higher-Order Component
-: @@
+: A function that takes a component and returns a new component.
 
 Higher-Order Function
-: @@
+: A function that either takes one or more functions as arguments (procedural parameters) or that returns a function as its result.&nbsp;[†](#w-higher-order-function)
 
 Hit
 : A request to a web server for a file (such as a web page, image, script, or style sheet). There may be many hits per page view since an HTML page can contain multiple files, such as images.&nbsp;[†](#w-hit)

@@ -61,6 +61,7 @@ This book uses material from the following Wikipedia articles:
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
+* [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
@@ -86,8 +87,10 @@ This book uses material from the following Wikipedia articles:
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
+* [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster){#w-cluster}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
+* [Computer file](https://en.wikipedia.org/wiki/Computer_file){#w-file}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
 * [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
 * [Cone of Uncertainty](https://en.wikipedia.org/wiki/Cone_of_Uncertainty){#w-cone-of-uncertainty}
@@ -115,7 +118,9 @@ This book uses material from the following Wikipedia articles:
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
+* [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
+* [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
@@ -140,6 +145,7 @@ This book uses material from the following Wikipedia articles:
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * [E-commerce](https://en.wikipedia.org/wiki/E-commerce){#w-e-commerce}
+* [Eclipse (software)](https://en.wikipedia.org/wiki/Eclipse_(software)){#w-eclipse}
 * [Ecma International](https://en.wikipedia.org/wiki/Ecma_International){#w-ecma-international}
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
@@ -157,9 +163,13 @@ This book uses material from the following Wikipedia articles:
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
+* [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
+* [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}
+* [File system](https://en.wikipedia.org/wiki/File_system){#w-fs}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
+* [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
@@ -185,11 +195,13 @@ This book uses material from the following Wikipedia articles:
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
 * [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
+* [Grid computing](https://en.wikipedia.org/wiki/Grid_computing){#w-grid-computing}
 * [Guetzli](https://en.wikipedia.org/wiki/Guetzli){#w-guetzli}
 * [Gutter](https://en.wikipedia.org/wiki/Gutter){#w-gutter}
 * [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
+* [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
 * [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
@@ -203,6 +215,7 @@ This book uses material from the following Wikipedia articles:
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
+* [ICANN](https://en.wikipedia.org/wiki/ICANN){#w-icann}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
 * [Identifier](https://en.wikipedia.org/wiki/Identifier){#w-id}
 * [Image](https://en.wikipedia.org/wiki/Image){#w-image}
@@ -215,18 +228,38 @@ This book uses material from the following Wikipedia articles:
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
+* [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
-* [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property){#w-ip}
+* [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property){#w-intellectual-property}
 * [IntelliJ IDEA](https://en.wikipedia.org/wiki/IntelliJ_IDEA){#w-intellij-idea}
 * [Interaction design](https://en.wikipedia.org/wiki/Interaction_design){#w-ixd}
 * [Interactive Advertising Bureau](https://en.wikipedia.org/wiki/Interactive_Advertising_Bureau){#w-iab}
 * [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization){#w-iso}
+* [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization){#w-i18n-l10n}
+* [Internationalized Resource Identifier](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier){#w-iri}
+* [Internet](https://en.wikipedia.org/wiki/Internet){#w-internet}
+* [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority){#w-iana}
+* [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force){#w-ietf}
+* [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer){#w-ie}
+* [Internet Information Services](https://en.wikipedia.org/wiki/Internet_Information_Services){#w-iis}
+* [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol){#w-internet-protocol}
+* [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat){#w-irc}
+* [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider){#w-isp}
+* [Internet Society](https://en.wikipedia.org/wiki/Internet_Society){#w-isoc}
+* [Interoperability](https://en.wikipedia.org/wiki/Interoperability){#w-interoperability}
+* [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control){#w-ioc}
+* [iOS](https://en.wikipedia.org/wiki/IOS){#w-ios}
+* [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
+* [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
+* [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
+* [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * @@
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
@@ -248,9 +281,11 @@ This book uses material from the following Wikipedia articles:
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
+* [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
+* [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
@@ -305,6 +340,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
 * [First Meaningful Paint](https://developer.mozilla.org/en-US/docs/Glossary/first_meaningful_paint){#m-fmp}
 * [First paint](https://developer.mozilla.org/en-US/docs/Glossary/First_paint){#m-first-paint}
+* [First-class Function](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function){#m-first-class-function}
 * [Flex](https://developer.mozilla.org/en-US/docs/Glossary/Flex){#m-flex}
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
@@ -317,6 +353,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
+* [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [](){} @@

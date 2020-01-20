@@ -42,6 +42,9 @@ Nexus
 NGINX
 : @@
 
+Night Mode
+: → Dark Mode
+
 Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
 : → Node.js
