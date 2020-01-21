@@ -91,6 +91,9 @@ TLS
 TMS
 : → Tag Management System
 
+Toast
+: @@
+
 TOFU
 : → Trust on First Use
 
