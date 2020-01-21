@@ -9,6 +9,9 @@ Machine Learning
 macOS
 : @@
 
+macOS, Apache, MySQL, PHP/Perl/Python
+: @@
+
 Macromedia Flash
 : → Flash
 
@@ -23,6 +26,9 @@ Maintainability
 
 Maintenance
 : @@
+
+MAMP
+: → macOS, Apache, MySQL, PHP/Perl/Python
 
 Margin
 : @@

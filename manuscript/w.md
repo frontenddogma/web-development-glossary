@@ -9,6 +9,9 @@ WAF
 WAI
 : → Web Accessibility Initiative
 
+WAMP
+: → Windows, Apache, MySQL, PHP/Perl/Python
+
 WAP
 : → Wireless Application Protocol
 
@@ -136,6 +139,9 @@ WHOIS
 : @@
 
 Windows
+: @@
+
+Windows, Apache, MySQL, PHP/Perl/Python
 : @@
 
 WIP

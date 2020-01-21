@@ -270,11 +270,12 @@ This book uses material from the following Wikipedia articles:
 * [JSON Web Signature](https://en.wikipedia.org/wiki/JSON_Web_Signature){#w-jws}
 * [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token){#w-jwt}
 * [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD){#w-json-ld}
-* [](){} @@
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
+* [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
+* [](){} @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}

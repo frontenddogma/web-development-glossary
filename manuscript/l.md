@@ -10,10 +10,10 @@ Lambda expression
 : → Anonymous function
 
 LAMP
-: @@
+: → Linux, Apache, MySQL, PHP/Perl/Python
 
 Landing page
-: @@
+: A single web page that appears in response to clicking on a search engine optimized search result, marketing promotion, marketing email, or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main web site.&nbsp;[†](#w-landing-page)
 
 Language
 : @@
@@ -77,6 +77,12 @@ Link
 
 Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
+
+Linux
+: @@
+
+Linux, Apache, MySQL, PHP/Perl/Python
+: @@
 
 Liquid
 : @@
