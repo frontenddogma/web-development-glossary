@@ -159,6 +159,9 @@ ARIA roles
 Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)
 
+Arrow function
+: @@
+
 ASCII
 : → American Standard Code for Information Interchange
 
@@ -171,9 +174,11 @@ ASP
 ASP.NET
 : A server-side web application framework designed for web development to produce dynamic web pages. ASP.NET was developed by Microsoft to allow programmers to build dynamic web sites, applications, and services. It was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
 
-
 Aspect ratio
 : A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)
+
+Assignment
+: @@
 
 Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)

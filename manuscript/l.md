@@ -87,6 +87,9 @@ Linux, Apache, MySQL, PHP/Perl/Python
 Liquid
 : @@
 
+Literal
+: @@
+
 Little’s Law
 : @@
 

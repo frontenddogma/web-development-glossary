@@ -81,6 +81,9 @@ Web Standards Project
 Web typography
 : @@
 
+WebAssembly
+: @@
+
 WebAuthn
 : @@
 

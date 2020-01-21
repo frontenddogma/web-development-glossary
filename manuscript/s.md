@@ -82,6 +82,9 @@ Security
 Selector
 : @@
 
+Selenium
+: @@
+
 SEM
 : → Search Engine Marketing
 

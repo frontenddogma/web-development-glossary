@@ -31,7 +31,13 @@ JavaServer Pages
 : A collection of technologies that helps software developers create dynamically generated web pages based on HTML, XML, SOAP, and other document types. Released in 1999 by Sun Microsystems, JSP is similar to PHP and ASP, but uses the Java programming language. To deploy and run JavaServer Pages, a compatible web server with a servlet container, such as Apache Tomcat or Jetty, is required.&nbsp;[†](#w-jsp)
 
 Jetty
-: A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/) 
+: A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+
+JIT
+: → Just in Time
+
+JIT compiler
+: → Just-in-time compilation
 
 Joint Photographic Experts Group
 : The joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)
@@ -66,6 +72,12 @@ JSON-LD
 
 JSP
 : → JavaServer Pages
+
+Just in Time
+: @@
+
+Just-in-time compilation
+: @@
 
 JWS
 : → JSON Web Signature

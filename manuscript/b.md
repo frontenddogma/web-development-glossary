@@ -156,6 +156,9 @@ Box model hack
 Boyscout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
+Bracket notation
+: @@
+
 Braille (⠃⠗⠁⠊⠇⠇⠑)
 : A tactile writing system used by people who are visually impaired. Braille is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser. Braille was developed by Louis Braille in 1824, who published it in 1829.&nbsp;[†](#w-braille)
 
