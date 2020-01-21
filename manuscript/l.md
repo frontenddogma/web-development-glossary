@@ -16,19 +16,20 @@ Landing page
 : A single web page that appears in response to clicking on a search engine optimized search result, marketing promotion, marketing email, or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main web site.&nbsp;[†](#w-landing-page)
 
 Language
-: @@
+: → Markup language
+: → Programming language
 
 Last In, First Out
 : → Stack
 
 Latency
-: @@
+: A time interval between the stimulation and response, or, from a more general point of view, a time delay between the cause and the effect of some physical change in the system being observed. Latency is physically a consequence of the limited velocity with which any physical interaction can propagate. The magnitude of this velocity is always less than or equal to the speed of light. Therefore, every physical system with any physical separation (distance) between cause and effect will experience some sort of latency, regardless of the nature of stimulation that it has been exposed to.&nbsp;[†](#w-latency)
 
 Lazy loading
-: @@
+: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program's operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
 
 Layout
-: @@
+: The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. The high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
 
 Layout engine
 : → Browser engine

@@ -27,6 +27,7 @@ This book uses material from the following Wikipedia articles:
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
 * [ASP.NET](https://en.wikipedia.org/wiki/ASP.NET){#w-aspnet}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
+* [Assignment (computer science)](https://en.wikipedia.org/wiki/Assignment_(computer_science)){#w-assignment}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
@@ -270,11 +271,15 @@ This book uses material from the following Wikipedia articles:
 * [JSON Web Signature](https://en.wikipedia.org/wiki/JSON_Web_Signature){#w-jws}
 * [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token){#w-jwt}
 * [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD){#w-json-ld}
+* [Just-in-time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation){#w-jit-compilation}
+* [Just-in-time manufacturing](https://en.wikipedia.org/wiki/Just-in-time_manufacturing){#w-jit}
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
+* [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
+* [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [](){} @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
@@ -283,14 +288,17 @@ This book uses material from the following Wikipedia articles:
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
+* [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
+* [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
@@ -337,6 +345,7 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 This book uses material from the following articles by Mozilla contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
+* [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Bounding Box](https://developer.mozilla.org/en-US/docs/Glossary/bounding_box){#m-bounding-box}
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}

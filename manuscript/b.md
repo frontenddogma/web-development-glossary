@@ -54,6 +54,9 @@ Bidi
 Big Bang
 : The practice of releasing a great amount of working software all at one time, as opposed to incrementally.
 
+Binding
+: The association of entities (data or code) with identifiers. An identifier bound to an object is said to reference that object. Machine languages have no built-in notion of identifiers, but name-object bindings as a service and notation for the programmer is implemented by programming languages. Binding is intimately connected with scoping, as scope determines which names bind to which objects—at which locations in the program code (lexically) and in which one of the possible execution paths (temporally).&nbsp;[†](#w-binding)
+
 Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image
@@ -157,7 +160,7 @@ Boyscout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
 Bracket notation
-: @@
+: One of two ways to access object properties in JavaScript (`objectName['propertyName']`), the other being dot notation.
 
 Braille (⠃⠗⠁⠊⠇⠇⠑)
 : A tactile writing system used by people who are visually impaired. Braille is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser. Braille was developed by Louis Braille in 1824, who published it in 1829.&nbsp;[†](#w-braille)

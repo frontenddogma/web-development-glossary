@@ -181,6 +181,9 @@ Rule
 RUM
 : → Real User Monitoring
 
+Run-time compilation
+: → Just-in-time compilation
+
 RTFM
 : → Read the Fucking Manual
 

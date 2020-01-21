@@ -74,10 +74,10 @@ JSP
 : → JavaServer Pages
 
 Just in Time
-: @@
+: A business methodology aimed at reducing times within the production system as well as response times from suppliers and to customers, for everything to happen “just in time.”&nbsp;[†](#w-jit)
 
 Just-in-time compilation
-: @@
+: A way of executing computer code that involves compilation during execution of a program—at run time—rather than before execution. Most often, this consists of source code or more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
 
 JWS
 : → JSON Web Signature

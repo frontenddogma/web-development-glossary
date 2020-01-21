@@ -192,6 +192,9 @@ Product Backlog Item
 Product Owner
 : A Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for respective product.
 
+Programming language
+: A formal language which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms. Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning). Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference.&nbsp;[†](#w-programming-language)
+
 Progressive Enhancement
 : @@
 

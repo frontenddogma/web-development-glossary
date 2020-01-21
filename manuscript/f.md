@@ -200,7 +200,7 @@ Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
 
 Function binding
-: @@
+: The creating of a new function using the `bind()` method.
 
 Functional testing
 : A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes _what_ the system does.&nbsp;[†](#w-functional-testing)
