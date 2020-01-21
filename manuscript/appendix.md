@@ -38,6 +38,7 @@ This book uses material from the following Wikipedia articles:
 * [Babel (transpiler)](https://en.wikipedia.org/wiki/Babel_(transpiler)){#w-babel}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
+* [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
 * [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
 * [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
@@ -262,8 +263,11 @@ This book uses material from the following Wikipedia articles:
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
 * [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
 * [JPEG](https://en.wikipedia.org/wiki/JPEG){#w-jpeg}
+* [jQuery](https://en.wikipedia.org/wiki/JQuery){#w-jquery}
 * [JScript](https://en.wikipedia.org/wiki/JScript){#w-jscript}
 * [JSON](https://en.wikipedia.org/wiki/JSON){#w-json}
+* [JSON Web Encryption](https://en.wikipedia.org/wiki/JSON_Web_Encryption){#w-json-web-encryption}
+* [JSON Web Signature](https://en.wikipedia.org/wiki/JSON_Web_Signature){#w-jws}
 * [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token){#w-jwt}
 * [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD){#w-json-ld}
 * [](){} @@
@@ -320,6 +324,7 @@ This book uses material from the following Wikipedia articles:
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
 * [XUL](https://en.wikipedia.org/wiki/XUL){#w-xul}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
+* [YUI Library](https://en.wikipedia.org/wiki/YUI_Library){#w-yui}
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}

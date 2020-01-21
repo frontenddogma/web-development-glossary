@@ -43,6 +43,9 @@ JPEG
 JPG
 : → JPEG
 
+jQuery
+: A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. The set of jQuery core features—DOM element selections, traversal, and manipulation—enabled by its selector engine (named "Sizzle" from v1.3), created a new "programming style," fusing algorithms and DOM data structures. This style influenced the architecture of other JavaScript frameworks like YUI v3 and Dojo, later stimulating the creation of the standard Selectors API. As of May 2019, jQuery is used by 73% of the 10 million most popular websites. jQuery was presented in 2006 by John Resig.&nbsp;[†](#w-jquery) ℹ︎&nbsp;[jquery.com](https://jquery.com/)
+
 JScript
 : A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in the Internet Explorer 3.0 browser released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
 
@@ -50,10 +53,10 @@ JSON
 : → JavaScript Object Notation
 
 JSON Web Encryption
-: @@
+: An IETF standard providing a standardised syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC 7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
 
 JSON Web Signature
-: @@
+: An IETF standard (RFC 7515) for signing arbitrary data. This is used as the basis for a variety of web-based technologies, like JSON Web Token.&nbsp;[†](#w-jws)
 
 JSON Web Token
 : An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can be typically used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)
@@ -64,8 +67,8 @@ JSON-LD
 JSP
 : → JavaServer Pages
 
-jQuery
-: @@
+JWS
+: → JSON Web Signature
 
 JWT
 : → JSON Web Token

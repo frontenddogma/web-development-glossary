@@ -84,6 +84,9 @@ Representational State Transfer
 Request
 : @@
 
+Request for Comments
+: @@
+
 Request header
 : @@
 
@@ -119,6 +122,9 @@ Restricted production
 
 Rework
 : @@
+
+RFC
+: → Request for Comments
 
 RGB
 : → Red, Green, and Blue

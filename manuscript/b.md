@@ -18,6 +18,9 @@ Bandwidth
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
+Base64
+: A group of binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term Base64 originates from a specific MIME content transfer encoding. Each Base64 digit represents exactly 6 bits of data. Three 8-bit bytes (i.e., a total of 24 bits) can therefore be represented by four 6-bit Base64 digits. Common to all binary-to-text encoding schemes, Base64 is designed to carry data stored in binary formats across channels that only reliably support text content. Base64 is particularly prevalent on the World Wide Web where its uses include the ability to embed image files or other binary assets inside textual assets such as HTML and CSS files.&nbsp;[†](#w-base64)
+
 Bash
 : A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, Bash has been used widely as the default login shell for most Linux distributions and Apple’s macOS Mojave and earlier versions.&nbsp;[†](#w-bash)
 
