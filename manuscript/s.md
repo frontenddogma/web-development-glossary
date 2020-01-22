@@ -23,7 +23,7 @@ SCM
 : → Source Control Management
 
 Scope
-: @@
+: The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings—a precise definition is tricky, but in casual use and in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term "scope" is also used to refer to the set of all entities that are visible or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, "part of a program" refers to "portion of the source code (area of text)", and is known as lexical scope. In some languages, however, "part of a program" refers to "portion of run time (time period during execution)", and is known as dynamic scope.&nbsp;[†](#w-scope)
 
 Screenreader
 : @@

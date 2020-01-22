@@ -3,6 +3,9 @@
 n-based indexing
 : @@
 
+Name binding
+: → Binding
+
 Namespace
 : @@
 
@@ -41,6 +44,9 @@ Netscape Navigator
 
 Network
 : @@
+
+Newline
+: A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (“↵”).&nbsp;[†](#w-newline)
 
 Nexus
 : @@

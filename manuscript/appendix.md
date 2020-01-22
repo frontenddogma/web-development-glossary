@@ -14,6 +14,7 @@ This book uses material from the following Wikipedia articles:
 * [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
+* [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
@@ -156,6 +157,7 @@ This book uses material from the following Wikipedia articles:
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * [E-commerce](https://en.wikipedia.org/wiki/E-commerce){#w-e-commerce}
+* [EBCDIC](https://en.wikipedia.org/wiki/EBCDIC){#w-ebcdic}
 * [Eclipse (software)](https://en.wikipedia.org/wiki/Eclipse_(software)){#w-eclipse}
 * [Ecma International](https://en.wikipedia.org/wiki/Ecma_International){#w-ecma-international}
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
@@ -167,6 +169,7 @@ This book uses material from the following Wikipedia articles:
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
 * [Email address](https://en.wikipedia.org/wiki/Email_address){#w-email-address}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
+* [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
@@ -268,6 +271,7 @@ This book uses material from the following Wikipedia articles:
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
+* [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
 * [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
@@ -287,25 +291,39 @@ This book uses material from the following Wikipedia articles:
 * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos_(protocol)){#w-kerberos}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
+* [LAMP (software bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle)){#w-lamp}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
-* [](){} @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
+* [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
+* [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
+* [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
+* [Little's law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
+* [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
+* [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
+* [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
+* [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
+* [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
+* [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
+* [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
+* [](){} @@
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
+* [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
+* [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
@@ -315,6 +333,7 @@ This book uses material from the following Wikipedia articles:
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
+* [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
@@ -322,6 +341,7 @@ This book uses material from the following Wikipedia articles:
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
+* [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
@@ -398,6 +418,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
+* [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

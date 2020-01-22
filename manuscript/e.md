@@ -6,6 +6,9 @@ E-commerce
 E2E
 : → End-to-end (testing)
 
+EBCDIC
+: → Extended Binary Coded Decimal Interchange Code
+
 EBM
 : → Evidence-Based Management
 
@@ -79,8 +82,14 @@ Encrypted Media Extensions
 Encryption
 : The process of converting ordinary information (called plaintext) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
 
+End of line
+: → Newline
+
 End tag
 : The closing tag of an HTML or another markup language’s element, like `</p>`, a paragraph’s end tag.
+
+End-of-file
+: A condition in a computer operating system where no more data can be read from a data source. The data source is usually called a file or stream. The actual value of EOF is implementation-dependent (but is commonly `-1`, such as in glibc) and is distinct from all valid character codes. Block-reading functions return the number of bytes read, and if this is fewer than asked for, then the end of file was reached or an error occurred (checking of errno or dedicated function, such as ferror is often required to determine which).&nbsp;[†](#w-eof)
 
 End-to-end testing
 : A software test methodology focused on testing an entire application from start to end based on conditions that are as realistic as possible, explicitly including dependencies on other software and infrastructure.
@@ -91,6 +100,12 @@ Entity
 Entity reference
 : → Character entity reference
 : → Numeric character reference
+
+EOF
+: → End-of-file
+
+EOL
+: → End of line
 
 Error
 : → Bug
@@ -127,6 +142,9 @@ Exit code
 
 Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
+
+Extended Binary Coded Decimal Interchange Code
+: An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. It descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM's computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
 
 Extensible HyperText Markup Language
 : A part of the family of XML markup languages. It mirrors or extends versions of the widely used HyperText Markup Language (HTML), the language in which Web pages are formulated. While HTML, prior to HTML5, was defined as an application of Standard Generalized Markup Language (SGML), a flexible markup language framework, XHTML is an application of XML, a more restrictive subset of SGML. XHTML documents are well-formed and may therefore be parsed using standard XML parsers, unlike HTML, which requires a lenient HTML-specific parser.&nbsp;[†](#w-xhtml) ℹ︎&nbsp;[w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)

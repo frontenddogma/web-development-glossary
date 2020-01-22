@@ -75,8 +75,14 @@ AJAX
 ALA
 : → A List Apart
 
+ALGOL
+: → Algorithmic Language
+
 Algorithm
 : A finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are unambiguous specifications for performing calculation, data processing, automated reasoning, and other tasks.&nbsp;[†](#w-algorithm)
+
+Algorithmic Language
+: A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.

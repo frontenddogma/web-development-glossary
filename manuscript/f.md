@@ -67,7 +67,7 @@ Fitts’ Law
 : A predictive model of human movement primarily used in human-computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
 
 Fixed
-: A web design approach in which page elements have a fixed as opposed to variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
+: A web design approach in which page elements have a fixed as opposed to a variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
 
 Flash
 : A deprecated multimedia software platform used for production of animations, rich Internet applications, desktop applications, mobile applications, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone and camera input.&nbsp;[†](#w-flash)

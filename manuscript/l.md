@@ -62,28 +62,28 @@ LIFO
 : → Last In, First Out
 
 Library
-: @@
+: Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies.&nbsp;[†](#w-library)
 
 Ligature
-: @@
+: The joining of two or more graphemes or letters as a single glyph. An example is the character “æ” as used in English, in which the letters “a” and “e” are joined. The common ampersand (“&”) developed from a ligature in which the handwritten Latin letters “e” and “t” (spelling “et”, from the Latin for “and”) were combined.&nbsp;[†](#w-ligature)
 
 Light Mode
-: @@
+: A color scheme that uses dark-colored text, icons, and interface elements on a light background. Often a display default.
 
 Lightweight Directory Access Protocol
-: @@
+: An industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. A common use of LDAP is to provide a central place to store usernames and passwords. This allows many different applications and services to connect to the LDAP server to validate users.&nbsp;[†](#w-ldap)
 
 Line box
 : A line (rectangular area) formed by inline boxes.
 
-Line end
-: @@
+Line ending
+: → Newline
 
 Line feed
-: @@
+: → Newline
 
 Lines of Code
-: @@
+: A software metric used to measure the size of a computer program by counting the number of lines in the text of the program's source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
 
 Link
 : A reference from one web resource to another web resource, made by an anchor.
@@ -92,19 +92,19 @@ Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linux
-: @@
+: A family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open-source software collaboration.&nbsp;[†](#w-linux)
 
 Linux, Apache, MySQL, PHP/Perl/Python
-: @@
+: An archetypal model of web service stacks, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and web applications.&nbsp;[†](#w-lamp)
 
 Liquid
-: @@
+: A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
 
 Literal
-: @@
+: A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
 
 Little’s Law
-: @@
+: A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
 
 LOC
 : → Lines of Code
@@ -116,30 +116,30 @@ Local-part
 : The first part of an email address. It may use any of the following ASCII characters: uppercase and lowercase Latin letters “A” to “Z” and “a” to “z”; digits “0” to “9”; the printable characters “!”, “#”, “$”, “%”, “&”, “'”, “*”, “+”, “-”, “/”, “=”, “?”, “^”, “_”, “`”, “{”, “|”, “}”, and “~”; and dots (“.”), provided that a dot is not the first or last character unless quoted, and provided also that it does not appear consecutively unless quoted (e.g. jane..doe@example.com is not allowed, but "jane..doe"@example.com is).&nbsp;[†](#w-email-address)
 
 Local scope
-: @@
+: A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)
 
 Local variable
-: @@
+: A variable that is given local scope. Local variable references in the function or block in which it is declared override the same variable name in the larger scope. In programming languages with only two levels of visibility, local variables are contrasted with global variables. On the other hand, many ALGOL-derived languages allow any number of nested levels of visibility, with private variables, functions, constants and types hidden within them, either by nested blocks or nested functions. Local variables are fundamental to procedural programming, and more generally modular programming: variables of local scope are used to avoid issues with side-effects that can occur with global variables.&nbsp;[†](#w-local-variable)
 
 Locale
-: @@
+: A set of parameters that defines the user's language, region and any special variant preferences that the user wants to see in their user interface. Usually a locale identifier consists of at least a language code and a country/region code.&nbsp;[†](#w-locale)
 
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
 
 Loop
-: @@
+: A sequence of statements which is specified once but which may be carried out several times in succession. The code "inside" the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)
 
 Lossless
-: @@
+: A class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavourable. Typical examples are executable programs, text documents, and source code. Some image file formats, like PNG or GIF, use only lossless compression.&nbsp;[†](#w-lossless)
 
 Lossy
-: @@
+: A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end-user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and internet telephony.&nbsp;[†](#w-lossy) 
 
 LTR
 : → Left-to-Right
 
 Lynx
-: @@
+: A customizable text-based web browser for use on cursor-addressable character cell terminals. As of November 2019, it is the oldest web browser still in general use and active development, having started in 1992.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/l.md) and become a glossary&nbsp;contributor!
