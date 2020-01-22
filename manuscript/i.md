@@ -139,7 +139,7 @@ IntelliJ IDEA
 : An integrated development environment (IDE) written in Java for developing computer software. It is developed by JetBrains (formerly known as IntelliJ) and was first released in 2001.&nbsp;[†](#w-intellij-idea) ℹ︎&nbsp;[jetbrains.com/idea](https://www.jetbrains.com/idea/)
 
 Interaction Design
-: The practice of designing interactive digital products, environments, systems, and services. Beyond the digital aspect, interaction design is also useful when creating physical (non-digital) products, exploring how a user might interact with it. Common topics of interaction design include design, human–computer interaction, and software development. While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.&nbsp;[†](#w-ixd)
+: The practice of designing interactive digital products, environments, systems, and services. Beyond the digital aspect, interaction design is also useful when creating physical (non-digital) products, exploring how a user might interact with it. Common topics of interaction design include design, human-computer interaction, and software development. While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.&nbsp;[†](#w-ixd)
 
 Interaction Design Association
 : A member-supported organization for the field of interaction design. The IxDA was founded in 2003. ℹ︎&nbsp;[ixda.org](https://ixda.org/)

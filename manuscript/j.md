@@ -22,7 +22,7 @@ JavaScript
 : → ECMAScript
 
 JavaScript Object Notation
-: An open-standard file format or language-independent data interchange format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems. The Internet media type for JSON is `application/json`.&nbsp;[†](#w-json) ℹ︎&nbsp;[json.org](https://www.json.org/)
+: An open-standard file format or language-independent data interchange format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems. The Internet media type for JSON is `application/json`.&nbsp;[†](#w-json) ℹ︎&nbsp;[json.org](https://www.json.org/)
 
 JavaScript Object Notation for Linked Data
 : A method of encoding Linked Data using JSON. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group.&nbsp;[†](#w-json-ld) ℹ︎&nbsp;[json-ld.org](https://json-ld.org/)

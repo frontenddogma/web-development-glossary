@@ -305,7 +305,7 @@ This book uses material from the following Wikipedia articles:
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
-* [Little's law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
+* [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}

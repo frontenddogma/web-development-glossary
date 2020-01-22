@@ -144,7 +144,7 @@ Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
 
 Extended Binary Coded Decimal Interchange Code
-: An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. It descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM's computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
+: An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. It descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM’s computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
 
 Extensible HyperText Markup Language
 : A part of the family of XML markup languages. It mirrors or extends versions of the widely used HyperText Markup Language (HTML), the language in which Web pages are formulated. While HTML, prior to HTML5, was defined as an application of Standard Generalized Markup Language (SGML), a flexible markup language framework, XHTML is an application of XML, a more restrictive subset of SGML. XHTML documents are well-formed and may therefore be parsed using standard XML parsers, unlike HTML, which requires a lenient HTML-specific parser.&nbsp;[†](#w-xhtml) ℹ︎&nbsp;[w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)

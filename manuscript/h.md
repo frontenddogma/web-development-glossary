@@ -94,7 +94,7 @@ HTTPS
 : → Hypertext Transfer Protocol Secure
 
 Human-Computer Interaction
-: The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human–computer interaction is situated at the intersection of computer science, behavioural sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
+: The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioural sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 
 Hyperlink
 : → Link
