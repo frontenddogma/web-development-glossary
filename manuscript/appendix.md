@@ -280,6 +280,8 @@ This book uses material from the following Wikipedia articles:
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
+* [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
+* [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
 * [](){} @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
