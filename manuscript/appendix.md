@@ -31,6 +31,7 @@ This book uses material from the following Wikipedia articles:
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
+* [at (command)](https://en.wikipedia.org/wiki/At_(command)){#w-at}
 * [Attribute (computing)](https://en.wikipedia.org/wiki/Attribute_(computing)){#w-attribute}
 * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality){#w-ar}
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
@@ -61,6 +62,8 @@ This book uses material from the following Wikipedia articles:
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browser Helper Object](https://en.wikipedia.org/wiki/Browser_Helper_Object){#w-bho}
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
+* [Bug tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system){#w-bug-tracking-system}
+* [Bugzilla](https://en.wikipedia.org/wiki/Bugzilla){#w-bugzilla}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
@@ -68,6 +71,7 @@ This book uses material from the following Wikipedia articles:
 * [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
+* [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering){#w-chaos-engineering}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
@@ -113,6 +117,7 @@ This book uses material from the following Wikipedia articles:
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
+* [cron](https://en.wikipedia.org/wiki/Cron){#w-cron}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
@@ -120,6 +125,7 @@ This book uses material from the following Wikipedia articles:
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
+* [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
@@ -159,6 +165,7 @@ This book uses material from the following Wikipedia articles:
 * [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
+* [Email address](https://en.wikipedia.org/wiki/Email_address){#w-email-address}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
@@ -196,6 +203,7 @@ This book uses material from the following Wikipedia articles:
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
+* [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
@@ -262,6 +270,7 @@ This book uses material from the following Wikipedia articles:
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
+* [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
 * [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
 * [JPEG](https://en.wikipedia.org/wiki/JPEG){#w-jpeg}
 * [jQuery](https://en.wikipedia.org/wiki/JQuery){#w-jquery}
@@ -275,6 +284,7 @@ This book uses material from the following Wikipedia articles:
 * [Just-in-time manufacturing](https://en.wikipedia.org/wiki/Just-in-time_manufacturing){#w-jit}
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
+* [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos_(protocol)){#w-kerberos}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
@@ -282,6 +292,7 @@ This book uses material from the following Wikipedia articles:
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
+* [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
 * [](){} @@
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
@@ -303,8 +314,10 @@ This book uses material from the following Wikipedia articles:
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
+* [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
+* [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
@@ -323,6 +336,7 @@ This book uses material from the following Wikipedia articles:
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
+* [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
 * [XLink](https://en.wikipedia.org/wiki/XLink){#w-xlink}

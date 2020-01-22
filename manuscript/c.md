@@ -31,7 +31,7 @@ Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
 Carousel
-: @@
+: A slideshow-like design element for web pages. A carousel allows focus on one unit of content and media while providing access to similar units (by some way of carousel navigation).
 
 Cart
 : → Shopping cart
@@ -68,7 +68,7 @@ CGI
 : → Common Gateway Interface
 
 Chaos engineering
-: @@
+: The discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions. Chaos engineering can be used to achieve resilience against infrastructure, network, and application failures.&nbsp;[†](#w-chaos-engineering)
 
 Character
 : An encoded symbol that maps to a glyph.
@@ -330,13 +330,13 @@ CRM
 : → Customer Relationship Management
 
 cron
-: @@
+: A time-based job scheduler in Unix-like computer operating systems. Users that set up and maintain software environments use cron to schedule jobs (commands or shell scripts) to run periodically at fixed times, dates, or intervals. cron is most suitable for scheduling repetitive tasks. Scheduling one-time tasks can be accomplished using the associated at utility. cron was first released in 1975.&nbsp;[†](#w-cron)
 
 Cron job
-: @@
+: A job (command) to be executed by cron.
 
 Crontab
-: @@
+: A configuration file that specifies shell commands to run periodically on a given schedule. The crontab files are stored where the lists of jobs and other instructions to the cron daemon are kept. Users can have their own individual crontab files and often there is a system-wide crontab file (usually in /etc or a subdirectory of /etc) that only system administrators can edit.&nbsp;[†](#w-cron)
 
 Cross-Origin Resource Sharing
 : A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)

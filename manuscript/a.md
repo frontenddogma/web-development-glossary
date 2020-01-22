@@ -195,6 +195,9 @@ Asynchronous
 Asynchronous JavaScript and XML
 : A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
 
+at
+: A command in Unix-like operating systems, Microsoft Windows, and ReactOS used to schedule commands to be executed once, at a particular time in the future.&nbsp;[†](#w-at)
+
 AT
 : → Assistive technology
 

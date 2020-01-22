@@ -33,6 +33,9 @@ JavaServer Pages
 Jetty
 : A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
+Jira
+: A proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. It was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
+
 JIT
 : → Just in Time
 

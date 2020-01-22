@@ -55,6 +55,9 @@ Emacs
 Email
 : A method of exchanging messages (“mail”) between people using electronic devices. Invented by Ray Tomlinson, email first entered limited use in the 1960s and by the mid-1970s had taken the form now recognized as email. Email operates across computer networks, which today is primarily the Internet. Some early email systems required the author and the recipient to both be online at the same time, in common with instant messaging. Today’s email systems are based on a store-and-forward model.&nbsp;[†](#w-email)
 
+Email address
+: An identifier for an email box to which email messages are delivered. A wide variety of formats were used in early email systems, but only a single format is used today, following the specifications developed for Internet mail systems since the 1980s. An email address such as jane.doe@example.com is made up of a local-part, an @ symbol, then a case-insensitive domain.&nbsp;[†](#w-email-address)
+
 Embedded content
 : Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, MathML `math`, `object`, `picture`, SVG `svg`, and `video` elements.&nbsp;§
 

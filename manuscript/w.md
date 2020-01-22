@@ -175,7 +175,7 @@ World Wide Web Consortium
 : @@
 
 Write Once, Run Anywhere
-: @@
+: A slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language. Ideally, this meant that a Java program could be developed on any device, compiled into a standard bytecode, and be expected to run on any device equipped with a Java virtual machine (JVM). The installation of a JVM or Java interpreter on chips, devices, or software packages became an industry standard practice.&nbsp;[†](#w-wora)
 
 WWW
 : → World Wide Web
