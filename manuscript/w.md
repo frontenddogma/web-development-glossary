@@ -19,13 +19,13 @@ WaSP
 : → Web Standards Project
 
 Waterfall
-: @@
+: A breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks. The approach is typical for certain areas of engineering design. In software development, it tends to be among the less iterative and flexible approaches, as progress flows in largely one direction (“downwards” like a waterfall).&nbsp;[†](#w-waterfall)
 
 WCAG
 : → Web Content Accessibility Guidelines
 
 Web Accessibility Initiative
-: @@ ℹ︎&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
+: An effort to improve the accessibility of the World Wide Web (WWW or Web) for people with disabilities. People with disabilities may encounter difficulties when using computers generally, but also on the Web. Since people with disabilities often require non-standard devices and browsers, making websites more accessible also benefits a wide range of user agents and devices, including mobile devices, which have limited resources. The W3C launched the Web Accessibility Initiative in 1997 with endorsement by The White House and W3C members. It has several working groups and interest groups that work on guidelines, technical reports, educational materials, and other documents that relate to the several different components of web accessibility.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
 Web Application Framework
 : → Web framework
@@ -34,7 +34,7 @@ Web browser
 : → Browser
 
 Web content
-: @@
+: The textual, visual, or aural content that is encountered as part of the user experience on websites. It may include—among other things—text, images, sounds, videos, and animations.&nbsp;[†](#w-web-content)
 
 Web Content Accessibility Guidelines
 : @@ ℹ︎&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
@@ -145,7 +145,7 @@ Windows
 : @@
 
 Windows, Apache, MySQL, PHP/Perl/Python
-: @@
+: The equivalent of the LAMP or MAMP solution stack but with the Windows operating system.
 
 WIP
 : → Work in Progress
@@ -172,7 +172,7 @@ World Wide Web
 : @@
 
 World Wide Web Consortium
-: @@
+: The main international standards organization for the World Wide Web. Founded in 1994 and currently led by Sir Tim Berners-Lee, the consortium is made up of member organizations which maintain full-time staff working together in the development of standards for the World Wide Web. The consortium also engages in education and outreach, develops software, and serves as an open forum for discussion about the Web.&nbsp;[†](#w-w3c) ℹ︎&nbsp;[w3.org](https://www.w3.org/)
 
 Write Once, Run Anywhere
 : A slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language. Ideally, this meant that a Java program could be developed on any device, compiled into a standard bytecode, and be expected to run on any device equipped with a Java virtual machine (JVM). The installation of a JVM or Java interpreter on chips, devices, or software packages became an industry standard practice.&nbsp;[†](#w-wora)

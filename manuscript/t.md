@@ -149,6 +149,9 @@ TTFB
 TTL
 : → Time to Live
 
+Turbo pages
+: @@
+
 Type
 : @@
 

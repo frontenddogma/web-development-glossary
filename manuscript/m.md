@@ -10,7 +10,7 @@ macOS
 : A series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
 
 macOS, Apache, MySQL, PHP/Perl/Python
-: @@
+: A solution stack composed of free and open-source software running with proprietary commercial software, to run dynamic web sites on computers running macOS or Windows. It can be used to develop web sites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name MAMP is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example. The developers of MAMP have also ported the system to Windows (but still called MAMP).&nbsp;[†](#w-mamp)
 
 Macromedia Flash
 : → Flash
@@ -108,6 +108,9 @@ Minifier
 Minimum Viable Product
 : @@
 
+MIP
+: → Mobile Instant Pages
+
 Mixin
 : @@
 
@@ -119,6 +122,9 @@ Mobile
 : @@
 
 Mobile First
+: @@
+
+Mobile Instant Pages
 : @@
 
 Model View Controller

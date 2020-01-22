@@ -27,6 +27,9 @@ Action item
 ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
+Accelerated Mobile Pages
+: A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
+
 Access control
 : The selective restriction of access to a place or other resource while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
 
@@ -95,6 +98,9 @@ American National Standards Institute
 
 American Standard Code for Information Interchange
 : A character encoding standard for electronic communication. ASCII was conceived in 1960 and published in 1963 by the ASA (American Standards Association), now ANSI.
+
+AMP
+: → Accelerated Mobile Pages
 
 Anchor
 : Technical name for a link, usually referring to the underlying `a` element.

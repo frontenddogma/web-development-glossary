@@ -5,6 +5,7 @@
 This book uses material from the following Wikipedia articles:
 
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
+* [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
@@ -313,10 +314,11 @@ This book uses material from the following Wikipedia articles:
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
-* [](){} @@
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
+* [MAMP](https://en.wikipedia.org/wiki/MAMP){#w-mamp}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [](){} @@
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
@@ -350,12 +352,16 @@ This book uses material from the following Wikipedia articles:
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
+* [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
+* [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
+* [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
+* [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
