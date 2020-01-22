@@ -68,7 +68,7 @@ CGI
 : → Common Gateway Interface
 
 Chaos engineering
-: The discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions. Chaos engineering can be used to achieve resilience against infrastructure, network, and application failures.&nbsp;[†](#w-chaos-engineering)
+: The discipline of experimenting on a software system in production in order to build confidence in the system’s capability to withstand turbulent and unexpected conditions. Chaos engineering can be used to achieve resilience against infrastructure, network, and application failures.&nbsp;[†](#w-chaos-engineering)
 
 Character
 : An encoded symbol that maps to a glyph.
