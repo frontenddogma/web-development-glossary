@@ -25,8 +25,8 @@ Last In, First Out
 Latency
 : A time interval between the stimulation and response, or, from a more general point of view, a time delay between the cause and the effect of some physical change in the system being observed. Latency is physically a consequence of the limited velocity with which any physical interaction can propagate. The magnitude of this velocity is always less than or equal to the speed of light. Therefore, every physical system with any physical separation (distance) between cause and effect will experience some sort of latency, regardless of the nature of stimulation that it has been exposed to.&nbsp;[†](#w-latency)
 
-Lazy loading
-: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
+Launch
+: @@
 
 Layout
 : The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. The high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
@@ -36,6 +36,12 @@ Layout engine
 
 Layout table
 : An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout is a popular web design method from the 90s and early 2000s that is mostly antiquated.
+
+Lazy loading
+: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
+
+LDAP
+: → Lightweight Directory Access Protocol
 
 Lead Time
 : The latency between the initiation and completion of a process. For example, the lead time between the placement of an order and delivery of new cars by a given manufacturer might be between 2 weeks and 6 months, depending on various particularities. One business dictionary defines “manufacturing lead time” as the total time required to manufacture an item, including order preparation time, queue time, setup time, run time, move time, inspection time, and put-away time.&nbsp;[†](#w-lead-time)
@@ -59,6 +65,9 @@ Ligature
 : @@
 
 Light Mode
+: @@
+
+Lightweight Directory Access Protocol
 : @@
 
 Line box

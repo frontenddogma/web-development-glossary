@@ -39,6 +39,9 @@ Red Flag Law
 Red, Green, and Blue
 : @@
 
+Redesign
+: @@
+
 Redirect
 : @@
 
@@ -52,6 +55,9 @@ Regex
 : → Regular expression
 
 Regular expression
+: @@
+
+Relaunch
 : @@
 
 Rem

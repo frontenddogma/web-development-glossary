@@ -6,6 +6,9 @@ K-Meleon
 Kanban
 : A lean method to manage and improve work. Kanban aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks. Work items are visualized to give participants a view of progress and process, from start to finish—usually via a Kanban board. Work is pulled as capacity permits, rather than work being pushed into the process when requested.&nbsp;[†](#w-kanban)
 
+Kerberos
+: @@
+
 Key
 : In cryptography, a piece of information (a parameter) that determines the functional output of a cryptographic algorithm. For encryption algorithms, a key specifies the transformation of plaintext into ciphertext, and vice versa for decryption algorithms.&nbsp;[†](#w-key-cryptography)
 : → Database index

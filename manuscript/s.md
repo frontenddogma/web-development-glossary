@@ -133,10 +133,13 @@ Sitemap
 SGML
 : → Standard Generalized Markup Language
 
-Shadow tree
+Shadow DOM
 : @@
 
-Shadow DOM
+Shadow root
+: @@
+
+Shadow tree
 : @@
 
 Shebang
@@ -380,6 +383,9 @@ Synchronized Multimedia Integration Language
 : @@
 
 Synchronous
+: @@
+
+Syndication
 : @@
 
 Syntax

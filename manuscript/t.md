@@ -67,6 +67,9 @@ Test-Driven Development
 Third party
 : @@
 
+`this`
+: @@
+
 Thread
 : @@
 
@@ -91,10 +94,13 @@ TLS
 TMS
 : → Tag Management System
 
+To-do
+: → Todo
+
 Toast
 : @@
 
-`this`
+Todo
 : @@
 
 TOFU

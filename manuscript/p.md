@@ -75,6 +75,9 @@ Perceivable, Operable, Understandable, and Robust
 Perceived performance
 : @@
 
+Perforce
+: @@
+
 Performance
 : @@
 
@@ -130,6 +133,9 @@ Pointing device
 : @@
 
 Polyfill
+: @@
+
+Polymer Project
 : @@
 
 POP

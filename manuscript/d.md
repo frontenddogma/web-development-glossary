@@ -112,6 +112,9 @@ Distributed Version Control System
 Dither
 : An intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images. Dither is routinely used in processing of both digital audio and video data.&nbsp;[†](#w-dither)
 
+Divitis
+: Excessive use of `div` elements, an HTML anti-pattern.
+
 DMZ
 : → Demilitarized Zone
 
@@ -166,6 +169,9 @@ DoS
 
 Dot notation
 : One of two ways to access object properties in JavaScript (`objectName.propertyName`), the other being bracket notation.
+
+Dot-agnostic
+: @@
 
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a timespan that a system is unavailable or offline. The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)

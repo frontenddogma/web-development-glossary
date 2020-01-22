@@ -30,6 +30,9 @@ Card sorting
 Caret
 : A grapheme—“^”, “‸”, “⁁”, or “＾”—with several uses, including as a proofreading mark, as a special character in programming languages, as an escape character, or for estimation.&nbsp;[†](#w-caret)
 
+Carousel
+: @@
+
 Cart
 : → Shopping cart
 
@@ -63,6 +66,9 @@ Certificate
 
 CGI
 : → Common Gateway Interface
+
+Chaos engineering
+: @@
 
 Character
 : An encoded symbol that maps to a glyph.
@@ -322,6 +328,15 @@ Crawler
 
 CRM
 : → Customer Relationship Management
+
+cron
+: @@
+
+Cron job
+: @@
+
+Crontab
+: @@
 
 Cross-Origin Resource Sharing
 : A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)

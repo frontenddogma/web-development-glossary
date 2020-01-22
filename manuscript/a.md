@@ -21,6 +21,9 @@ ACM
 ACT
 : → Accessibility Conformance Testing
 
+Action item
+: → Todo
+
 ActiveX
 : A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 

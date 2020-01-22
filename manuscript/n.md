@@ -31,6 +31,12 @@ Net Promoter Score
 : @@
 
 Netscape
+: → Netscape Navigator
+
+Netscape 4
+: @@
+
+Netscape Navigator
 : @@
 
 Network
