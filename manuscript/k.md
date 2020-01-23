@@ -25,6 +25,9 @@ Keyword
 KHTML
 : A browser engine developed by the KDE project. It is the engine used by the Konqueror web browser. Although it has not seen significant development since 2016, it is still actively maintained.
 
+Knowledge Graph
+: @@
+
 Konqueror
 : A web browser and file management tool. Konqueror was first released in 1996. ℹ︎&nbsp;[konqueror.org](https://konqueror.org/)
 

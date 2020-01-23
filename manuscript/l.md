@@ -52,11 +52,9 @@ Lean
 Left-to-Right
 : A script in which writing starts from the left of a page and continues to the right.&nbsp;[†](#w-rtl)
 
+LESS
 Less
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. The indented syntax of Less is a nested metalanguage, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
-
-LESS
-: → Less
 
 LIFO
 : → Last In, First Out

@@ -102,6 +102,9 @@ American Standard Code for Information Interchange
 AMP
 : → Accelerated Mobile Pages
 
+Analytics
+: @@
+
 Anchor
 : Technical name for a link, usually referring to the underlying `a` element.
 

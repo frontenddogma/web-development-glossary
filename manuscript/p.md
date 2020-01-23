@@ -114,6 +114,9 @@ Ping
 Pixel
 : @@
 
+Pixel-perfect
+: @@
+
 Placeholder
 : @@
 
@@ -149,6 +152,10 @@ Portable Document Format
 
 Portable Network Graphics
 : @@
+
+Portal
+: A specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet "dashboards" for executives and managers.&nbsp;[†](#w-portal)
+: A mechanism that allows for the rendering and quick navigation of embedded content. ℹ︎&nbsp;[wicg.github.io/portals](https://wicg.github.io/portals/)
 
 Post mortem
 : @@

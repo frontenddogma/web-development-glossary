@@ -166,6 +166,9 @@ Shortcut icon
 Shorthand
 : @@
 
+Signed exchange
+: @@
+
 Simple Object Access Protocol
 : @@
 

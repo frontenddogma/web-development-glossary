@@ -227,7 +227,7 @@ Compiling
 : Translating computer code written in one programming language into another language.&nbsp;[†](#w-compiler)
 
 Compiler
-: A computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g., assembly language, object code, or machine code) to create an executable program.&nbsp;[†](#w-compiler)
+: A computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name “compiler” is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g., assembly language, object code, or machine code) to create an executable program.&nbsp;[†](#w-compiler)
 
 Component
 : A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-cbse)
@@ -325,6 +325,9 @@ Craft
 
 Crawler
 : An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)
+
+Crawling
+: @@
 
 CRM
 : → Customer Relationship Management

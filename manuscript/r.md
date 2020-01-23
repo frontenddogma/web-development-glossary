@@ -3,6 +3,9 @@
 Random
 : @@
 
+Ranking
+: @@
+
 Raster image
 : @@
 

@@ -21,6 +21,9 @@ Offline
 Offline First
 : @@
 
+OGP
+: → Open Graph Protocol
+
 OKR
 : → Objectives and Key Results
 
@@ -35,6 +38,9 @@ OOCSS
 
 OOP
 : → Object-Oriented Programming
+
+Open Graph Protocol
+: @@
 
 Open Source
 : @@

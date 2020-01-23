@@ -27,6 +27,9 @@ WCAG
 Web Accessibility Initiative
 : An effort to improve the accessibility of the World Wide Web (WWW or Web) for people with disabilities. People with disabilities may encounter difficulties when using computers generally, but also on the Web. Since people with disabilities often require non-standard devices and browsers, making websites more accessible also benefits a wide range of user agents and devices, including mobile devices, which have limited resources. The W3C launched the Web Accessibility Initiative in 1997 with endorsement by The White House and W3C members. It has several working groups and interest groups that work on guidelines, technical reports, educational materials, and other documents that relate to the several different components of web accessibility.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
+Web analytics
+: → Analytics
+
 Web Application Framework
 : → Web framework
 
