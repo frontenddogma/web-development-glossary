@@ -59,7 +59,7 @@ MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC 1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
-: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1 and RIPEMD algorithms. The initialism "MD" stands for "Message Digest." The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
+: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1 and RIPEMD algorithms. The initialism “MD” stands for “Message Digest.” The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
 
 MD5
 : A widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC 1321.&nbsp;[†](#w-md5)

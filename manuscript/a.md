@@ -178,7 +178,7 @@ Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)
 
 Arrow function
-: An anonymous function and syntactically compact alternative to a regular function expression, although without its own bindings to the `this`, `arguments`, `super`, or `new.target` keywords.&nbsp;[‡](#m-arrow-function) 
+: An anonymous function and syntactically compact alternative to a regular function expression, although without its own bindings to the `this`, `arguments`, `super`, or `new.target` keywords.&nbsp;[‡](#m-arrow-function)
 
 ASCII
 : → American Standard Code for Information Interchange
