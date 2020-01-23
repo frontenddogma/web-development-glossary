@@ -103,7 +103,7 @@ AMP
 : → Accelerated Mobile Pages
 
 Analytics
-: @@
+: → Web analytics
 
 Anchor
 : Technical name for a link, usually referring to the underlying `a` element.

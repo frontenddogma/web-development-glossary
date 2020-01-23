@@ -77,13 +77,17 @@ In-App Browser
 : A browser instance in a mobile application, usually working on the basis of WebViews (Android) or WKWebViews (iOS).
 
 Inclusive Design
-: @@
+: → Universal Design
 
 Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. An Increment must be usable and meet the definition of “Done.”
 
 Indexing
-: @@
+: → n-based indexing
+: → One-based indexing
+: → Search engine indexing
+: → Web indexing
+: → Zero-based indexing
 
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)

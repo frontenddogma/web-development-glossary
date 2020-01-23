@@ -58,6 +58,9 @@ SeaMonkey
 Search Engine Advertising
 : @@
 
+Search engine indexing
+: The collecting, parsing, and storing data to facilitate fast and accurate information retrieval. Index design incorporates interdisciplinary concepts from linguistics, cognitive psychology, mathematics, informatics, and computer science. Popular search engines focus on the full-text indexing of online, natural language documents. Media types such as video, audio, and graphics are also searchable.&nbsp;[†](#w-search-engine-indexing)
+
 Search Engine Marketing
 : @@
 

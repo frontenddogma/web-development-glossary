@@ -340,6 +340,7 @@ This book uses material from the following Wikipedia articles:
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
+* [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
@@ -354,16 +355,19 @@ This book uses material from the following Wikipedia articles:
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
+* [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
+* [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
+* [Web indexing](https://en.wikipedia.org/wiki/Web_indexing){#w-web-indexing}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}

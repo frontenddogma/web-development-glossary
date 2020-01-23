@@ -28,7 +28,7 @@ Web Accessibility Initiative
 : An effort to improve the accessibility of the World Wide Web (WWW or Web) for people with disabilities. People with disabilities may encounter difficulties when using computers generally, but also on the Web. Since people with disabilities often require non-standard devices and browsers, making websites more accessible also benefits a wide range of user agents and devices, including mobile devices, which have limited resources. The W3C launched the Web Accessibility Initiative in 1997 with endorsement by The White House and W3C members. It has several working groups and interest groups that work on guidelines, technical reports, educational materials, and other documents that relate to the several different components of web accessibility.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/WAI](https://www.w3.org/WAI/)
 
 Web analytics
-: → Analytics
+: The measurement, collection, analysis and reporting of web data for purposes of understanding and optimizing web usage. However, Web analytics is not just a process for measuring web traffic but can be used as a tool for business and market research, and to assess and improve the effectiveness of a website. Web analytics applications can also help companies measure the results of traditional print or broadcast advertising campaigns.&nbsp;[†](#w-web-analytics)
 
 Web Application Framework
 : → Web framework
@@ -65,6 +65,9 @@ Web Graphics Library
 
 Web Hypertext Application Technology Working Group
 : @@ ℹ︎&nbsp;[whatwg.org](https://whatwg.org/)
+
+Web indexing
+: The indexing of contents of a website or of the Internet as a whole. Individual websites or intranets may use a back-of-the-book index, while search engines usually use keywords and metadata to provide a more useful vocabulary for Internet or onsite searching. With the increase in the number of periodicals that have articles online, web indexing is also becoming important for periodical websites.&nbsp;[†](#w-web-indexing)
 
 Web performance
 : → Performance
