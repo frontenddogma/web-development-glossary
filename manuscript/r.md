@@ -16,12 +16,24 @@ RDF Site Summary
 : @@
 
 React
+: A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with an API.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
+
+ReactJS
+: → React
+
+Reactive Extensions for JavaScript
 : @@
+
+Reactive Programming
+: A declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm it is possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow. Reactive programming has been proposed as a way to simplify the creation of interactive user interfaces and near-real-time system animation.&nbsp;[†](#w-reactive-programming)
 
 Read the Fucking Manual
 : @@
 
 Read-Eval-Print Loop
+: @@
+
+Readme
 : @@
 
 Real User Monitoring
@@ -115,13 +127,13 @@ Response header
 : @@
 
 Responsive design
-: → Responsive web design
+: → Responsive Web Design
 
-Responsive web design
+Responsive Web Design
 : @@
 
 Responsiveness
-: → Responsive web design
+: → Responsive Web Design
 
 REST
 : → Representational State Transfer
@@ -174,8 +186,14 @@ RSS
 RTF
 : → Rich Text Format
 
+RTFM
+: → Read the Fucking Manual
+
 RTL
 : → Right-to-Left
+
+RTT
+: → Round-Trip Time
 
 Ruby
 : @@
@@ -193,10 +211,10 @@ RUM
 Run-time compilation
 : → Just-in-time compilation
 
-RTFM
-: → Read the Fucking Manual
+RWD
+: → Responsive Web Design
 
-RTT
-: → Round-Trip Time
+RxJS
+: → Reactive Extensions for JavaScript
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/r.md) and become a glossary&nbsp;contributor!

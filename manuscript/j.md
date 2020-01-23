@@ -27,6 +27,9 @@ JavaScript Object Notation
 JavaScript Object Notation for Linked Data
 : A method of encoding Linked Data using JSON. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group.&nbsp;[†](#w-json-ld) ℹ︎&nbsp;[json-ld.org](https://json-ld.org/)
 
+JavaScript XML
+: An extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers. React components are typically written using JSX, although they do not have to be (components may also be written in pure JavaScript).&nbsp;[†](#w-react)
+
 JavaServer Pages
 : A collection of technologies that helps software developers create dynamically generated web pages based on HTML, XML, SOAP, and other document types. Released in 1999 by Sun Microsystems, JSP is similar to PHP and ASP, but uses the Java programming language. To deploy and run JavaServer Pages, a compatible web server with a servlet container, such as Apache Tomcat or Jetty, is required.&nbsp;[†](#w-jsp)
 
@@ -75,6 +78,9 @@ JSON-LD
 
 JSP
 : → JavaServer Pages
+
+JSX
+: → JavaScript XML
 
 Just in Time
 : A business methodology aimed at reducing times within the production system as well as response times from suppliers and to customers, for everything to happen “just in time.”&nbsp;[†](#w-jit)

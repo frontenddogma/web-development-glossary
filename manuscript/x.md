@@ -3,6 +3,9 @@
 XForms
 : An XML format used for collecting inputs from web forms. XForms was designed to be the next generation of HTML/XHTML forms, but is generic enough that it can also be used in a standalone manner or with presentation languages other than XHTML to describe a user interface and a set of common data manipulation tasks. XForms 1.0 (Third Edition) was published in 2007.&nbsp;[†](#w-xforms) ℹ︎&nbsp;[w3.org/TR/xforms](https://www.w3.org/TR/xforms/)
 
+XHP
+: An augmentation of PHP and Hack developed at Facebook to allow XML syntax for the purpose of creating custom and reusable HTML elements. XHP was first released in 2010.&nbsp;[†](#w-xhp)
+
 XHR
 : → XMLHttpRequest
 

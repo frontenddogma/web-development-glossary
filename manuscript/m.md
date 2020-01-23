@@ -36,6 +36,9 @@ Margin
 Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
+Markdown
+: A lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
+
 Marketing
 : The study and management of exchange relationships. Marketing is the business process of creating relationships with and satisfying customers. Because marketing is used to attract customers, it is one of the primary components of business management and commerce. Marketers can direct product to other businesses (B2B marketing) or directly to consumers (B2C marketing).&nbsp;[†](#w-marketing)
 
@@ -46,22 +49,29 @@ Markup language
 : A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Mathematical Markup Language
-: @@
+: In general, a computer notation for representing mathematical formulae, based on mathematical notation. Specialized markup languages are necessary because computers normally deal with linear text and more limited character sets (although increasing support for Unicode is obsoleting very simple uses). A formally standardized syntax also allows a computer to interpret otherwise ambiguous content, for rendering or even evaluating. For computer-interpretable syntaxes, the most popular are TeX/LaTeX and MathML.&nbsp;[†](#w-mathematical-markup-language)
+: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. It aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML5 and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
 
 MathML
 : → Mathematical Markup Language
 
+MD2
+: A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC 1319 and no longer considered secure.&nbsp;[†](#w-md2)
+
+MD4
+: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1 and RIPEMD algorithms. The initialism "MD" stands for "Message Digest." The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
+
 MD5
-: @@
+: A widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC 1321.&nbsp;[†](#w-md5)
 
 MD6
-: @@
+: A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for very long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
 
 Media
-: @@
+: The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
 Media query
-: @@
+: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g. smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone technology of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
 Memoization
 : @@
@@ -71,6 +81,12 @@ Merge Request
 
 Merging
 : @@
+
+Message Digest
+: → MD2
+: → MD4
+: → MD5
+: → MD6
 
 Meta data
 : @@
@@ -167,7 +183,7 @@ MSIE
 : → Internet Explorer
 
 Multimedia
-: @@
+: Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)
 
 Multipurpose Internet Mail Extensions
 : @@

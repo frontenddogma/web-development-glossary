@@ -292,9 +292,11 @@ This book uses material from the following Wikipedia articles:
 * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos_(protocol)){#w-kerberos}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
+* [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph){#w-knowledge-graph}
 * [LAMP (software bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle)){#w-lamp}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
+* [LaTeX](https://en.wikipedia.org/wiki/LaTeX){#w-latex}
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
@@ -318,10 +320,19 @@ This book uses material from the following Wikipedia articles:
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability){#w-maintainability}
 * [Maintenance (technical)](https://en.wikipedia.org/wiki/Maintenance_(technical)){#w-maintenance}
 * [MAMP](https://en.wikipedia.org/wiki/MAMP){#w-mamp}
+* [Markdown](https://en.wikipedia.org/wiki/Markdown){#w-markdown}
 * [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
 * [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
+* [Mathematical markup language](https://en.wikipedia.org/wiki/Mathematical_markup_language){#w-mathematical-markup-language}
+* [MathML](https://en.wikipedia.org/wiki/MathML){#w-mathml}
+* [MD2 (hash function)](https://en.wikipedia.org/wiki/MD2_(hash_function)){#w-md2}
+* [MD4](https://en.wikipedia.org/wiki/MD4){#w-md4}
+* [MD5](https://en.wikipedia.org/wiki/MD5){#w-md5}
+* [MD6](https://en.wikipedia.org/wiki/MD6){#w-md6}
+* [Media (communication)](https://en.wikipedia.org/wiki/Media_(communication)){#w-media}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [](){} @@
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
@@ -337,6 +348,8 @@ This book uses material from the following Wikipedia articles:
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
+* [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
@@ -353,6 +366,7 @@ This book uses material from the following Wikipedia articles:
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
@@ -373,6 +387,7 @@ This book uses material from the following Wikipedia articles:
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
+* [XHP](https://en.wikipedia.org/wiki/XHP){#w-xhp}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
 * [XLink](https://en.wikipedia.org/wiki/XLink){#w-xlink}
 * [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
@@ -432,6 +447,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
+* [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API){#m-intersection-observer}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
 * [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}

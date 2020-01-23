@@ -64,6 +64,9 @@ Test
 Test-Driven Development
 : @@
 
+TeX
+: A typesetting system (or formatting system) which was designed and mostly written by Donald Knuth and released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
+
 Third party
 : @@
 
