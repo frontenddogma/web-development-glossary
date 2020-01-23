@@ -315,7 +315,11 @@ This book uses material from the following Wikipedia articles:
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
+* [Maintainability](https://en.wikipedia.org/wiki/Maintainability){#w-maintainability}
+* [Maintenance (technical)](https://en.wikipedia.org/wiki/Maintenance_(technical)){#w-maintenance}
 * [MAMP](https://en.wikipedia.org/wiki/MAMP){#w-mamp}
+* [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
+* [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [](){} @@
@@ -425,6 +429,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
+* [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

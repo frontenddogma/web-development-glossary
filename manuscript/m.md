@@ -19,31 +19,31 @@ Mail
 : → E-Mail
 
 Main thread
-: @@
+: The thread on which a browser processes user events and paints. By default, the browser uses a single thread to run all the JavaScript on a page, as well as to perform layout, reflows, and garbage collection. That is why long-running JavaScript functions can block the thread, leading to an unresponsive page and a bad user experience.&nbsp;[‡](#m-main-thread)
 
 Maintainability
-: @@
+: The ease with which a product can be maintained in order to correct defects or their cause, repair or replace faulty or worn-out components without having to replace still working parts, prevent unexpected working condition, maximize a product’s useful life, maximize efficiency, reliability, and safety, meet new requirements, make future maintenance easier, or cope with a changed environment.&nbsp;[†](#w-maintainability)
 
 Maintenance
-: @@
+: The functional checking, servicing, repairing, or replacing of necessary devices, equipment, machinery, building infrastructure, supporting utilities, and also software in industrial, business, governmental, and residential installations. Over time, maintenance has come to include multiple wordings that describe various cost-effective practices to keep equipment operational; these activities take place either before or after a failure.&nbsp;[†](#w-maintenance)
 
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Margin
-: @@
+: Per the CSS box model, the (width of the) margin area of a box, that is, an element on a web page. The margin area lies outside the border area of a box.
 
 Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
 Marketing
-: @@
+: The study and management of exchange relationships. Marketing is the business process of creating relationships with and satisfying customers. Because marketing is used to attract customers, it is one of the primary components of business management and commerce. Marketers can direct product to other businesses (B2B marketing) or directly to consumers (B2C marketing).&nbsp;[†](#w-marketing)
 
 Markup
-: @@
+: → Markup language
 
 Markup language
-: @@
+: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Mathematical Markup Language
 : @@

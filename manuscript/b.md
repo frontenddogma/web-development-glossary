@@ -142,7 +142,7 @@ Bourne shell
 : A shell, or command-line interpreter, for computer operating systems. Developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name (`sh`). The Bourne shell was released in 1979 in the Version 7 Unix release distributed to colleges and universities.&nbsp;[†](#w-bourne-shell)
 
 Border
-: Any kind of line (solid, dotted, dashed, …) surrounding an element on a web page, if present.
+: Per the CSS box model, any kind of line (solid, dotted, dashed, …) surrounding an element on a web page, if present. The border area lies between the padding and margin areas of a box.
 
 Bottom-posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)

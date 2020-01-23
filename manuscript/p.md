@@ -7,7 +7,7 @@ Packet
 : @@
 
 Padding
-: @@
+: Per the CSS box model, the (width of the) padding area of a box, that is, an element on a web page. The padding area lies between the content and border areas of a box.
 
 Page
 : @@
