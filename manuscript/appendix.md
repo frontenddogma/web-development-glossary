@@ -186,6 +186,7 @@ This book uses material from the following Wikipedia articles:
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
+* [Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System){#w-fluent-design}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
@@ -330,6 +331,14 @@ This book uses material from the following Wikipedia articles:
 * [MD5](https://en.wikipedia.org/wiki/MD5){#w-md5}
 * [MD6](https://en.wikipedia.org/wiki/MD6){#w-md6}
 * [Media (communication)](https://en.wikipedia.org/wiki/Media_(communication)){#w-media}
+* [Media type](https://en.wikipedia.org/wiki/Media_type){#w-mime-type}
+* [Memoization](https://en.wikipedia.org/wiki/Memoization){#w-memoization}
+* [Merge (version control)](https://en.wikipedia.org/wiki/Merge_(version_control)){#w-merging}
+* [Meta element](https://en.wikipedia.org/wiki/Meta_element){#w-meta-element}
+* [Metadata](https://en.wikipedia.org/wiki/Metadata){#w-metadata}
+* [Method (computer programming)](https://en.wikipedia.org/wiki/Method_(computer_programming)){#w-method}
+* [Metro (design language)](https://en.wikipedia.org/wiki/Metro_(design_language)){#w-mdl}
+* [Microformat](https://en.wikipedia.org/wiki/Microformat){#w-microformat}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
@@ -347,6 +356,7 @@ This book uses material from the following Wikipedia articles:
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
+* [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}

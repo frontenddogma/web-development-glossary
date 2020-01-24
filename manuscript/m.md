@@ -67,20 +67,26 @@ MD5
 MD6
 : A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for very long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
 
+MDL
+: → Microsoft Design Language
+
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
 Media query
 : A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g. smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone technology of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
+Media type
+: → MIME type
+
 Memoization
-: @@
+: An optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. Memoization has also been used in other contexts (and for purposes other than speed gains), such as in simple mutually recursive descent parsing. Although related to caching, memoization refers to a specific case of this optimization, distinguishing it from forms of caching such as buffering or page replacement. In the context of some logic programming languages, memoization is also known as tabling.&nbsp;[†](#w-memoization)
 
 Merge Request
-: @@
+: A request to merge a version-controlled branch into another branch. The same as a pull request, just used by different platforms.
 
 Merging
-: @@
+: A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, it is necessary when a file is modified on two independent branches and subsequently merged. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many revision control software tools include merge capabilities.&nbsp;[†](#w-merging)
 
 Message Digest
 : → MD2
@@ -88,32 +94,32 @@ Message Digest
 : → MD5
 : → MD6
 
-Meta data
-: @@
+Meta element
+: An HTML element that can provide structured metadata about a web page. Meta elements are part of a web page's `head` section. Multiple meta elements with different attributes can be used on the same page. Meta elements can be used to specify a page’s description, keywords, and other metadata. The `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
 
-Meta tag
-: @@
+Metadata
+: Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and metadata.&nbsp;[†](#w-metadata)
 
 Metadata content
 : Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of the document with other documents, or that conveys other “out of band” information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
 
 Method
-: @@
+: A procedure associated with a message and an object. An object consists of data and behavior. The data and behavior comprise an interface, which specifies how the object may be utilized by any of various consumers of the object. Data is represented as properties of the object and behaviors are represented as methods of the object. For example, a `Window` object could have methods such as `open` and `close`, while its state (whether it is opened or closed at any given point in time) would be a property. In class-based programming, methods are defined in a class, and objects are instances of a given class.&nbsp;[†](#w-method)
 
 Metro
-: @@
+: → Microsoft Design Language
 
 Microformat
-: @@
+: A World Wide Web-based approach to semantic markup which uses HTML/XHTML tags supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. This approach allows software to process information intended for end-users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some "automated processing" since the inception of the web, such processing is difficult because the markup tags used to display information on the web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
-Miller’s Law
-: @@
+Microsoft Design Language
+: A design language created by Microsoft. This design language is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio ("content before chrome"), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company's other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
 
 MIME
 : → Multipurpose Internet Mail Extensions
 
 MIME type
-: @@
+: A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 
 Minification
 : @@
