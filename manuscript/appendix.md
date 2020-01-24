@@ -85,6 +85,7 @@ This book uses material from the following Wikipedia articles:
 * [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage){#w-cloud-storage}
 * [CNAME record](https://en.wikipedia.org/wiki/CNAME_record){#w-cname}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
+* [Code golf](https://en.wikipedia.org/wiki/Code_golf){#w-code-golf}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
@@ -128,12 +129,14 @@ This book uses material from the following Wikipedia articles:
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
+* [Darknet](https://en.wikipedia.org/wiki/Darknet){#w-darknet}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
+* [Deep web](https://en.wikipedia.org/wiki/Deep_web){#w-deep-web}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
@@ -183,6 +186,7 @@ This book uses material from the following Wikipedia articles:
 * [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}
 * [File system](https://en.wikipedia.org/wiki/File_system){#w-fs}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
+* [First input delay](https://developer.mozilla.org/en-US/docs/Glossary/First_input_delay){#m-fid}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
@@ -218,6 +222,8 @@ This book uses material from the following Wikipedia articles:
 * [Guetzli](https://en.wikipedia.org/wiki/Guetzli){#w-guetzli}
 * [Gutter](https://en.wikipedia.org/wiki/Gutter){#w-gutter}
 * [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
+* [Hackathon](https://en.wikipedia.org/wiki/Hackathon){#w-hackathon}
+* [Hacker](https://en.wikipedia.org/wiki/Hacker){#w-hacker}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
@@ -261,6 +267,7 @@ This book uses material from the following Wikipedia articles:
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force){#w-ietf}
 * [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer){#w-ie}
 * [Internet Information Services](https://en.wikipedia.org/wiki/Internet_Information_Services){#w-iis}
+* [Internet Message Access Protocol](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol){#w-imap}
 * [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol){#w-internet-protocol}
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat){#w-irc}
 * [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider){#w-isp}
@@ -341,7 +348,14 @@ This book uses material from the following Wikipedia articles:
 * [Microformat](https://en.wikipedia.org/wiki/Microformat){#w-microformat}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [MIME](https://en.wikipedia.org/wiki/MIME){#w-mime}
+* [Minification (programming)](https://en.wikipedia.org/wiki/Minification_(programming)){#w-minification}
+* [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product){#w-mvp}
+* [Mixin](https://en.wikipedia.org/wiki/Mixin){#w-mixin}
+* [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
+* [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
+* [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
 * [](){} @@
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
@@ -364,6 +378,7 @@ This book uses material from the following Wikipedia articles:
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
+* [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
@@ -375,6 +390,7 @@ This book uses material from the following Wikipedia articles:
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
+* [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
@@ -382,6 +398,7 @@ This book uses material from the following Wikipedia articles:
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
+* [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}

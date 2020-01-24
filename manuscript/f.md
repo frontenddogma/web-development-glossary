@@ -18,6 +18,9 @@ FCP
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
 
+FID
+: → First Input Delay
+
 FIFO
 : → First In, First Out
 
@@ -47,6 +50,9 @@ First CPU Idle
 
 First In, First Out
 : A method for organising and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
+
+First Input Delay
+: The time from when a user first interacts with a site (i.e. when they click a link, tap on a button, or uses a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browsers response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
 
 First Interactive
 : → First CPU Idle

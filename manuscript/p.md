@@ -142,7 +142,7 @@ Polymer Project
 : @@
 
 POP
-: @@
+: → Post Office Protocol
 
 Port
 : @@
@@ -158,6 +158,9 @@ Portal
 : A mechanism that allows for the rendering and quick navigation of embedded content. ℹ︎&nbsp;[wicg.github.io/portals](https://wicg.github.io/portals/)
 
 Post mortem
+: @@
+
+Post Office Protocol
 : @@
 
 Postel’s Law

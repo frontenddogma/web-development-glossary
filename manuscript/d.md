@@ -9,6 +9,9 @@ Daily Scrum
 Dark Mode
 : A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background and is often discussed in terms of computer user interface design and web design. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
 
+Darknet
+: The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organisations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
+
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
@@ -44,6 +47,9 @@ Decoration
 
 Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plaintext.&nbsp;[†](#w-cryptography)
+
+Deep Web
+: Parts of the World Wide Web whose contents are not indexed by standard web search-engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. Computer-scientist Michael K. Bergman is credited with coining the term “deep web” in 2001 as a search-indexing term. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social-media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video on demand and some online magazines and newspapers.&nbsp;[†](#w-deep-web)
 
 Defect
 : → Bug

@@ -112,11 +112,17 @@ TOFU
 Tomcat
 : → Apache Tomcat
 
+Tooling
+: @@
+
 Top-Level Domain
 : @@
 
 Top-posting
 : A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
+
+Tor
+: @@
 
 TPM
 : @@

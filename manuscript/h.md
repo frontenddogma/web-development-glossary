@@ -1,5 +1,11 @@
 # H
 
+Hackathon
+: A design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects. The goal of a hackathon is to create functioning software or hardware by the end of the event.&nbsp;[†](#w-hackathon)
+
+Hacker
+: Any skilled computer expert that uses their technical knowledge to overcome a problem. While “hacker” can refer to any skilled computer programmer, the term has become associated in popular culture with a “security hacker,” someone who, with their technical knowledge, uses bugs or exploits to break into computer systems.&nbsp;[†](#w-hacker)
+
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
@@ -26,6 +32,9 @@ Hick’s Law
 
 Hick-Hyman Law
 : → Hick’s Law
+
+Hidden Web
+: → Deep Web
 
 High Efficiency Image Coding
 : → High Efficiency Image File Format

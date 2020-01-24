@@ -67,6 +67,9 @@ Image map
 Image replacement
 : An early web design technique that uses Cascading Style Sheets to replace text on a web page with an image containing that text. It is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[meiert.com/de/publications/articles/20050513](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
 
+IMAP
+: → Internet Message Access Protocol
+
 Immediately Invoked Function Expression
 : A JavaScript function that runs as soon as it is defined. The IIFE is a design pattern which is also known as a Self-Executing Anonymous Function and contains two major parts: The first is the anonymous function with lexical scope enclosed within the Grouping Operator (`()`). This prevents accessing variables within the IIFE idiom as well as polluting the global scope. The second part creates the immediately invoked function expression (`()`) through which the JavaScript engine will directly interpret the function.&nbsp;[‡](#m-iife)
 
@@ -192,6 +195,9 @@ Internet Explorer
 
 Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995.&nbsp;[†](#w-iis) ℹ︎&nbsp;[iis.net](https://www.iis.net/)
+
+Internet Message Access Protocol
+: An Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP was designed in 1986 and is defined by RFC 3501.&nbsp;[†](#w-imap)
 
 Internet Protocol
 : The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.&nbsp;[†](#w-internet-protocol)

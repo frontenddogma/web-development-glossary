@@ -178,6 +178,9 @@ CoC
 Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
 
+Code golf
+: A type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm. Playing code golf is known as “golf scripting.” Code golf tournaments may also be named with the programming language used (for example, Perl golf).&nbsp;[†](#w-code-golf)
+
 Code of Conduct
 : A set of rules outlining the norms, rules, and responsibilities of, and or proper practices for, an individual.&nbsp;[†](#w-coc)
 
@@ -370,6 +373,9 @@ CTR
 
 Customer Relationship Management
 : An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
+
+Cutting the mustard
+: The succeeding under difficult circumstances, and an expression attributed to BBC developers in the context of user agent detection.
 
 CVS
 : → Concurrent Versions System

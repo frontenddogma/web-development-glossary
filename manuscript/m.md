@@ -122,26 +122,26 @@ MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 
 Minification
-: @@
+: The process of removing all unnecessary characters from the source codes of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient.&nbsp;[†](#w-minification)
 
 Minifier
-: @@
+: Software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
 
 Minimum Viable Product
-: @@
+: A version of a product with just enough features to satisfy early customers and provide feedback for future product development. Gathering insights from an MVP is often less expensive than developing a product with more features, which increases costs and risk if the product fails, for example, due to incorrect assumptions.&nbsp;[†](#w-mvp)
 
 MIP
 : → Mobile Instant Pages
 
 Mixin
-: @@
+: A class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin's methods depends on the language. Mixins are sometimes described as being “included” rather than “inherited.” Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause, or to work around lack of support for multiple inheritance in a language. A mixin can also be viewed as an interface with implemented methods. This pattern is an example of enforcing the dependency inversion principle.&nbsp;[†](#w-mixin)
 
 ML
 : → Machine Learning
 : → Markup language
 
 Mobile
-: @@
+: In computing, human–computer interaction in which a computer is expected to be transported during normal usage, which allows for transmission of data, voice and video. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc networks and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.&nbsp;[†](#w-mobile)
 
 Mobile First
 : @@
@@ -191,17 +191,17 @@ MSIE
 Multimedia
 : Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)
 
-Multipurpose Internet Mail Extensions
-: @@
+Multiple inheritance
+: A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class. Multiple inheritance has been a sensitive issue for many years, with opponents pointing to its increased complexity and ambiguity in situations such as the “diamond problem,” where it may be ambiguous as to which parent class a particular feature is inherited from if more than one parent class implements said feature. This can be addressed in various ways, including using virtual inheritance.&nbsp;[†](#w-multiple-inheritance)
 
-Mustard-cutting
-: @@
+Multipurpose Internet Mail Extensions
+: An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP).&nbsp;[†](#w-mime)
 
 Mutable
 : A property of an object whose state can be modified after it was created (mutable or changeable object). This is in contrast to an immutable object.&nbsp;[†](#w-immutable)
 
 Mutation
-: @@
+: In JavaScript, a change of the DOM tree or a change of object properties.
 
 MVC
 : → Model View Controller
@@ -210,6 +210,6 @@ MVP
 : → Minimum Viable Product
 
 MySQL
-: @@
+: A relational database management system (RDBMS). Its name is a combination of “My”, the name of co-founder Michael Widenius's daughter, and “SQL”, the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/m.md) and become a glossary&nbsp;contributor!

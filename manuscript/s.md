@@ -82,6 +82,9 @@ Secure Sockets Layer
 Security
 : → Information Security
 
+Security hacker
+: Someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering, challenge, recreation, or to evaluate system weaknesses to assist in formulating defenses against potential hackers. The subculture that has evolved around hackers is often referred to as the “computer underground.” Longstanding controversy surrounds the meaning of the term “hacker” itself.&nbsp;[†](#w-security-hacker)
+
 Selector
 : @@
 
@@ -175,6 +178,9 @@ Signed exchange
 Simple Object Access Protocol
 : @@
 
+Simple Mail Transfer Protocol
+: @@
+
 Single-Page Application
 : @@
 
@@ -207,6 +213,9 @@ Smi
 
 SMIL
 : → Synchronized Multimedia Integration Language
+
+SMTP
+: → Simple Mail Transfer Protocol
 
 Smoke test
 : @@
@@ -378,6 +387,9 @@ SUIT CSS
 
 Support
 : @@
+
+Surface Web
+: The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the internet; according to one source, as of 2015, Google's index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
 
 Surfing
 : → Browsing
