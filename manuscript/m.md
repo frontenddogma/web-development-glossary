@@ -134,7 +134,7 @@ MIP
 : → Mobile Instant Pages
 
 Mixin
-: A class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin's methods depends on the language. Mixins are sometimes described as being “included” rather than “inherited.” Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause, or to work around lack of support for multiple inheritance in a language. A mixin can also be viewed as an interface with implemented methods. This pattern is an example of enforcing the dependency inversion principle.&nbsp;[†](#w-mixin)
+: A class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin’s methods depends on the language. Mixins are sometimes described as being “included” rather than “inherited.” Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause, or to work around lack of support for multiple inheritance in a language. A mixin can also be viewed as an interface with implemented methods. This pattern is an example of enforcing the dependency inversion principle.&nbsp;[†](#w-mixin)
 
 ML
 : → Machine Learning
@@ -210,6 +210,6 @@ MVP
 : → Minimum Viable Product
 
 MySQL
-: A relational database management system (RDBMS). Its name is a combination of “My”, the name of co-founder Michael Widenius's daughter, and “SQL”, the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
+: A relational database management system (RDBMS). Its name is a combination of “My”, the name of co-founder Michael Widenius’s daughter, and “SQL”, the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/m.md) and become a glossary&nbsp;contributor!

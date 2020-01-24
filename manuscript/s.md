@@ -389,7 +389,7 @@ Support
 : @@
 
 Surface Web
-: The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the internet; according to one source, as of 2015, Google's index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
+: The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the internet; according to one source, as of 2015, Google’s index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
 
 Surfing
 : → Browsing
