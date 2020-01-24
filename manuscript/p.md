@@ -219,7 +219,7 @@ Promise
 
 Property
 : @@
-: In programming, a special sort of class member, intermediate in functionality between a field (or data member) and a method. The syntax for reading and writing of properties is like for fields, but property reads and writes are (usually) translated to “getter” and “setter” method calls. The field-like syntax is easier to read and write than lots of method calls, yet the interposition of method calls "under the hood" allows for data validation, active updating (e.g., of GUI elements), or implementation of what may be called "read-only fields."&nbsp;[†](#w-property-programming)
+: In programming, a special sort of class member, intermediate in functionality between a field (or data member) and a method. The syntax for reading and writing of properties is like for fields, but property reads and writes are (usually) translated to “getter” and “setter” method calls. The field-like syntax is easier to read and write than lots of method calls, yet the interposition of method calls “under the hood” allows for data validation, active updating (e.g., of GUI elements), or implementation of what may be called “read-only fields.”&nbsp;[†](#w-property-programming)
 
 Protocol
 : @@
