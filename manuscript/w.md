@@ -150,6 +150,9 @@ WHOIS
 Windows
 : @@
 
+Windows Aero
+: A design language introduced in the Windows Vista operating system. “Aero” is a backronym for “Authentic, Energetic, Reflective, and Open.” Windows Aero was in force during the development of Windows Vista and Windows 7. In 2012, with the development of Windows 8 and Windows Server 2012, Microsoft moved on to a design language codenamed “Metro.”&nbsp;[†](#w-windows-aero)
+
 Windows, Apache, MySQL, PHP/Perl/Python
 : The equivalent of the LAMP or MAMP solution stack but with the Windows operating system.
 

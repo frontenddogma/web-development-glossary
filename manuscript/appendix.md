@@ -394,6 +394,7 @@ This book uses material from the following Wikipedia articles:
 * [Web indexing](https://en.wikipedia.org/wiki/Web_indexing){#w-web-indexing}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
+* [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
