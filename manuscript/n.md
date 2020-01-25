@@ -39,6 +39,9 @@ Netscape Navigator
 Network
 : In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
 
+Network packet
+: → Packet
+
 Newbie
 : A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning internet activity, such as online gaming or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
 
