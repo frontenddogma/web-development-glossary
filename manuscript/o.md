@@ -75,6 +75,9 @@ Orthogonality
 OS
 : → Operating System
 
+OSI Model
+: @@
+
 OTA
 : → Over the Air
 

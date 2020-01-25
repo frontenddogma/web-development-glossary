@@ -136,7 +136,7 @@ Pointing device
 : @@
 
 Polyfill
-: @@
+: Code that implements a feature on web browsers that do not support the feature. Most often, it refers to a JavaScript library that implements an HTML web standard, either an established standard (supported by some browsers) on older browsers, or a proposed standard (not supported by any browsers) on existing browsers. Formally, “a polyfill is a shim for a browser API.” Polyfills allow web developers to use an API regardless of whether or not it is supported by a browser, and usually with minimal overhead.&nbsp;[†](#w-polyfill)
 
 Polymer Project
 : @@

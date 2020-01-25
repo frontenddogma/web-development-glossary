@@ -180,11 +180,17 @@ Brotli
 Browser
 : A software application for accessing information on the World Wide Web. When a user requests a particular website, the web browser retrieves the necessary content from a web server and displays the resulting web page on the user’s device. As of March 2019, more than 4.3 billion people use a browser, which is about 55% of the world’s population. The three most popular browsers are Chrome, Firefox, and Safari.&nbsp;[†](#w-browser)
 
+Browser detection
+: → Browser sniffing
+
 Browser engine
 : A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user’s device. Besides “browser engine,” two other terms are in common use regarding related concepts: “layout engine” and “rendering engine.” In theory, layout and rendering (or “painting”) could be handled by separate engines. In practice, however, they are tightly coupled and rarely considered separately.&nbsp;[†](#w-browser-engine)
 
 Browser Helper Object
 : A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of version 4 of Internet Explorer. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)
+
+Browser sniffing
+: A set of techniques used in websites and web applications in order to determine the web browser a visitor is using, and to serve browser-appropriate content to the visitor. This practice is sometimes used to circumvent incompatibilities between browsers due to misinterpretation of HTML, Cascading Style Sheets (CSS), or the Document Object Model (DOM). While the World Wide Web Consortium maintains up-to-date central versions of some of the most important Web standards in the form of recommendations, in practice no software developer has designed a browser which adheres exactly to these standards. As a result, different browsers may display the same page differently, and so browser sniffing was developed to detect the web browser in order to help ensure consistent display of content.&nbsp;[†](#w-browser-sniffing)
 
 Browser testing
 : The testing of web sites and apps in different web browsers.

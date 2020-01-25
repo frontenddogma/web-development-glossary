@@ -63,6 +63,7 @@ This book uses material from the following Wikipedia articles:
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browser Helper Object](https://en.wikipedia.org/wiki/Browser_Helper_Object){#w-bho}
+* [Browser sniffing](https://en.wikipedia.org/wiki/Browser_sniffing){#w-browser-sniffing}
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * [Bug tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system){#w-bug-tracking-system}
 * [Bugzilla](https://en.wikipedia.org/wiki/Bugzilla){#w-bugzilla}
@@ -353,6 +354,8 @@ This book uses material from the following Wikipedia articles:
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product){#w-mvp}
 * [Mixin](https://en.wikipedia.org/wiki/Mixin){#w-mixin}
 * [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
+* [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){#w-mvc}
+* [Modernizr](https://en.wikipedia.org/wiki/Modernizr){#w-modernizr}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
@@ -368,6 +371,7 @@ This book uses material from the following Wikipedia articles:
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
+* [Polyfill (programming)](https://en.wikipedia.org/wiki/Polyfill_(programming)){#w-polyfill}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
@@ -479,6 +483,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
 * [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}
+* [Mobile First](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First){#m-mobile-first}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 
