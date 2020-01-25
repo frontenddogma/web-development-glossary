@@ -1,21 +1,21 @@
 # N
 
 n-based indexing
-: @@
+: The option to freely choose the base index of an array. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.&nbsp;[†](#w-array)
 
 Name binding
 : → Binding
 
 Namespace
-: @@
+: A namespace is a set of symbols that are used to organize objects of various kinds, so that these objects may be referred to by name. A namespace ensures that all the identifiers within it have unique names so that they can be easily identified. Prominent examples include file systems; programming languages that organize their variables and subroutines in namespaces; computer networks and distributed systems that assign names to resources, such as computers, printers, websites, (remote) files, etc.; and operating systems that partition kernel resources (process IDs, users, network sockets) by isolated namespaces to support virtualization containers.&nbsp;[†](#w-namespace)
 
 NaN
 : → Not a Number
 
 Native
-: @@
+: Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it's using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
-Navigate
+Navigating
 : @@
 
 Navigation

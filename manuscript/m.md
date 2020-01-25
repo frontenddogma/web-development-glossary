@@ -158,25 +158,29 @@ Model View Controller
 Modernizr
 : A JavaScript library that detects the features available in a user's browser. This lets web pages avoid unsupported features by informing the user their browser isn't supported or loading a polyfill. Modernizr aims to provide feature detection in a consistent and easy to use manner that discourages the use of failure-prone browser sniffing. Modernizr was first released in 2009.&nbsp;[†](#w-modernizr) ℹ︎&nbsp;[modernizr.com](https://modernizr.com/)
 
-Modular
-: @@
+Modular design
+: An approach (design theory and practice) that subdivides a system into smaller parts called modules, which can be independently created, modified, replaced or exchanged between different systems.&nbsp;[†](#w-modular-design)
 
 Module
-: @@
+: → Component
 
 Monolith
-: @@
+: A single-tiered software application in which the user interface and data access code are combined into a single program from a single platform. A monolithic application is self-contained, and independent from other computing applications. In its original use, the term “monolithic” described enormous main frame applications with no usable modularity. This, in combination with rapid increase in computational power and therefore rapid increase in the complexity of the problems which could be tackled by software, resulted in unmaintainable systems and the “software crisis.”&nbsp;[†](#w-monolith)
+
+Monolithic application
+: → Monolith
 
 Monorepo
-: @@
+: A software development strategy where code for many projects are stored in the same repository.&nbsp;[†](#w-monorepo)
 
 Mosaic
-: @@
+: The web browser that popularized the World Wide Web and the Internet. It was also a client for earlier internet protocols such as File Transfer Protocol, Network News Transfer Protocol, and Gopher. The browser was named for its support of multiple internet protocols. Its intuitive interface, reliability, Microsoft Windows port, and simple installation all contributed to its popularity within the web, as well as on Microsoft operating systems. Mosaic was also the first browser to display images inline with text instead of displaying them in a separate window. It is often described as the first graphical web browser, though it was preceded by WorldWideWeb, the lesser-known Erwise, and ViolaWWW. Mosaic was first released in 1991.&nbsp;[†](#w-mosaic)
 
 Moving Picture Experts Group
-: @@
+: A working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission, the MPEG formats. The MPEG was established in 1988 by the initiative of Hiroshi Yasuda.&nbsp;[†](#w-moving-picture-experts-group) ℹ︎&nbsp;[mpeg.chiariglione.org](https://mpeg.chiariglione.org/)
 
 MPEG
+: A series of audio and video compression standards developed by the Moving Picture Experts Group, including MPEG-1 (1993), MPEG-2 (1995), MPEG-4 (1998), MPEG-7 (2002), and MPEG-21 (2001).
 : → Moving Picture Experts Group
 
 MR

@@ -76,7 +76,7 @@ Usability testing
 : @@
 
 Usenet
-: @@
+: A worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and Usenet was established in 1980. Users read and post messages (called articles or posts, and collectively termed news) to one or more categories, known as newsgroups. Usenet resembles a bulletin board system (BBS) in many respects and is the precursor to Internet forums that are widely used today.&nbsp;[†](#w-usenet)
 
 Using Declarations Just Once
 : @@

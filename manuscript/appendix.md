@@ -214,6 +214,7 @@ This book uses material from the following Wikipedia articles:
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
 * [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
+* [Gopher (protocol)](https://en.wikipedia.org/wiki/Gopher_(protocol)){#w-gopher}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
@@ -356,16 +357,23 @@ This book uses material from the following Wikipedia articles:
 * [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
 * [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){#w-mvc}
 * [Modernizr](https://en.wikipedia.org/wiki/Modernizr){#w-modernizr}
+* [Modular design](https://en.wikipedia.org/wiki/Modular_design){#w-modular-design}
+* [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application){#w-monolith}
+* [Monorepo](https://en.wikipedia.org/wiki/Monorepo){#w-monorepo}
+* [Mosaic (web browser)](https://en.wikipedia.org/wiki/Mosaic_(web_browser)){#w-mosaic}
+* [Moving Picture Experts Group](https://en.wikipedia.org/wiki/Moving_Picture_Experts_Group){#w-moving-picture-experts-group}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
-* [](){} @@
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
+* [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
+* [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
+* [](){} @@
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
@@ -385,8 +393,10 @@ This book uses material from the following Wikipedia articles:
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
+* [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
+* [Software crisis](https://en.wikipedia.org/wiki/Software_crisis){#w-software-crisis}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
@@ -401,6 +411,7 @@ This book uses material from the following Wikipedia articles:
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
+* [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
