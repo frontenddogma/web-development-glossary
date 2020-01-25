@@ -8,7 +8,7 @@ Sometimes a term originates not in Web Development but in Computer Science, Info
 
 ([Adding examples](https://github.com/j9t/web-development-glossary/issues/1) is on the agenda as one of the next features.)
 
-There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary/issues/new).
+There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary/issues/new) and also, if applicable, Wikipedia and MDN.
 
 ## Conventions
 
