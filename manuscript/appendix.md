@@ -392,6 +392,10 @@ This book uses material from the following Wikipedia articles:
 * [Null pointer](https://en.wikipedia.org/wiki/Null_pointer){#w-null-pointer}
 * [Numerical digit](https://en.wikipedia.org/wiki/Numerical_digit){#w-numerical-digit}
 * [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
+* [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
+* [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
+* [OKR](https://en.wikipedia.org/wiki/OKR){#w-okr}
+* [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
 * [](){} @@
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
