@@ -19,6 +19,7 @@ Navigation
 : The process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia. The user interface that is used to do so is called a web browser. A central theme in web design is the development of a web navigation interface that maximizes usability.&nbsp;[†](#w-navigation)
 
 Navigator
+: A role in pair programming.
 : → Netscape Navigator
 
 NDA

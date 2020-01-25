@@ -10,28 +10,31 @@ Padding
 : Per the CSS box model, the (width of the) padding area of a box, that is, an element on a web page. The padding area lies between the content and border areas of a box.
 
 Page
-: @@
+: → Web page
+
+Page impression
+: → Pageview
 
 Page prediction
-: @@
+: A browser feature or script which, when enabled, tells the browser to download resources the user is likely to visit before any user requests for the content are made. Page prediction improves performance by enabling almost instant loading of predicted content. However, page prediction may also download content a user does not request.&nbsp;[‡](#m-page-prediction)
 
 Page Quality
-: @@
+: Custom quality criteria for web pages (Google) and Facebook Pages (Facebook).
 
-Page view
-: @@
+Pageview
+: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-pageview)
 
 Pair programming
-: @@
+: An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the observer also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the observer as a safety net and guide.&nbsp;[†](#w-pair-programming)
 
 Palpable content
 : Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows any flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
 
 Paradigm
-: @@
+: A distinct set of concepts or thought patterns, including theories, research methods, postulates, and standards for what constitutes legitimate contributions to a field. According to Thomas Kuhn (1962), scientific paradigms are “universally recognized scientific achievements that, for a time, provide model problems and solutions for a community of practitioners.”&nbsp;[†](#w-paradigm)
 
 Parallax scrolling
-: @@
+: A technique in computer graphics where background images move past the camera more slowly than foreground images, creating an illusion of depth in a 2D scene and adding to the sense of immersion in the virtual experience. The technique grew out of the multiplane camera technique used in traditional animation since the 1930s.&nbsp;[†](#w-parallax-scrolling)
 
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
@@ -244,6 +247,9 @@ Pull Request
 
 Push notification
 : @@
+
+PV
+: → Pageview
 
 PWA
 : → Progressive Web App

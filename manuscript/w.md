@@ -72,6 +72,9 @@ Web Hypertext Application Technology Working Group
 Web indexing
 : The indexing of contents of a website or of the Internet as a whole. Individual websites or intranets may use a back-of-the-book index, while search engines usually use keywords and metadata to provide a more useful vocabulary for Internet or onsite searching. With the increase in the number of periodicals that have articles online, web indexing is also becoming important for periodical websites.&nbsp;[†](#w-web-indexing)
 
+Web page
+: @@
+
 Web performance
 : → Performance
 

@@ -411,6 +411,10 @@ This book uses material from the following Wikipedia articles:
 * [Over-the-air programming](https://en.wikipedia.org/wiki/Over-the-air_programming){#w-ota}
 * [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
+* [Pageview](https://en.wikipedia.org/wiki/Pageview){#w-pageview}
+* [Pair programming](https://en.wikipedia.org/wiki/Pair_programming){#w-pair-programming}
+* [Paradigm](https://en.wikipedia.org/wiki/Paradigm){#w-paradigm}
+* [Parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling){#w-parallax-scrolling}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
@@ -539,6 +543,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null){#m-null}
 * [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number){#m-number}
 * [Origin](https://developer.mozilla.org/en-US/docs/Glossary/Origin){#m-origin}
+* [Page prediction](https://developer.mozilla.org/en-US/docs/Glossary/Page_prediction){#m-page-prediction}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 
