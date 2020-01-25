@@ -75,6 +75,9 @@ Regex
 Regular expression
 : @@
 
+Rehydration
+: @@
+
 Relaunch
 : The (usually public) release of a significantly redone software or hardware product.
 
