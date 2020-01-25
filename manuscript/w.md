@@ -183,6 +183,9 @@ World Wide Web
 World Wide Web Consortium
 : The main international standards organization for the World Wide Web. Founded in 1994 and currently led by Sir Tim Berners-Lee, the consortium is made up of member organizations which maintain full-time staff working together in the development of standards for the World Wide Web. The consortium also engages in education and outreach, develops software, and serves as an open forum for discussion about the Web.&nbsp;[†](#w-w3c) ℹ︎&nbsp;[w3.org](https://www.w3.org/)
 
+WorldWideWeb
+: The first web browser and editor, later renamed to “Nexus.” WorldWideWeb was discontinued in 1994. At the time it was written, it was the sole web browser in existence, as well as the first WYSIWYG HTML editor.&nbsp;[†](#w-worldwideweb)
+
 Write Once, Run Anywhere
 : A slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language. Ideally, this meant that a Java program could be developed on any device, compiled into a standard bytecode, and be expected to run on any device equipped with a Java virtual machine (JVM). The installation of a JVM or Java interpreter on chips, devices, or software packages became an industry standard practice.&nbsp;[†](#w-wora)
 
