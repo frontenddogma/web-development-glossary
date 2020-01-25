@@ -227,6 +227,9 @@ Dynamic
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)
 
+Dynamic password
+: → One-Time Password
+
 Dynamic typing
 : An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time.&nbsp;[‡](#m-dynamic-typing)
 

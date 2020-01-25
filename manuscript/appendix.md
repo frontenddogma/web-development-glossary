@@ -184,6 +184,7 @@ This book uses material from the following Wikipedia articles:
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
+* [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
@@ -339,6 +340,7 @@ This book uses material from the following Wikipedia articles:
 * [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
 * [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
 * [Mathematical markup language](https://en.wikipedia.org/wiki/Mathematical_markup_language){#w-mathematical-markup-language}
+* [Mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization){#w-optimization}
 * [MathML](https://en.wikipedia.org/wiki/MathML){#w-mathml}
 * [MD2 (hash function)](https://en.wikipedia.org/wiki/MD2_(hash_function)){#w-md2}
 * [MD4](https://en.wikipedia.org/wiki/MD4){#w-md4}
@@ -378,6 +380,7 @@ This book uses material from the following Wikipedia articles:
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
 * [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator){#w-netscape-navigator}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
+* [Network packet](https://en.wikipedia.org/wiki/Network_packet){#w-packet}
 * [Newbie](https://en.wikipedia.org/wiki/Newbie){#w-newbie}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
@@ -395,9 +398,18 @@ This book uses material from the following Wikipedia articles:
 * [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
 * [OKR](https://en.wikipedia.org/wiki/OKR){#w-okr}
+* [One-time password](https://en.wikipedia.org/wiki/One-time_password){#w-otp}
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
+* [Open source](https://en.wikipedia.org/wiki/Open_source){#w-open-source}
+* [Operand](https://en.wikipedia.org/wiki/Operand){#w-operand}
+* [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
+* [Operator (computer programming)](https://en.wikipedia.org/wiki/Operator_(computer_programming)){#w-operator-computer-science}
+* [Operator (mathematics)](https://en.wikipedia.org/wiki/Operator_(mathematics)){#w-operator-math}
+* [Orthogonality (programming)](https://en.wikipedia.org/wiki/Orthogonality_(programming)){#w-orthogonality}
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
-* [](){} @@
+* [OSI model](https://en.wikipedia.org/wiki/OSI_model){#w-osi-model}
+* [Over-the-air programming](https://en.wikipedia.org/wiki/Over-the-air_programming){#w-ota}
+* [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
@@ -407,6 +419,7 @@ This book uses material from the following Wikipedia articles:
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [](){} @@
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
@@ -525,6 +538,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Mobile First](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First){#m-mobile-first}
 * [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null){#m-null}
 * [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number){#m-number}
+* [Origin](https://developer.mozilla.org/en-US/docs/Glossary/Origin){#m-origin}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

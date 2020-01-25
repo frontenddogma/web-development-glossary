@@ -4,7 +4,7 @@ Packed
 : A property of an array that consists only of elements, and that can be optimized accordingly.
 
 Packet
-: @@
+: A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)
 
 Padding
 : Per the CSS box model, the (width of the) padding area of a box, that is, an element on a web page. The padding area lies between the content and border areas of a box.
