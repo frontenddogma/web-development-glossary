@@ -239,7 +239,7 @@ Software
 : @@
 
 Software crisis
-: A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany. Edsger Dijkstra's 1972 ACM Turing Award Lecture makes reference to the same problem.&nbsp;[†](#w-software-crisis)
+: A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany. Edsger Dijkstra’s 1972 ACM Turing Award Lecture makes reference to the same problem.&nbsp;[†](#w-software-crisis)
 
 Software development
 : @@

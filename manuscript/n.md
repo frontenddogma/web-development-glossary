@@ -13,7 +13,7 @@ NaN
 : → Not a Number
 
 Native
-: Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it's using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
+: Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it’s using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
 Navigation
 : The process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia. The user interface that is used to do so is called a web browser. A central theme in web design is the development of a web navigation interface that maximizes usability.&nbsp;[†](#w-navigation)
@@ -28,7 +28,7 @@ Nesting
 : The organizing of information in layers, or the containing of objects in other objects. Nesting almost always refers to self-similar or recursive structures in some sense.&nbsp;[†](#w-nesting)
 
 Net Promoter Score
-: A management tool that can be used to gauge the loyalty of a firm's customer relationships. It serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company/product/service to a friend or colleague?”&nbsp;[†](#w-nps)
+: A management tool that can be used to gauge the loyalty of a firm’s customer relationships. It serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company/product/service to a friend or colleague?”&nbsp;[†](#w-nps)
 
 Netscape 4
 : A version of Netscape Navigator memorable for web developers because of its particular support (or lack of support) of web standards.
@@ -60,7 +60,7 @@ Node.js
 : An cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user’s web browser. Consequently, Node.js represents a “JavaScript everywhere” paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
 Non-Disclosure Agreement
-: A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to or by third parties. Doctor–patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and Kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
+: A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to or by third parties. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and Kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
 Noob
 : @@
