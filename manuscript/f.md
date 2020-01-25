@@ -100,6 +100,10 @@ Flex
 Flexbox
 : A CSS web layout model for displaying items in a single dimension, as a row or as a column. In the specification for the CSS Flexible Box Layout Module, Flexbox is described as a layout model for user interface design. The key feature of Flexbox is the fact that items in a flex layout can grow and shrink. Space can be assigned to the items themselves, or distributed between or around the items. Flexbox also enables alignment of items on the main or cross axis, thus providing a high level of control over the size and alignment of a group of items.&nbsp;[‡](#m-flexbox) ℹ︎&nbsp;[w3.org/TR/css-flexbox-1](https://www.w3.org/TR/css-flexbox-1/)
 
+Float
+: A single precision, 32-bit floating-point data type.
+: A mechanism for visual formatting in CSS building on the `float` property, allowing content to flow along an element’s sides.
+
 Flock
 : A discontinued web browser that specialized in providing social networking and Web 2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
 

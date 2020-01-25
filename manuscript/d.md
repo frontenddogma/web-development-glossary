@@ -1,5 +1,8 @@
 # D
 
+/dev/null
+: → Null device
+
 Daemon
 : A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
 
@@ -184,6 +187,9 @@ Dot notation
 
 Dot-agnostic
 : An configuration aspect for email that allows dots (“.”) anywhere within the local-part of the email address, to still refer to the same address. That is, when dot-agnostic, jane.doe@example.com, janedoe@example.com, and j.a.n.e.d.o.e@example.com would all be the same address and reach the same recipient.
+
+Double
+: A double-precision, 64-bit floating-point data type.
 
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a timespan that a system is unavailable or offline. The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)

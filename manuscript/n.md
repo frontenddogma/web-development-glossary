@@ -39,6 +39,9 @@ Netscape Navigator
 Network
 : In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
 
+Newbie
+: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning internet activity, such as online gaming or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
+
 Newline
 : A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (“↵”).&nbsp;[†](#w-newline)
 
@@ -56,6 +59,9 @@ Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
 : → Node.js
 
+Node Package Manager
+: → npm
+
 Node.js
 : An cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user’s web browser. Consequently, Node.js represents a “JavaScript everywhere” paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
@@ -63,39 +69,48 @@ Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to or by third parties. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and Kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
 Noob
-: @@
+: → Newbie
 
 Normalization
-: @@
+: The the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design).&nbsp;[†](#w-normalization)
 
 Normalize.css
-: @@
+: A alternative, less aggressive form of reset style sheet that does not overwrite some user agent style sheet defaults. Normalize.css was first released in 2011 by Nicolas Gallagher. ℹ︎&nbsp;[necolas.github.io/normalize.css](https://necolas.github.io/normalize.css/)
 
 Normative
-: @@
+: Relating to an evaluative standard. Normativity is the phenomenon in human societies of designating some actions or outcomes as good or desirable or permissible and others as bad or undesirable or impermissible. A norm in this normative sense means a standard for evaluating or making judgments about behavior or outcomes. Normative is sometimes also used, somewhat confusingly, to mean relating to a descriptive standard: doing what is normally done or what most others are expected to do in practice. In this sense a norm is not evaluative, a basis for judging behavior or outcomes; it is simply a fact or observation about behavior or outcomes, without judgment.&nbsp;[†](#w-normative)
 
 NoSQL
-: @@
+: A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
 
 Not a Number
-: @@
+: A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
 
 npm
-: @@
+: A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
 
 NPS
 : → Net Promoter Score
 
 Null
-: @@
+: A `null` value which represents a reference that points, generally intentionally, to a non-existent or invalid object or address. The meaning of a `null` reference varies among language implementations. In JavaScript, `null` is one of the primitive values.&nbsp;[‡](#m-null)
+
+Null device
+: A device file that discards all data written to it but reports that the write operation succeeded. This device is called `/dev/null` on Unix and Unix-like systems, `NUL:` or `NUL` on DOS and CP/M, `nul` on newer Windows systems (internally `\Device\Null` on Windows NT), `NIL:` on Amiga operating systems, and `NL:` on OpenVMS. In Windows Powershell, the equivalent is `$null`. The null device provides no data to any process that reads from it, yielding EOF immediately. In IBM DOS/360, OS/360 (MFT, MVT), OS/390 and z/OS operating systems, such files would be assigned in JCL to `DD DUMMY`. In programmer jargon, especially Unix jargon, the null device may also be called the bit bucket or black hole.&nbsp;[†](#w-null-device)
+
+Null pointer
+: A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
 
 Number
-: @@
+: In JavaScript, a numeric data type in the double-precision 64-bit floating point format (IEEE 754). In other programming languages different numeric types can exist, for examples: Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Numeral
-: @@
+: → Numerical digit
 
 Numeric character reference
 : A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
+
+Numerical digit
+: A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit-numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin digiti meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e. the decimal (ancient Latin adjective decem meaning ten) digits.&nbsp;[†](#w-numerical-digit)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/n.md) and become a glossary&nbsp;contributor!

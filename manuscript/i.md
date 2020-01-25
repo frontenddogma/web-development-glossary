@@ -142,6 +142,10 @@ Inline-level element
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
+Integer
+: In computer science, a datum of integral data type, a data type that represents some range of mathematical integers. Integral data types may be of different sizes and may or may not be allowed to contain negative values. Integers are commonly represented in a computer as a group of binary digits (bits).&nbsp;[†](#w-integer-computer-science)
+: In mathematics, a number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, while 9.75, 5½, and √2 are not. The set of integers consists of zero (0), the positive natural numbers (1, 2, 3, …), also called whole numbers or counting numbers, and their additive inverses (the negative integers, i.e., –1, −2, −3, …).&nbsp;[†](#w-integer-math)
+
 Integrated Development Environment
 : A software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools, and a debugger. Some IDEs contain the necessary compiler, interpreter, or both.&nbsp;[†](#w-ide)
 

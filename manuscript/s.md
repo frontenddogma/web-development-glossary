@@ -229,6 +229,9 @@ SOAP
 SOC
 : → Separation of Concerns
 
+Social Web
+: → Web 2.0
+
 Soft launch
 : A preview release of a product or service to a limited audience prior to the general public. Soft-launching a product is sometimes used to gather data or feedback regarding its acceptance in the marketplace, prior to making it widely available during an official release or grand opening. A company may also choose a soft launch to test the functionality of a product, allowing adjustments to be made before a wider release and marketing efforts are implemented.&nbsp;[†](#w-soft-launch)
 

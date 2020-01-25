@@ -137,6 +137,7 @@ This book uses material from the following Wikipedia articles:
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
+* [Database normalization](https://en.wikipedia.org/wiki/Database_normalization){#w-normalization}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Deep web](https://en.wikipedia.org/wiki/Deep_web){#w-deep-web}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
@@ -174,6 +175,7 @@ This book uses material from the following Wikipedia articles:
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
 * [Email address](https://en.wikipedia.org/wiki/Email_address){#w-email-address}
+* [Empty string](https://en.wikipedia.org/wiki/Empty_string){#w-empty-string}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
@@ -257,6 +259,8 @@ This book uses material from the following Wikipedia articles:
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
+* [Integer](https://en.wikipedia.org/wiki/Integer){#w-integer-math}
+* [Integer (computer science)](https://en.wikipedia.org/wiki/Integer_(computer_science)){#w-integer-computer-science}
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
 * [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property){#w-intellectual-property}
 * [IntelliJ IDEA](https://en.wikipedia.org/wiki/IntelliJ_IDEA){#w-intellij-idea}
@@ -368,19 +372,28 @@ This book uses material from the following Wikipedia articles:
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
+* [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
 * [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator){#w-netscape-navigator}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
+* [Newbie](https://en.wikipedia.org/wiki/Newbie){#w-newbie}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement){#w-nda}
+* [Normative](https://en.wikipedia.org/wiki/Normative){#w-normative}
+* [NoSQL](https://en.wikipedia.org/wiki/NoSQL){#w-nosql}
+* [npm (software)](https://en.wikipedia.org/wiki/Npm_(software)){#w-npm}
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
-* [](){} @@
+* [Null device](https://en.wikipedia.org/wiki/Null_device){#w-null-device}
+* [Null pointer](https://en.wikipedia.org/wiki/Null_pointer){#w-null-pointer}
+* [Numerical digit](https://en.wikipedia.org/wiki/Numerical_digit){#w-numerical-digit}
+* [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
+* [](){} @@
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
@@ -415,12 +428,15 @@ This book uses material from the following Wikipedia articles:
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
+* [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
+* [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
+* [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
@@ -503,6 +519,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
 * [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}
 * [Mobile First](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First){#m-mobile-first}
+* [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null){#m-null}
+* [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number){#m-number}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

@@ -1,7 +1,7 @@
 # O
 
 Obfuscation
-: @@
+: The deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements. Programmers may deliberately obfuscate code to conceal its purpose (security through obscurity) or its logic or implicit values embedded in it, primarily, in order to prevent tampering, deter reverse engineering, or even as a puzzle or recreational challenge for someone reading the source code.&nbsp;[†](#w-obfuscation)
 
 Object
 : @@

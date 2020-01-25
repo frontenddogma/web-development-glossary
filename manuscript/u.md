@@ -42,8 +42,14 @@ Uniform Resource Locator
 Uniform Resource Name
 : @@
 
-Unit test
-: @@
+Uninitialized pointer
+: → Uninitialized variable
+
+Uninitialized variable
+: A variable that is declared but is not set to a definite known value before it is used. It will have some value, but not a predictable one. As such, it is a programming error and a common source of bugs in software.&nbsp;[†](#w-uninitialized-variable)
+
+Unit testing
+: A software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run to ensure that a section of an application (known as the “unit”) meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure. In object-oriented programming, a unit is often an entire interface, such as a class, but could be an individual method.&nbsp;[†](#w-unit-testing)
 
 Universal Design
 : The design of buildings, products, or environments to make them accessible to all people, regardless of age, disability or other factors. The term “universal design” was coined by the architect Ronald Mace to describe the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life. However, it was the work of Selwyn Goldsmith, author of _Designing for the Disabled_ (1963), who really pioneered the concept of free access for people with disabilities. His most significant achievement was the creation of the dropped curb—now a standard feature of the built environment.&nbsp;[†](#w-universal-design)
