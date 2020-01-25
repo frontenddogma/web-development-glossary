@@ -40,7 +40,7 @@ OOP
 : → Object-Oriented Programming
 
 Open Graph Protocol
-: A microformat that enables developers to integrate their pages into Facebook's Social Graph, a global mapping and tracking tool. Respective pages gain the functionality of other graph objects including profile links and stream updates for connected users. OGP was created in 2010 by Facebook.&nbsp;[†](#w-facebook-platform) ℹ︎&nbsp;[ogp.me](https://ogp.me/)
+: A microformat that enables developers to integrate their pages into Facebook’s Social Graph, a global mapping and tracking tool. Respective pages gain the functionality of other graph objects including profile links and stream updates for connected users. OGP was created in 2010 by Facebook.&nbsp;[†](#w-facebook-platform) ℹ︎&nbsp;[ogp.me](https://ogp.me/)
 
 Open Source
 : Products that include permission to use the source code, design documents, or content of the product. It most commonly refers to the open source model, in which open source software or other products are released under an open source license as part of the Open Source Software Movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.&nbsp;[†](#w-open-source) ℹ︎&nbsp;[opensource.org](https://opensource.org/)
@@ -58,7 +58,7 @@ Operating System
 : System software that manages computer hardware, software resources, and provides common services for computer programs. For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer—from cellular phones and video game consoles to web servers and supercomputers.&nbsp;[†](#w-os)
 
 Operator
-: In mathematics, a mapping that acts on elements of a space to produce elements of another space (possibly the same space, sometimes required to be the same space). An operator is also used for denoting the symbol of a mathematical operation, which is related with the meaning of "operator" in computer programming.&nbsp;[†](#w-operator-math)
+: In mathematics, a mapping that acts on elements of a space to produce elements of another space (possibly the same space, sometimes required to be the same space). An operator is also used for denoting the symbol of a mathematical operation, which is related with the meaning of “operator” in computer programming.&nbsp;[†](#w-operator-math)
 : In programming, constructs which behave generally like functions, but which differ syntactically or semantically from usual functions. Common simple examples include arithmetic (addition with `+`), comparison (with `>`), and logical operations (such as `AND` or `&&`). More involved examples include assignment (usually `=` or `:=`), field access in a record or object (usually `.`), and the scope resolution operator (often `::`). Languages usually define a set of built-in operators, and in some cases allow users to add new meanings to existing operators or even define completely new operators.&nbsp;[†](#w-operator-computer-science)
 
 Optimization
