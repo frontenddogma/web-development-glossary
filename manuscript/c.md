@@ -109,7 +109,7 @@ Chrome
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 Chromium
-: A Google-developed, free and open-source project whose source code can be compiled into a web browser. Google's Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
+: A Google-developed, free and open-source project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
 
 CI
 : → Corporate Identity

@@ -86,7 +86,7 @@ OTP
 : → One-Time Password
 
 Outline
-: A CSS feature managed with special `outline` properties that allows to draw lines around elements. A CSS outline is different from a border in that it does not take up space, and that it may be non-rectangular. 
+: A CSS feature managed with special `outline` properties that allows to draw lines around elements. A CSS outline is different from a border in that it does not take up space, and that it may be non-rectangular.
 
 Over the Air
 : Various methods of distributing new software, configuration settings, and even encryption keys to devices like mobile phones, set-top boxes, or secure voice communication equipment (encrypted 2-way radios). One important feature of OTA is that one central location can send an update to all the users and that the update applies immediately to everyone on the channel.&nbsp;[†](#w-ota)
