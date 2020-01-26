@@ -247,7 +247,10 @@ Pull Request
 : A request to merge a version-controlled branch into another branch. The same as a merge request, just used by different platforms.
 
 Push notification
-: @@
+: Small messages that can reach audiences anywhere and anytime. While pop-ups appear only when audiences are on the site they belong to, push messages are independent of sites. They are associated with web browsers and apps.&nbsp;[†](#w-push-technology)
+
+Push technology
+: A style of Internet-based communication where the request for a given transaction is initiated by the publisher or central server. It is contrasted with pull/get, where the request for the transmission of information is initiated by the receiver or client. Push services are often based on information preferences expressed in advance.&nbsp;[†](#w-push-technology)
 
 PV
 : → Pageview
@@ -256,6 +259,6 @@ PWA
 : → Progressive Web App
 
 Python
-: @@
+: An interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a “batteries included” language due to its comprehensive standard library.&nbsp;[†](#w-python) ℹ︎&nbsp;[python.org](https://www.python.org/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/p.md) and become a glossary&nbsp;contributor!

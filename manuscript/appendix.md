@@ -427,6 +427,8 @@ This book uses material from the following Wikipedia articles:
 * [Programming language](https://en.wikipedia.org/wiki/Programming_language){#w-programming-language}
 * [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [Push technology](https://en.wikipedia.org/wiki/Push_technology){#w-push-technology}
+* [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language)){#w-python}
 * [](){} @@
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}

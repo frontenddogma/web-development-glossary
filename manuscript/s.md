@@ -115,6 +115,9 @@ Server
 Server farm
 : @@
 
+Server push
+: → Push technology
+
 Server side
 : Operations on the server as opposed to the client side in a client-server relationship.&nbsp;[†](#w-server-side)
 
