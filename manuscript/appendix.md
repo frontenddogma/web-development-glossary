@@ -484,7 +484,7 @@ This book uses material from the following Wikipedia articles:
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
-* [Read–eval–print loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop){#w-repl}
+* [Read-eval-print loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop){#w-repl}
 * [README](https://en.wikipedia.org/wiki/README){#w-readme}
 * [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
