@@ -6,7 +6,7 @@ The idea is that, while not telling a story, the book can indeed be read to get 
 
 Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The glossary goes beyond “just” web development.
 
-([Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is on the agenda as one of the next features.)
+Case, hyphenation, treatment of synonyms may be inconsistent. That reflects reality but is of concern for future updates of the book. [Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is also on the agenda.
 
 There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN.
 
