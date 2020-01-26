@@ -81,14 +81,17 @@ HSTS
 HTML
 : → HyperText Markup Language
 
-HTML 5
+HTML template
+: For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.
+
+HTML&nbsp;5
 : → HTML
 
 HTML/CSS framework
 : A library allowing for easier, more standards-compliant web design using the Cascading Style Sheets language. Most of these frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript based functions, but are mostly design oriented and focused around interactive UI patterns. This detail differentiates CSS (or HTML/CSS) frameworks from other JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
 HTML5
-: → HTML 5
+: → HTML&nbsp;5
 
 HTML5 Boilerplate
 : An HTML, CSS, and JavaScript frontend template for creating HTML5 websites with cross-browser capability.&nbsp;[†](#w-html5-boilerplate) ℹ︎&nbsp;[html5boilerplate.com](https://html5boilerplate.com/)

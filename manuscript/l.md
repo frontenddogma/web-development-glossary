@@ -89,6 +89,9 @@ Lines of Code
 Link
 : A reference from one web resource to another web resource, made by an anchor.
 
+Link rot
+: The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the internet's ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
+
 Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
@@ -130,6 +133,9 @@ Localization
 
 Loop
 : A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)
+
+Lorem ipsum
+: → Placeholder text
 
 Lossless
 : A class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavourable. Typical examples are executable programs, text documents, and source code. Some image file formats, like PNG or GIF, use only lossless compression.&nbsp;[†](#w-lossless)

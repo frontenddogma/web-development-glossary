@@ -187,6 +187,9 @@ Free and Open Source Software
 Free Software Foundation
 : A non-profit organization founded by Richard Stallman in 1985 to support the free software movement, which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization’s preference for software being distributed under copyleft (“share alike”) terms, such as with its own GNU General Public License. The FSF was incorporated in Massachusetts, U.S., where it is also based.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)
 
+Free variable
+: A notation (symbol) that specifies places in an expression where substitution may take place and is not a parameter of this or any container expression. Some older books use the terms real variable and apparent variable for free variable and bound variable, respectively. The idea is related to a placeholder (a symbol that will later be replaced by some literal string), or a wildcard character that stands for an unspecified symbol.&nbsp;[†](#w-free-bound-variable)
+
 Frontend
 : The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)
 

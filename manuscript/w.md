@@ -24,6 +24,9 @@ Waterfall
 WCAG
 : → Web Content Accessibility Guidelines
 
+WCAG Samurai
+: A group of developers independent of the W3C, led by Joe Clark, that from 2006 to 2008 published suggestions, corrections, and extensions to WCAG&nbsp;1.0.&nbsp;[†](#w-wcag)
+
 Web 2.0
 : Websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users. The term was invented by Darcy DiNucci in 1999 and later popularized by Tim O’Reilly and Dale Dougherty at the O’Reilly Media Web 2.0 Conference in late 2004. The Web 2.0 framework specifies only the design and use of websites and does not place any technical demands or specifications on designers. The transition was gradual and, therefore, no precise date for when this change happened has been given.&nbsp;[†](#w-web-20)
 
@@ -38,6 +41,9 @@ Web Application Framework
 
 Web browser
 : → Browser
+
+Web component
+: A set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements. The primary technologies used to create web components include custom elements (APIs to define new HTML elements), Shadow DOM (encapsulated DOM and styling, with composition), and HTML templates (HTML fragment that are not rendered, but stored until instantiated via JavaScript).&nbsp;[†](#w-web-component) ℹ︎&nbsp;[webcomponents.org](https://www.webcomponents.org/)
 
 Web content
 : The textual, visual, or aural content that is encountered as part of the user experience on websites. It may include—among other things—text, images, sounds, videos, and animations.&nbsp;[†](#w-web-content)
@@ -77,6 +83,9 @@ Web page
 
 Web performance
 : → Performance
+
+Web Performance Optimization
+: The field of knowledge about increasing web performance, focusing on how to make websites and app faster, or get them to appear faster (perceived performance).&nbsp;[†](#w-performance)
 
 Web resource
 : @@
@@ -194,6 +203,9 @@ World Wide Web Consortium
 
 WorldWideWeb
 : The first web browser and editor, later renamed to “Nexus.” WorldWideWeb was discontinued in 1994. At the time it was written, it was the sole web browser in existence, as well as the first WYSIWYG HTML editor.&nbsp;[†](#w-worldwideweb)
+
+WPO
+: → Web Performance Optimization
 
 Write Once, Run Anywhere
 : A slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language. Ideally, this meant that a Java program could be developed on any device, compiled into a standard bytecode, and be expected to run on any device equipped with a Java virtual machine (JVM). The installation of a JVM or Java interpreter on chips, devices, or software packages became an industry standard practice.&nbsp;[†](#w-wora)

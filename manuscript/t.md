@@ -67,6 +67,9 @@ Test-Driven Development
 TeX
 : A typesetting system (or formatting system) which was designed and mostly written by Donald Knuth and released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
 
+Theme
+: A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for the graphical control elements, the window decoration and the window. Themes are used to customize the look and feel of software in general, including for websites and apps.&nbsp;[†](#w-theme)
+
 Third party
 : @@
 

@@ -108,6 +108,9 @@ Chrome
 : A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
+Chromium
+: A Google-developed, free and open-source project whose source code can be compiled into a web browser. Google's Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
+
 CI
 : → Corporate Identity
 : → Continuous Integration
@@ -198,6 +201,9 @@ Code splitting
 
 Codeline
 : → Branch
+
+Coding guidelines
+: Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
 
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
@@ -377,8 +383,15 @@ CTA
 CTR
 : → Click-Through Rate
 
+Custom element
+: → Autonomous custom element
+: → Customized built-in element
+
 Customer Relationship Management
 : An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
+
+Customized built-in element
+: Another type of custom element for a web component. Customized built-in elements inherit from basic HTML elements. To create a customized built-in element one has to specify which element it extends, and to use it one writes out the basic element but specifies the name of the custom element through an `is` property.&nbsp;[‡](#m-custom-element)
 
 Cutting the mustard
 : The succeeding under difficult circumstances, and an expression attributed to BBC developers in the context of user agent detection.

@@ -60,6 +60,9 @@ Active Server Pages
 Adaptive
 : An aspect of or synonym for Agile development.
 
+Addon
+: → Plugin
+
 Adobe Flash
 : → Flash
 
@@ -254,6 +257,9 @@ Automatic Semicolon Insertion
 
 Automation
 : A technology by which a process or procedure is performed with minimal human assistance. Automation or automatic control is the use of various control systems for operating equipment.&nbsp;[†](#w-automation)
+
+Autonomous custom element
+: One type of custom element for a web component. An autonomous custom element is standalone, that is, it does not inherit from standard HTML elements. Autonomous custom elements are used by literally writing them out as an HTML element.&nbsp;[‡](#m-custom-element)
 
 AWS
 : → Amazon Web Services

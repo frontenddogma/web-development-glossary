@@ -1,5 +1,8 @@
 # R
 
+Raku
+: A member of the Perl family of programming languages. Formerly known as Perl&nbsp;6, it was renamed in 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification. The design process for Raku began in 2000.&nbsp;[†](#w-raku) ℹ︎&nbsp;[raku.org](https://www.raku.org/)
+
 Random
 : @@
 

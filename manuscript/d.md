@@ -85,7 +85,7 @@ Design language
 : → Design system
 
 Design system
-: A structured collection of design particles, elements, patterns, and components, alongside documentation and guidelines as well as, occasionally, code and tools.
+: A structured collection of design particles, elements, and components, alongside documentation and guidelines as well as, occasionally, code and tools.
 
 Design strategy
 : The development and application of future-oriented design principles in order to increase an organization’s innovative and competitive qualities. Its foundations lie in the analysis of external and internal trends and data, which enables design decisions to be made on the basis of facts rather than aesthetics or intuition. Strategic design is regarded as an effective way to bridge innovation, research, management, and design.&nbsp;[†](#w-design-strategy)
@@ -169,6 +169,9 @@ Domain Name Service
 
 Domain Name System
 : A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
+
+Domain of discourse
+: The set of entities over which certain variables of interest in some formal treatment may range.&nbsp;[†](#w-domain-of-discourse)
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)

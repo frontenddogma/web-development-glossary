@@ -114,6 +114,9 @@ Blog
 Blogging
 : The act of running a blog, and writing posts for a blog.
 
+Blogosphere
+: A collective term for all blogs and their interconnections. The term implies that blogs exist together as a connected community (or as a collection of connected communities) or as a social networking service in which everyday authors can publish their opinions. Since the term has been coined, it has been referenced in a number of media and is also used to refer to the Internet.&nbsp;[†](#w-blogosphere)
+
 BMP
 : → Bitmap
 
@@ -134,6 +137,9 @@ Bootstrap
 
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
+
+Bound variable
+: A variable that was previously free, but has been bound to a specific value or set of values called domain of discourse or universe.&nbsp;[†](#w-free-bound-variable)
 
 Bounding box
 : The smallest possible rectangle (aligned with the axes of that element’s user coordinate system) that entirely encloses an element and its descendants.&nbsp;[‡](#m-bounding-box)
@@ -174,6 +180,9 @@ Branching
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
 
+Broken link
+: A hyperlink that does not work anymore, that is, that points to a target that is not available anymore. Broken links constitute link rot.
+
 Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second order context modelling.&nbsp;[†](#w-brotli) ℹ︎&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
@@ -185,6 +194,9 @@ Browser detection
 
 Browser engine
 : A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user’s device. Besides “browser engine,” two other terms are in common use regarding related concepts: “layout engine” and “rendering engine.” In theory, layout and rendering (or “painting”) could be handled by separate engines. In practice, however, they are tightly coupled and rarely considered separately.&nbsp;[†](#w-browser-engine)
+
+Browser extension
+: A small software module for customizing a web browser. Browsers typically allow a variety of extensions, including user interface modifications, ad blocking, and cookie management. Browser plug-ins are a separate type of module. The main difference is that extensions are usually just source code, but plug-ins are always executables (i.e. object code). As of 2019, plug-ins have been deprecated by most browsers, while extensions are widely used.&nbsp;[†](#w-browser-extension)
 
 Browser Helper Object
 : A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of version 4 of Internet Explorer. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)

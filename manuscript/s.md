@@ -190,6 +190,9 @@ Single-Page Application
 Site
 : → Website
 
+Skin
+: → Theme
+
 SLA
 : → Service Level Agreement
 
@@ -380,7 +383,7 @@ Structured Query Language
 : @@
 
 Style guide
-: @@. May be part of a design system.
+: Structured documentation for design particles, elements, and components. May be part of a design system.
 
 Styling
 : @@

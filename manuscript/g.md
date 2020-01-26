@@ -82,6 +82,9 @@ Graphics Processing Unit
 GraphQL
 : A data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides an approach to developing web APIs, and has been compared and contrasted with REST and other web service architectures. It allows clients to define the structure of the data required, and the same structure of the data is returned from the server, therefore preventing excessively large amounts of data from being returned. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015.&nbsp;[†](#w-graphql) ℹ︎&nbsp;[graphql.org](https://graphql.org/)
 
+Greeking
+: → Placeholder text
+
 Grid
 : In design, a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. The grid serves as an armature or framework on which a designer can organize graphic elements (images, glyphs, paragraphs, etc.) in a rational, easy-to-absorb manner. A grid can be used to organize graphic elements in relation to a page, in relation to other graphic elements on the page, or relation to other parts of the same graphic element or shape.&nbsp;[†](#w-grid)
 : In CSS, an element defined using the `grid` value of the `display` property, for which columns and rows can be specified through the `grid-template-rows` and `grid-template-columns` properties. The grid defined this way is described as the explicit grid. If content is placed outside of this explicit grid, or if auto-placement and the grid algorithm is being relied on, then extra tracks will be created in the implicit grid. The implicit grid is the grid created automatically due to content being added outside of the tracks defined.&nbsp;[‡](#m-grid)
@@ -99,7 +102,7 @@ gulp
 : → gulp.js
 
 gulp.js
-: @@
+: A JavaScript toolkit used as a streaming build system (similar to a more package-focussed Make) in front-end web development. gulp is a task runner built on Node.js and npm, used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization, etc. It was created in 2013 by Eric Schoffstall.&nbsp;[†](#w-gulp) ℹ︎&nbsp;[gulpjs.com](https://gulpjs.com/)
 
 Gutter
 : The space between columns of printed text, including the gap between facing pages.&nbsp;[†](#w-gutter)
