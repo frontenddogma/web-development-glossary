@@ -48,6 +48,9 @@ This book uses material from the following Wikipedia articles:
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
+* [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation){#w-big-o}
+* [Binary number](https://en.wikipedia.org/wiki/Binary_number){#w-binary-number}
+* [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm){#w-binary-search-algorithm}
 * [Black hat (computer security)](https://en.wikipedia.org/wiki/Black_hat_(computer_security)){#w-black-hat}
 * [Blacklist (computing)](https://en.wikipedia.org/wiki/Blacklist_(computing)){#w-blacklist}
 * [Blink (browser engine)](https://en.wikipedia.org/wiki/Blink_(browser_engine)){#w-blink}

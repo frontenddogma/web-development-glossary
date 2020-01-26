@@ -54,6 +54,18 @@ Bidi
 Big Bang
 : The practice of releasing a great amount of working software all at one time, as opposed to incrementally.
 
+Big O notation
+: A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. It is a member of a family of notations invented by Paul Bachmann, Edmund Landau, and others, collectively called Bachmann–Landau notation or asymptotic notation. In computer science, big O notation is used to classify algorithms according to how their running time or space requirements grow as the input size grows. In analytic number theory, big O notation is often used to express a bound on the difference between an arithmetical function and a better understood approximation.&nbsp;[†](#w-big-o)
+
+Binary chop
+: → Binary search algorithm
+
+Binary number
+: A number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically “0” (zero) and “1” (one).&nbsp;[†](#w-binary-number)
+
+Binary search algorithm
+: A search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array.&nbsp;[†](#w-binary-search-algorithm)
+
 Binding
 : The association of entities (data or code) with identifiers. An identifier bound to an object is said to reference that object. Machine languages have no built-in notion of identifiers, but name-object bindings as a service and notation for the programmer is implemented by programming languages. Binding is intimately connected with scoping, as scope determines which names bind to which objects—at which locations in the program code (lexically) and in which one of the possible execution paths (temporally).&nbsp;[†](#w-binding)
 
