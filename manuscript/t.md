@@ -152,6 +152,9 @@ Trident
 Trust on First Use
 : @@
 
+TrustRank
+: An algorithm that conducts link analysis to separate useful webpages from spam and helps search engine rank pages in SERPs (Search Engine Results Pages). It is semi-automated process which means that it needs some human assistance in order to function properly. Search engines have many different algorithms and ranking factors that they use when measuring the quality of webpages, including TrustRank.&nbsp;[†](#w-trustrank)
+
 Try catch
 : @@
 

@@ -247,6 +247,7 @@ This book uses material from the following Wikipedia articles:
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
 * [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
+* [HITS algorithm](https://en.wikipedia.org/wiki/HITS_algorithm){#w-hits}
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
@@ -397,6 +398,7 @@ This book uses material from the following Wikipedia articles:
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet){#w-packet}
 * [Newbie](https://en.wikipedia.org/wiki/Newbie){#w-newbie}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
+* [News aggregator](https://en.wikipedia.org/wiki/News_aggregator){#w-news-aggregator}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
@@ -411,6 +413,7 @@ This book uses material from the following Wikipedia articles:
 * [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
 * [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
+* [Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern){#w-observer-pattern}
 * [OKR](https://en.wikipedia.org/wiki/OKR){#w-okr}
 * [One-time password](https://en.wikipedia.org/wiki/One-time_password){#w-otp}
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
@@ -425,6 +428,7 @@ This book uses material from the following Wikipedia articles:
 * [Over-the-air programming](https://en.wikipedia.org/wiki/Over-the-air_programming){#w-ota}
 * [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
+* [PageRank](https://en.wikipedia.org/wiki/PageRank){#w-pagerank}
 * [Pageview](https://en.wikipedia.org/wiki/Pageview){#w-pageview}
 * [Pair programming](https://en.wikipedia.org/wiki/Pair_programming){#w-pair-programming}
 * [Paradigm](https://en.wikipedia.org/wiki/Paradigm){#w-paradigm}
@@ -473,11 +477,15 @@ This book uses material from the following Wikipedia articles:
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
 * [Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode){#w-quirks-mode}
 * [Raku (programming language)](http://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
+* [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
+* [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
+* [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle){#w-postels-law}
+* [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
 * [](){} @@
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
@@ -500,6 +508,7 @@ This book uses material from the following Wikipedia articles:
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
+* [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}

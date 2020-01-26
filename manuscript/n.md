@@ -49,6 +49,9 @@ Newbie
 Newline
 : A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (“↵”).&nbsp;[†](#w-newline)
 
+News aggregator
+: Client software or a web application which aggregates syndicated web content such as online newspapers, blogs, podcasts, and video blogs (vlogs) in one location for easy viewing. The updates distributed may include journal tables of contents, podcasts, videos, and news items. Aggregation technology helps to consolidate many websites into one page that can show only the new or updated information from many sites. Aggregators reduce the time and effort needed to regularly check websites for updates, creating a unique information space or personal newspaper.&nbsp;[†](#w-news-aggregator)
+
 Nexus
 : A framework for scaled product and software development based on Scrum. ℹ︎&nbsp;[scrum.org/resources/nexus-guide](https://www.scrum.org/resources/nexus-guide)
 : → WorldWideWeb

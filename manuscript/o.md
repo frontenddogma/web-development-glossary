@@ -15,6 +15,9 @@ Object-Oriented Programming
 Objectives and Key Results
 : A framework for defining and tracking objectives and their outcomes. OKRs comprise an objective—a clearly defined goal—and one or more key results—specific measures used to track the achievement of that goal. The goal of OKR is to define how to achieve objectives through concrete, specific and measurable actions. Key results can be measured on a 0–100% scale or any numerical unit. The development of OKRs is generally attributed to Andy Grove, who introduced the approach to Intel and documented OKR in his 1983 book _High Output Management_. Grove’s simple but effective concept is explained by John Doerr: “The key result has to be measurable. But at the end you can look, and without any arguments: Did I do that or did I not do it? Yes? No? Simple. No judgments in it.”&nbsp;[†](#w-okr)
 
+Observer pattern
+: A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. It is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
+
 Offline
 : Being in a state of disconnection from the Internet.
 

@@ -51,6 +51,9 @@ Higher-Order Function
 Hit
 : A request to a web server for a file (such as a web page, image, script, or style sheet). There may be many hits per page view since an HTML page can contain multiple files, such as images.&nbsp;[†](#w-hit)
 
+HITS
+: → Hyperlink-Induced Topic Search
+
 HOC
 : → Higher-Order Component
 
@@ -110,6 +113,9 @@ Human-Computer Interaction
 
 Hyperlink
 : → Link
+
+Hyperlink-Induced Topic Search
+: A link analysis algorithm that rates Web pages, developed in 1999 by Jon Kleinberg. The idea behind Hubs and Authorities, as HITS is also known, stemmed from a particular insight into the creation of web pages when the Internet was originally forming; that is, certain web pages, known as hubs, served as large directories that were not actually authoritative in the information that they held, but were used as compilations of a broad catalog of information that led users direct to other authoritative pages. In other words, a good hub represents a page that pointed to many other pages, while a good authority represents a page that is linked by many different hubs.&nbsp;[†](#w-hits)
 
 Hypertext
 : Text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access. Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set, or by touching the screen. Apart from text, the term “hypertext” is also sometimes used to describe tables, images, and other presentational content formats with integrated hyperlinks. Hypertext is one of the key underlying concepts of the World Wide Web.&nbsp;[†](#w-hypertext)
