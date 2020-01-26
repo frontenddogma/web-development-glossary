@@ -31,16 +31,16 @@ Reactive Programming
 : A declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm it is possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow. Reactive programming has been proposed as a way to simplify the creation of interactive user interfaces and near-real-time system animation.&nbsp;[†](#w-reactive-programming)
 
 Read the Fucking Manual
-: @@
+: The suggesting that one could have found more information or a solution to a problem in documentation. Initialisms similar to RTFM include “STFW” (“Search the Fucking Web”), “GIYF” (“Google Is Your Friend”), “DYOR” (“Do Your Own Research”), and “LMGTFY” (“Let Me Google That for You”).&nbsp;[†](#w-rtfm)
 
 Read-Eval-Print Loop
-: @@
+: A simple, interactive computer programming environment that takes single user inputs (i.e., single expressions), evaluates (executes) them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is usually used to refer to programming interfaces similar to the classic Lisp machine interactive environment. Common examples include command line shells and similar environments for programming languages, and the technique is very characteristic of scripting languages.&nbsp;[†](#w-repl)
 
-Readme
-: @@
+README
+: A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file's name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
 Real User Monitoring
-: @@
+: a passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end-users and to detect errors or slowdowns on web sites.&nbsp;[†](#w-rum)
 
 Recidivism
 : As an Agile metric, the total number of user stories completed in a sprint that entered development for the second time divided by the total number of completed stories.
@@ -49,16 +49,13 @@ Recommendation
 : → Specification
 
 Recursion
-: @@
-
-Red Flag Law
-: @@
+: A method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time. At the opposite, recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.&nbsp;[†](#w-recursion)
 
 Red, Green, and Blue
-: @@
+: As the RGB color model, an additive color model in which red, green, and blue light are added together in various ways to reproduce a broad array of colors. The main purpose of the RGB color model is for the sensing, representation, and display of images in electronic systems, such as televisions and computers, though it has also been used in conventional photography. RGB is a device-dependent color model: different devices detect or reproduce a given RGB value differently, since the color elements (such as phosphors or dyes) and their response to the individual R, G, and B levels vary from manufacturer to manufacturer, or even in the same device over time. Thus an RGB value does not define the same color across devices without some kind of color management.&nbsp;[†](#w-rgb)
 
 Redesign
-: @@
+: The process or outcome of a design update for a product or interface.
 
 Redirect
 : @@

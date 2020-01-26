@@ -168,6 +168,9 @@ Cluster
 CMS
 : → Content Management System
 
+CMYK
+: → Cyan, Magenta, Yellow, and Key
+
 CNAME
 : → Canonical Name
 
@@ -213,6 +216,9 @@ Collapsed margin
 
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
+
+Color management
+: The controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and corresponding media. The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD monitor, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities. With photography it is often critical that prints or online gallery appear how they were intended. Color management cannot guarantee identical color reproduction, as this is rarely possible, but it can at least give more control over any changes which may occur.&nbsp;[†](#w-color-management)
 
 Command
 : A directive to a computer program to perform a specific task. It may be issued via a command-line interface, such as a shell, or as input to a network service as part of a network protocol, or as an event in a graphical user interface triggered by the user selecting an option in a menu.&nbsp;[†](#w-command)
@@ -398,6 +404,9 @@ Cutting the mustard
 
 CVS
 : → Concurrent Versions System
+
+Cyan, Magenta, Yellow, and Key
+: As the CMYK color model, a subtractive color model used in color printing, and also used to describe the printing process itself. CMYK refers to the four ink plates used in some color printing: cyan, magenta, yellow, and key (black). The CMYK model works by partially or entirely masking colors on a lighter, usually white, background. The ink reduces the light that would otherwise be reflected. Such a model is called subtractive because inks “subtract” the colors red, green, and blue from white light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow.&nbsp;[†](#w-cmyk)
 
 Cycle Time
 : The amount of time between the start of work on a task to the time it’s delivered.

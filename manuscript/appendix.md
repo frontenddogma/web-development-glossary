@@ -90,6 +90,7 @@ This book uses material from the following Wikipedia articles:
 * [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing){#w-cloud-computing}
 * [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage){#w-cloud-storage}
+* [CMYK color model](https://en.wikipedia.org/wiki/CMYK_color_model){#w-cmyk}
 * [CNAME record](https://en.wikipedia.org/wiki/CNAME_record){#w-cname}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
 * [Code golf](https://en.wikipedia.org/wiki/Code_golf){#w-code-golf}
@@ -98,6 +99,7 @@ This book uses material from the following Wikipedia articles:
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
+* [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
@@ -482,10 +484,16 @@ This book uses material from the following Wikipedia articles:
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
+* [Read–eval–print loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop){#w-repl}
+* [README](https://en.wikipedia.org/wiki/README){#w-readme}
+* [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
+* [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
+* [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle){#w-postels-law}
 * [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
+* [RTFM](https://en.wikipedia.org/wiki/RTFM){#w-rtfm}
 * [](){} @@
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}

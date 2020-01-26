@@ -37,7 +37,7 @@ Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
 Markdown
-: A lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
+: A lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
 
 Marketing
 : The study and management of exchange relationships. Marketing is the business process of creating relationships with and satisfying customers. Because marketing is used to attract customers, it is one of the primary components of business management and commerce. Marketers can direct product to other businesses (B2B marketing) or directly to consumers (B2C marketing).&nbsp;[†](#w-marketing)
