@@ -213,6 +213,9 @@ Bug
 Bug tracking system
 : A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems, such as those used by most open-source software projects, allow end-users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)
 
+Bugfix
+: → Patch
+
 Bugzilla
 : A web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project. Bugzilla was first released in 1998 by Netscape Communications.&nbsp;[†](#w-bugzilla) ℹ︎&nbsp;[bugzilla.org](https://www.bugzilla.org/)
 

@@ -416,6 +416,10 @@ This book uses material from the following Wikipedia articles:
 * [Paradigm](https://en.wikipedia.org/wiki/Paradigm){#w-paradigm}
 * [Parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling){#w-parallax-scrolling}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
+* [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle){#w-pareto-principle}
+* [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson's_law){#w-parkinsons-law}
+* [Parsing](https://en.wikipedia.org/wiki/Parsing){#w-parsing}
+* [Patch (computing)](https://en.wikipedia.org/wiki/Patch_(computing)){#w-patch}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [Polyfill (programming)](https://en.wikipedia.org/wiki/Polyfill_(programming)){#w-polyfill}

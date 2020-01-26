@@ -117,6 +117,9 @@ WebM
 WebP
 : @@
 
+webpack
+: @@
+
 WebSocket
 : @@
 

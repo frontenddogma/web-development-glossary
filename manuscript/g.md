@@ -95,6 +95,12 @@ Grid track
 Guetzli
 : A JPEG encoder developed by Jyrki Alakujala, Robert Obryk, and Zoltán Szabadka, and released by Google in 2017. It specializes in high-end image quality where it is claimed to produce significantly smaller files than prior encoders at equivalent quality, albeit at very low speed. It is named after the Swiss German expression for Biscuits, in line with the names of other compression technology from Google.&nbsp;[†](#w-guetzli) ℹ︎&nbsp;[github.com/google/guetzli](https://github.com/google/guetzli)
 
+gulp
+: → gulp.js
+
+gulp.js
+: @@
+
 Gutter
 : The space between columns of printed text, including the gap between facing pages.&nbsp;[†](#w-gutter)
 
