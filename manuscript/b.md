@@ -91,6 +91,7 @@ Block
 : → Block container element
 : → Block-level box
 : → Block-level element
+: In CSS, a section delimited by an opening (`{`) and a closing curly brace (`}`).
 : In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block)
 
 Block box

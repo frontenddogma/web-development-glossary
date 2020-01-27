@@ -1,5 +1,8 @@
 # R
 
+Rails
+: → Ruby on Rails
+
 Raku
 : A member of the Perl family of programming languages. Formerly known as Perl&nbsp;6, it was renamed in 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification. The design process for Raku began in 2000.&nbsp;[†](#w-raku) ℹ︎&nbsp;[raku.org](https://www.raku.org/)
 
@@ -163,6 +166,9 @@ RFC
 RGB
 : → Red, Green, and Blue
 
+RIB
+: → Routing Information Base
+
 Rich Text Format
 : A proprietary document file format with published specification developed by Microsoft Corporation from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
 
@@ -209,10 +215,20 @@ Round-Trip Time
 : The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
 Router
-: @@
+: For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered to open the next page.&nbsp;[‡](#m-router)
+: For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
 
 Routine
-: @@
+: A sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.&nbsp;[†](#w-subroutine)
+
+Routing
+: The process of selecting a path for traffic in a network or between or across multiple networks. The routing process usually directs forwarding on the basis of routing tables. Routing tables maintain a record of the routes to various network destinations.&nbsp;[†](#w-routing)
+
+Routing Information Base
+: → Routing table
+
+Routing table
+: A data table stored in a router or a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes. The routing table contains information about the topology of the network immediately around it.&nbsp;[†](#w-routing-table)
 
 RSS
 : → RDF Site Summary (alternatively Really Simple Syndication or Rich Site Summary)
@@ -233,14 +249,17 @@ RTT
 : → Round-Trip Time
 
 Ruby
-: @@
-: @@
+: As a programming language, an interpreted, high-level, general-purpose language. Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Ruby was designed and developed in the 1990s by Yukihiro Matsumoto. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.&nbsp;[†](#w-ruby) ℹ︎&nbsp;[ruby-lang.org](https://www.ruby-lang.org/)
+: As markup, special HTML elements for brief text that goes alongside a base text; such Ruby text is used for pronunciation and annotation in East Asian documents. ℹ︎&nbsp;[w3.org/TR/ruby](https://www.w3.org/TR/ruby/)
 
 Ruby on Rails
-: @@
+: A server-side web application framework written in Ruby. Rails is a model-view-controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS, and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record pattern. Rails was first released in 2005.&nbsp;[†](#w-ruby-on-rails) ℹ︎&nbsp;[rubyonrails.org](https://rubyonrails.org/)
 
 Rule
-: @@
+: A CSS selector followed by a declaration block.
+
+Rule set
+: → Rule
 
 RUM
 : → Real User Monitoring

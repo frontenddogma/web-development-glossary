@@ -131,6 +131,7 @@ This book uses material from the following Wikipedia articles:
 * [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment){#w-continuous-deployment}
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
 * [Control flow](https://en.wikipedia.org/wiki/Control_flow){#w-control-flow}
+* [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration){#w-convention-over-configuration}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
@@ -515,9 +516,14 @@ This book uses material from the following Wikipedia articles:
 * [Root element](https://en.wikipedia.org/wiki/Root_element){#w-root-element}
 * [Rooting (Android)](https://en.wikipedia.org/wiki/Rooting_(Android)){#w-rooting}
 * [Round-trip delay time](https://en.wikipedia.org/wiki/Round-trip_delay_time){#w-rtt}
+* [Router (computing)](https://en.wikipedia.org/wiki/Router_(computing)){#w-router}
+* [Routing](https://en.wikipedia.org/wiki/Routing){#w-routing}
+* [Routing table](https://en.wikipedia.org/wiki/Routing_table){#w-routing-table}
 * [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
 * [RTFM](https://en.wikipedia.org/wiki/RTFM){#w-rtfm}
-* [](){} @@
+* [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
+* [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
+* [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
@@ -536,9 +542,11 @@ This book uses material from the following Wikipedia articles:
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
+* [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [](){} @@
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
@@ -661,6 +669,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
+* [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}

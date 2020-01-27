@@ -45,6 +45,9 @@ Debugging
 Declaration
 : In CSS, a declaration assigns a value of a property (or, in case of a shorthand, several values for several properties) to a selected element. A declaration is part of a declaration block as well as a rule. It consists of a property, a colon (`:`), and a value. If there are multiple declarations in a block, a semi-colon (`;`) must be inserted to separate each declaration.&nbsp;[†](#w-css)
 
+Declaration block
+: A block of zero or more CSS declarations and at-rules, enclosed by an opening (`{`) and a closing curly brace (`}`).
+
 Decoration
 : The attempt to make a physical or visual object more beautiful. Not to be confused with Design.
 

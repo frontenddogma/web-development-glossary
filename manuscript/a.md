@@ -225,6 +225,9 @@ at
 AT
 : → Assistive technology
 
+at-rule
+: A CSS statement starting with an at-keyword (`@` and an identifier, as with `@import`). The at-rule holds until either the next semicolon or the next block.
+
 ATAG
 : → Authoring Tool Accessibility Guidelines
 

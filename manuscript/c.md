@@ -189,6 +189,7 @@ Coalescing
 
 CoC
 : → Code of Conduct
+: → Convention over Configuration
 
 Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
@@ -213,6 +214,9 @@ Codeline
 
 CodePen
 : An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called “pens,” test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
+
+Coding by convention
+: → Convention over Configuration
 
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
@@ -343,6 +347,9 @@ Contrast
 
 Control flow
 : The order in which individual statements, instructions or function calls of an imperative program are executed or evaluated.&nbsp;[†](#w-control-flow)
+
+Convention over Configuration
+: A software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility. The concept was introduced by David Heinemeier Hansson to describe the philosophy of the Ruby on Rails web framework, but is related to earlier ideas like the concept of “sensible defaults” and the principle of least astonishment in user interface design. The phrase essentially means a developer only needs to specify unconventional aspects of the application.&nbsp;[†](#w-convention-over-configuration)
 
 Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
