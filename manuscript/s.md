@@ -86,7 +86,7 @@ Security hacker
 : Someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering, challenge, recreation, or to evaluate system weaknesses to assist in formulating defenses against potential hackers. The subculture that has evolved around hackers is often referred to as the “computer underground.” Longstanding controversy surrounds the meaning of the term “hacker” itself.&nbsp;[†](#w-security-hacker)
 
 security.txt
-: A proposed standard for websites' security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called "security.txt" that is similar to robots.txt but intended to be read by humans wishing to contact a website's owner about security issues.&nbsp;[†](#w-securitytxt)
+: A proposed standard for website security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called “security.txt” that is similar to robots.txt but intended to be read by humans wishing to contact a website’s owner about security issues.&nbsp;[†](#w-securitytxt)
 
 Selector
 : @@

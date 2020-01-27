@@ -212,7 +212,7 @@ Codeline
 : → Branch
 
 CodePen
-: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called "pens," test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
+: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called “pens,” test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
 
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.

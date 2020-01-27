@@ -74,7 +74,7 @@ Origin
 : A concept defined by the scheme (protocol), host (domain), and port of the URL used to access it. Two objects have the same origin only when the scheme, host, and port all match. Some operations are restricted to same-origin content, and this restriction can be lifted using CORS.&nbsp;[‡](#m-origin)
 
 Orphan
-: A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. Mnemonically, an orphan is "alone at the bottom."&nbsp;[†](#w-widows-orphans)
+: A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. Mnemonically, an orphan is “alone at the bottom.”&nbsp;[†](#w-widows-orphans)
 
 Orthogonality
 : A software design principle meaning that change of one piece of software does not affect other pieces, or that operations do not have side-effects. Orthogonality in a programming language means that a relatively small set of primitive constructs can be combined in a relatively small number of ways to build the control and data structures of the language. It is associated with simplicity; the more orthogonal the design, the fewer exceptions. This makes it easier to learn, read and write programs in a programming language. The meaning of an orthogonal feature is independent of context; the key parameters are symmetry and consistency (for example, a pointer is an orthogonal concept).&nbsp;[†](#w-orthogonality)
