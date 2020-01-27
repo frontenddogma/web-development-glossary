@@ -253,7 +253,7 @@ Ruby
 : As markup, special HTML elements for brief text that goes alongside a base text; such Ruby text is used for pronunciation and annotation in East Asian documents. ℹ︎&nbsp;[w3.org/TR/ruby](https://www.w3.org/TR/ruby/)
 
 Ruby on Rails
-: A server-side web application framework written in Ruby. Rails is a model-view-controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS, and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record pattern. Rails was first released in 2005.&nbsp;[†](#w-ruby-on-rails) ℹ︎&nbsp;[rubyonrails.org](https://rubyonrails.org/)
+: A server-side web application framework written in Ruby. Rails is a model-view-controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS, and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don’t repeat yourself (DRY), and the active record pattern. Rails was first released in 2005.&nbsp;[†](#w-ruby-on-rails) ℹ︎&nbsp;[rubyonrails.org](https://rubyonrails.org/)
 
 Rule
 : A CSS selector followed by a declaration block.

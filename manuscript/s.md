@@ -1,7 +1,7 @@
 # S
 
 Safari
-: A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone's introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
+: A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
 Same origin
 : @@
