@@ -114,7 +114,7 @@ EOL
 : → End of line
 
 Epic
-: @@
+: In Agile, a large problem or feature space that is to be broken into several user stories, or issues, and necessarily distributed over several Sprints.
 
 Error
 : → Bug

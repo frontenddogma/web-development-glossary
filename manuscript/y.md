@@ -11,7 +11,7 @@ YAML Ain’t Markup Language
 : A human-readable data-serialization language that is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as XML but has a minimal syntax which intentionally differs from SGML. It uses both Python-style indentation to indicate nesting, and a more compact format that uses `[]` for lists and `{}` for maps, making YAML 1.2 a superset of JSON.&nbsp;[†](#w-yaml) ℹ︎&nbsp;[yaml.org](https://yaml.org/)
 
 Yarn
-: @@
+: A package manager for the JavaScript programming language. Yarn was developed in 2016 by Facebook. ℹ︎&nbsp;[yarnpkg.com](https://yarnpkg.com/)
 
 Yet Another Multicolumn Layout
 : A modular HTML/CSS framework. ℹ︎&nbsp;[yaml.de](http://www.yaml.de/)

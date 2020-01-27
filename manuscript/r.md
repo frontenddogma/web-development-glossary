@@ -36,6 +36,9 @@ Read the Fucking Manual
 Read-Eval-Print Loop
 : A simple, interactive computer programming environment that takes single user inputs (i.e., single expressions), evaluates (executes) them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is usually used to refer to programming interfaces similar to the classic Lisp machine interactive environment. Common examples include command line shells and similar environments for programming languages, and the technique is very characteristic of scripting languages.&nbsp;[†](#w-repl)
 
+Readability
+: The ease with which a reader can understand a written text. In natural language, the readability of text depends on its content (the complexity of its vocabulary and syntax) and its presentation (such as typographic aspects like font size, line height, and line length). Not to be confused with legibility.&nbsp;[†](#w-readability)
+
 README
 : A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
@@ -77,19 +80,19 @@ Regular expression
 : A sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for “find” or “find and replace” operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory. Regular expressions are used in search engines, search and replace dialogs of word processors and text editors, in text processing utilities such as sed and AWK and in lexical analysis. Many programming languages provide regex capabilities either built-in or via libraries.&nbsp;[†](#w-regex)
 
 Rehydration
-: @@
+: → Hydration
 
 Relaunch
 : The (usually public) release of a significantly redone software or hardware product.
 
 Rem
-: @@
-
-Render
-: @@
+: → Root em
 
 Render tree
-: @@
+: A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
+
+Rendering
+: The transforming of HTML documents and other resources of a web page into an interactive visual representation in a web browser.&nbsp;[†](#w-browser-engine)
 
 Rendering engine
 : → Browser engine
@@ -98,46 +101,52 @@ Repo
 : → Repository
 
 Repository
-: @@
+: A storage location for software. Repositories can be public or private, centralized or decentralized (as with version control repositories), and cover any kind of software.
 
 REPL
 : → Read-Eval-Print Loop
 
 Replaced element
-: @@
+: An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document's styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have stylesheets of their own, but they don't inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`.&nbsp;[‡](#m-replaced-element)
 
 Representational State Transfer
-: @@
+: A group of software architecture design constraints that bring about efficient, reliable, and scalable distributed systems. A system is called RESTful when it adheres to those constraints. The basic idea of REST is that a resource, e.g. a document, is transferred with its state and relationships (hypertext) via well-defined, standardized operations and formats. Often APIs or services call themselves RESTful when they directly modify  a type of document as opposed to triggering actions elsewhere.&nbsp;[‡](#m-rest)
 
 Request
-: @@
+: In HTTP, a client’s message to a server soliciting a response. A request message consists of a request line (e.g., `GET /images/logo.png HTTP/1.1`, which requests a resource called /images/logo.png from the server), request header fields (e.g., `Accept-Language: en`), an empty line, and an an optional message body.&nbsp;[†](#w-http)
 
 Request for Comments
-: @@
+: A type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors. The RFC system is supported by the Internet Society (ISOC). An RFC is authored by engineers and computer scientists in the form of a memorandum describing methods, behaviors, research, or innovations applicable to the working of the Internet and Internet-connected systems. It is submitted either for peer review or to convey new concepts, information, or occasionally engineering humor. The IETF adopts some of the proposals published as RFCs as Internet Standards.&nbsp;[†](#w-rfc)
 
 Request header
-: @@
+: An HTTP header that can be used in an HTTP request, and that doesn't relate to the content of the message. Request headers, like `Accept`, `Accept-*`, or `If-*` allow to perform conditional requests; others like `Cookie`, `User-Agent`, or `Referer` precise the context so that the server can tailor the answer. Not all headers appearing in a request are request headers. For example, the `Content-Length` appearing in a `POST` request is actually an entity header referring to the size of the body of the request message. However, these entity headers are often called request headers in such a context.&nbsp;[‡](#m-request-header)
+
+Request method
+: → HTTP method
+
+RequireJS
+: A JavaScript file and module loader. ℹ︎&nbsp;[requirejs.org](https://requirejs.org/)
 
 Reset
 : → Reset style sheet
 
 Reset style sheet
-: @@
+: A set of CSS rules used to “clear” the formatting of HTML elements, or to make respective formatting consistent in major web browsers. The usefulness of reset style sheets is disputed because they do not technically “reset” anything, and because in practice, their use is often unnecessary, only increasing the payload of respective sites or apps.
 
 Resolution
-: @@
+: → Display resolution
 
 Response
-: @@
+: In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client's request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
 Response header
-: @@
+: An HTTP header that can be used in an HTTP response and that doesn't relate to the content of the message. Response headers, like `Age`, `Location`, or `Server` are used to give a more detailed context of the response. Not all headers appearing in a response are response headers. For example, the `Content-Length` header is an entity header referring to the size of the body of the response message. However, these entity requests are usually called responses headers in such a context.&nbsp;[‡](#m-response-header)
 
 Responsive design
 : → Responsive Web Design
 
 Responsive Web Design
-: @@
+: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.&nbsp;[†](#w-rwd)
 
 Responsiveness
 : → Responsive Web Design
@@ -146,10 +155,7 @@ REST
 : → Representational State Transfer
 
 Restricted production
-: @@
-
-Rework
-: @@
+: A statement like `break` or `continue` that, when followed by a line terminator, triggers the insertion of a semicolon (Automatic Semicolon Insertion).
 
 RFC
 : → Request for Comments
@@ -158,28 +164,49 @@ RGB
 : → Red, Green, and Blue
 
 Rich Text Format
-: @@
+: A proprietary document file format with published specification developed by Microsoft Corporation from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
 
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
 
 Roadmap
-: @@
+: A flexible planning technique to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions. A roadmap is a plan that applies to a new product or process and may include using technology forecasting or scouting to identify suitable emerging technologies.&nbsp;[†](#w-roadmap)
+
+Robots exclusion standard
+: → robots.txt
 
 robots.txt
-: @@
+: A standard and special file used by websites to communicate with web crawlers and other web robots. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt)
 
 Robustness principle
 : → Postel’s Law
 
 Root
-: @@
+: → Root directory
+: → Root element
+: → Root node
+: → Superuser
+
+Root directory
+: The first or top-most directory in a hierarchy in a computer file system. It can be likened to the trunk of a tree, as the starting point where all branches originate from. The root file system is the file system contained on the same disk partition on which the root directory is located; it is the filesystem on top of which all other file systems are mounted as the system boots up.&nbsp;[†](#w-root-directory)
+
+Root em
+: A typographic unit in CSS (`rem`) that corresponds with the computed value of the font size of the root element (for HTML, the `html` element).
 
 Root element
-: @@
+: The element that encloses all the other elements and is therefore the sole parent element to all the other elements. A root element is also the root node of the DOM. Root elements are also called document elements. In HTML, the root element is the `html` element.&nbsp;[†](#w-root-element)
+
+Root node
+: The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
+
+Rooting
+: The process of allowing users of smartphones, tablets and other devices running the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative (superuser) permissions as on Linux or any other Unix-like operating system.&nbsp;[†](#w-rooting)
+
+Round-Trip Delay Time
+: → Round-Trip Time
 
 Round-Trip Time
-: @@
+: The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
 Router
 : @@
@@ -189,6 +216,9 @@ Routine
 
 RSS
 : → RDF Site Summary (alternatively Really Simple Syndication or Rich Site Summary)
+
+RTD
+: → Round-Trip Delay Time
 
 RTF
 : → Rich Text Format

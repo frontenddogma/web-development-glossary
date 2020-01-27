@@ -102,6 +102,9 @@ HTML5 Boilerplate
 HTTP
 : → Hypertext Transfer Protocol
 
+HTTP method
+: A desired HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g. a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)
+
 HTTP status code
 : An HTTP status code is issued by a server in response to a client's request made to the server. The first digit of a status code specifies one of five standard classes of responses. The classes are Informational 1xx, Successful 2xx, Redirection 3xx, Client Error 4xx, and Server Error 5xx. “200 OK“, “301 Moved Permanently”, and “404 Not Found” may be among the most common and known status codes.&nbsp;[†](#w-http-status-code)
 
@@ -113,6 +116,9 @@ HTTPS
 
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioural sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
+
+Hydration
+: Client-side DOM extension and manipulation of server-rendered static HTML.
 
 Hyperlink
 : → Link

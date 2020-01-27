@@ -66,6 +66,9 @@ Addon
 Adobe Flash
 : → Flash
 
+ads.txt
+: An initiative from IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of internet fraud prevention.&nbsp;[†](#w-adstxt)
+
 ADT
 : → Abstract Data Type
 

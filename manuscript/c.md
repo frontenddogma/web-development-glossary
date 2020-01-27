@@ -112,7 +112,7 @@ Chrome
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 Chrome Custom Tabs
-: @@
+: A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
 
 Chromium
 : A Google-developed, free and open-source project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
@@ -211,8 +211,8 @@ Code splitting
 Codeline
 : → Branch
 
-Codepen
-: @@
+CodePen
+: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called "pens," test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
 
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
@@ -242,10 +242,10 @@ Common Gateway Interface
 : An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
 
 CommonJS
-: @@
+: A discontinued project with the goal to establish conventions on module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. CommonJS started in 2009, work on it ended in 2014.&nbsp;[†](#w-commonjs)
 
 Compared to what?
-: @@
+: A (or perhaps the) question data graphics must be able to answer, according to distinguished information design expert Erward Tufte.
 
 Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)
@@ -396,7 +396,7 @@ CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
 
 CSS-Tricks
-: @@
+: A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
 
 CSSOM
 : → CSS Object Model

@@ -85,6 +85,9 @@ Security
 Security hacker
 : Someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering, challenge, recreation, or to evaluate system weaknesses to assist in formulating defenses against potential hackers. The subculture that has evolved around hackers is often referred to as the “computer underground.” Longstanding controversy surrounds the meaning of the term “hacker” itself.&nbsp;[†](#w-security-hacker)
 
+security.txt
+: A proposed standard for websites' security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called "security.txt" that is similar to robots.txt but intended to be read by humans wishing to contact a website's owner about security issues.&nbsp;[†](#w-securitytxt)
+
 Selector
 : @@
 
@@ -192,6 +195,12 @@ Single-Page Application
 
 Site
 : → Website
+
+Site map
+: @@
+
+Sitemaps
+: @@
 
 Skin
 : → Theme
@@ -408,6 +417,9 @@ Subversion
 
 SUIT CSS
 : @@
+
+Superuser
+: A special user account used for system administration. Depending on the operating system (OS), the actual name of this account might be root, administrator, admin or supervisor. In some cases, the actual name of the account is not the determining factor; on Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser, regardless of the name of that account; and in systems which implement a role based security model, any user with the role of superuser (or its synonyms) can carry out all actions of the superuser account. The principle of least privilege recommends that most users and applications run under an ordinary account to perform their work, as a superuser account is capable of making unrestricted, potentially adverse, system-wide changes.&nbsp;[†](#w-superuser)
 
 Support
 : @@

@@ -152,6 +152,9 @@ Mobile First
 Mobile Instant Pages
 : A mobile-centered web development and publishing framework similar to Accelerated Mobile Pages (AMP). MIP was released in 2016 by Baidu. ℹ︎&nbsp;[mipengine.org](https://www.mipengine.org/)
 
+Mobilegeddon
+: A name for Google's search engine algorithm update of April 21, 2015. The term was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015. The term was then adopted by webmasters and web-developers. The main effect of this update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop.&nbsp;[†](#w-mobilegeddon)
+
 Mocha
 : → JavaScript
 

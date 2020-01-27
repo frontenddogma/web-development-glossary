@@ -62,7 +62,7 @@ JScript
 : A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in the Internet Explorer 3.0 browser released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
 
 JSLint
-: @@
+: A static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSLint is provided primarily as a browser-based web application accessible through the domain jslint.com, but there are also command-line adaptations. It was created in 2002 by Douglas Crockford.&nbsp;[†](#w-jslint) ℹ︎&nbsp;[jslint.com](https://www.jslint.com/)
 
 JSON
 : → JavaScript Object Notation

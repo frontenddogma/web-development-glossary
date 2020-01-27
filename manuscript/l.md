@@ -20,7 +20,7 @@ Language
 : → Programming language
 
 Largest Contentful Paint
-: @@
+: The time it takes for the largest content element visible in the viewport to render. Large elements to be considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
 
 Last In, First Out
 : → Stack
@@ -61,6 +61,9 @@ Lean
 Left-to-Right
 : A script in which writing starts from the left of a page and continues to the right.&nbsp;[†](#w-rtl)
 
+Legibility
+: The ease with which a reader can recognize individual characters in text. Aspects of type design that affect legibility include x-height, character shapes, stroke contrast, the size of counters, serifs, or lack thereof, and weight. Not to be confused with readability.&nbsp;[†](#w-legibility)
+
 LESS
 Less
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. The indented syntax of Less is a nested metalanguage, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
@@ -89,6 +92,9 @@ Line ending
 Line feed
 : → Newline
 
+Line terminator
+: → Newline
+
 Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
 
@@ -102,10 +108,10 @@ Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linter
-: @@
+: A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and any suspicious constructs. The term (“lint”) originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)
 
 Linting
-: @@
+: The processing of source code through a linter.
 
 Linux
 : A family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open-source software collaboration.&nbsp;[†](#w-linux)
@@ -123,7 +129,7 @@ Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
 
 Load time
-: @@
+: The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users' reality. In addition, web performance isn't just about when the load event happens. It's also about perceived performance, responsiveness, and jank.&nbsp;[‡](#m-load-time)
 
 LOC
 : → Lines of Code

@@ -13,6 +13,7 @@ This book uses material from the following Wikipedia articles:
 * [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
 * [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash){#w-flash}
 * [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
+* [ads.txt](https://en.wikipedia.org/wiki/Ads.txt){#w-adstxt}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
@@ -97,6 +98,7 @@ This book uses material from the following Wikipedia articles:
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
+* [CodePen](https://en.wikipedia.org/wiki/CodePen){#w-codepen}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
@@ -104,6 +106,7 @@ This book uses material from the following Wikipedia articles:
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
+* [CommonJS](https://en.wikipedia.org/wiki/CommonJS){#w-commonjs}
 * [Communication protocol](https://en.wikipedia.org/wiki/Communication_protocol){#w-protocol}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
@@ -156,6 +159,7 @@ This book uses material from the following Wikipedia articles:
 * [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
+* [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
@@ -311,6 +315,7 @@ This book uses material from the following Wikipedia articles:
 * [JPEG](https://en.wikipedia.org/wiki/JPEG){#w-jpeg}
 * [jQuery](https://en.wikipedia.org/wiki/JQuery){#w-jquery}
 * [JScript](https://en.wikipedia.org/wiki/JScript){#w-jscript}
+* [JSLint](https://en.wikipedia.org/wiki/JSLint){#w-jslint}
 * [JSON](https://en.wikipedia.org/wiki/JSON){#w-json}
 * [JSON Web Encryption](https://en.wikipedia.org/wiki/JSON_Web_Encryption){#w-json-web-encryption}
 * [JSON Web Signature](https://en.wikipedia.org/wiki/JSON_Web_Signature){#w-jws}
@@ -331,12 +336,14 @@ This book uses material from the following Wikipedia articles:
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
+* [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
+* [lint (software)](https://en.wikipedia.org/wiki/Lint_(software)){#w-lint}
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
 * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
@@ -375,11 +382,13 @@ This book uses material from the following Wikipedia articles:
 * [Microformat](https://en.wikipedia.org/wiki/Microformat){#w-microformat}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows){#w-windows}
 * [MIME](https://en.wikipedia.org/wiki/MIME){#w-mime}
 * [Minification (programming)](https://en.wikipedia.org/wiki/Minification_(programming)){#w-minification}
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product){#w-mvp}
 * [Mixin](https://en.wikipedia.org/wiki/Mixin){#w-mixin}
 * [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
+* [Mobilegeddon](https://en.wikipedia.org/wiki/Mobilegeddon){#w-mobilegeddon}
 * [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){#w-mvc}
 * [Modernizr](https://en.wikipedia.org/wiki/Modernizr){#w-modernizr}
 * [Modular design](https://en.wikipedia.org/wiki/Modular_design){#w-modular-design}
@@ -441,6 +450,7 @@ This book uses material from the following Wikipedia articles:
 * [Parkinson’s law](https://en.wikipedia.org/wiki/Parkinson's_law){#w-parkinsons-law}
 * [Parsing](https://en.wikipedia.org/wiki/Parsing){#w-parsing}
 * [Patch (computing)](https://en.wikipedia.org/wiki/Patch_(computing)){#w-patch}
+* [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
@@ -486,22 +496,32 @@ This book uses material from the following Wikipedia articles:
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
 * [Read-eval-print loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop){#w-repl}
+* [Readability](https://en.wikipedia.org/wiki/Readability){#w-readability}
 * [README](https://en.wikipedia.org/wiki/README){#w-readme}
 * [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
 * [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
 * [Regular expression](https://en.wikipedia.org/wiki/Regular_expression){#w-regex}
+* [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
+* [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
+* [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format){#w-rtf}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
+* [Robots exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard){#w-robotstxt}
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle){#w-postels-law}
+* [Root directory](https://en.wikipedia.org/wiki/Root_directory){#w-root-directory}
+* [Root element](https://en.wikipedia.org/wiki/Root_element){#w-root-element}
+* [Rooting (Android)](https://en.wikipedia.org/wiki/Rooting_(Android)){#w-rooting}
+* [Round-trip delay time](https://en.wikipedia.org/wiki/Round-trip_delay_time){#w-rtt}
 * [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
 * [RTFM](https://en.wikipedia.org/wiki/RTFM){#w-rtfm}
 * [](){} @@
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
+* [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
@@ -516,10 +536,13 @@ This book uses material from the following Wikipedia articles:
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
+* [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
+* [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
@@ -548,6 +571,7 @@ This book uses material from the following Wikipedia articles:
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
+* [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb){#w-worldwideweb}
@@ -603,6 +627,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [First-class Function](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function){#m-first-class-function}
 * [Flex](https://developer.mozilla.org/en-US/docs/Glossary/Flex){#m-flex}
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
+* [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
@@ -611,10 +636,12 @@ This book uses material from the following articles by Mozilla contributors:
 * [Grid](https://developer.mozilla.org/en-US/docs/Glossary/Grid){#m-grid}
 * [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
+* [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods){#m-http-method}
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain){#m-prototype}
 * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API){#m-intersection-observer}
+* [Intrinsic Size](https://developer.mozilla.org/en-US/docs/Glossary/Intrinsic_Size){#m-intrinsic-size}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
 * [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}
@@ -622,6 +649,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null){#m-null}
 * [Number](https://developer.mozilla.org/en-US/docs/Glossary/Number){#m-number}
 * [Origin](https://developer.mozilla.org/en-US/docs/Glossary/Origin){#m-origin}
+* [Page load time](https://developer.mozilla.org/en-US/docs/Glossary/Page_load_time){#m-load-time}
 * [Page prediction](https://developer.mozilla.org/en-US/docs/Glossary/Page_prediction){#m-page-prediction}
 * [prerender](https://developer.mozilla.org/en-US/docs/Glossary/prerender){#m-prerendering}
 * [Promise](https://developer.mozilla.org/en-US/docs/Glossary/Promise){#m-promise}
@@ -629,6 +657,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Pseudo-element](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-element){#m-pseudo-element}
 * [Pseudocode](https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode){#m-pseudocode}
 * [Reflow](https://developer.mozilla.org/en-US/docs/Glossary/Reflow){#m-reflow}
+* [Replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element){#m-replaced-element}
+* [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}
+* [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
+* [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}

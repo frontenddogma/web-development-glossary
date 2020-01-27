@@ -67,6 +67,9 @@ Pattern library
 Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
+Payload
+: The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
+
 PBI
 : → Product Backlog Item
 
