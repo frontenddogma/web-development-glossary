@@ -102,6 +102,9 @@ HTML5 Boilerplate
 HTTP
 : → Hypertext Transfer Protocol
 
+HTTP status code
+: An HTTP status code is issued by a server in response to a client's request made to the server. The first digit of a status code specifies one of five standard classes of responses. The classes are Informational 1xx, Successful 2xx, Redirection 3xx, Client Error 4xx, and Server Error 5xx. “200 OK“, “301 Moved Permanently”, and “404 Not Found” may be among the most common and known status codes.&nbsp;[†](#w-http-status-code)
+
 HTTP Strict Transport Security
 : A web security policy mechanism that helps to protect websites against protocol downgrade attacks and cookie hijacking. It allows web servers to declare that web browsers (or other complying user agents) should interact with it using only HTTPS connections, which provide Transport Layer Security (TLS/SSL), unlike the insecure HTTP protocol used alone. The HSTS policy is communicated by the server to the user agent via an HTTPS response header field named `Strict-Transport-Security`. HSTS policy specifies a period of time during which the user agent should only access the server in a secure fashion.&nbsp;[†](#w-hsts)
 

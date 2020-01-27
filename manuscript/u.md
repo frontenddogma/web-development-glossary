@@ -69,6 +69,12 @@ URI
 URL
 : → Uniform Resource Locator
 
+URL forwarding
+: → Redirect
+
+URL redirection
+: → Redirect
+
 URN
 : → Uniform Resource Name
 

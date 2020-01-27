@@ -338,6 +338,7 @@ This book uses material from the following Wikipedia articles:
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
+* [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
 * [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
@@ -488,6 +489,9 @@ This book uses material from the following Wikipedia articles:
 * [README](https://en.wikipedia.org/wiki/README){#w-readme}
 * [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
+* [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
+* [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
+* [Regular expression](https://en.wikipedia.org/wiki/Regular_expression){#w-regex}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
@@ -522,6 +526,7 @@ This book uses material from the following Wikipedia articles:
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
+* [URL redirection](https://en.wikipedia.org/wiki/URL_redirection){#w-redirect}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
@@ -623,6 +628,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Pseudo-class](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-class){#m-pseudo-class}
 * [Pseudo-element](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-element){#m-pseudo-element}
 * [Pseudocode](https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode){#m-pseudocode}
+* [Reflow](https://developer.mozilla.org/en-US/docs/Glossary/Reflow){#m-reflow}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
