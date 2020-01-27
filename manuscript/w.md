@@ -165,6 +165,9 @@ Whitespace
 WHOIS
 : @@
 
+Widow
+: @@
+
 Windows
 : @@
 

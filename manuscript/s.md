@@ -115,6 +115,9 @@ Server
 Server farm
 : @@
 
+Server logs
+: @@
+
 Server push
 : → Push technology
 
@@ -292,6 +295,9 @@ Specification
 Specificity
 : @@
 
+Speed Index
+: @@
+
 Spider
 : → Crawler
 
@@ -384,6 +390,12 @@ Structured Query Language
 
 Style guide
 : Structured documentation for design particles, elements, and components. May be part of a design system.
+
+Style sheet
+: @@
+
+stylelint
+: @@
 
 Styling
 : @@

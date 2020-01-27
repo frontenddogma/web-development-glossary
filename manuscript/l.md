@@ -19,6 +19,9 @@ Language
 : → Markup language
 : → Programming language
 
+Largest Contentful Paint
+: @@
+
 Last In, First Out
 : → Stack
 
@@ -42,6 +45,9 @@ Layout table
 
 Lazy loading
 : A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
+
+LCP
+: → Largest Contentful Paint
 
 LDAP
 : → Lightweight Directory Access Protocol
@@ -95,6 +101,12 @@ Link rot
 Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
+Linter
+: @@
+
+Linting
+: @@
+
 Linux
 : A family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open-source software collaboration.&nbsp;[†](#w-linux)
 
@@ -109,6 +121,9 @@ Literal
 
 Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
+
+Load time
+: @@
 
 LOC
 : → Lines of Code

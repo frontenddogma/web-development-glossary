@@ -56,6 +56,9 @@ CBD
 CBSE
 : → Component-Based Software Engineering
 
+CCT
+: → Chrome Custom Tabs
+
 CD
 : → Corporate Design
 : → Continuous Delivery
@@ -107,6 +110,9 @@ Charset
 Chrome
 : A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
+
+Chrome Custom Tabs
+: @@
 
 Chromium
 : A Google-developed, free and open-source project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
@@ -205,6 +211,9 @@ Code splitting
 Codeline
 : → Branch
 
+Codepen
+: @@
+
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
 
@@ -231,6 +240,12 @@ Comment
 
 Common Gateway Interface
 : An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
+
+CommonJS
+: @@
+
+Compared to what?
+: @@
 
 Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance.&nbsp;[†](#w-compatibility)
@@ -379,6 +394,9 @@ CSS framework
 
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
+
+CSS-Tricks
+: @@
 
 CSSOM
 : → CSS Object Model

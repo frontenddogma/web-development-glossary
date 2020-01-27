@@ -143,6 +143,9 @@ Folksonomy
 Font
 : With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer roman,” “Bulmer,” “Bulmer bold” and “Bulmer extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, the font is a digital file.&nbsp;[†](#w-font)
 
+Font block period
+: @@
+
 Fork
 : The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork often implies not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 
