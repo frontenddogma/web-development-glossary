@@ -67,6 +67,9 @@ Pattern library
 Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
+Pay-per-click
+: @@
+
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
 
@@ -191,6 +194,9 @@ POUR
 
 PowerShell
 : A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
+
+PPC
+: → Pay-per-click
 
 PQ
 : → Page Quality

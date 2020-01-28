@@ -540,7 +540,9 @@ This book uses material from the following Wikipedia articles:
 * [Scripting language](https://en.wikipedia.org/wiki/Scripting_language){#w-scripting-language}
 * [Scrolling](https://en.wikipedia.org/wiki/Scrolling){#w-scrolling}
 * [Scrum (software development)](https://en.wikipedia.org/wiki/Scrum_(software_development)){#w-scrum}
+* [SeaMonkey](https://en.wikipedia.org/wiki/SeaMonkey){#w-seamonkey}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
+* [Search engine marketing](https://en.wikipedia.org/wiki/Search_engine_marketing){#w-sem}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}

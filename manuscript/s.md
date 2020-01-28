@@ -62,18 +62,21 @@ SEA
 : → Search Engine Advertising
 
 SeaMonkey
-: @@
+: An Internet suite bundling web browser, an email, newsgroup, and feed client, an IRC chat, and an HTML editor. SeaMonkey is the continuation of the former Mozilla Application Suite, based on the same source code, which itself grew out of Netscape Communicator and formed the base of Netscape&nbsp;6 and Netscape&nbsp;7. SeaMonkey was created in 2005 after the Mozilla Foundation decided to focus on the standalone projects Firefox and Thunderbird. The development of SeaMonkey is community-driven.&nbsp;[†](#w-seamonkey) ℹ︎&nbsp;[seamonkey-project.org](https://www.seamonkey-project.org/)
 
 Search Engine Advertising
-: @@
+: The purchasing and managing of advertisements in online search engines and their content networks.
 
 Search engine indexing
 : The collecting, parsing, and storing data to facilitate fast and accurate information retrieval. Index design incorporates interdisciplinary concepts from linguistics, cognitive psychology, mathematics, informatics, and computer science. Popular search engines focus on the full-text indexing of online, natural language documents. Media types such as video, audio, and graphics are also searchable.&nbsp;[†](#w-search-engine-indexing)
 
 Search Engine Marketing
-: @@
+: A form of Internet marketing that involves the promotion of websites by increasing their visibility in search engine results pages (SERPs) primarily through paid advertising. SEM may incorporate search engine optimization (SEO), which adjusts or rewrites website content and site architecture to achieve a higher ranking in search engine results pages to enhance pay per click (PPC) listings.&nbsp;[†](#w-sem)
 
 Search Engine Optimization
+: @@
+
+Search Engine Results Page
 : @@
 
 Searching
@@ -120,6 +123,9 @@ SEO
 
 Separation of Concerns
 : @@
+
+SERP
+: → Search Engine Results Page
 
 Server
 : @@
