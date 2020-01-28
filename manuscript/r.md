@@ -251,6 +251,9 @@ RTL
 RTT
 : → Round-Trip Time
 
+Rubber ducking
+: @@
+
 Ruby
 : As a programming language, an interpreted, high-level, general-purpose language. Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Ruby was designed and developed in the 1990s by Yukihiro Matsumoto. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.&nbsp;[†](#w-ruby) ℹ︎&nbsp;[ruby-lang.org](https://www.ruby-lang.org/)
 : As markup, special HTML elements for brief text that goes alongside a base text; such Ruby text is used for pronunciation and annotation in East Asian documents. ℹ︎&nbsp;[w3.org/TR/ruby](https://www.w3.org/TR/ruby/)

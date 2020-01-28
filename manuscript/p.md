@@ -88,6 +88,9 @@ Perceived performance
 Performance
 : The speed in which web pages are downloaded and displayed on the user’s web browser. Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow internet connections and on mobile devices. Web performance also leads to less data travelling across the web, which in turn lowers a website’s power consumption and environmental impact. Some aspects which can affect the speed of page load include browser or server caching as well as image optimization. The performance of the web page can be improved through techniques such as multi-layered cache, light weight design of presentation layer components and asynchronous communication with server side components.&nbsp;[†](#w-performance)
 
+Performance budget
+: @@
+
 Performance indicator
 : → Key Performance Indicator
 
@@ -102,6 +105,9 @@ Persona
 
 Personal Home Page
 : → PHP
+
+PhantomJS
+: @@
 
 Phoenix
 : → Firefox
@@ -192,6 +198,9 @@ PQ
 PR
 : → Pull Request
 
+Preact
+: @@
+
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)
 
@@ -249,6 +258,9 @@ Prototype
 
 Prototyping
 : The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. It is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: The software designer and implementer can get valuable feedback from the users early in the project. The client and the contractor can compare if the software made matches the software specification, according to which the software program is built. It also allows the software engineer some insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
+
+PRPL
+: @@
 
 Pseudo-class
 : One of a range of predefined CSS selectors that targets elements depending on their state rather than on information from the document tree. For example, the selector `a:visited` applies styles only to links that the user has already followed.&nbsp;[‡](#m-pseudo-class)

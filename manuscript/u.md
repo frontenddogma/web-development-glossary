@@ -69,6 +69,9 @@ URI
 URL
 : → Uniform Resource Locator
 
+URL encoding
+: @@
+
 URL forwarding
 : → Redirect
 

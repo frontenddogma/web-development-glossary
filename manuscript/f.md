@@ -15,6 +15,9 @@ Favorite
 FCP
 : → First Contentful Paint
 
+Feature phone
+: @@
+
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
 
@@ -216,6 +219,9 @@ FSF
 
 FTP
 : → File Transfer Protocol
+
+Fugu
+: @@
 
 Full Stack
 : → Solution stack

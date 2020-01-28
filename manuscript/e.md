@@ -24,6 +24,8 @@ Ecma International
 ECMAScript
 : ECMAScript (or ES) is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript to help foster multiple independent implementations. JavaScript has remained the best-known implementation of ECMAScript since the standard was first published, with other well-known implementations including JScript and ActionScript. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.&nbsp;[†](#w-ecmascript)
 
+ECT
+: → Effective Connection Type
 
 Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
@@ -36,6 +38,9 @@ EditorConfig
 
 EFF
 : → Electronic Frontier Foundation
+
+Effective Connection Type
+: @@
 
 Effectiveness
 : The capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression. Not to be confused with efficiency.&nbsp;[†](#w-effectiveness)
@@ -151,6 +156,9 @@ Exit code
 
 Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
+
+Express
+: @@
 
 Extended Binary Coded Decimal Interchange Code
 : An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. It descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM’s computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)

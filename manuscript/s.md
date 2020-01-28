@@ -220,6 +220,9 @@ SLA
 SLE
 : → Service Level Expectation
 
+Sliding Doors
+: @@
+
 SLOC
 : → Source Lines of Code
 

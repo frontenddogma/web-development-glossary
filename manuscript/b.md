@@ -166,6 +166,12 @@ Border
 Bottom-posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
+Boundary condition
+: @@
+
+Bower
+: @@
+
 Box
 : The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)
 
@@ -243,6 +249,9 @@ Bugfix
 
 Bugzilla
 : A web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project. Bugzilla was first released in 1998 by Netscape Communications.&nbsp;[†](#w-bugzilla) ℹ︎&nbsp;[bugzilla.org](https://www.bugzilla.org/)
+
+Bundling
+: @@
 
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)

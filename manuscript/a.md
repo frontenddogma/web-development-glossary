@@ -60,6 +60,9 @@ Active Server Pages
 Adaptive
 : An aspect of or synonym for Agile development.
 
+Adaptive loading
+: The loading of web resources depending on the connection type and speed.
+
 Addon
 : → Plugin
 
@@ -113,6 +116,12 @@ Analytics
 
 Anchor
 : Technical name for a link, usually referring to the underlying `a` element.
+
+Angular
+: @@
+
+AngularJS
+: @@
 
 Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)

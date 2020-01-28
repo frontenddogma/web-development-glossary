@@ -121,6 +121,9 @@ Linux, Apache, MySQL, PHP/Perl/Python
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
 
+Lite Mode
+: @@
+
 Literal
 : A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
 
@@ -165,6 +168,9 @@ Lossy
 
 LTR
 : → Left-to-Right
+
+LTS
+: → Long-Term Support
 
 Lynx
 : A customizable text-based web browser for use on cursor-addressable character cell terminals. As of November 2019, it is the oldest web browser still in general use and active development, having started in 1992.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)

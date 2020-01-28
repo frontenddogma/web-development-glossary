@@ -73,6 +73,9 @@ MD6
 MDL
 : → Microsoft Design Language
 
+MEAN
+: @@
+
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
