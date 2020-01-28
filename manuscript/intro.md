@@ -20,6 +20,12 @@ Sometimes there’s imprecision—is a home page really a special type of web pa
 
 Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language).
 
+## Disclaimer
+
+@@
+
+Use the Glossary at your own risk. The author assumes no responsibility or liability for any errors or omissions in the contents of this book. All information is subject to change and provided “as is” with no guarantees of completeness, accuracy, or usefulness.
+
 ## Credits and Licenses
 
 The Web Development Glossary, except for the cover graphic, is licensed under a [CC BY-SA 4.0 license (Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/).

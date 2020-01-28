@@ -164,6 +164,9 @@ Mocha
 Model View Controller
 : A software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. This kind of pattern is used for designing the layout of the page. Traditionally used for desktop graphical user interfaces (GUIs), this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.&nbsp;[†](#w-mvc)
 
+Model-View-Viewmodel
+: A software architectural pattern. MVVM facilitates a separation of development of the graphical user interface, be it via a markup language or GUI code, from development of the business logic or back-end logic (the data model). The view model of MVVM is a value converter, meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented.&nbsp;[†](#w-mvvm)
+
 Modernizr
 : A JavaScript library that detects the features available in a user’s browser. This lets web pages avoid unsupported features by informing the user their browser isn’t supported or loading a polyfill. Modernizr aims to provide feature detection in a consistent and easy to use manner that discourages the use of failure-prone browser sniffing. Modernizr was first released in 2009.&nbsp;[†](#w-modernizr) ℹ︎&nbsp;[modernizr.com](https://modernizr.com/)
 
@@ -221,6 +224,9 @@ MVC
 
 MVP
 : → Minimum Viable Product
+
+MVVM
+: → Model-View-Viewmodel
 
 MySQL
 : A relational database management system (RDBMS). Its name is a combination of “My”, the name of co-founder Michael Widenius’s daughter, and “SQL”, the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)

@@ -166,11 +166,11 @@ Border
 Bottom-posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
-Boundary condition
-: @@
+Boundary value problem
+: A boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions. Boundary value problems arise in several branches of physics as any physical differential equation will have them.&nbsp;[†](#w-boundary-value-problem)
 
 Bower
-: @@
+: A maintenance-only package manager for the JavaScript programming language. Bowser was first released in 2012. ℹ︎&nbsp;[bower.io](https://bower.io/)
 
 Box
 : The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)
@@ -251,7 +251,7 @@ Bugzilla
 : A web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project. Bugzilla was first released in 1998 by Netscape Communications.&nbsp;[†](#w-bugzilla) ℹ︎&nbsp;[bugzilla.org](https://www.bugzilla.org/)
 
 Bundling
-: @@
+: The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.
 
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)

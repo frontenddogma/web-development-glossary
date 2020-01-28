@@ -19,6 +19,8 @@ This book uses material from the following Wikipedia articles:
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
+* [Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework)){#w-angular}
+* [AngularJS](https://en.wikipedia.org/wiki/AngularJS){#w-angularjs}
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
 * [Anonymous function](https://en.wikipedia.org/wiki/Anonymous_function){#w-anonymous-function}
 * [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
@@ -62,6 +64,7 @@ This book uses material from the following Wikipedia articles:
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
+* [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem){#w-boundary-value-problem}
 * [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell){#w-bourne-shell}
 * [Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control)){#w-branching}
 * [Braille](https://en.wikipedia.org/wiki/Braille){#w-braille}
@@ -311,6 +314,7 @@ This book uses material from the following Wikipedia articles:
 * [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
 * [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
+* [Jasmine (JavaScript testing framework)](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)){#w-jasmine}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
@@ -397,6 +401,7 @@ This book uses material from the following Wikipedia articles:
 * [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
 * [Mobilegeddon](https://en.wikipedia.org/wiki/Mobilegeddon){#w-mobilegeddon}
 * [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){#w-mvc}
+* [Model-view-viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel){#w-mvvm}
 * [Modernizr](https://en.wikipedia.org/wiki/Modernizr){#w-modernizr}
 * [Modular design](https://en.wikipedia.org/wiki/Modular_design){#w-modular-design}
 * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application){#w-monolith}
@@ -446,6 +451,7 @@ This book uses material from the following Wikipedia articles:
 * [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology)){#w-orca}
 * [Orthogonality (programming)](https://en.wikipedia.org/wiki/Orthogonality_(programming)){#w-orthogonality}
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
+* [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization){#w-containerization}
 * [OSI model](https://en.wikipedia.org/wiki/OSI_model){#w-osi-model}
 * [Over-the-air programming](https://en.wikipedia.org/wiki/Over-the-air_programming){#w-ota}
 * [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
@@ -543,8 +549,10 @@ This book uses material from the following Wikipedia articles:
 * [SeaMonkey](https://en.wikipedia.org/wiki/SeaMonkey){#w-seamonkey}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Search engine marketing](https://en.wikipedia.org/wiki/Search_engine_marketing){#w-sem}
+* [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell){#w-ssh}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
+* [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
@@ -568,6 +576,7 @@ This book uses material from the following Wikipedia articles:
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
+* [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
@@ -580,6 +589,7 @@ This book uses material from the following Wikipedia articles:
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
+* [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}

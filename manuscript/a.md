@@ -118,10 +118,10 @@ Anchor
 : Technical name for a link, usually referring to the underlying `a` element.
 
 Angular
-: @@
+: A TypeScript-based web application framework developed by Google and a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. Angular was released in 2016.&nbsp;[†](#w-angular) ℹ︎&nbsp;[angular.io](https://angular.io/)
 
 AngularJS
-: @@
+: A JavaScript-based front-end web framework mainly maintained by Google and a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. AngularJS aims to simplify both the development and the testing of such applications by providing a framework for client-side model-view-controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. AngularJS was first released in 2010 and makes for the frontend part of the MEAN stack. Version 1.7.x is on Long Term Support until July 1st 2021. After that date AngularJS will no longer be updated and Angular is suggested instead.&nbsp;[†](#w-angularjs) ℹ︎&nbsp;[angularjs.org](https://angularjs.org/)
 
 Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)

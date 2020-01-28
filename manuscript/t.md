@@ -156,7 +156,7 @@ Transpiler
 : @@
 
 Transport Layer Security
-: @@
+: A cryptographic protocol designed to provide communications security over a computer network. Several versions of the TLS (and SSL) protocols find widespread use in applications such as web browsing, email, instant messaging, and voice over IP (VoIP). Websites can use TLS to secure all communications between their servers and web browsers. The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. TLS was first specified in 1999.&nbsp;[†](#w-tls)
 
 Tree-shaking
 : @@

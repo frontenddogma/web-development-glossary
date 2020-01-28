@@ -312,7 +312,7 @@ Container
 : An HTML element that contains other elements.
 
 Containerization
-: @@
+: An operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (Solaris, Docker), Zones (Solaris), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernel (DragonFly BSD), or jails (FreeBSD jail or chroot jail) may look like actual computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container's contents and devices assigned to the container. Containerization is used to securely allocate finite hardware resources among a large number of mutually-distrusting users, to consolidate server hardware by moving services on separate hosts into containers on the one server, or to separate several programs to separate containers for improved security, hardware independence, and added resource management features.&nbsp;[†](#w-containerization)
 
 Containing block
 : The block (element) in which a box resides.
@@ -331,7 +331,7 @@ Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps and programme code that display content and interact with the user.&nbsp;[†](#w-cms)
 
 Content network
-: @@
+: A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through respective ad platform.
 
 Content Security Policy
 : A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML5 features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)

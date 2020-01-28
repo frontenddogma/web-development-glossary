@@ -74,22 +74,22 @@ Search Engine Marketing
 : A form of Internet marketing that involves the promotion of websites by increasing their visibility in search engine results pages (SERPs) primarily through paid advertising. SEM may incorporate search engine optimization (SEO), which adjusts or rewrites website content and site architecture to achieve a higher ranking in search engine results pages to enhance pay per click (PPC) listings.&nbsp;[†](#w-sem)
 
 Search Engine Optimization
-: @@
+: The process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine. SEO refers to the improvement of unpaid results (known as "natural" or "organic" results) and excludes direct traffic and visitors as well as the purchase of paid placement.  SEO may target different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines. Optimizing a website may involve editing its content, adding content, and modifying HTML and associated coding to both increase its relevance to specific keywords and remove barriers to the indexing activities of search engines. Promoting a site to increase the number of backlinks, or inbound links, is another SEO tactic.&nbsp;[†](#w-seo)
 
 Search Engine Results Page
-: @@
+: The results web page(s) of a search engine, in response to a search query.
 
 Searching
-: @@. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
+: A research and navigation strategy. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
 Sectioning content
 : Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
 
 Secure Shell
-: @@
+: A cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote command-line, login, and remote command execution, but any network service can be secured with SSH. SSH provides a secure channel over an unsecured network in a client–server architecture, connecting an SSH client application with an SSH server. The protocol specification distinguishes between two major versions, referred to as SSH-1 and SSH-2. The standard TCP port for SSH is 22.&nbsp;[†](#w-ssh)
 
 Secure Sockets Layer
-: @@
+: The deprecated predecessor to Transport Layer Security (TLS), a cryptographic protocol designed to provide communications security over a computer network. SSL was developed from 1995 to 1998.&nbsp;[†](#w-tls)
 
 Security
 : → Information Security

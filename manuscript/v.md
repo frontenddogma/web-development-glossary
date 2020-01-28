@@ -57,6 +57,9 @@ Virtual Private Network
 Virtual Reality
 : @@
 
+Virtualization
+: The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources. Virtualization began in the 1960s, as a method of logically dividing the system resources provided by mainframe computers between different applications. Since then, the meaning of the term has broadened.&nbsp;[†](#w-virtualization)
+
 Visual Basic for Applications
 : An implementation of Microsoft’s event-driven programming language Visual Basic 6, which was declared legacy in 2008, and its associated integrated development environment (IDE). Although pre-.NET Visual Basic is no longer supported or updated by Microsoft, the VBA programming language was upgraded in 2010 with the introduction of Visual Basic for Applications 7 in Microsoft Office applications. Visual Basic for Applications enables building user-defined functions (UDFs), automating processes, and accessing Windows API and other low-level functionality through dynamic-link libraries (DLLs). It supersedes and expands on the abilities of earlier application-specific macro programming languages such as Word’s WordBASIC. VBA was first released in 1993.&nbsp;[†](#w-vba)
 
@@ -69,6 +72,9 @@ Visual Studio Code
 VM
 : → Virtual Machine
 
+Voice over IP
+: @@
+
 VoiceOver
 : A screen reader built into Apple Inc.’s macOS, iOS, tvOS, watchOS, and iPod operating systems. By using VoiceOver, the user can access their Macintosh or iOS device based on spoken descriptions and, in the case of the Mac, the keyboard. The feature is designed to increase accessibility for blind and low-vision users, as well as for users with dyslexia.&nbsp;[†](#w-voiceover) ℹ︎&nbsp;[apple.com/accessibility/mac/vision](https://www.apple.com/accessibility/mac/vision/)
 
@@ -77,6 +83,9 @@ VoiceXML
 
 Void element
 : An element from HTML, SVG, or MathML that cannot have any child nodes (i.e., nested elements or text nodes). For HTML, the void elements are `<area>`, `<base>`, `<br>`, `<col>`, `<embed>`, `<hr>`, `<img>`, `<input>`, `<link>`, `<meta>`, `<param>`, `<source>`, `<track>`, and `<wbr>`.&nbsp;[‡](#m-void-element)
+
+VoIP
+: → Voice over IP
 
 VPN
 : → Virtual Private Network
