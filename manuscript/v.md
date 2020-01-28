@@ -58,7 +58,7 @@ Virtual Reality
 : @@
 
 Visual Basic for Applications
-: An implementation of Microsoft's event-driven programming language Visual Basic 6, which was declared legacy in 2008, and its associated integrated development environment (IDE). Although pre-.NET Visual Basic is no longer supported or updated by Microsoft, the VBA programming language was upgraded in 2010 with the introduction of Visual Basic for Applications 7 in Microsoft Office applications. Visual Basic for Applications enables building user-defined functions (UDFs), automating processes, and accessing Windows API and other low-level functionality through dynamic-link libraries (DLLs). It supersedes and expands on the abilities of earlier application-specific macro programming languages such as Word's WordBASIC. VBA was first released in 1993.&nbsp;[†](#w-vba)
+: An implementation of Microsoft’s event-driven programming language Visual Basic 6, which was declared legacy in 2008, and its associated integrated development environment (IDE). Although pre-.NET Visual Basic is no longer supported or updated by Microsoft, the VBA programming language was upgraded in 2010 with the introduction of Visual Basic for Applications 7 in Microsoft Office applications. Visual Basic for Applications enables building user-defined functions (UDFs), automating processes, and accessing Windows API and other low-level functionality through dynamic-link libraries (DLLs). It supersedes and expands on the abilities of earlier application-specific macro programming languages such as Word’s WordBASIC. VBA was first released in 1993.&nbsp;[†](#w-vba)
 
 Visual formatting model
 : @@
@@ -70,7 +70,7 @@ VM
 : → Virtual Machine
 
 VoiceOver
-: A screen reader built into Apple Inc.'s macOS, iOS, tvOS, watchOS, and iPod operating systems. By using VoiceOver, the user can access their Macintosh or iOS device based on spoken descriptions and, in the case of the Mac, the keyboard. The feature is designed to increase accessibility for blind and low-vision users, as well as for users with dyslexia.&nbsp;[†](#w-voiceover) ℹ︎&nbsp;[apple.com/accessibility/mac/vision](https://www.apple.com/accessibility/mac/vision/)
+: A screen reader built into Apple Inc.’s macOS, iOS, tvOS, watchOS, and iPod operating systems. By using VoiceOver, the user can access their Macintosh or iOS device based on spoken descriptions and, in the case of the Mac, the keyboard. The feature is designed to increase accessibility for blind and low-vision users, as well as for users with dyslexia.&nbsp;[†](#w-voiceover) ℹ︎&nbsp;[apple.com/accessibility/mac/vision](https://www.apple.com/accessibility/mac/vision/)
 
 VoiceXML
 : @@
