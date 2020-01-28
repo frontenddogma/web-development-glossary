@@ -44,16 +44,16 @@ Scrolling
 : Sliding text, images, or video across a monitor or display, vertically or horizontally. “Scrolling” as such does not change the layout of the text or pictures but moves (pans or tilts) the user’s view across what is apparently a larger image that is not wholly seen.&nbsp;[†](#w-scrolling)
 
 Scrum
-: An Agile process framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, like research and advanced technologies. Scrum is designed for teams of three to nine members, who break their work into goals that can be completed within time-boxed iterations, called Sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed daily meetings, called Daily Scrums.&nbsp;[†](#w-scrum) ℹ︎&nbsp;[scrumguides.org](https://www.scrumguides.org/)
+: An Agile process framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, like research and advanced technologies. Scrum is designed for small teams which break their work into goals that can be completed within time-boxed iterations, called Sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed daily meetings, called Daily Scrums.&nbsp;[†](#w-scrum) ℹ︎&nbsp;[scrumguides.org](https://www.scrumguides.org/)
 
 Scrum Master
 : A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum.
 
 Scrum Team
-: @@
+: A self-organizing and cross-functional team consisting of Product Owner, the Development Team, and a Scrum Master.
 
 Scrum Values
-: @@
+: The values that the Scrum framework revolves around: Commitment, Focus, Openness, Respect, and Courage.
 
 SCSS
 : → Sass
