@@ -362,6 +362,7 @@ This book uses material from the following Wikipedia articles:
 * [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
+* [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
@@ -553,6 +554,10 @@ This book uses material from the following Wikipedia articles:
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
+* [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
+* [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
+* [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
+* [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
@@ -562,6 +567,7 @@ This book uses material from the following Wikipedia articles:
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
+* [Software versioning](https://en.wikipedia.org/wiki/Software_versioning){#w-versioning}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
@@ -571,6 +577,8 @@ This book uses material from the following Wikipedia articles:
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
+* [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
 * [](){} @@
 * [Tcl](https://en.wikipedia.org/wiki/Tcl){#w-tcl}
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
@@ -608,6 +616,7 @@ This book uses material from the following Wikipedia articles:
 * [Web navigation](https://en.wikipedia.org/wiki/Web_navigation){#w-navigation}
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
+* [Web syndication](https://en.wikipedia.org/wiki/Web_syndication){#w-syndication}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
 * [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
@@ -702,6 +711,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
+* [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}

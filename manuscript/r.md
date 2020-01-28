@@ -163,6 +163,9 @@ REST
 Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the insertion of a semicolon (Automatic Semicolon Insertion).
 
+Revision control
+: → Version control
+
 RFC
 : → Request for Comments
 

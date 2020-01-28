@@ -122,7 +122,7 @@ Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
 
 Lite Mode
-: @@
+: A data saving mode in the Chrome browser, formerly called Data Saver.
 
 Literal
 : A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
@@ -153,6 +153,12 @@ Locale
 
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
+
+Log file
+: A file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. In the simplest case, messages are written to a single log file. A transaction log is a file (i.e., log) of the communications between a system and the users of that system, or a data collection method that automatically captures the type, content, or time of transactions made by a person from a terminal with that system. Many operating systems, software frameworks and programs include a logging system. A widely used logging standard is syslog.&nbsp;[†](#w-log-file)
+
+Logging
+: The act of keeping a log file.&nbsp;[†](#w-log-file)
 
 Loop
 : A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)

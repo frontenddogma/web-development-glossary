@@ -34,7 +34,7 @@ Version control
 : @@
 
 Versioning
-: @@
+: The process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), these numbers are generally assigned in increasing order and correspond to new developments in the software. At a fine-grained level, revision control is often used for keeping track of incrementally different versions of information, whether or not this information is computer software. Modern computer software is often tracked using two different software versioning schemes—internal version number that may be incremented many times in a single day, such as a revision control number, and a released version that typically changes far less often, such as semantic versioning or a project code name.&nbsp;[†](#w-versioning)
 
 vi
 : @@

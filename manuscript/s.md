@@ -110,10 +110,11 @@ SEM
 : → Search Engine Marketing
 
 Semantic Versioning
-: @@
+: A particular versioning scheme. SemVer uses a sequence of three digits (`Major.Minor.Patch`), an optional pre-release tag and optional build meta tag. In this scheme, risk, and functionality are the measures of significance. Breaking changes are indicated by increasing the major number (high risk), new non-breaking features increment the minor number (medium risk) and all other non-breaking changes increment the patch number (lowest risk). The presence of a pre-release tag (`-alpha`, `-beta`) indicates substantial risk, as does a major number of zero (`0.y.z`), which is used to indicate a work-in-progress that may contain any level of potentially breaking changes (highest risk).&nbsp;[†](#w-versioning) ℹ︎&nbsp;[semver.org](https://semver.org/)
 
 Semantics
-: @@
+: For markup languages, the meaning of elements, element groups, and microformats.
+: For programming languages, the field concerned with the rigorous mathematical study of the meaning of programming languages. It does so by evaluating the meaning of syntactically valid strings defined by a specific programming language, showing the computation involved. In such a case that the evaluation would be of syntactically invalid strings, the result would be non-computation. Semantics describes the processes a computer follows when executing a program in that specific language. This can be shown by describing the relationship between the input and output of a program, or an explanation of how the program will be executed on a certain platform, hence creating a model of computation.&nbsp;[†](#w-semantics)
 
 SemVer
 : → Semantic Versioning
@@ -122,19 +123,23 @@ SEO
 : → Search Engine Optimization
 
 Separation of Concerns
-: @@
+: A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as “the details of the hardware for an application,” or as specific as “the name of which class to instantiate.” A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Encapsulation is a means of information hiding. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program's design, deployment, or usage.&nbsp;[†](#w-soc) 
 
 SERP
 : → Search Engine Results Page
 
 Server
-: @@
+: A server is a computer program or a device that provides functionality for other programs or devices, called clients. This architecture is called the client-server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called services, such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device. Typical servers are database servers, file servers, mail servers, print servers, web servers, game servers, and application servers. Client-server systems are today most frequently implemented by (and often identified with) the request-response model.&nbsp;[†](#w-server)
+
+Server cluster
+: → Cluster
+: → Server farm
 
 Server farm
-: @@
+: A collection of computer servers, usually maintained by an organization to supply server functionality far beyond the capability of a single machine. Server farms often consist of thousands of computers which require a large amount of power to run and to keep cool. At the optimum performance level, a server farm has enormous costs (both financial and environmental) associated with it. Server farms often have backup servers, which can take over the function of primary servers in the event of a primary-server failure. Server farms are typically collocated with the network switches or routers which enable communication between the different parts of the cluster and the users of the cluster.&nbsp;[†](#w-server-farm)
 
 Server logs
-: @@
+: Log files related to server events. Server logs may be generated and stored on respective servers.
 
 Server push
 : → Push technology
@@ -461,15 +466,18 @@ Synchronized Multimedia Integration Language
 : @@
 
 Synchronous
-: @@
+: Real-time communication in which each party receives (and if necessary, processes and replies to) messages instantly (or as near to instantly as possible). A human example is the telephone—during a telephone call one tends to respond to another person immediately. Many programming commands are also synchronous—for example, when one types in a calculation, the environment will return the result instantly, unless programmed not to.&nbsp;[‡](#m-synchronous)
 
 Syndication
-: @@
+: As web syndication, a form of syndication in which content is made available from one website to other sites and services. Most commonly, websites are made available to provide either summaries or full renditions of a website's recently added content. The term “syndication” may also describe other kinds of content licensing for reuse.&nbsp;[†](#w-syndication)
 
 Syntax
-: @@
+: The set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in a language. This applies both to programming languages, where the document represents source code, and to markup languages, where the document represents data. The syntax of a language defines its surface form. Text-based computer languages are based on sequences of characters, while visual programming languages are based on the spatial layout and connections between symbols (which may be textual or graphical). Documents that are syntactically invalid are said to have a syntax error. When designing the syntax of a language, a designer might start by writing down examples of both legal and illegal strings, before trying to figure out the general rules from these examples.&nbsp;[†](#w-syntax)
 
 Syntax analysis
 : → Parsing
+
+syslog
+: A standard for message logging. syslog allows separation of the software that generates messages, the system that stores them, and the software that reports and analyzes them. Each message is labeled with a facility code, indicating the software type generating the message, and assigned a severity level. syslog was developed in the 1980s by Eric Allman.&nbsp;[†](#w-syslog)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/s.md) and become a glossary&nbsp;contributor!
