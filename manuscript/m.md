@@ -204,6 +204,9 @@ Multiple inheritance
 Multipurpose Internet Mail Extensions
 : An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP).&nbsp;[†](#w-mime)
 
+Mustache
+: A web template system. Mustache is described as a “logic-less” system because it lacks any explicit control flow statements, like `if` and `else` conditionals or `for` loops; however, both looping and conditional evaluation can be achieved using section tags processing lists and lambdas. It is named “Mustache” because of heavy use of braces, “{ }”, that resemble a sideways moustache. Mustache is used mainly for mobile and web applications.&nbsp;[†](#w-mustache) ℹ︎&nbsp;[mustache.github.io](https://mustache.github.io/)
+
 Mutable
 : A property of an object whose state can be modified after it was created (mutable or changeable object). This is in contrast to an immutable object.&nbsp;[†](#w-immutable)
 

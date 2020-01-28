@@ -28,6 +28,9 @@ Tagging
 Tailoring
 : @@
 
+Tcl
+: A high-level, general-purpose, interpreted, dynamic programming language. It was designed with the goal of being simple but powerful. Tcl casts everything into the mold of a command, even programming constructs like variable assignment and procedure definition. Tcl supports multiple programming paradigms, including object-oriented, imperative and functional programming, or procedural styles.&nbsp;[†](#w-tcl) ℹ︎&nbsp;[tcl-lang.org](https://www.tcl-lang.org/)
+
 TCP
 : → Transmission Control Protocol
 

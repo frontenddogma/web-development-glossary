@@ -210,6 +210,9 @@ Assignment
 Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
 
+Assistive Technology Service Provider Interface
+: A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. It is the de facto standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project.&nbsp;[†](#w-at-spi)
+
 Association for Computing Machinery
 : An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) ℹ︎&nbsp;[acm.org](https://www.acm.org/)
 
@@ -227,6 +230,9 @@ AT
 
 at-rule
 : A CSS statement starting with an at-keyword (`@` and an identifier, as with `@import`). The at-rule holds until either the next semicolon or the next block.
+
+AT-SPI
+: → Assistive Technology Service Provider Interface
 
 ATAG
 : → Authoring Tool Accessibility Guidelines

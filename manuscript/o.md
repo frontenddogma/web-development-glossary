@@ -70,6 +70,9 @@ Optimization
 Optional markup
 : Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for respective document to be valid.
 
+Orca
+: An extensible screen reader from the GNOME project for individuals who are blind or visually impaired. Using various combinations of speech synthesis and braille, Orca helps provide access to applications and toolkits that support the AT-SPI. The name Orca, which is another term for a killer whale, is a nod to the long-standing tradition of naming screen readers after aquatic creatures.&nbsp;[†](#w-orca) ℹ︎&nbsp;[wiki.gnome.org/Projects/Orca](https://wiki.gnome.org/Projects/Orca)
+
 Origin
 : A concept defined by the scheme (protocol), host (domain), and port of the URL used to access it. Two objects have the same origin only when the scheme, host, and port all match. Some operations are restricted to same-origin content, and this restriction can be lifted using CORS.&nbsp;[‡](#m-origin)
 

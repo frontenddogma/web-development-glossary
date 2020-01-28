@@ -33,6 +33,9 @@ JavaScript XML
 JavaServer Pages
 : A collection of technologies that helps software developers create dynamically generated web pages based on HTML, XML, SOAP, and other document types. Released in 1999 by Sun Microsystems, JSP is similar to PHP and ASP, but uses the Java programming language. To deploy and run JavaServer Pages, a compatible web server with a servlet container, such as Apache Tomcat or Jetty, is required.&nbsp;[†](#w-jsp)
 
+JAWS
+: → Job Access With Speech
+
 Jetty
 : A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
@@ -44,6 +47,9 @@ JIT
 
 JIT compiler
 : → Just-in-time compilation
+
+Job Access With Speech
+: A computer screen reader program for Microsoft Windows that allows blind and visually impaired users to read the screen either with a text-to-speech output or by a refreshable Braille display. JAWS is produced by the Blind and Low Vision Group of Freedom Scientific and was first released in 1995.&nbsp;[†](#w-jaws) ℹ︎&nbsp;[freedomscientific.com/products/software/jaws](https://www.freedomscientific.com/products/software/jaws/)
 
 Joint Photographic Experts Group
 : The joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)

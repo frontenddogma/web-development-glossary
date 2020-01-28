@@ -183,6 +183,9 @@ Postel’s Law
 POUR
 : → Perceivable, Operable, Understandable, and Robust
 
+PowerShell
+: A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
+
 PQ
 : → Page Quality
 

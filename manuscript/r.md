@@ -42,6 +42,9 @@ Read-Eval-Print Loop
 Readability
 : The ease with which a reader can understand a written text. In natural language, the readability of text depends on its content (the complexity of its vocabulary and syntax) and its presentation (such as typographic aspects like font size, line height, and line length). Not to be confused with legibility.&nbsp;[†](#w-readability)
 
+Reading disorder
+: → Dyslexia
+
 README
 : A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 

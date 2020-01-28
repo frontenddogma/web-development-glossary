@@ -64,8 +64,7 @@ Left-to-Right
 Legibility
 : The ease with which a reader can recognize individual characters in text. Aspects of type design that affect legibility include x-height, character shapes, stroke contrast, the size of counters, serifs, or lack thereof, and weight. Not to be confused with readability.&nbsp;[†](#w-legibility)
 
-LESS
-Less
+LESS/Less
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. The indented syntax of Less is a nested metalanguage, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
 
 LIFO

@@ -7,7 +7,7 @@ Daemon
 : A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
 
 Daily Scrum
-: A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day.
+: A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day. A Daily Scrum is not necessarily a “stand-up.”
 
 Dark Mode
 : A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background and is often discussed in terms of computer user interface design and web design. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
@@ -241,5 +241,8 @@ Dynamic password
 
 Dynamic typing
 : An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time.&nbsp;[‡](#m-dynamic-typing)
+
+Dyslexia
+: A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud and understanding what one reads.&nbsp;[†](#w-dyslexia)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/d.md) and become a glossary&nbsp;contributor!

@@ -4,16 +4,19 @@ Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
 Same origin
-: @@
+: → Origin
 
 Sass
-: @@
+: A preprocessor scripting language. Sass is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, “SCSS” (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
+
+SassScript
+: The scripting language used with Sass. SassScript provides the following mechanisms: variables, nesting, mixins, and selector inheritance.&nbsp;[†](#w-sass)
 
 Scalable and Modular Architecture for CSS
-: @@ ℹ︎&nbsp;[smacss.com](http://smacss.com/)
+: A CSS style guide. SMACSS was developed in 2011 by Jonathan Snook. ℹ︎&nbsp;[smacss.com](http://smacss.com/)
 
 Scalable Vector Graphics
-: @@ ℹ︎&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
+: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999. SVG images and their behaviors are defined in XML text files. This means that they can be searched, indexed, scripted, and compressed. ℹ︎&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
 Scaled Scrum
 : → Nexus
@@ -25,20 +28,23 @@ SCM
 Scope
 : The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings—a precise definition is tricky, but in casual use and in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term “scope” is also used to refer to the set of all entities that are visible or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, “part of a program” refers to “portion of the source code (area of text),” and is known as lexical scope. In some languages, however, “part of a program” refers to “portion of run time (time period during execution),” and is known as dynamic scope.&nbsp;[†](#w-scope)
 
-Screenreader
-: @@
+Screen reader
+: A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include for example interacting with dedicated Accessibility API, using various operating system features (like inter-process communication and querying user interface properties) and employing hooking techniques.&nbsp;[†](#w-screen-reader)
 
 Script
-: @@
+: Code, usually small programs, written in a scripting language.
 
-Scripting
-: @@
+Scripting language
+: A programming language for a special run-time environment that automates the execution of tasks; the tasks could alternatively be executed one-by-one by a human operator. Scripting languages are often interpreted (rather than compiled). A scripting language can be viewed as a domain-specific language for a particular environment. The term “scripting language” is also used loosely to refer to dynamic high-level general-purpose languages, such as Perl, PowerShell, Python, and Tcl. The spectrum of scripting languages ranges from very small and highly domain-specific languages to general-purpose programming languages used for scripting. Standard examples of scripting languages for specific environments include: Bash, for the Unix or Unix-like operating systems; ECMAScript (JavaScript), for web browsers; and Visual Basic for Applications, for Microsoft Office applications.&nbsp;[†](#w-scripting-language)
+
+Scroll Snap
+: A CSS module that introduces scroll snap positions, which enforce the scroll positions that a scroll container’s scrollport may end at after a scrolling operation has completed.&nbsp;[‡](#m-scroll-snap) ℹ︎&nbsp;[w3.org/TR/css-scroll-snap-1](https://www.w3.org/TR/css-scroll-snap-1/)
 
 Scrolling
-: @@
+: Sliding text, images, or video across a monitor or display, vertically or horizontally. “Scrolling” as such does not change the layout of the text or pictures but moves (pans or tilts) the user's view across what is apparently a larger image that is not wholly seen.&nbsp;[†](#w-scrolling)
 
 Scrum
-: @@
+: An Agile process framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, like research and advanced technologies. Scrum is designed for teams of three to nine members, who break their work into goals that can be completed within time-boxed iterations, called Sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed daily meetings, called Daily Scrums.&nbsp;[†](#w-scrum) ℹ︎&nbsp;[scrumguides.org](https://www.scrumguides.org/)
 
 Scrum Master
 : A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum.
@@ -48,6 +54,9 @@ Scrum Team
 
 Scrum Values
 : @@
+
+SCSS
+: → Sass
 
 SEA
 : → Search Engine Advertising

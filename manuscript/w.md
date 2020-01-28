@@ -171,6 +171,9 @@ WHOIS
 Widow
 : A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.”&nbsp;[†](#w-widows-orphans)
 
+Window-Eyes
+: A screen reader for the Microsoft Windows operating system, developed by GW Micro. Window-Eyes was first released in 1995.&nbsp;[†](#w-window-eyes)
+
 Windows
 : A group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g. Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows 9x, Windows Mobile and Windows Phone. Microsoft introduced an operating environment named Windows in 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).&nbsp;[†](#w-windows) ℹ︎&nbsp;[microsoft.com/windows](https://www.microsoft.com/windows)
 

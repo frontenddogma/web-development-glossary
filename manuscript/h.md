@@ -6,6 +6,12 @@ Hackathon
 Hacker
 : Any skilled computer expert that uses their technical knowledge to overcome a problem. While “hacker” can refer to any skilled computer programmer, the term has become associated in popular culture with a “security hacker,” someone who, with their technical knowledge, uses bugs or exploits to break into computer systems.&nbsp;[†](#w-hacker)
 
+HAML/Haml
+: → HTML Abstraction Markup Language
+
+Handlebars
+: A templating language. Handlebars templates use expressions in the form of `{{`, content, `}}`, resembling handlebars. ℹ︎&nbsp;[handlebarsjs.com](https://handlebarsjs.com/)
+
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
@@ -66,6 +72,9 @@ Holey
 Home page
 : The initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well.&nbsp;[†](#w-home-page)
 
+Home Page Reader
+: A discontinued self-voicing web browser designed for people who are blind. It was developed by IBM until 2006.&nbsp;[†](#w-hpr)
+
 Home screen
 : The main screen on a mobile operating system or computer program. Home screens are not identical because users can rearrange icons as they please, and home screens often differ across mobile operating systems. Almost every smartphone has some form of home screen, which typically displays links to applications, settings, and notifications.&nbsp;[†](#w-home-screen)
 
@@ -75,14 +84,23 @@ Homepage
 HomeSite
 : A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe Systems, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
 
+Hooking
+: A range of techniques used to alter or augment the behaviour of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)
+
 Houdini
-: A set of low level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
+: A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
+
+HPR
+: → Home Page Reader
 
 HSTS
 : → HTTP Strict Transport Security
 
 HTML
 : → HyperText Markup Language
+
+HTML Abstraction Markup Language
+: A templating system that is designed to avoid writing inline code in a web document and make the HTML cleaner. Haml gives the flexibility to have some dynamic content in HTML. Similar to other web languages like PHP, ASP, JSP and template systems like eRuby, Haml also embeds some code that gets executed during runtime and generates HTML code in order to provide some dynamic content.&nbsp;[†](#w-haml) ℹ︎&nbsp;[haml.info](http://haml.info/)
 
 HTML template
 : For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.
@@ -94,7 +112,7 @@ HTML/CSS framework
 : A library allowing for easier, more standards-compliant web design using the Cascading Style Sheets language. Most of these frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript based functions, but are mostly design oriented and focused around interactive UI patterns. This detail differentiates CSS (or HTML/CSS) frameworks from other JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
 HTML5
-: → HTML&nbsp;5
+: → HTML
 
 HTML5 Boilerplate
 : An HTML, CSS, and JavaScript frontend template for creating HTML5 websites with cross-browser capability.&nbsp;[†](#w-html5-boilerplate) ℹ︎&nbsp;[html5boilerplate.com](https://html5boilerplate.com/)

@@ -32,6 +32,7 @@ This book uses material from the following Wikipedia articles:
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assignment (computer science)](https://en.wikipedia.org/wiki/Assignment_(computer_science)){#w-assignment}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
+* [Assistive Technology Service Provider Interface](https://en.wikipedia.org/wiki/Assistive_Technology_Service_Provider_Interface){#w-at-spi}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
 * [at (command)](https://en.wikipedia.org/wiki/At_(command)){#w-at}
@@ -179,6 +180,7 @@ This book uses material from the following Wikipedia articles:
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
+* [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia){#w-dyslexia}
 * [E-commerce](https://en.wikipedia.org/wiki/E-commerce){#w-e-commerce}
 * [EBCDIC](https://en.wikipedia.org/wiki/EBCDIC){#w-ebcdic}
 * [Eclipse (software)](https://en.wikipedia.org/wiki/Eclipse_(software)){#w-eclipse}
@@ -249,6 +251,7 @@ This book uses material from the following Wikipedia articles:
 * [gzip](https://en.wikipedia.org/wiki/Gzip){#w-gzip}
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon){#w-hackathon}
 * [Hacker](https://en.wikipedia.org/wiki/Hacker){#w-hacker}
+* [Haml](https://en.wikipedia.org/wiki/Haml){#w-haml}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
@@ -257,6 +260,7 @@ This book uses material from the following Wikipedia articles:
 * [HITS algorithm](https://en.wikipedia.org/wiki/HITS_algorithm){#w-hits}
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
+* [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -266,6 +270,7 @@ This book uses material from the following Wikipedia articles:
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
+* [IBM Home Page Reader](https://en.wikipedia.org/wiki/IBM_Home_Page_Reader){#w-hpr}
 * [ICANN](https://en.wikipedia.org/wiki/ICANN){#w-icann}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
 * [Identifier](https://en.wikipedia.org/wiki/Identifier){#w-id}
@@ -310,6 +315,7 @@ This book uses material from the following Wikipedia articles:
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
+* [JAWS (screen reader)](https://en.wikipedia.org/wiki/JAWS_(screen_reader)){#w-jaws}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
 * [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
 * [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
@@ -399,7 +405,9 @@ This book uses material from the following Wikipedia articles:
 * [Moving Picture Experts Group](https://en.wikipedia.org/wiki/Moving_Picture_Experts_Group){#w-moving-picture-experts-group}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
+* [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
+* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
@@ -435,6 +443,7 @@ This book uses material from the following Wikipedia articles:
 * [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
 * [Operator (computer programming)](https://en.wikipedia.org/wiki/Operator_(computer_programming)){#w-operator-computer-science}
 * [Operator (mathematics)](https://en.wikipedia.org/wiki/Operator_(mathematics)){#w-operator-math}
+* [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology)){#w-orca}
 * [Orthogonality (programming)](https://en.wikipedia.org/wiki/Orthogonality_(programming)){#w-orthogonality}
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
 * [OSI model](https://en.wikipedia.org/wiki/OSI_model){#w-osi-model}
@@ -473,6 +482,7 @@ This book uses material from the following Wikipedia articles:
 * [Post Office Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol){#w-pop}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Postmortem documentation](https://en.wikipedia.org/wiki/Postmortem_documentation){#w-post-mortem}
+* [PowerShell](https://en.wikipedia.org/wiki/PowerShell){#w-powershell}
 * [Prefetching](https://en.wikipedia.org/wiki/Prefetching){#w-prefetching}
 * [Presto (browser engine)](https://en.wikipedia.org/wiki/Presto_(browser_engine)){#w-presto}
 * [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type){#w-primitive}
@@ -524,7 +534,12 @@ This book uses material from the following Wikipedia articles:
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
+* [Sass (stylesheet language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)){#w-sass}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
+* [Screen reader](https://en.wikipedia.org/wiki/Screen_reader){#w-screen-reader}
+* [Scripting language](https://en.wikipedia.org/wiki/Scripting_language){#w-scripting-language}
+* [Scrolling](https://en.wikipedia.org/wiki/Scrolling){#w-scrolling}
+* [Scrum (software development)](https://en.wikipedia.org/wiki/Scrum_(software_development)){#w-scrum}
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
@@ -547,6 +562,7 @@ This book uses material from the following Wikipedia articles:
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [](){} @@
+* [Tcl](https://en.wikipedia.org/wiki/Tcl){#w-tcl}
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
@@ -562,6 +578,8 @@ This book uses material from the following Wikipedia articles:
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
+* [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
+* [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
@@ -580,6 +598,7 @@ This book uses material from the following Wikipedia articles:
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
+* [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb){#w-worldwideweb}
@@ -621,6 +640,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
+* [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
