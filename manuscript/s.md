@@ -204,6 +204,9 @@ Shortcut icon
 Shorthand
 : A term for CSS properties that allow to set the values of multiple other properties simultaneously. Using a shorthand property, it is possible to write more concise (and often more readable) style sheets. The CSS specification defines shorthand properties to group the definition of common properties acting on the same theme. For instance, the CSS `background` property is a shorthand property that can be used to define the values of `background-color`, `background-image`, `background-repeat`, `background-position`, and other background-related properties.&nbsp;[‡](#m-shorthand)
 
+SI
+: → Speed Index
+
 Signed HTTP Exchanges
 : A draft standard to make internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
@@ -330,6 +333,9 @@ Spamdexing
 Spamming
 : The use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website. While the most widely recognized form of spam is email spam, the term is applied to similar abuses in other media: instant messaging spam, Usenet newsgroup spam, Web search engine spam, spam in blogs, wiki spam, online classified ads spam, mobile phone messaging spam, Internet forum spam, junk fax transmissions, social spam, spam mobile apps, television advertising, and file sharing spam. It is named after Spam, a luncheon meat, by way of a Monty Python sketch about a restaurant that has Spam in every dish and where patrons annoyingly chant “Spam” over and over again.&nbsp;[†](#w-spamming)
 
+SPDY
+: A deprecated networking protocol that was developed primarily at Google for transporting web content. SPDY (pronounced “speedy”) manipulates HTTP traffic, with particular goals of reducing web page load latency and improving web security. SPDY achieves reduced latency through compression, multiplexing, and prioritization, although this depends on a combination of network and website deployment conditions. Throughout the process, the core developers of SPDY have also been involved in the development of HTTP/2, SPDY’s successor.&nbsp;[†](#w-spdy)
+
 Spec
 : → Specification
 
@@ -337,43 +343,43 @@ Specification
 : A set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard. There are different types of technical or engineering specifications (specs), and the term is used differently in different technical contexts. They often refer to particular documents or particular information within them. The word “specification” is broadly defined as “to state explicitly or in detail” or “to be specific.”&nbsp;[†](#w-specification)
 
 Specificity
-: @@
+: A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector's specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have final say.)
 
 Speed Index
-: @@
+: A page load performance metric that shows you how quickly the contents of a page are visibly populated. It is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)
 
 Spider
 : → Crawler
 
 Splash screen
-: @@
+: A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page is an introduction page on a website. A splash screen may cover the entire screen or web page; or may simply be a rectangle near the center of the screen or page. The splash screens of operating systems and some applications that expect to be run in full screen usually cover the entire screen. On websites, splash screens are in most cases considered an anti-pattern.&nbsp;[†](#w-splash-screen)
 
 Spoofing
-: @@
+: A situation in which a person or program successfully identifies as another by falsifying data, to gain an illegitimate advantage.&nbsp;[†](#w-spoofing)
 
 Sprint
-: @@
+: An important, overarching event in Scrum that is to result in a potentially releasable Increment of “Done” product. A Sprint is time-boxed not to be longer than one month.
 
 Sprint Goal
-: @@
+: An objective for a Sprint in Scrum that is to guide the Development Team. A Sprint Goal is preferred to be measurable. Per the Scrum framework, a Sprint Goal becoming obsolete makes for the only acceptable reason to cancel a Sprint.
 
 Sprite
-: @@
+: A performance optimization technique implemented with graphics and CSS. A sprite is an image file combining several graphics. It may be created automatically or manually. Individual graphics are displayed using CSS `background` properties and defining their dimensions. Using sprites saves HTTP requests and, under circumstances, graphics file size.
 
 SQL
 : → Structured Query Language
 
 SQL injection
-: @@
+: A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application's software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
 Squad
-: @@
+: A Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[labs.spotify.com/2013/03/20/agile-a-la-spotify](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
 SSH
 : → Secure Shell
 
 SSH File Transfer Protocol
-: @@
+: A network protocol that provides file access, file transfer, and file management over any reliable data stream. SFTP was designed by the Internet Engineering Task Force (IETF) as an extension of the Secure Shell protocol (SSH) version 2.0 to provide secure file transfer capabilities. The protocol assumes that it is run over a secure channel, such as SSH, that the server has already authenticated the client, and that the identity of the client user is available to the protocol.&nbsp;[†](#w-sftp)
 
 SSL
 : → Secure Sockets Layer
@@ -385,19 +391,19 @@ Stack
 : An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out).&nbsp;[†](#w-stack)
 
 Stacking context
-: @@
+: A three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the user, who is assumed to be facing the viewport or the web page. For CSS, each box belongs to one stacking context. The `z-index` property establishes whether a box establishes a stacking context, and the level of a box in its stacking context.&nbsp;[‡](#m-stacking-context)
+
+Stand-up
+: A meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. Stand-ups are sometimes confused with Daily Scrums.&nbsp;[†](#w-stand-up)
 
 Standard
-: @@
+: → Technical standard
 
 Standard Generalized Markup Language
-: @@
+: A standard for defining generalized markup languages for documents. ISO 8879 Annex A.1 states that generalized markup is "based on two postulates": 1) Declarative: markup should describe a document's structure and other attributes rather than specify the processing that needs to be performed, because it is less likely to conflict with future developments. 2) Rigorous: in order to allow markup to take advantage of the techniques available for processing rigorously defined objects like programs and databases. SGML was first defined in 1986. HTML was theoretically an example of an SGML-based language until HTML 5, which browsers cannot parse as SGML for compatibility reasons.&nbsp;[†](#w-sgml)
 
 Standards mode
-: @@
-
-Standup
-: → Daily Scrum
+: → Strict mode
 
 Star hack
 : @@
@@ -425,6 +431,9 @@ Status code
 
 Stream
 : @@
+
+Strict mode
+: A web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
 
 String
 : @@

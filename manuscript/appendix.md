@@ -238,6 +238,7 @@ This book uses material from the following Wikipedia articles:
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
 * [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
+* [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation){#w-gdpr}
 * [GIF](https://en.wikipedia.org/wiki/GIF){#w-gif}
 * [Git](https://en.wikipedia.org/wiki/Git){#w-git}
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}
@@ -275,6 +276,7 @@ This book uses material from the following Wikipedia articles:
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
+* [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
@@ -601,7 +603,14 @@ This book uses material from the following Wikipedia articles:
 * [Spamdexing](https://en.wikipedia.org/wiki/Spamdexing){#w-spamdexing}
 * [Spamming](https://en.wikipedia.org/wiki/Spamming){#w-spamming}
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
+* [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
+* [Splash screen](https://en.wikipedia.org/wiki/Splash_screen){#w-splash-screen}
+* [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
+* [SQL injection](https://en.wikipedia.org/wiki/SQL_injection){#w-sql-injection}
+* [SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol){#w-sftp}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
+* [Stand-up meeting](https://en.wikipedia.org/wiki/Stand-up_meeting){#w-stand-up}
+* [Standard Generalized Markup Language](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language){#w-sgml}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
@@ -744,6 +753,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Pseudo-class](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-class){#m-pseudo-class}
 * [Pseudo-element](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-element){#m-pseudo-element}
 * [Pseudocode](https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode){#m-pseudocode}
+* [Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode){#m-quirks-mode-strict-mode}
 * [Reflow](https://developer.mozilla.org/en-US/docs/Glossary/Reflow){#m-reflow}
 * [Replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element){#m-replaced-element}
 * [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}
@@ -754,8 +764,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Shadow tree](https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree){#m-shadow-tree}
 * [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
 * [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}
+* [Speed index](https://developer.mozilla.org/en-US/docs/Glossary/Speed_index){#m-speed-index}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [](){} @@
+* [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

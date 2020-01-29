@@ -6,8 +6,14 @@ Gamma
 Garbage collection
 : A form of automatic memory management. The garbage collector, or just collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program. Garbage collection is essentially the opposite of manual memory management, which requires the programmer to specify which objects to deallocate and return to the memory system. However, many systems use a combination of approaches, including other techniques such as stack allocation and region inference.&nbsp;[†](#w-garbage-collection)
 
+GDPR
+: → General Data Protection Regulation
+
 Gecko
 : A browser engine developed by Mozilla. It is used in the Firefox browser, the Thunderbird email client, and many other projects. Gecko is designed to support open Internet standards, and is used by different applications to display web pages and, in some cases, an application’s user interface itself (by rendering XUL). Gecko offers a rich programming API that makes it suitable for a wide variety of roles in Internet-enabled applications, such as web browsers, content presentation, and client/server.&nbsp;[†](#w-gecko) ℹ︎&nbsp;[developer.mozilla.org/Mozilla/Gecko](https://developer.mozilla.org/Mozilla/Gecko)
+
+General Data Protection Regulation
+: A regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). The GDPR also addresses the transfer of personal data outside the EU and EEA areas. It aims primarily to give control to individuals over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU. Superseding the Data Protection Directive 95/46/EC, the regulation contains provisions and requirements related to the processing of personal data of individuals (formally called data subjects in the GDPR) who reside in the EEA, and applies to any enterprise—regardless of its location and the data subjects' citizenship or residence—that is processing the personal information of data subjects inside the EEA.&nbsp;[†](#w-gdpr) ℹ︎&nbsp;[gdpr-info.eu](https://gdpr-info.eu/)
 
 GIF
 : → Graphics Interchange Format

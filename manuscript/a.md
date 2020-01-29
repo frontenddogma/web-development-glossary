@@ -96,6 +96,9 @@ Algorithm
 Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
+Almost strict mode
+: A third web browser compatibility mode (beside strict and quirks mode) which maintains the "traditional" vertical sizing of table cells according to the CSS2 specification and which has been implemented in Safari, Opera 7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
+
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
