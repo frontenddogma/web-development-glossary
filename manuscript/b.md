@@ -100,8 +100,8 @@ Block
 : → Block container element
 : → Block-level box
 : → Block-level element
-: In CSS, a section delimited by an opening (`{`) and a closing curly brace (`}`).
-: In JavaScript, a collection of related statements enclosed in braces (`{}`).&nbsp;[‡](#m-block)
+: In CSS, a section enclosed by an opening (`{`) and a closing curly brace (`}`).
+: In JavaScript, a collection of related statements enclosed by an opening (`{`) and a closing curly brace (`}`).&nbsp;[‡](#m-block)
 
 Block box
 : A block-level box that is also a block container.
@@ -179,7 +179,7 @@ Boundary value problem
 : A boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions. Boundary value problems arise in several branches of physics as any physical differential equation will have them.&nbsp;[†](#w-boundary-value-problem)
 
 Bower
-: A maintenance-only package manager for the JavaScript programming language. Bowser was first released in 2012. ℹ︎&nbsp;[bower.io](https://bower.io/)
+: A maintenance-only package manager for the JavaScript programming language. Bower was first released in 2012. ℹ︎&nbsp;[bower.io](https://bower.io/)
 
 Box
 : The visual space occupied by an HTML element’s content.&nbsp;[†](#w-box-model)

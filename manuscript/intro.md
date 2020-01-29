@@ -20,7 +20,7 @@ Sometimes a term or abbreviation has several meanings; only the tech-related one
 
 Sometimes there’s imprecision—is a home page really a special type of web page, but a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the terms, it is.)
 
-Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but is thought to make meanings, relationships, and sometimes history more clear.
+Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but is thought to make meanings, relationships, and sometimes history more clear. An arrow does not always indicated equality or identity, but may also point at closely related concept or a term that also covers the originating term.
 
 ## Disclaimer
 
