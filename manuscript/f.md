@@ -3,6 +3,12 @@
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
+False negative
+: @@
+
+False positive
+: @@
+
 Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops.&nbsp;[‡](#m-falsy)
 
