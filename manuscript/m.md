@@ -85,6 +85,9 @@ Media query
 Media type
 : → MIME type
 
+Medium integer
+: An integral data type of 24 bits, with a signed range from –8,388,608 to 8,388,607, and an unsigned range from 0 to 16,777,215.
+
 Memoization
 : An optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. Memoization has also been used in other contexts (and for purposes other than speed gains), such as in simple mutually recursive descent parsing. Although related to caching, memoization refers to a specific case of this optimization, distinguishing it from forms of caching such as buffering or page replacement. In the context of some logic programming languages, memoization is also known as tabling.&nbsp;[†](#w-memoization)
 

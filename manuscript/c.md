@@ -296,6 +296,9 @@ Conditional Comments
 Cone of Uncertainty
 : A model for the evolution of the amount of best case uncertainty during a project. At the beginning of a project, comparatively little is known about the product or work results, and so estimates are subject to large uncertainty. As more research and development is done, more information is learned about the project, and the uncertainty then tends to decrease. The change in uncertainty makes for the shape of a cone.&nbsp;[†](#w-cone-of-uncertainty)
 
+Confidence testing
+: → Smoke testing
+
 Confidentiality Agreement
 : → Non-Disclosure Agreement
 

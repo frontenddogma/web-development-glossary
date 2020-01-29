@@ -41,7 +41,7 @@ Layout engine
 : → Browser engine
 
 Layout table
-: An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout is a popular web design method from the 90s and early 2000s that is mostly antiquated.
+: An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout, often in conjunction with spacer images, is a popular web design method from the 90s and early 2000s that is not in use anymore.
 
 Lazy loading
 : A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)

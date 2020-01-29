@@ -78,6 +78,9 @@ URL forwarding
 URL redirection
 : → Redirect
 
+URL slug
+: → Slug
+
 URN
 : → Uniform Resource Name
 

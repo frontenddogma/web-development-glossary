@@ -219,6 +219,9 @@ Premature optimization
 Prerendering
 : The prefetching and then rendering of content in the background by a browser, as if the content had been rendered into an invisible separate tab. When the user navigates to the prerendered content, the current content is replaced by the prerendered content instantly.&nbsp;[‡](#m-prerendering)
 
+Presentation
+: In web development, the code that deals with how content is presented. This is usually achieved through Cascading Style Sheets (CSS).
+
 Presto
 : The browser engine of the Opera web browser from the release of Opera&nbsp;7 in 2003 until the release of Opera&nbsp;15 in 2013, at which time Opera switched to using the Blink engine that was originally created for Chromium. Presto was also used to power the Opera Mini and Opera Mobile browsers.&nbsp;[†](#w-presto)
 

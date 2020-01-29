@@ -15,6 +15,9 @@ Handlebars
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
+Hashbang
+: → Shebang
+
 Hashtag
 : A type of metadata tag used on social networks such as Twitter and other microblogging services. It lets users apply dynamic, user-generated tagging that helps other users easily find messages with a specific theme or content. Users create and use hashtags by placing an octothorpe (`#`, also called a number sign, or pound sign) usually in front of a word or unspaced phrase in a message. Searching for that hashtag yields each message that someone has tagged with it. A hashtag archive is consequently collected into a single stream under the same hashtag.&nbsp;[†](#w-hashtag)
 

@@ -15,6 +15,9 @@ Ranking
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
 
+RCS
+: → Revision Control System
+
 RDF
 : → Resource Description Framework
 
@@ -55,7 +58,7 @@ Recidivism
 : As an Agile metric, the total number of user stories completed in a sprint that entered development for the second time divided by the total number of completed stories.
 
 Recommendation
-: → Specification
+: The W3C term for a specification or web standard.
 
 Recursion
 : A method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time. At the opposite, recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.&nbsp;[†](#w-recursion)
@@ -164,6 +167,9 @@ Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the insertion of a semicolon (Automatic Semicolon Insertion).
 
 Revision control
+: → Version control
+
+Revision Control System
 : → Version control
 
 RFC

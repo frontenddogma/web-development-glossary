@@ -46,6 +46,9 @@ Scroll Snap
 Scrolling
 : Sliding text, images, or video across a monitor or display, vertically or horizontally. “Scrolling” as such does not change the layout of the text or pictures but moves (pans or tilts) the user’s view across what is apparently a larger image that is not wholly seen.&nbsp;[†](#w-scrolling)
 
+Scrollport
+: The visual viewport of a scroll container in a document. A scroll container is created by applying `overflow: scroll` to a container, or `overflow: auto` when there is enough content to cause overflow. The scrollport coincides with the padding box of that container and represents the content that can be seen as the box is scrolled.&nbsp;[‡](#m-scrollport)
+
 Scrum
 : An Agile process framework for developing, delivering, and sustaining complex products, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, like research and advanced technologies. Scrum is designed for small teams which break their work into goals that can be completed within time-boxed iterations, called Sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed daily meetings, called Daily Scrums.&nbsp;[†](#w-scrum) ℹ︎&nbsp;[scrumguides.org](https://www.scrumguides.org/)
 
@@ -84,6 +87,9 @@ Search Engine Results Page
 
 Searching
 : A research and navigation strategy. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
+
+Section 508
+: United States accessibility regulation. ℹ︎&nbsp;[section508.gov](https://www.section508.gov/)
 
 Sectioning content
 : Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
@@ -181,10 +187,10 @@ Shadow tree
 : A tree of DOM nodes whose topmost node is a shadow root; that is, the topmost node within a shadow DOM. A shadow tree is a hidden set of standard DOM nodes which is attached to a standard DOM node that serves as a host. The hidden nodes are not directly visible using regular DOM functionality, but require the use of a special Shadow DOM API to access. Nodes within the shadow tree are not affected by anything applied outside the shadow tree, and vice versa. This provides a way to encapsulate implementation details, which is especially useful for custom elements and other advanced design paradigms.&nbsp;[‡](#m-shadow-tree)
 
 Shebang
-: @@
+: The character sequence consisting of the characters number sign and exclamation mark (`#!`) at the beginning of a script. In Unix-like operating systems, when a text file has a shebang, it is interpreted as an executable file. In this case, the program loader mechanism parses the rest of the file's initial line as an interpreter directive. The loader executes the specified interpreter program, passing to it as an argument the path that was initially used when attempting to run the script, so that the program may use the file as input data.&nbsp;[†](#w-shebang)
 
 Shell
-: @@
+: A user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation. It is named a shell because it is the outermost layer around the operating system. CLI shells require the user to be familiar with commands and their calling syntax, and to understand concepts about the shell-specific scripting language (for example Bash).&nbsp;[†](#w-shell)
 
 Shim
 : A library that transparently intercepts API calls and changes the arguments passed, handles the operation itself, or redirects the operation elsewhere. Shims can be used to support an old API in a newer environment, or a new API in an older environment. Shims can also be used for running programs on different software platforms than they were developed for.&nbsp;[†](#w-shim)
@@ -192,38 +198,32 @@ Shim
 Shockwave Flash
 : → Flash player
 
-Shopping cart
-: @@
-
-Shopping platform
-: @@
-
 Shortcut icon
 : → Favicon
 
 Shorthand
-: @@
+: A term for CSS properties that allow to set the values of multiple other properties simultaneously. Using a shorthand property, it is possible to write more concise (and often more readable) style sheets. The CSS specification defines shorthand properties to group the definition of common properties acting on the same theme. For instance, the CSS `background` property is a shorthand property that can be used to define the values of `background-color`, `background-image`, `background-repeat`, `background-position`, and other background-related properties.&nbsp;[‡](#m-shorthand)
 
-Signed exchange
-: @@
-
-Simple Object Access Protocol
-: @@
+Signed HTTP Exchanges
+: A draft standard to make internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
 Simple Mail Transfer Protocol
-: @@
+: A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC 821, and updated in 2008 by RFC 5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail and Yahoo! Mail, may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol on port number 25.&nbsp;[†](#w-smtp)
+
+Simple Object Access Protocol
+: A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP’s purpose is to provide extensibility, neutrality and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), for message negotiation and transmission. SOAP was first released in 1998.&nbsp;[†](#w-soap)
 
 Single-Page Application
-: @@
+: A web application or web site that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from a server. This approach avoids interruption of the user experience between successive pages, making the application behave more like a desktop application. In an SPA, either all necessary code—HTML, JavaScript, and CSS—is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions. The page does not reload at any point in the process, nor does control transfer to another page, although the location hash or the HTML5 History API can be used to provide the perception and navigability of separate logical pages in the application. Interaction with the single-page application often involves dynamic communication with the web server behind the scenes.&nbsp;[†](#w-spa)
 
 Site
 : → Website
 
 Site map
-: @@
+: A list of pages of a website. There are three primary kinds of site map: 1) site maps used during the planning of a website by its designers; 2) human-visible listings, typically hierarchical, of the pages on a site; and 3) structured listings intended for web crawlers such as search engines.&nbsp;[†](#w-site-map)
 
 Sitemaps
-: @@
+: A protocol that allows to inform search engines about URLs on a website that are available for crawling. A Sitemap is an XML file that lists the URLs for a site. It allows webmasters to include additional information about each URL: when it was last updated, how often it changes, and how important it is in relation to other URLs in the site. This allows search engines to crawl the site more efficiently and to find URLs that may be isolated from rest of the site's content. The sitemaps protocol is a URL inclusion protocol and complements robots.txt, a URL exclusion protocol. The Sitemaps protocol was first released in 2005.&nbsp;[†](#w-sitemaps) ℹ︎&nbsp;[sitemaps.org](https://www.sitemaps.org/)
 
 Skin
 : → Theme
@@ -235,22 +235,25 @@ SLE
 : → Service Level Expectation
 
 Sliding Doors
-: @@
+: A once-popular obsolete CSS technique to layer background images. It was presented in 2003 by Douglas Bowman. ℹ︎&nbsp;[alistapart.com/article/slidingdoors](https://alistapart.com/article/slidingdoors/)
 
 SLOC
 : → Source Lines of Code
 
+Slot
+: The HTML `slot` element and respective use with web components.
+
 Slug
-: @@
+: The part of a URL that identifies a page in human-readable keywords. A slug is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word slug in the news media to indicate a short name given to an article for internal use.&nbsp;[†](#w-clean-url)
 
 SMACSS
 : → Scalable and Modular Architecture for CSS
 
 Small integer
-: @@
+: An integral data type of 16 bits, with a signed range from –32,768 to 32,767, and an unsigned range from 0 to 65,535.
 
 Smashing Magazine
-: @@
+: A popular online magazine for web design and development. Smashing Magazine was founded in 2006 by Vitaly Friedman and Sven Lennartz. ℹ︎&nbsp;[smashingmagazine.com](https://www.smashingmagazine.com/)
 
 Smi
 : → Small integer
@@ -261,11 +264,11 @@ SMIL
 SMTP
 : → Simple Mail Transfer Protocol
 
-Smoke test
-: @@
+Smoke testing
+: The preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release. Smoke tests are a subset of test cases that cover the most important functionality of a component or system, used to aid assessment of whether main functions of the software appear to work correctly. When used to determine if a computer program should be subjected to further, more fine-grained testing, a smoke test may be called an intake test. Alternately, it is a set of tests run on each new build of a product to verify that the build is testable before the build is released into the hands of the test team.&nbsp;[†](#w-smoke-testing)
 
 Snap position
-: @@
+: A point that the scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
 
 SOAP
 : → Simple Object Access Protocol
@@ -283,13 +286,13 @@ Soft opening
 : → Soft launch
 
 Software
-: @@
+: A collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs, and data. Computer software includes computer programs, libraries, and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.&nbsp;[†](#w-software)
 
 Software crisis
 : A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany. Edsger Dijkstra’s 1972 ACM Turing Award Lecture makes reference to the same problem.&nbsp;[†](#w-software-crisis)
 
 Software development
-: @@
+: The process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development is a process of writing and maintaining the source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.&nbsp;[†](#w-software-development)
 
 Software framework
 : An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. It provides a standard way to build and deploy applications and it is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or system.&nbsp;[†](#w-software-framework)
@@ -304,7 +307,7 @@ Source Code Management
 : → Version control
 
 Source Control Management
-: @@
+: → Version control
 
 Source Lines of Code
 : → Lines of Code
@@ -313,19 +316,25 @@ SPA
 : → Single-Page Application
 
 Spacer
-: @@
+: An old and obsolete web design technique of using small transparent images (usually GIF graphics of 1×1 pixels) to achieve a particular layout. Spacer images were typically used together with and as part of layout tables.
 
 Spaghetti code
-: @@
+: A pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience.&nbsp;[†](#w-spaghetti-code)
 
 Spam
-: @@
+: An unsolicited, undesired, or illegal message.&nbsp;[†](#w-spam)
 
 Spamdexing
-: @@
+: The deliberate manipulation of search engine indexes. Spamdexing involves a number of methods, such as link building and repeating unrelated phrases, to manipulate the relevance or prominence of resources indexed, in a manner inconsistent with the purpose of the indexing system.&nbsp;[†](#w-spamdexing)
+
+Spamming
+: The use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website. While the most widely recognized form of spam is email spam, the term is applied to similar abuses in other media: instant messaging spam, Usenet newsgroup spam, Web search engine spam, spam in blogs, wiki spam, online classified ads spam, mobile phone messaging spam, Internet forum spam, junk fax transmissions, social spam, spam mobile apps, television advertising, and file sharing spam. It is named after Spam, a luncheon meat, by way of a Monty Python sketch about a restaurant that has Spam in every dish and where patrons annoyingly chant "Spam" over and over again.&nbsp;[†](#w-spamming)
+
+Spec
+: → Specification
 
 Specification
-: @@
+: A set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard. There are different types of technical or engineering specifications (specs), and the term is used differently in different technical contexts. They often refer to particular documents or particular information within them. The word “specification” is broadly defined as “to state explicitly or in detail” or “to be specific.”&nbsp;[†](#w-specification)
 
 Specificity
 : @@
@@ -420,6 +429,9 @@ Stream
 String
 : @@
 
+Structure
+: In web development, the code that deals with how content is weighed and organized. This is usually achieved through HyperText Markup Language (HTML).
+
 Structured Query Language
 : @@
 
@@ -461,6 +473,9 @@ SVG
 
 SVN
 : → Subversion
+
+SXG
+: → Signed HTTP Exchange
 
 Symbol
 : @@

@@ -27,6 +27,9 @@ Bash
 BDD
 : → Behavior-Driven Development
 
+Behavior
+: In web development, the code that deals with how content can be interacted with. This is usually achieved through JavaScript.
+
 Behavior-Driven Development
 : An Agile software development process that encourages collaboration among developers, QA, and non-technical or business participants in a software project. BDD encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. It emerged from Test-Driven Development (TDD). BDD combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.&nbsp;[†](#w-bdd)
 
@@ -54,6 +57,9 @@ Bidi
 Big Bang
 : The practice of releasing a great amount of working software all at one time, as opposed to incrementally.
 
+Big integer
+: An integral data type of 64 bits, with a signed range from –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807, and an unsigned range from 0 to 18,446,744,073,709,551,615.
+
 Big O notation
 : A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. It is a member of a family of notations invented by Paul Bachmann, Edmund Landau, and others, collectively called Bachmann-Landau notation or asymptotic notation. In computer science, big O notation is used to classify algorithms according to how their running time or space requirements grow as the input size grows. In analytic number theory, big O notation is often used to express a bound on the difference between an arithmetical function and a better understood approximation.&nbsp;[†](#w-big-o)
 
@@ -72,6 +78,9 @@ Binding
 Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image
+
+BITV
+: German accessibility regulation. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
 
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
@@ -146,7 +155,7 @@ Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
 
 Bootstrap
-: A HTML/CSS framework. ℹ︎&nbsp;[getbootstrap.com](https://getbootstrap.com/)
+: An HTML/CSS framework. ℹ︎&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
@@ -250,8 +259,14 @@ Bugfix
 Bugzilla
 : A web-based general-purpose bug tracking system and testing tool originally developed and used by the Mozilla project. Bugzilla was first released in 1998 by Netscape Communications.&nbsp;[†](#w-bugzilla) ℹ︎&nbsp;[bugzilla.org](https://www.bugzilla.org/)
 
+Build Verification Test
+: → Smoke testing
+
 Bundling
 : The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.
+
+BVT
+: → Build Verification Test
 
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)

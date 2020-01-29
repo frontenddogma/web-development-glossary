@@ -88,6 +88,7 @@ This book uses material from the following Wikipedia articles:
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
+* [Clean URL](https://en.wikipedia.org/wiki/Clean_URL){#w-clean-url}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
 * [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
@@ -534,6 +535,7 @@ This book uses material from the following Wikipedia articles:
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
+* [Revision tag](https://en.wikipedia.org/wiki/Revision_tag){#w-tag}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format){#w-rtf}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
@@ -573,17 +575,32 @@ This book uses material from the following Wikipedia articles:
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
+* [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix)){#w-shebang}
+* [Shell (computing)](https://en.wikipedia.org/wiki/Shell_(computing)){#w-shell}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
+* [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol){#w-smtp}
+* [Single-page application](https://en.wikipedia.org/wiki/Single-page_application){#w-spa}
+* [Site map](https://en.wikipedia.org/wiki/Site_map){#w-site-map}
+* [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps){#w-sitemaps}
+* [Smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_(software)){#w-smoke-testing}
+* [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
+* [Software](https://en.wikipedia.org/wiki/Software){#w-software}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software crisis](https://en.wikipedia.org/wiki/Software_crisis){#w-software-crisis}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
+* [Software development](https://en.wikipedia.org/wiki/Software_development){#w-software-development}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
 * [Software versioning](https://en.wikipedia.org/wiki/Software_versioning){#w-versioning}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
+* [Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code){#w-spaghetti-code}
+* [Spam](https://en.wikipedia.org/wiki/Spam){#w-spam}
+* [Spamdexing](https://en.wikipedia.org/wiki/Spamdexing){#w-spamdexing}
+* [Spamming](https://en.wikipedia.org/wiki/Spamming){#w-spamming}
+* [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
@@ -594,7 +611,10 @@ This book uses material from the following Wikipedia articles:
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
 * [](){} @@
 * [Tcl](https://en.wikipedia.org/wiki/Tcl){#w-tcl}
+* [Technical standard](https://en.wikipedia.org/wiki/Technical_standard){#w-technical-standard}
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
+* [Telnet](https://en.wikipedia.org/wiki/Telnet){#w-telnet}
+* [Template processor](https://en.wikipedia.org/wiki/Template_processor){#w-template-processor}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
@@ -630,6 +650,7 @@ This book uses material from the following Wikipedia articles:
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Web syndication](https://en.wikipedia.org/wiki/Web_syndication){#w-syndication}
+* [Web template system](https://en.wikipedia.org/wiki/Web_template_system){#w-template-system}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
 * [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
@@ -729,7 +750,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
+* [Scrollport](https://developer.mozilla.org/en-US/docs/Glossary/Scrollport){#m-scrollport}
 * [Shadow tree](https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree){#m-shadow-tree}
+* [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
+* [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}

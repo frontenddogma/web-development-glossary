@@ -42,6 +42,9 @@ Web Application Framework
 Web browser
 : → Browser
 
+Web Bundles
+: A draft standard to to bundle and store HTTP responses. Web Bundles are a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
+
 Web component
 : A set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements. The primary technologies used to create web components include custom elements (APIs to define new HTML elements), Shadow DOM (encapsulated DOM and styling, with composition), and HTML templates (HTML fragment that are not rendered, but stored until instantiated via JavaScript).&nbsp;[†](#w-web-component) ℹ︎&nbsp;[webcomponents.org](https://www.webcomponents.org/)
 
@@ -77,6 +80,9 @@ Web Hypertext Application Technology Working Group
 
 Web indexing
 : The indexing of contents of a website or of the Internet as a whole. Individual websites or intranets may use a back-of-the-book index, while search engines usually use keywords and metadata to provide a more useful vocabulary for Internet or onsite searching. With the increase in the number of periodicals that have articles online, web indexing is also becoming important for periodical websites.&nbsp;[†](#w-web-indexing)
+
+Web Packaging
+: A set of draft standards for packaging websites, developed by Google. Web Packaging focuses on bundling website resources with provisions for authentication and offline sharing. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
 Web page
 : @@
