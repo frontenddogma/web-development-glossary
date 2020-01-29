@@ -234,7 +234,7 @@ Color management
 : The controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and corresponding media. The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD monitor, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities. With photography it is often critical that prints or online gallery appear how they were intended. Color management cannot guarantee identical color reproduction, as this is rarely possible, but it can at least give more control over any changes which may occur.&nbsp;[†](#w-color-management)
 
 Comma-Separated Values
-: @@
+: As a CSV file, a delimited text file that uses a comma to separate values. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format. A CSV file typically stores tabular data (numbers and text) in plain text, in which case each line will have the same number of fields. The CSV file format is not fully standardized. CSV was defined in RFC 4180.&nbsp;[†](#w-csv)
 
 Command
 : A directive to a computer program to perform a specific task. It may be issued via a command-line interface, such as a shell, or as input to a network service as part of a network protocol, or as an event in a graphical user interface triggered by the user selecting an option in a menu.&nbsp;[†](#w-command)
@@ -417,6 +417,9 @@ CSS
 CSS framework
 : → HTML/CSS framework
 
+CSS Modules
+: As a CSS Module, a CSS file in which all class and animation names are by default scoped locally. ℹ︎&nbsp;[github.com/css-modules/css-modules](https://github.com/css-modules/css-modules)
+
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
 
@@ -446,7 +449,7 @@ Customized built-in element
 : Another type of custom element for a web component. Customized built-in elements inherit from basic HTML elements. To create a customized built-in element one has to specify which element it extends, and to use it one writes out the basic element but specifies the name of the custom element through an `is` property.&nbsp;[‡](#m-custom-element)
 
 Customized Scripting in C#
-: @@
+: A basic scripting language based on C#. CSCS features no functions, methods, and Boolean values. It was presented in 2016 by Vassili Kaplan. ℹ︎&nbsp;[github.com/vassilych/cscs](https://github.com/vassilych/cscs)
 
 Cutting the mustard
 : The succeeding under difficult circumstances, and an expression attributed to BBC developers in the context of user agent detection.

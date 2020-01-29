@@ -131,7 +131,7 @@ Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
 
 Load time
-: The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, and jank.&nbsp;[‡](#m-load-time)
+: The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter.&nbsp;[‡](#m-load-time)
 
 LOC
 : → Lines of Code
@@ -161,7 +161,7 @@ Logging
 : The act of keeping a log file.&nbsp;[†](#w-log-file)
 
 Logical properties
-: @@
+: A CSS module introducing logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS 2.1. Logical properties define direction‐relative equivalents of their corresponding physical properties.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
 Loop
 : A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)

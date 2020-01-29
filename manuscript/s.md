@@ -29,7 +29,7 @@ Scope
 : The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings—a precise definition is tricky, but in casual use and in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term “scope” is also used to refer to the set of all entities that are visible or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, “part of a program” refers to “portion of the source code (area of text),” and is known as lexical scope. In some languages, however, “part of a program” refers to “portion of run time (time period during execution),” and is known as dynamic scope.&nbsp;[†](#w-scope)
 
 Scoped styles
-: @@
+: A concept to contain styles only to a certain element as well as its children (as opposed to have them affect other elements as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like Web Components. Frameworks like Vue support both concept and attribute.
 
 Screen reader
 : A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include for example interacting with dedicated Accessibility API, using various operating system features (like inter-process communication and querying user interface properties) and employing hooking techniques.&nbsp;[†](#w-screen-reader)
@@ -104,10 +104,10 @@ security.txt
 : A proposed standard for website security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called “security.txt” that is similar to robots.txt but intended to be read by humans wishing to contact a website’s owner about security issues.&nbsp;[†](#w-securitytxt)
 
 Selector
-: @@
+: A pattern matching rule and the first part of a CSS rule. Selectors are used to target HTML elements as well as, generally speaking, elements of other markup languages that are to be styled. The case-sensitivity of selectors depends on the document (markup) language.&nbsp;[‡](#m-selector)
 
 Selenium
-: @@
+: A cross-platform portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby, and Scala. The tests can then run against most modern web browsers.&nbsp;[†](#w-selenium) ℹ︎&nbsp;[selenium.dev](https://selenium.dev/)
 
 SEM
 : → Search Engine Marketing
@@ -151,34 +151,34 @@ Server side
 : Operations on the server as opposed to the client side in a client-server relationship.&nbsp;[†](#w-server-side)
 
 Server-Side Rendering
-: @@
+: A technique for rendering client-side Single-Page Applications (SPA) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
 
 Service Level Agreement
-: @@
+: A commitment between a service provider and a client. Particular aspects of the service—quality, availability, responsibilities—are agreed between the service provider and the service user. The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract. As an example, Internet service providers and telcos will commonly include service level agreements within the terms of their contracts with customers to define the level(s) of service being sold in plain language terms. In this case the SLA will typically have a technical definition in mean time between failures (MTBF), mean time to repair or mean time to recovery (MTTR); identifying which party is responsible for reporting faults or paying fees; responsibility for various data rates; throughput; jitter; or similar measurable details.&nbsp;[†](#w-sla)
 
 Service Level Expectation
-: @@
+: The definition and setting of expectations of a service to be given, like what time it may take for work to be done, or issues to be resolved.
 
 Service worker
-: @@
+: A JavaScript file that operates as a type of web worker. They work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of Registration, Installation, and Activation. Technically, service workers provide a scriptable network proxy in the web browser to manage the web/HTTP requests programmatically. The service workers lie between the network and device to supply the content. They are capable of using the cache mechanisms efficiently and allow error-free behavior during offline periods.&nbsp;[†](#w-pwa)
 
 SFTP
 : → SSH File Transfer Protocol
-
-Sitemap
-: @@
 
 SGML
 : → Standard Generalized Markup Language
 
 Shadow DOM
-: @@
+: A scoped sub-tree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the Web Component standards. ℹ︎&nbsp;[w3c.github.io/webcomponents/spec/shadow](https://w3c.github.io/webcomponents/spec/shadow/)
+
+Shadow host
+: The element that a shadow tree is attached to, like the root element of a custom element.
 
 Shadow root
-: @@
+: The topmost element of the shadow tree.
 
 Shadow tree
-: @@
+: A tree of DOM nodes whose topmost node is a shadow root; that is, the topmost node within a shadow DOM. A shadow tree is a hidden set of standard DOM nodes which is attached to a standard DOM node that serves as a host. The hidden nodes are not directly visible using regular DOM functionality, but require the use of a special Shadow DOM API to access. Nodes within the shadow tree are not affected by anything applied outside the shadow tree, and vice versa. This provides a way to encapsulate implementation details, which is especially useful for custom elements and other advanced design paradigms.&nbsp;[‡](#m-shadow-tree)
 
 Shebang
 : @@

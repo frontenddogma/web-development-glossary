@@ -106,6 +106,7 @@ This book uses material from the following Wikipedia articles:
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
+* [Comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values){#w-csv}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
@@ -149,6 +150,7 @@ This book uses material from the following Wikipedia articles:
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
 * [Darknet](https://en.wikipedia.org/wiki/Darknet){#w-darknet}
+* [Dart (programming language)](https://en.wikipedia.org/wiki/Dart_(programming_language)){#w-dart}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
@@ -208,6 +210,7 @@ This book uses material from the following Wikipedia articles:
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
+* [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
 * [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}
@@ -241,6 +244,7 @@ This book uses material from the following Wikipedia articles:
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
+* [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}
 * [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
 * [Gopher (protocol)](https://en.wikipedia.org/wiki/Gopher_(protocol)){#w-gopher}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
@@ -281,6 +285,7 @@ This book uses material from the following Wikipedia articles:
 * [Image](https://en.wikipedia.org/wiki/Image){#w-image}
 * [Image map](https://en.wikipedia.org/wiki/Image_map){#w-image-map}
 * [Immutable object](https://en.wikipedia.org/wiki/Immutable_object){#w-immutable}
+* [Indexed Database API](https://en.wikipedia.org/wiki/Indexed_Database_API){#w-indexeddb}
 * [Industrial design](https://en.wikipedia.org/wiki/Industrial_design){#w-industrial-design}
 * [Information architecture](https://en.wikipedia.org/wiki/Information_architecture){#w-ia}
 * [Information design](https://en.wikipedia.org/wiki/Information_design){#w-information-design}
@@ -439,6 +444,7 @@ This book uses material from the following Wikipedia articles:
 * [Null device](https://en.wikipedia.org/wiki/Null_device){#w-null-device}
 * [Null pointer](https://en.wikipedia.org/wiki/Null_pointer){#w-null-pointer}
 * [Numerical digit](https://en.wikipedia.org/wiki/Numerical_digit){#w-numerical-digit}
+* [Nuxt.js](https://en.wikipedia.org/wiki/Nuxt.js){#w-nuxtjs}
 * [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
 * [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
@@ -477,6 +483,7 @@ This book uses material from the following Wikipedia articles:
 * [Perl](https://en.wikipedia.org/wiki/Perl){#w-perl}
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
 * [Persona (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)){#w-persona}
+* [PhantomJS]()https://en.wikipedia.org/wiki/PhantomJS{#w-phantomjs}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
@@ -541,6 +548,7 @@ This book uses material from the following Wikipedia articles:
 * [Routing table](https://en.wikipedia.org/wiki/Routing_table){#w-routing-table}
 * [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
 * [RTFM](https://en.wikipedia.org/wiki/RTFM){#w-rtfm}
+* [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging){#w-rubber-ducking}
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
@@ -557,11 +565,13 @@ This book uses material from the following Wikipedia articles:
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
+* [Selenium (software)](https://en.wikipedia.org/wiki/Selenium_(software)){#w-selenium}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
+* [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
@@ -663,8 +673,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
 * [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
+* [CSS Logical Properties and Values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties){#m-logical-properties}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
+* [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors){#m-selector}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
@@ -717,6 +729,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
+* [Shadow tree](https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree){#m-shadow-tree}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}

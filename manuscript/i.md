@@ -85,6 +85,12 @@ Inclusive Design
 Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. An Increment must be usable and meet the definition of “Done.”
 
+Indexed Database
+: A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the Web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
+
+IndexedDB
+: → Indexed Database
+
 Indexing
 : → n-based indexing
 : → One-based indexing

@@ -102,7 +102,13 @@ Web standard
 Web Standards Project
 : @@ ℹ︎&nbsp;[webstandards.org](https://www.webstandards.org/)
 
+Web storage
+: @@
+
 Web typography
+: @@
+
+Web worker
 : @@
 
 WebAssembly

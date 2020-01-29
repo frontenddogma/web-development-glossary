@@ -25,7 +25,7 @@ PageRank
 : An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and it is the best known.&nbsp;[†](#w-pagerank)
 
 PageSpeed
-: @@
+: A family of tools by Google, designed to help a website's performance optimization. PageSpeed was introduced in 2010. There are four main components of PageSpeed family tools: PageSpeed Module, also known as `mod_pagespeed`, PageSpeed Insights, PageSpeed Service, and the PageSpeed Chrome DevTools extension. All of these components are built to identify faults in a website's compliance with Google's Web Performance Best Practices, as well as to automate the optimization process.&nbsp;[†](#w-pagespeed) ℹ︎&nbsp;[developers.google.com/speed](https://developers.google.com/speed)
 
 Pageview
 : A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-pageview)
@@ -113,7 +113,7 @@ Personal Home Page
 : → PHP
 
 PhantomJS
-: @@
+: A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
 
 Phoenix
 : → Firefox
@@ -208,7 +208,7 @@ PR
 : → Pull Request
 
 Preact
-: @@
+: A JavaScript library described as a light-weight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
 
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)
@@ -269,7 +269,7 @@ Prototyping
 : The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. It is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: The software designer and implementer can get valuable feedback from the users early in the project. The client and the contractor can compare if the software made matches the software specification, according to which the software program is built. It also allows the software engineer some insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
 
 PRPL
-: @@
+: A web performance development pattern based on the sequence “Push” (important resources), “Render” (as soon as possible), “Pre-cache” (assets), and “Lazy-load.”
 
 Pseudo-class
 : One of a range of predefined CSS selectors that targets elements depending on their state rather than on information from the document tree. For example, the selector `a:visited` applies styles only to links that the user has already followed.&nbsp;[‡](#m-pseudo-class)

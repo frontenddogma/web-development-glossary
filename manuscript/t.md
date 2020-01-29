@@ -191,6 +191,12 @@ Type conversion
 Type design
 : @@
 
+Type I error
+: → False positive
+
+Type II error
+: → False negative
+
 Type system
 : @@
 

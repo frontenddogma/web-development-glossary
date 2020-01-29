@@ -16,7 +16,7 @@ Darknet
 : The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organisations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
 
 Dart
-: @@
+: A client-optimized programming language for apps on multiple platforms. Dart is used to build mobile, desktop, backend, and web applications. Dart is an object-oriented, class defined, garbage-collected language using a C-style syntax that transcompiles optionally into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system. Dart was released in 2011 by Google.&nbsp;[†](#w-dart) ℹ︎&nbsp;[dart.dev](https://dart.dev/)
 
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)

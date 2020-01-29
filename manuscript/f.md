@@ -4,10 +4,10 @@ Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
 False negative
-: @@
+: An error in which a test result improperly indicates no presence of a condition, such as a disease (the result is negative), when in reality it is present. A false negative is also known as a type II error.&nbsp;[†](#w-false-positive-false-negative)
 
 False positive
-: @@
+: An error in data reporting in which a test result improperly indicates presence of a condition (the result is positive), when in reality it is not present. A false positive is also known as a type I error.&nbsp;[†](#w-false-positive-false-negative)
 
 Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops.&nbsp;[‡](#m-falsy)
