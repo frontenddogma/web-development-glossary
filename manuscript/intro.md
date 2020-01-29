@@ -8,7 +8,7 @@ Sometimes a term originates not in Web Development but in Computer Science, Info
 
 Case, hyphenation, treatment of synonyms may be inconsistent. That reflects reality but is of concern for future updates of the book. [Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is also on the agenda.
 
-There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN.
+There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN. (Work on the book has already led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t).)
 
 ## Conventions
 
@@ -18,7 +18,7 @@ Sometimes a term or abbreviation has several meanings; only the tech-related one
 
 Sometimes there’s imprecision—is a home page really a special type of web page, but a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the terms, it is.)
 
-Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language).
+Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but is thought to make meanings, relationships, and sometimes history more clear.
 
 ## Disclaimer
 

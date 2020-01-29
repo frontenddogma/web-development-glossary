@@ -369,6 +369,12 @@ Corporate Identity
 CORS
 : → Cross-Origin Resource Sharing
 
+Cost-per-click
+: → Pay-per-click
+
+CPC
+: → Cost-per-click
+
 Craft
 : A pastime or a profession that requires particular skills and knowledge of skilled work. The traditional term craftsman is nowadays often replaced by artisan and rarely by craftsperson (craftspeople).&nbsp;[†](#w-craft)
 

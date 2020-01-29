@@ -162,6 +162,7 @@ This book uses material from the following Wikipedia articles:
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
 * [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
+* [Digital display advertising](https://en.wikipedia.org/wiki/Digital_display_advertising){#w-display-advertising}
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
@@ -383,6 +384,7 @@ This book uses material from the following Wikipedia articles:
 * [MD4](https://en.wikipedia.org/wiki/MD4){#w-md4}
 * [MD5](https://en.wikipedia.org/wiki/MD5){#w-md5}
 * [MD6](https://en.wikipedia.org/wiki/MD6){#w-md6}
+* [MEAN (software bundle)](https://en.wikipedia.org/wiki/MEAN_(software_bundle)){#w-mean}
 * [Media (communication)](https://en.wikipedia.org/wiki/Media_(communication)){#w-media}
 * [Media type](https://en.wikipedia.org/wiki/Media_type){#w-mime-type}
 * [Memoization](https://en.wikipedia.org/wiki/Memoization){#w-memoization}
@@ -467,6 +469,7 @@ This book uses material from the following Wikipedia articles:
 * [Parkinson’s law](https://en.wikipedia.org/wiki/Parkinson's_law){#w-parkinsons-law}
 * [Parsing](https://en.wikipedia.org/wiki/Parsing){#w-parsing}
 * [Patch (computing)](https://en.wikipedia.org/wiki/Patch_(computing)){#w-patch}
+* [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
@@ -666,9 +669,12 @@ This book uses material from the following articles by Mozilla contributors:
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
 * [Dynamic typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing){#m-dynamic-typing}
+* [Effective connection type](https://developer.mozilla.org/en-US/docs/Glossary/Effective_connection_type){#m-ect}
 * [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}
 * [Exception](https://developer.mozilla.org/en-US/docs/Glossary/Exception){#m-exception}
+* [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy){#m-falsy}
+* [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
 * [First Meaningful Paint](https://developer.mozilla.org/en-US/docs/Glossary/first_meaningful_paint){#m-fmp}

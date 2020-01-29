@@ -16,7 +16,7 @@ FCP
 : → First Contentful Paint
 
 Feature phone
-: @@
+: A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user's wireless service provider.&nbsp;[†](#w-feature-phone)
 
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
@@ -221,7 +221,7 @@ FTP
 : → File Transfer Protocol
 
 Fugu
-: @@
+: A Google project designed to close the capabilities gab between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[chromium.org/teams/web-capabilities-fugu](https://www.chromium.org/teams/web-capabilities-fugu)
 
 Full Stack
 : → Solution stack

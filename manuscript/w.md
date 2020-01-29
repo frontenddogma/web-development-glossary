@@ -132,6 +132,9 @@ WebP
 webpack
 : @@
 
+WebPageTest
+: @@
+
 WebSocket
 : @@
 

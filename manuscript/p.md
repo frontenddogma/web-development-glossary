@@ -24,6 +24,9 @@ Page Quality
 PageRank
 : An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and it is the best known.&nbsp;[†](#w-pagerank)
 
+PageSpeed
+: @@
+
 Pageview
 : A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-pageview)
 
@@ -68,7 +71,7 @@ Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
 Pay-per-click
-: @@
+: An internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC “display” advertisements, also known as “banner” ads, are shown on web sites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Linkedin, Pinterest and Twitter have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
 
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
@@ -92,7 +95,7 @@ Performance
 : The speed in which web pages are downloaded and displayed on the user’s web browser. Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow internet connections and on mobile devices. Web performance also leads to less data travelling across the web, which in turn lowers a website’s power consumption and environmental impact. Some aspects which can affect the speed of page load include browser or server caching as well as image optimization. The performance of the web page can be improved through techniques such as multi-layered cache, light weight design of presentation layer components and asynchronous communication with server side components.&nbsp;[†](#w-performance)
 
 Performance budget
-: @@
+: A metrics-based set of performance-related limits for a site or app. The limits are to be controlled and not to be crossed (budget). Limits can include bundle sizes, document sizes, image weights, specific time thresholds, and also performance indices like Speed Index.
 
 Performance indicator
 : → Key Performance Indicator

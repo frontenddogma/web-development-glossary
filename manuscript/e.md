@@ -40,7 +40,7 @@ EFF
 : → Electronic Frontier Foundation
 
 Effective Connection Type
-: @@
+: The measured network performance, returning a cellular connection type, like 3G, even if the actual connection is tethered broadband or WiFi, based on the time between the browser requesting a page and effective type of the connection. ECT’s values of `slow-2g`, `2g`, `3g`, and `4g` are determined using observed round-trip times and downlink values.&nbsp;[‡](#m-ect) ℹ︎&nbsp;[wicg.github.io/netinfo](https://wicg.github.io/netinfo/)
 
 Effectiveness
 : The capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression. Not to be confused with efficiency.&nbsp;[†](#w-effectiveness)
@@ -158,7 +158,7 @@ Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
 
 Express
-: @@
+: A web application framework for Node.js. Express is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js. Express was first released in 2010.&nbsp;[†](#w-express) ℹ︎&nbsp;[expressjs.com](https://expressjs.com/)
 
 Extended Binary Coded Decimal Interchange Code
 : An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. It descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM’s computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
