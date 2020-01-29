@@ -243,6 +243,9 @@ Sliding Doors
 SLOC
 : → Source Lines of Code
 
+Sloppy mode
+: The colloquial label for the opposite of JavaScript’s strict mode.
+
 Slot
 : The HTML `slot` element and respective use with web components.
 
@@ -343,7 +346,7 @@ Specification
 : A set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard. There are different types of technical or engineering specifications (specs), and the term is used differently in different technical contexts. They often refer to particular documents or particular information within them. The word “specification” is broadly defined as “to state explicitly or in detail” or “to be specific.”&nbsp;[†](#w-specification)
 
 Specificity
-: A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector's specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have final say.)
+: A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector’s specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have final say.)
 
 Speed Index
 : A page load performance metric that shows you how quickly the contents of a page are visibly populated. It is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)
@@ -370,7 +373,7 @@ SQL
 : → Structured Query Language
 
 SQL injection
-: A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application's software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
+: A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
 Squad
 : A Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[labs.spotify.com/2013/03/20/agile-a-la-spotify](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
@@ -400,7 +403,7 @@ Standard
 : → Technical standard
 
 Standard Generalized Markup Language
-: A standard for defining generalized markup languages for documents. ISO 8879 Annex A.1 states that generalized markup is "based on two postulates": 1) Declarative: markup should describe a document's structure and other attributes rather than specify the processing that needs to be performed, because it is less likely to conflict with future developments. 2) Rigorous: in order to allow markup to take advantage of the techniques available for processing rigorously defined objects like programs and databases. SGML was first defined in 1986. HTML was theoretically an example of an SGML-based language until HTML 5, which browsers cannot parse as SGML for compatibility reasons.&nbsp;[†](#w-sgml)
+: A standard for defining generalized markup languages for documents. ISO 8879 Annex A.1 states that generalized markup is based on two postulates: 1) Declarative: markup should describe a document’s structure and other attributes rather than specify the processing that needs to be performed, because it is less likely to conflict with future developments. 2) Rigorous: in order to allow markup to take advantage of the techniques available for processing rigorously defined objects like programs and databases. SGML was first defined in 1986. HTML was theoretically an example of an SGML-based language until HTML 5, which browsers cannot parse as SGML for compatibility reasons.&nbsp;[†](#w-sgml)
 
 Standards mode
 : → Strict mode
@@ -433,7 +436,8 @@ Stream
 : @@
 
 Strict mode
-: A web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
+: For HTML/CSS, a web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
+: For JavaScript, a way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of “sloppy mode.” Strict mode isn’t just a subset, it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so strict mode is not relied on without feature-testing for support for the relevant aspects. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally. Strict mode is triggered with `'use strict';`.&nbsp;[‡](#m-strict-mode)
 
 String
 : @@

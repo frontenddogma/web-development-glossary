@@ -765,6 +765,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
 * [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}
 * [Speed index](https://developer.mozilla.org/en-US/docs/Glossary/Speed_index){#m-speed-index}
+* [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){#m-strict-mode}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [](){} @@
 * [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}
