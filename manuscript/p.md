@@ -1,5 +1,8 @@
 # P
 
+package.json
+: @@
+
 Packed
 : A property of an array that consists only of elements, and that can be optimized accordingly.
 
@@ -257,6 +260,9 @@ Progressive Web App
 
 Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the promise object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)
+
+Prop
+: @@
 
 Property
 : In CSS, an identifier for a CSS feature. A property has a value, and together property and value make a declaration that in turn resides in a rule. ℹ︎&nbsp;[w3.org/Style/CSS/all-properties](https://www.w3.org/Style/CSS/all-properties)

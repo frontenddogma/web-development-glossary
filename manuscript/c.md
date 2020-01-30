@@ -254,6 +254,9 @@ Common Gateway Interface
 CommonJS
 : A discontinued project with the goal to establish conventions on module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. CommonJS started in 2009, work on it ended in 2014.&nbsp;[†](#w-commonjs)
 
+Community of practice
+: @@
+
 Compared to what?
 : A (or perhaps the) question data graphics must be able to answer, according to distinguished information design expert Erward Tufte.
 
@@ -368,6 +371,9 @@ Convention over Configuration
 
 Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
+
+COP
+: → Community of practice
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)

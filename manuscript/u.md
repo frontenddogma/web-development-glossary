@@ -21,6 +21,9 @@ UI
 UI framework
 : @@
 
+UMD
+: → Universal Module Definition
+
 UML
 : → Unified Modeling Language
 
@@ -56,6 +59,9 @@ Unit testing
 
 Universal Design
 : The design of buildings, products, or environments to make them accessible to all people, regardless of age, disability or other factors. The term “universal design” was coined by the architect Ronald Mace to describe the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life. However, it was the work of Selwyn Goldsmith, author of _Designing for the Disabled_ (1963), who really pioneered the concept of free access for people with disabilities. His most significant achievement was the creation of the dropped curb—now a standard feature of the built environment.&nbsp;[†](#w-universal-design)
+
+Universal Module Definition
+: @@
 
 UNIX
 : @@

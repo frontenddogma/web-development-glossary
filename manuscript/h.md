@@ -1,5 +1,11 @@
 # H
 
+.htaccess
+: @@
+
+.htpasswd
+: @@
+
 Hackathon
 : A design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects. The goal of a hackathon is to create functioning software or hardware by the end of the event.&nbsp;[†](#w-hackathon)
 
@@ -137,6 +143,9 @@ HTTP Strict Transport Security
 
 HTTP/2
 : A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC 2068. The HTTP/2 specification was published as in 2015 as RFC 7540.&nbsp;[†](#w-http2)
+
+httpd.conf
+: @@
 
 HTTPS
 : → Hypertext Transfer Protocol Secure

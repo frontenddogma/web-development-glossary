@@ -154,6 +154,9 @@ Locale
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
 
+Lock file
+: → File-locking
+
 Log file
 : A file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. In the simplest case, messages are written to a single log file. A transaction log is a file (i.e., log) of the communications between a system and the users of that system, or a data collection method that automatically captures the type, content, or time of transactions made by a person from a terminal with that system. Many operating systems, software frameworks and programs include a logging system. A widely used logging standard is syslog.&nbsp;[†](#w-log-file)
 

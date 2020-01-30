@@ -1,5 +1,8 @@
 # G
 
+.gitignore
+: @@
+
 Gamma
 : A non-linear operation used to encode and decode luminance or tristimulus values in video or still image systems. Gamma encoding of images is used to optimize the usage of bits when encoding an image, or bandwidth used to transport an image, by taking advantage of the non-linear manner in which humans perceive light and color.&nbsp;[†](#w-gamma)
 
