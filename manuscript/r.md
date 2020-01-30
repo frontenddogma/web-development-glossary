@@ -18,11 +18,17 @@ Raster image
 RCS
 : → Revision Control System
 
+RDBMS
+: → Relational Database Management System
+
 RDF
 : → Resource Description Framework
 
 RDF Site Summary
 : A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. The news aggregator will automatically check the RSS feed for new content, allowing the list to be automatically passed from website to website or from website to user. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. RSS is also used to distribute podcasts. An RSS document (called “feed,” “web feed,” or “channel”) includes full or summarized text, and metadata, like publishing date and author’s name.&nbsp;[†](#w-rss)
+
+RDSMS
+: → Relational Data Stream Management System
 
 React
 : A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with an API.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
@@ -79,6 +85,12 @@ Redundancy
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
 
+Referential opacity
+: A property of computer programs, an expression that is not referentially transparent (and therefore referentially opaque).&nbsp;[†](#w-referential-transparency)
+
+Referential transparency
+: A property of computer programs, an expression is called referentially transparent if it can be replaced with its corresponding value without changing the program's behavior. This requires that the expression be pure, that is to say the expression value must be the same for the same inputs and its evaluation must have no side effects.&nbsp;[†](#w-referential-transparency)
+
 Reflow
 : The re-processing and re-drawing a part or all of a web page after making changes DOM or CSS changes. Reflow affects the (perceived) performance of a page or app.&nbsp;[‡](#m-reflow)
 
@@ -90,6 +102,18 @@ Regular expression
 
 Rehydration
 : → Hydration
+
+Relational Data Stream Management System
+: A distributed, in-memory data stream management system (DSMS) that is designed to use standards-compliant SQL queries to process unstructured and structured data streams in real-time. Unlike SQL queries executed in a traditional RDBMS, which return a result and exit, SQL queries executed in a RDSMS do not exit, generating results continuously as new data become available.&nbsp;[†](#w-rdsms)
+
+Relational database
+: A digital database based on the relational model of data. A relational database has gradually come to describe a broader class of database systems, which at a minimum present the data to the user as relations (a presentation in tabular form, i.e. as a collection of tables with each table consisting of a set of rows and columns), and provide relational operators to manipulate the data in tabular form.&nbsp;[†](#w-relational-database)
+
+Relational Database Management System
+: A database management system (DBMS) based on the relational model. Most databases in widespread use today are based on this model.&nbsp;[†](#w-relational-database)
+
+Relational model
+: An approach to database management using a structure and language consistent with first-order predicate logic, first described in 1969 by Edgar F. Codd, where all data is represented in terms of tuples, grouped into relations. A database organized in terms of the relational model is a relational database. The purpose of the relational model is to provide a declarative method for specifying data and queries: Users directly state what information the database contains and what information they want from it, and let the database management system software take care of describing data structures for storing the data and retrieval procedures for answering queries.&nbsp;[†](#w-relational-model)
 
 Relaunch
 : The (usually public) release of a significantly redone software or hardware product.

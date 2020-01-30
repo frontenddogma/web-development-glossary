@@ -242,6 +242,9 @@ Command
 Command-Line Interface
 : An interface processing commands to a computer program in the form of lines of text. Operating systems implement command-line interfaces in a shell for interactive access to operating system functions or services.&nbsp;[†](#w-cli)
 
+Command-Query Separation
+: A principle of imperative computer programming. It was devised by Bertrand Meyer as part of his pioneering work on the Eiffel programming language. The principle states that every method should either be a command that performs an action, or a query that returns data to the caller, but not both. In other words, “Asking a question should not change the answer.” More formally, methods should return a value only if they are referentially transparent and hence possess no side effects.&nbsp;[†](#w-cqs)
+
 Comment
 : A developer-readable explanation or annotation in the source code of a computer program. Comments are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. The syntax of comments in various programming languages varies considerably.&nbsp;[†](#w-comment)
 
@@ -380,6 +383,9 @@ Cost-per-click
 
 CPC
 : → Cost-per-click
+
+CQS
+: → Command-Query Separation
 
 Craft
 : A pastime or a profession that requires particular skills and knowledge of skilled work. The traditional term craftsman is nowadays often replaced by artisan and rarely by craftsperson (craftspeople).&nbsp;[†](#w-craft)

@@ -110,6 +110,7 @@ This book uses material from the following Wikipedia articles:
 * [Comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values){#w-csv}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
+* [Command-query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation){#w-cqs}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
 * [CommonJS](https://en.wikipedia.org/wiki/CommonJS){#w-commonjs}
@@ -154,6 +155,10 @@ This book uses material from the following Wikipedia articles:
 * [Dart (programming language)](https://en.wikipedia.org/wiki/Dart_(programming_language)){#w-dart}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
+* [Data control language](https://en.wikipedia.org/wiki/Data_control_language){#w-dcl}
+* [Data definition language](https://en.wikipedia.org/wiki/Data_definition_language){#w-ddl}
+* [Data manipulation language](https://en.wikipedia.org/wiki/Data_manipulation_language){#w-dml}
+* [Data stream management system](https://en.wikipedia.org/wiki/Data_stream_management_system){#w-dsms}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
@@ -263,6 +268,7 @@ This book uses material from the following Wikipedia articles:
 * [Hacker](https://en.wikipedia.org/wiki/Hacker){#w-hacker}
 * [Haml](https://en.wikipedia.org/wiki/Haml){#w-haml}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
+* [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
@@ -292,6 +298,8 @@ This book uses material from the following Wikipedia articles:
 * [Industrial design](https://en.wikipedia.org/wiki/Industrial_design){#w-industrial-design}
 * [Information architecture](https://en.wikipedia.org/wiki/Information_architecture){#w-ia}
 * [Information design](https://en.wikipedia.org/wiki/Information_design){#w-information-design}
+* [Information overload](https://en.wikipedia.org/wiki/Information_overload){#w-information-overload}
+* [Information retrieval](https://en.wikipedia.org/wiki/Information_retrieval){#w-information-retrieval}
 * [Information security](https://en.wikipedia.org/wiki/Information_security){#w-infosec}
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
@@ -518,6 +526,8 @@ This book uses material from the following Wikipedia articles:
 * [Quality (business)](https://en.wikipedia.org/wiki/Quality_(business)){#w-quality}
 * [Quality assurance](https://en.wikipedia.org/wiki/Quality_assurance){#w-qa}
 * [Quality control](https://en.wikipedia.org/wiki/Quality_control){#w-qc}
+* [Query](https://en.wikipedia.org/wiki/Query){#w-query}
+* [Query language](https://en.wikipedia.org/wiki/Query_language){#w-query-language}
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
 * [Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode){#w-quirks-mode}
 * [Raku (programming language)](http://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
@@ -533,7 +543,11 @@ This book uses material from the following Wikipedia articles:
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
 * [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
+* [Referential transparency](https://en.wikipedia.org/wiki/Referential_transparency){#w-referential-transparency}
 * [Regular expression](https://en.wikipedia.org/wiki/Regular_expression){#w-regex}
+* [Relational data stream management system](https://en.wikipedia.org/wiki/Relational_data_stream_management_system){#w-rdsms}
+* [Relational database](https://en.wikipedia.org/wiki/Relational_database){#w-relational-database}
+* [Relational model](https://en.wikipedia.org/wiki/Relational_model){#w-relational-model}
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
@@ -606,16 +620,23 @@ This book uses material from the following Wikipedia articles:
 * [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
 * [Splash screen](https://en.wikipedia.org/wiki/Splash_screen){#w-splash-screen}
 * [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
+* [SQL](https://en.wikipedia.org/wiki/SQL){#w-sql}
 * [SQL injection](https://en.wikipedia.org/wiki/SQL_injection){#w-sql-injection}
 * [SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol){#w-sftp}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Stand-up meeting](https://en.wikipedia.org/wiki/Stand-up_meeting){#w-stand-up}
 * [Standard Generalized Markup Language](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language){#w-sgml}
+* [State (computer science)](https://en.wikipedia.org/wiki/State_(computer_science)){#w-state}
+* [Static web page](https://en.wikipedia.org/wiki/Static_web_page){#w-static}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
+* [Stream (computing)](https://en.wikipedia.org/wiki/Stream_(computing)){#w-stream}
+* [Streaming media](https://en.wikipedia.org/wiki/Streaming_media){#w-streaming}
+* [String (computer science)](https://en.wikipedia.org/wiki/String_(computer_science)){#w-string}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Synchronized Multimedia Integration Language](https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language){#w-smil}
 * [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
 * [](){} @@

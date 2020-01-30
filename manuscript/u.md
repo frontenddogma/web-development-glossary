@@ -27,6 +27,9 @@ UML
 Undefined
 : @@
 
+Underscore hack
+: → Star hack
+
 Unicode
 : @@
 

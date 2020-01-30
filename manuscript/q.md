@@ -15,6 +15,12 @@ Quality Assurance
 Quality Control
 : A process by which entities review the quality of all factors involved in production. ISO 9000 defines quality control as “a part of quality management focused on fulfilling quality requirements.” QC places emphasis on three aspects: elements such as controls, job management, defined and well managed processes, performance and integrity criteria, and identification of records; competence, such as knowledge, skills, experience, and qualifications; and soft elements, such as personnel, integrity, confidence, organizational culture, motivation, team spirit, and quality relationships.&nbsp;[†](#w-qc)
 
+Query
+: A form of questioning, in a line of inquiry. In computing, a precise request for information retrieval.&nbsp;[†](#w-query)
+
+Query language
+: A language to make queries in databases and information systems. Query languages can be classified according to whether they are database query languages or information retrieval query languages. The difference is that a database query language attempts to give factual answers to factual questions, while an information retrieval query language attempts to find documents containing information that is relevant to an area of inquiry.&nbsp;[†](#w-query-language)
+
 QUIC
 : → Quick UDP Internet Connection
 

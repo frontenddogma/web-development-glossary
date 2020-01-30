@@ -30,6 +30,9 @@ HCI
 Heading content
 : Content that defines the header of a section (whether explicitly marked up using sectioning content elements, or implied by the heading content itself), marked up through the `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, and `hgroup` elements.&nbsp;§
 
+Headless
+: Software capable of working on a device without a graphical user interface.&nbsp;[†](#w-headless)
+
 HEIC
 : → High Efficiency Image Coding
 

@@ -21,6 +21,21 @@ Dart
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
+Data Control Language
+: A syntax similar to a computer programming language used to control access to data stored in a database (authorization). In particular, it is a component of Structured Query Language (SQL).&nbsp;[†](#w-dcl)
+
+Data Definition Language
+: A syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are `CREATE`, `ALTER`, and `DROP`.&nbsp;[†](#w-ddl)
+
+Data Manipulation Language
+: A computer programming language used for adding (inserting), deleting, and modifying (updating) data in a database. A DML is often a sublanguage of a broader database language such as SQL, with the DML comprising some of the operators in the language. Read-only selecting of data is sometimes distinguished as being part of a separate data query language (DQL), but it is closely related and sometimes also considered a component of a DML; some operators may perform both selecting (reading) and writing.&nbsp;[†](#w-dml)
+
+Data Query Language
+: → Query language
+
+Data Stream Management System
+: A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers a flexible query processing so that the information need can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
+
 Data visualization
 : The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect change in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
 
@@ -30,14 +45,23 @@ Database
 Database index
 : A data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. Indexes can be created using one or more columns of a database table, providing the basis for both rapid random lookups and efficient access of ordered records.&nbsp;[†](#w-database-index)
 
+Database language
+: → Query language
+
 Database Management System
 : A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometime extended to indicated the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
 
 DBMS
 : → Database Management System
 
+DCL
+: → Data Control Language
+
 DCVS
 : → Distributed Concurrent Versions System
+
+DDL
+: → Data Definition Language
 
 DDoS
 : Distributed → Denial of Service
@@ -142,6 +166,9 @@ Dither
 Divitis
 : Excessive use of `div` elements, an HTML anti-pattern.
 
+DML
+: → Data Manipulation Language
+
 DMZ
 : → Demilitarized Zone
 
@@ -209,6 +236,9 @@ Double
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a timespan that a system is unavailable or offline. The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
 
+DQL
+: → Data Query Language
+
 Dreamweaver
 : A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe Systems in 2005.&nbsp;[†](#w-dreamweaver)
 
@@ -217,6 +247,9 @@ DRM
 
 DRY
 : → Don’t Repeat Yourself
+
+DSMS
+: → Data Stream Management System
 
 DTD
 : → Document Type Definition
@@ -237,7 +270,7 @@ DX
 : → Developer Experience
 
 Dynamic
-: A type of website being dynamic on the server or on the client side: A _server-side_ dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A _client-side_ dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
+: A type of website being dynamic on the server or on the client side: A server-side dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A client-side dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)

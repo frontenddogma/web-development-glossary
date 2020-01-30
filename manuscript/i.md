@@ -107,6 +107,12 @@ Information Architecture
 Information Design
 : The practice of presenting information in a way that fosters an efficient and effective understanding of the information. The term has come to be used for a specific area of graphic design related to displaying information effectively, rather than just attractively or for artistic expression. Information design is closely related to the field of data visualization. The broad applications of information design along with its close connections to other fields of design and communication practices have created some overlap in the definitions of communication design, data visualization, and information architecture.&nbsp;[†](#w-information-design)
 
+Information overload
+: The difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. Generally, the term is associated with the excessive quantity of daily information. Information overload most likely originated from information theory, which are studies in the storage, preservation, communication, compression, and extraction of information.&nbsp;[†](#w-information-overload)
+
+Information retrieval
+: The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.&nbsp;[†](#w-information-retrieval)
+
 Information Security
 : The practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
