@@ -89,7 +89,7 @@ Referential opacity
 : A property of computer programs, an expression that is not referentially transparent (and therefore referentially opaque).&nbsp;[†](#w-referential-transparency)
 
 Referential transparency
-: A property of computer programs, an expression is called referentially transparent if it can be replaced with its corresponding value without changing the program's behavior. This requires that the expression be pure, that is to say the expression value must be the same for the same inputs and its evaluation must have no side effects.&nbsp;[†](#w-referential-transparency)
+: A property of computer programs, an expression is called referentially transparent if it can be replaced with its corresponding value without changing the program’s behavior. This requires that the expression be pure, that is to say the expression value must be the same for the same inputs and its evaluation must have no side effects.&nbsp;[†](#w-referential-transparency)
 
 Reflow
 : The re-processing and re-drawing a part or all of a web page after making changes DOM or CSS changes. Reflow affects the (perceived) performance of a page or app.&nbsp;[‡](#m-reflow)
