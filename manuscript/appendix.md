@@ -383,7 +383,7 @@ This book uses material from the following Wikipedia articles:
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
 * [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
-* [Let's Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
+* [Let’s Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
