@@ -70,6 +70,9 @@ Legibility
 LESS/Less
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. The indented syntax of Less is a nested metalanguage, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
 
+Let’s Encrypt
+: A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. The certificate is valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
+
 LIFO
 : → Last In, First Out
 

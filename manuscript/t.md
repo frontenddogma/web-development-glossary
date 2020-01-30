@@ -49,11 +49,23 @@ TDD
 TDI
 : → Tabbed Document Interface
 
+TDZ
+: → Temporal Dead Zone
+
+Tech Lead
+: → Technical Lead
+
 Tech Twitter
 : A colloquial name for the tech-savvy users of the Twitter microblogging and social networking service.
 
 Technical debt
 : A concept in software development that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer. As with monetary debt, if technical debt is not repaid, it can accumulate “interest,” making it harder to implement changes. Unaddressed technical debt increases software entropy. Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof-of-concept) is required to move projects forward. On the other hand, the “technical debt” metaphor may minimize impact and result in insufficient prioritization of the necessary work to correct it.&nbsp;[†](#w-technical-debt)
+
+Technical Lead
+: A software or web developer in charge of one or more software projects. Alternative titles include lead programmer, development lead, lead software engineer, software design engineer lead (SDE lead), software development manager, software manager, or lead application developer. When primarily contributing in a high-level enterprise software design role, the title software architect (or similar) is often used.&nbsp;[†](#w-lead)
+
+Technical Program Manager
+: An engineering-related role that is responsible for managing technical projects and initiatives.
 
 Technical standard
 : An established norm or requirement for a repeatable technical task. It is usually a formal document that establishes uniform engineering or technical criteria, methods, processes, and practices. In contrast, a custom, convention, company product, corporate standard, and so forth that becomes generally accepted and dominant is often called a de facto standard. A technical standard may be developed privately or unilaterally, for example by a corporation, regulatory body, military, etc. Standards can also be developed by groups such as trade unions and trade associations. Standards organizations often have more diverse input and usually develop voluntary standards: these might become mandatory if adopted by a government (i.e., through legislation), business contract, etc.&nbsp;[†](#w-technical-standard)
@@ -72,10 +84,13 @@ Template language
 : The syntax used by a template processor.
 
 Template processor
-: Software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template language or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter.&nbsp;[†](#w-template-processor)
+: A software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template language or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter.&nbsp;[†](#w-template-processor)
 
 Template system
 : A platform that lets web designers and developers work with web templates to automatically generate custom web pages. This reuses static web page elements while defining dynamic elements based on web request parameters. Web templates support static content, providing basic structure and appearance. Developers can implement templates from content management systems, web application frameworks, and HTML editors.&nbsp;[†](#w-template-system)
+
+Temporal Dead Zone
+: In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, as that results in a reference error. The TDZ encourages to always a declare a variable before using it. 
 
 Terminal
 : → Console
@@ -94,6 +109,9 @@ Test-Driven Development
 
 TeX
 : A typesetting system (or formatting system) which was designed and mostly written by Donald Knuth and released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
+
+The Onion Router
+: → Tor
 
 Theme
 : A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for the graphical control elements, the window decoration and the window. Themes are used to customize the look and feel of software in general, including for websites and apps.&nbsp;[†](#w-theme)
@@ -122,6 +140,9 @@ Time to Live
 Tiny integer
 : An integral data type of 8 bits, with a signed range from –128 to 127, and an unsigned range from 0 to 255.
 
+TL
+: → Technical Lead
+
 TLD
 : → Top-Level Domain
 
@@ -147,7 +168,7 @@ Tomcat
 : → Apache Tomcat
 
 Tooling
-: @@
+: All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of the workflow are being supported or automated.
 
 Top-Level Domain
 : One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name www.example.com, the top-level domain is com. Responsibility for management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA), and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
@@ -156,17 +177,26 @@ Top-posting
 : A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
 
 Tor
-: @@
+: A project, software, and network for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Router.” Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than 7,000 relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. Tor's intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored. Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user's privacy, but does not hide the fact that someone is using Tor. Tor was first released in 2002.&nbsp;[†](#w-tor) ℹ︎&nbsp;[torproject.org](https://www.torproject.org/)
+
+Tor Browser
+: A cross-platform web browser and the flagship product of the Tor Project. It was created as the Tor Browser Bundle by Steven J. Murdoch and announced in January 2008. The Tor Browser consists of a modified Mozilla Firefox ESR web browser, the TorButton, TorLauncher, NoScript, and HTTPS Everywhere Firefox extensions and the Tor proxy. Users can run the Tor Browser from removable media.&nbsp;[†](#w-tor)
+
+Tor network
+: → Tor
+
+Tor Project
+: → Tor
 
 TPM
-: @@
+: → Technical Program Manager
 : → Technological Protection Measures
 
-Tracer
-: @@
+Tracer code
+: A concept from _The Pragmatic Programmer_, the developing of skeleton functionality that can serve as a proof of concept but also remain part of the later software. Tracer code, or code as tracer bullets, is a term borrowed from military shooting with brightly-colored tracer ammunition. Tracer code is different from prototyping, whose code may be abandoned.
 
 Tracing
-: @@
+: A specialized use of logging to record information about a program's execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical-support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term tracing is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
 
 Trade
 : → Craft

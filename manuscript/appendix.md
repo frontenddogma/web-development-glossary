@@ -298,6 +298,7 @@ This book uses material from the following Wikipedia articles:
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
+* [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere){#w-https-everywhere}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
@@ -377,10 +378,12 @@ This book uses material from the following Wikipedia articles:
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX){#w-latex}
 * [Law of conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){#w-teslers-law}
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
+* [Lead programmer](https://en.wikipedia.org/wiki/Lead_programmer){#w-lead}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
 * [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
+* [Let's Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
@@ -683,6 +686,8 @@ This book uses material from the following Wikipedia articles:
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
+* [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
+* [Tracing (software)](https://en.wikipedia.org/wiki/Tracing_(software)){#w-tracing}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
@@ -812,6 +817,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Pseudo-element](https://developer.mozilla.org/en-US/docs/Glossary/Pseudo-element){#m-pseudo-element}
 * [Pseudocode](https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode){#m-pseudocode}
 * [Quirks Mode and Standards Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode){#m-quirks-mode-strict-mode}
+* [ReferenceError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError){#m-reference-error}
 * [Reflow](https://developer.mozilla.org/en-US/docs/Glossary/Reflow){#m-reflow}
 * [Replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element){#m-replaced-element}
 * [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}

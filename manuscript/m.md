@@ -137,7 +137,7 @@ Minification
 : The process of removing all unnecessary characters from the source codes of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient.&nbsp;[†](#w-minification)
 
 Minifier
-: Software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
+: A software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
 
 Minimum Viable Product
 : A version of a product with just enough features to satisfy early customers and provide feedback for future product development. Gathering insights from an MVP is often less expensive than developing a product with more features, which increases costs and risk if the product fails, for example, due to incorrect assumptions.&nbsp;[†](#w-mvp)

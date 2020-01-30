@@ -88,6 +88,9 @@ Redundancy
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
 
+Reference error
+: As `ReferenceError`, an object representing an error (and the error itself) when a non-existent variable is referenced.&nbsp;[‡](#m-reference-error)
+
 Referential opacity
 : A property of computer programs, an expression that is not referentially transparent (and therefore referentially opaque).&nbsp;[†](#w-referential-transparency)
 
