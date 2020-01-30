@@ -2,15 +2,17 @@
 
 @@
 
-The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development terms and concepts. The glossary covers some basics.
+The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development terms and concepts. The Glossary covers some basics.
 
-The Glossary is very lightly opinionated.
+The Glossary is _very_ mildly opinionated. 
 
-Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The glossary goes beyond “just” web development.
+The Glossary is not perfect. Please help!
+
+Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The Glossary goes beyond “just” web development.
 
 Case, hyphenation, treatment of synonyms may be inconsistent. That reflects reality but is of concern for future updates of the book. [Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is also on the agenda.
 
-There are certainly errors and controversy! Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN. (Work on the book has already led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t).)
+There are certainly errors and controversy! Please [help improve the Glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN. (Work on the book has already led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t).)
 
 ## Conventions
 

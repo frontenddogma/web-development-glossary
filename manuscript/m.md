@@ -49,7 +49,7 @@ Markup language
 : A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Masthead
-: @@
+: A publication's masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and many other Commonwealth nations, the masthead is a publication's designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
 
 Material Design
 : A design language, developed in 2014 by Google. Expanding on the “card” motifs that debuted in Google Now, Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.&nbsp;[†](#w-material-design) ℹ︎&nbsp;[material.io/design](https://material.io/design/)
@@ -166,6 +166,9 @@ Mobilegeddon
 
 Mocha
 : → JavaScript
+
+Modal
+: A graphical control element subordinate to an application's main window. It creates a mode that disables the main window but keeps it visible, with the modal window as a child window in front of it. Users must interact with the modal window before they can return to the parent application. This avoids interrupting the workflow on the main window. Modal windows are sometimes called heavy windows or modal dialogs because they often display a dialog box.&nbsp;[†](#w-modal)
 
 Model View Controller
 : A software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. This kind of pattern is used for designing the layout of the page. Traditionally used for desktop graphical user interfaces (GUIs), this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.&nbsp;[†](#w-mvc)

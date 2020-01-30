@@ -217,7 +217,7 @@ Simple Object Access Protocol
 : A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP’s purpose is to provide extensibility, neutrality and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), for message negotiation and transmission. SOAP was first released in 1998.&nbsp;[†](#w-soap)
 
 Single Responsibility Principle
-: @@
+: A computer programming principle that states that every module, class, or function should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the class, module or function. All its services should be narrowly aligned with that responsibility.&nbsp;[†](#w-srp)
 
 Single-Page Application
 : A web application or web site that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from a server. This approach avoids interruption of the user experience between successive pages, making the application behave more like a desktop application. In an SPA, either all necessary code—HTML, JavaScript, and CSS—is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions. The page does not reload at any point in the process, nor does control transfer to another page, although the location hash or the HTML5 History API can be used to provide the perception and navigability of separate logical pages in the application. Interaction with the single-page application often involves dynamic communication with the web server behind the scenes.&nbsp;[†](#w-spa)
@@ -308,6 +308,9 @@ Software framework
 
 Software stack
 : → Solution stack
+
+Software testing
+: → Testing
 
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
@@ -400,7 +403,7 @@ Stack
 : An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out).&nbsp;[†](#w-stack)
 
 Stack Overflow
-: @@
+: A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming. Stack Overflow was created to be a more open alternative to earlier Q&A sites. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
 
 Stacking context
 : A three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the user, who is assumed to be facing the viewport or the web page. For CSS, each box belongs to one stacking context. The `z-index` property establishes whether a box establishes a stacking context, and the level of a box in its stacking context.&nbsp;[‡](#m-stacking-context)
@@ -464,28 +467,28 @@ Style guide
 : Structured documentation for design particles, elements, and components. May be part of a design system.
 
 Style sheet
-: @@
+: A file or code snippet containing styling instructions. A style sheet represents a form of separation of presentation and content for web design in which the markup of a webpage (usually HTML) contains the page's semantic content and structure, but does not define its visual layout (style). Instead, the style is defined in an external style sheet file using a style sheet language such as CSS or XSLT. This design approach is identified as a "separation" because it largely supersedes the antecedent methodology in which a page's markup defined both style and structure.&nbsp;[†](#w-style-sheet)
 
 stylelint
-: @@
+: A CSS linter. ℹ︎&nbsp;[stylelint.io](https://stylelint.io/)
 
 Styling
-: @@
+: The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
 
 Subroutine
 : → Routine
 
 Subversion
-: @@
+: A software versioning and revision control system. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet Inc., and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)
 
 SUIT CSS
-: @@
+: A CSS methodology for component-based UI development. ℹ︎&nbsp;[suitcss.github.io](https://suitcss.github.io/)
 
 Superuser
 : A special user account used for system administration. Depending on the operating system (OS), the actual name of this account might be root, administrator, admin or supervisor. In some cases, the actual name of the account is not the determining factor; on Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser, regardless of the name of that account; and in systems which implement a role based security model, any user with the role of superuser (or its synonyms) can carry out all actions of the superuser account. The principle of least privilege recommends that most users and applications run under an ordinary account to perform their work, as a superuser account is capable of making unrestricted, potentially adverse, system-wide changes.&nbsp;[†](#w-superuser)
 
 Support
-: @@
+: The (often percentage-based) availability and popularity of a particular software, a software feature, or device.
 
 Surface Web
 : The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the internet; according to one source, as of 2015, Google’s index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
@@ -503,7 +506,7 @@ SXG
 : → Signed HTTP Exchange
 
 Symbol
-: @@
+: A primitive data type whose instances have a unique human-readable form. Symbols can be used as identifiers. In some programming languages, they are called atoms. Uniqueness is enforced by holding them in a symbol table. The most common use of symbols by programmers is for performing language reflection (particularly for callbacks), and most common indirectly is their use to create object linkages.&nbsp;[†](#w-symbol)
 
 Synchronized Multimedia Integration Language
 : A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)

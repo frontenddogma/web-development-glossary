@@ -194,6 +194,9 @@ CoC
 Code
 : The set of instructions forming a computer program which is executed by a computer. It is one of two components of the software which runs on computer hardware, the other being the data.&nbsp;[†](#w-code)
 
+Code debt
+: → Technical debt
+
 Code golf
 : A type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm. Playing code golf is known as “golf scripting.” Code golf tournaments may also be named with the programming language used (for example, Perl golf).&nbsp;[†](#w-code-golf)
 
@@ -254,8 +257,8 @@ Common Gateway Interface
 CommonJS
 : A discontinued project with the goal to establish conventions on module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. CommonJS started in 2009, work on it ended in 2014.&nbsp;[†](#w-commonjs)
 
-Community of practice
-: @@
+Community of Practice
+: A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members' common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunch room at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
 
 Compared to what?
 : A (or perhaps the) question data graphics must be able to answer, according to distinguished information design expert Erward Tufte.
@@ -372,8 +375,8 @@ Convention over Configuration
 Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
-COP
-: → Community of practice
+CoP
+: → Community of Practice
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
@@ -386,6 +389,9 @@ CORS
 
 Cost-per-click
 : → Pay-per-click
+
+Coupling
+: A state in which one object uses a function of another object. Coupling also describes the degree of interdependence between software modules, as a measure of how closely connected two routines or modules are, and the strength of the relationships between modules. Coupling is usually contrasted with cohesion. Low coupling often correlates with high cohesion, and vice versa. Low coupling is often a sign of a well-structured computer system and a good design, and when combined with high cohesion, supports the general goals of high readability and maintainability.&nbsp;[†](#w-coupling)
 
 CPC
 : → Cost-per-click
@@ -433,13 +439,16 @@ CSS framework
 : → HTML/CSS framework
 
 CSS lock
-: @@
+: CSS code that results in a lower and an upper bound for a particular styling, like a minimum and maximum font size that is otherwise fluid. CSS locks can rely on a single declaration but may include both more declarations as well as media queries. The term “CSS lock” may have first been coined in 2016 by Tim Brown. ℹ︎&nbsp;[is.gd/FjK3B8](https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
 
 CSS Modules
 : As a CSS Module, a CSS file in which all class and animation names are by default scoped locally. ℹ︎&nbsp;[github.com/css-modules/css-modules](https://github.com/css-modules/css-modules)
 
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child and other relationship. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
+
+CSS Zen Garden
+: A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
 CSS-Tricks
 : A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)

@@ -12,6 +12,9 @@ Daily Scrum
 Dark Mode
 : A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background and is often discussed in terms of computer user interface design and web design. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
 
+Dark pattern
+: A user interface that has been crafted to trick users into doing things. The neologism “dark pattern” was coined in 2010 by Harry Brignull. Another more broad definition of a dark pattern is an instance where “user value is supplanted in favor of shareholder value.”&nbsp;[†](#w-dark-pattern) ℹ︎&nbsp;[darkpatterns.org](https://www.darkpatterns.org/)
+
 Darknet
 : The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organisations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
 
@@ -100,10 +103,10 @@ Denial of Service
 : A cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.&nbsp;[†](#w-dos)
 
 Dependency
-: @@
+: → Coupling
 
 Dependency injection
-: @@
+: A technique whereby one object supplies the dependencies of another object. A "dependency" is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The "injection" refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client's state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve Separation of Concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
 
 Deployment
 : All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, “deployment” should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
@@ -229,6 +232,9 @@ Doorway page
 
 DoS
 : → Denial of Service
+
+Dot file
+: A file (or folder) that starts with a dot character (for example, /home/user/.config). It is treated as hidden, that is, the `ls` command does not display them unless the `-a` flag (`ls -a`) is used. In most command-line shells, wildcards will not match files whose names start with “.” unless the wildcard itself starts with an explicit “.”. A convention arose of using dotfiles in the user's home directory to store per-user configuration or informational text.&nbsp;[†](#w-hidden-file-dir)
 
 Dot notation
 : One of two ways to access object properties in JavaScript (`objectName.propertyName`), the other being bracket notation.

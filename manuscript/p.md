@@ -1,7 +1,10 @@
 # P
 
 package.json
-: @@
+: A file containing dependencies, scripts, and metadata for npm (Node Package Manager) packages.
+
+package-lock.json
+: A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
 Packed
 : A property of an array that consists only of elements, and that can be optimized accordingly.
@@ -173,6 +176,12 @@ Polymer Project
 POP
 : → Post Office Protocol
 
+Pop-under
+: A variation on the pop-up window. A pop-under opens a new browser window under the active window. Pop-unders do not interrupt the user immediately, but appear when the user closes the covering window, making it more difficult to determine which website created them. Pop-unders can be considered a dark pattern.&nbsp;[†](#w-popup-popunder)
+
+Pop-up
+: A graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. Because of heavy abuse pop-ups are generally considered a dark pattern and often blocked by default.&nbsp;[†](#w-popup-popunder)
+
 Port
 : A communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). A port number is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Specific port numbers are commonly reserved to identify specific services.&nbsp;[†](#w-port)
 
@@ -191,6 +200,9 @@ Post mortem
 
 Post Office Protocol
 : An application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server. POP was first specified in 1984.&nbsp;[†](#w-pop)
+
+PostCSS
+: A software development tool that uses JavaScript-based plugins to automate routine CSS operations. PostCSS was first released in 2013.&nbsp;[†](#w-postcss) ℹ︎&nbsp;[postcss.org](https://postcss.org/)
 
 Postel’s Law
 : “Be conservative in what you send, be liberal in what you accept.” Also known as the robustness principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
@@ -262,7 +274,8 @@ Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the promise object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)
 
 Prop
-: @@
+: A concept in Vue to pass data to components.
+: → Property
 
 Property
 : In CSS, an identifier for a CSS feature. A property has a value, and together property and value make a declaration that in turn resides in a rule. ℹ︎&nbsp;[w3.org/Style/CSS/all-properties](https://www.w3.org/Style/CSS/all-properties)

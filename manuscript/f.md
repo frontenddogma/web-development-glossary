@@ -49,7 +49,7 @@ File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
 
 File-locking
-: @@
+: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
 
 Firebird
 : → Firefox

@@ -1,5 +1,8 @@
 # R
 
+Race condition
+: The condition of an electronics, software, or other system where the system's substantive behavior is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when one or more of the possible behaviors is undesirable. A race condition can be difficult to reproduce and debug because the end result is nondeterministic and depends on the relative timing between interfering threads. Problems that occur when using systems can therefore disappear when running in debug mode, when additional logging is added, or when attaching a debugger, often referred to as a "Heisenbug." It is therefore better to avoid race conditions by careful software design. The term “race condition” was already in use by 1954.&nbsp;[†](#w-race-condition)
+
 Rails
 : → Ruby on Rails
 

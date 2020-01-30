@@ -34,6 +34,9 @@ LaTeX
 Launch
 : The (usually public) release of a new software or hardware product.
 
+Law of Conservation of Complexity
+: → Tesler’s Law
+
 Layout
 : The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. The high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
 
@@ -165,6 +168,9 @@ Logging
 
 Logical properties
 : A CSS module introducing logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS 2.1. Logical properties define direction‐relative equivalents of their corresponding physical properties.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
+
+Long task
+: Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop that exceeds 50 ms.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
 
 Loop
 : A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)

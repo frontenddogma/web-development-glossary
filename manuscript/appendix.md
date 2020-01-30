@@ -24,6 +24,7 @@ This book uses material from the following Wikipedia articles:
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
 * [Anonymous function](https://en.wikipedia.org/wiki/Anonymous_function){#w-anonymous-function}
 * [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
+* [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion){#w-subversion}
 * [Apache Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat){#w-tomcat}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
@@ -36,6 +37,7 @@ This book uses material from the following Wikipedia articles:
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
 * [Assistive Technology Service Provider Interface](https://en.wikipedia.org/wiki/Assistive_Technology_Service_Provider_Interface){#w-at-spi}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
+* [Asynchronous module definition](https://en.wikipedia.org/wiki/Asynchronous_module_definition){#w-amd}
 * [Asynchrony (computer programming)](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)){#w-asynchronous}
 * [at (command)](https://en.wikipedia.org/wiki/At_(command)){#w-at}
 * [Attribute (computing)](https://en.wikipedia.org/wiki/Attribute_(computing)){#w-attribute}
@@ -115,6 +117,7 @@ This book uses material from the following Wikipedia articles:
 * [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
 * [CommonJS](https://en.wikipedia.org/wiki/CommonJS){#w-commonjs}
 * [Communication protocol](https://en.wikipedia.org/wiki/Communication_protocol){#w-protocol}
+* [Community of practice](https://en.wikipedia.org/wiki/Community_of_practice){#w-cop}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
@@ -141,6 +144,7 @@ This book uses material from the following Wikipedia articles:
 * [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration){#w-convention-over-configuration}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
+* [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
 * [cron](https://en.wikipedia.org/wiki/Cron){#w-cron}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
@@ -149,8 +153,10 @@ This book uses material from the following Wikipedia articles:
 * [CSS box model](https://en.wikipedia.org/wiki/CSS_box_model){#w-box-model}
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
+* [CSS Zen Garden](https://en.wikipedia.org/wiki/CSS_Zen_Garden){#w-css-zen-garden}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
+* [Dark pattern](https://en.wikipedia.org/wiki/Dark_pattern){#w-dark-pattern}
 * [Darknet](https://en.wikipedia.org/wiki/Darknet){#w-darknet}
 * [Dart (programming language)](https://en.wikipedia.org/wiki/Dart_(programming_language)){#w-dart}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
@@ -166,6 +172,7 @@ This book uses material from the following Wikipedia articles:
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Deep web](https://en.wikipedia.org/wiki/Deep_web){#w-deep-web}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
+* [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
@@ -213,17 +220,19 @@ This book uses material from the following Wikipedia articles:
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
+* [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
+* [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
+* [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
 * [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}
 * [File system](https://en.wikipedia.org/wiki/File_system){#w-fs}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
 * [Filler text](https://en.wikipedia.org/wiki/Filler_text){#w-placeholder-text}
-* [First input delay](https://developer.mozilla.org/en-US/docs/Glossary/First_input_delay){#m-fid}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
@@ -272,11 +281,14 @@ This book uses material from the following Wikipedia articles:
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
+* [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory){#w-hidden-file-dir}
 * [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
 * [HITS algorithm](https://en.wikipedia.org/wiki/HITS_algorithm){#w-hits}
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
+* [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
+* [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -361,6 +373,7 @@ This book uses material from the following Wikipedia articles:
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX){#w-latex}
+* [Law of conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){#w-teslers-law}
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
@@ -392,6 +405,7 @@ This book uses material from the following Wikipedia articles:
 * [Markdown](https://en.wikipedia.org/wiki/Markdown){#w-markdown}
 * [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
 * [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
+* [Masthead (American publishing)](https://en.wikipedia.org/wiki/Masthead_(American_publishing)){#w-masthead}
 * [Material Design](https://en.wikipedia.org/wiki/Material_Design){#w-material-design}
 * [Mathematical markup language](https://en.wikipedia.org/wiki/Mathematical_markup_language){#w-mathematical-markup-language}
 * [Mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization){#w-optimization}
@@ -419,6 +433,7 @@ This book uses material from the following Wikipedia articles:
 * [Mixin](https://en.wikipedia.org/wiki/Mixin){#w-mixin}
 * [Mobile computing](https://en.wikipedia.org/wiki/Mobile_computing){#w-mobile}
 * [Mobilegeddon](https://en.wikipedia.org/wiki/Mobilegeddon){#w-mobilegeddon}
+* [Modal window](https://en.wikipedia.org/wiki/Modal_window){#w-modal}
 * [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){#w-mvc}
 * [Model-view-viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel){#w-mvvm}
 * [Modernizr](https://en.wikipedia.org/wiki/Modernizr){#w-modernizr}
@@ -505,9 +520,11 @@ This book uses material from the following Wikipedia articles:
 * [Pointing device](https://en.wikipedia.org/wiki/Pointing_device){#w-pointing-device}
 * [Polyfill (programming)](https://en.wikipedia.org/wiki/Polyfill_(programming)){#w-polyfill}
 * [Polymer (library)](https://en.wikipedia.org/wiki/Polymer_(library)){#w-polymer}
+* [Pop-up ad](https://en.wikipedia.org/wiki/Pop-up_ad){#w-popup-popunder}
 * [Port (computer networking)](https://en.wikipedia.org/wiki/Port_(computer_networking)){#w-port}
 * [Portable Network Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics){#w-png}
 * [Post Office Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol){#w-pop}
+* [PostCSS](https://en.wikipedia.org/wiki/PostCSS){#w-postcss}
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Postmortem documentation](https://en.wikipedia.org/wiki/Postmortem_documentation){#w-post-mortem}
 * [PowerShell](https://en.wikipedia.org/wiki/PowerShell){#w-powershell}
@@ -530,6 +547,7 @@ This book uses material from the following Wikipedia articles:
 * [Query language](https://en.wikipedia.org/wiki/Query_language){#w-query-language}
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
 * [Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode){#w-quirks-mode}
+* [Race condition](https://en.wikipedia.org/wiki/Race_condition){#w-race-condition}
 * [Raku (programming language)](http://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
 * [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
 * [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
@@ -595,6 +613,7 @@ This book uses material from the following Wikipedia articles:
 * [Shell (computing)](https://en.wikipedia.org/wiki/Shell_(computing)){#w-shell}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
 * [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol){#w-smtp}
+* [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle){#w-srp}
 * [Single-page application](https://en.wikipedia.org/wiki/Single-page_application){#w-spa}
 * [Site map](https://en.wikipedia.org/wiki/Site_map){#w-site-map}
 * [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps){#w-sitemaps}
@@ -608,6 +627,7 @@ This book uses material from the following Wikipedia articles:
 * [Software development](https://en.wikipedia.org/wiki/Software_development){#w-software-development}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
+* [Software testing](https://en.wikipedia.org/wiki/Software_testing){#w-testing}
 * [Software versioning](https://en.wikipedia.org/wiki/Software_versioning){#w-versioning}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
@@ -624,6 +644,7 @@ This book uses material from the following Wikipedia articles:
 * [SQL injection](https://en.wikipedia.org/wiki/SQL_injection){#w-sql-injection}
 * [SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol){#w-sftp}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
+* [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow){#w-stack-overflow}
 * [Stand-up meeting](https://en.wikipedia.org/wiki/Stand-up_meeting){#w-stand-up}
 * [Standard Generalized Markup Language](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language){#w-sgml}
 * [State (computer science)](https://en.wikipedia.org/wiki/State_(computer_science)){#w-state}
@@ -632,25 +653,36 @@ This book uses material from the following Wikipedia articles:
 * [Stream (computing)](https://en.wikipedia.org/wiki/Stream_(computing)){#w-stream}
 * [Streaming media](https://en.wikipedia.org/wiki/Streaming_media){#w-streaming}
 * [String (computer science)](https://en.wikipedia.org/wiki/String_(computer_science)){#w-string}
+* [Style sheet (web development)](https://en.wikipedia.org/wiki/Style_sheet_(web_development)){#w-style-sheet}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
+* [Symbol (programming)](https://en.wikipedia.org/wiki/Symbol_(programming)){#w-symbol}
 * [Synchronized Multimedia Integration Language](https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language){#w-smil}
 * [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
-* [](){} @@
+* [Tag management system](https://en.wikipedia.org/wiki/Tag_management_system){#w-tms}
+* [tar (computing)](https://en.wikipedia.org/wiki/Tar_(computing)){#w-tar}
 * [Tcl](https://en.wikipedia.org/wiki/Tcl){#w-tcl}
+* [Technical debt](https://en.wikipedia.org/wiki/Technical_debt){#w-technical-debt}
 * [Technical standard](https://en.wikipedia.org/wiki/Technical_standard){#w-technical-standard}
 * [Technology roadmap](https://en.wikipedia.org/wiki/Technology_roadmap){#w-roadmap}
 * [Telnet](https://en.wikipedia.org/wiki/Telnet){#w-telnet}
 * [Template processor](https://en.wikipedia.org/wiki/Template_processor){#w-template-processor}
+* [Ternary operation](https://en.wikipedia.org/wiki/Ternary_operation){#w-ternary-operator}
+* [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development){#w-tdd}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
+* [Third-party source](https://en.wikipedia.org/wiki/Third-party_source){#w-third-party}
+* [Thread (computing)](https://en.wikipedia.org/wiki/Thread_(computing)){#w-thread}
+* [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
+* [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
+* [](){} @@
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
@@ -735,11 +767,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Effective connection type](https://developer.mozilla.org/en-US/docs/Glossary/Effective_connection_type){#m-ect}
 * [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}
 * [Exception](https://developer.mozilla.org/en-US/docs/Glossary/Exception){#m-exception}
-* [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy){#m-falsy}
-* [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
+* [First input delay](https://developer.mozilla.org/en-US/docs/Glossary/First_input_delay){#m-fid}
 * [First Meaningful Paint](https://developer.mozilla.org/en-US/docs/Glossary/first_meaningful_paint){#m-fmp}
 * [First paint](https://developer.mozilla.org/en-US/docs/Glossary/First_paint){#m-first-paint}
 * [First-class Function](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function){#m-first-class-function}
@@ -762,6 +793,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Intrinsic Size](https://developer.mozilla.org/en-US/docs/Glossary/Intrinsic_Size){#m-intrinsic-size}
 * [Jank](https://developer.mozilla.org/en-US/docs/Glossary/Jank){#m-jank}
 * [Local scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope){#m-local-scope}
+* [Long Tasks API](https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API){#m-long-task}
 * [Main thread](https://developer.mozilla.org/en-US/docs/Glossary/Main_thread){#m-main-thread}
 * [Mobile First](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First){#m-mobile-first}
 * [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null){#m-null}
@@ -788,8 +820,10 @@ This book uses material from the following articles by Mozilla contributors:
 * [Speed index](https://developer.mozilla.org/en-US/docs/Glossary/Speed_index){#m-speed-index}
 * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){#m-strict-mode}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
-* [](){} @@
 * [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}
+* [this]()https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this{#m-this}
+* [Time to interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive){#m-tti}
+* [](){} @@
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

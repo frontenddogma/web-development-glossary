@@ -1,10 +1,10 @@
 # H
 
 .htaccess
-: @@
+: A directory-level configuration file supported by several web servers, used for the configuration of website-access issues, such as URL redirection, URL shortening, access control, and more. A site could have more than one .htaccess file, and the files are placed inside the web tree (i.e. inside directories and their sub-directories). .htaccess files act as a subset of the server's global configuration file (like httpd.conf) for the directory that they are in, or all sub-directories. The original purpose of .htaccess—reflected in its name—was to allow per-directory access control by, for example, requiring a password to access World Wide Web content. More commonly, however, the .htaccess files define or override many other configuration settings such as content type, character set, CGI handlers, etc.&nbsp;[†](#w-htaccess)
 
 .htpasswd
-: @@
+: A flat-file used to store usernames and password for basic authentication on an Apache HTTP Server. The name of the file is given in the .htaccess configuration, and can be anything although “.htpasswd” is the canonical name. .htpasswd is often maintained with the shell command “htpasswd” which can add, delete, and update users, and will properly encode the password for use (so that it is easily checked, but not reversed back to the original password). The file consists of rows, each row corresponding to a username, followed by a colon, followed by a string containing the hashed password optionally prepended by an algorithm specifier (`$2y$`, `$apr1$`, or `{SHA}`) or salt. The hash historically used “UNIX crypt” style with MD5 or SHA1 as common alternatives, although as of version 2.2.18 a variant of MD5 is now the default.&nbsp;[†](#w-htpasswd)
 
 Hackathon
 : A design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects. The goal of a hackathon is to create functioning software or hardware by the end of the event.&nbsp;[†](#w-hackathon)
@@ -99,6 +99,9 @@ HomeSite
 Hooking
 : A range of techniques used to alter or augment the behaviour of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)
 
+Hop limit
+: → Time to Live
+
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
 
@@ -145,7 +148,7 @@ HTTP/2
 : A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC 2068. The HTTP/2 specification was published as in 2015 as RFC 7540.&nbsp;[†](#w-http2)
 
 httpd.conf
-: @@
+: The main configuration file for the Apache HTTP Server. ℹ︎&nbsp;[is.gd/asNHfP](https://httpd.apache.org/docs/2.4/configuring.html)
 
 HTTPS
 : → Hypertext Transfer Protocol Secure
