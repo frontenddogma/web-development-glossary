@@ -23,7 +23,7 @@ Tag
 : In web development, either the start or end tag of an HTML element, like `<p>`, a paragraph’s start tag, or `</ul>`, an unordered list’s end tag. Not to be confused with an element.
 
 Tag Management System
-: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and "fire" individual tags as appropriate based on business rules, navigation events and known data.[2] Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag deduplication, and role-based access to data.&nbsp;[†](#w-tms)
+: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events and known data.[2] Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag deduplication, and role-based access to data.&nbsp;[†](#w-tms)
 
 Tagging
 : → Folksonomy
@@ -102,7 +102,7 @@ Third party
 : A supplier (or service provider) who is not directly controlled by either the seller (first party) nor the buyer (second party) in a transaction. In technology, a third party may be a supplier of software (or a computer accessory) which is independent of the supplier and customer of the product or service.&nbsp;[†](#w-third-party)
 
 `this`
-: A keyword whose value is determined by how a function is called (runtime binding). It can't be set by assignment during execution, and it may be different each time the function is called. ES5 introduced the `bind()` method to set the value of a function's this regardless of how it's called, and ES2015 introduced arrow functions which don't provide their own this binding (it retains the this value of the enclosing lexical context).&nbsp;[‡](#m-this)
+: A keyword whose value is determined by how a function is called (runtime binding). It cannot be set by assignment during execution, and it may be different each time the function is called. ES5 introduced the `bind()` method to set the value of a function’s this regardless of how it is called, and ES2015 introduced arrow functions which do not provide their own this binding (it retains the this value of the enclosing lexical context).&nbsp;[‡](#m-this)
 
 Thread
 : The smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. In particular, the threads of a process share its executable code and the values of its dynamically allocated variables and non-thread-local global variables at any given time.&nbsp;[†](#w-thread)
@@ -111,7 +111,7 @@ Time box
 : A fixed time period.
 
 Time to First Byte
-: A measurement used as an indication of the responsiveness of a webserver or other network resource. TTFB measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. This time is made up of the socket connection time, the time taken to send the HTTP request, and the time taken to get the first byte of the page. Although sometimes misunderstood as a post-DNS calculation, the original calculation of TTFB in networking always includes network latency in measuring the time it takes for a resource to begin loading.&nbsp;[†](#w-ttfb)
+: A measurement used as an indication of the responsiveness of a webserver or other network resource. TTFB measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client’s browser. This time is made up of the socket connection time, the time taken to send the HTTP request, and the time taken to get the first byte of the page. Although sometimes misunderstood as a post-DNS calculation, the original calculation of TTFB in networking always includes network latency in measuring the time it takes for a resource to begin loading.&nbsp;[†](#w-ttfb)
 
 Time to Interactive
 : A non-standardized web performance “progress” metric defined as the point in time when the last Long Task finished and was followed by 5 seconds of network and main thread inactivity. TTI, proposed by the Web Incubator Community Group in 2018, is intended to provide a metric that describes when a page or application contains useful content and the main thread is idle and free to respond to user interactions, including having event handlers registered.&nbsp;[‡](#m-tti)

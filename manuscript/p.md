@@ -180,7 +180,7 @@ Pop-under
 : A variation on the pop-up window. A pop-under opens a new browser window under the active window. Pop-unders do not interrupt the user immediately, but appear when the user closes the covering window, making it more difficult to determine which website created them. Pop-unders can be considered a dark pattern.&nbsp;[†](#w-popup-popunder)
 
 Pop-up
-: A graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. Because of heavy abuse pop-ups are generally considered a dark pattern and often blocked by default.&nbsp;[†](#w-popup-popunder)
+: A graphical user interface (GUI) display area, usually a small window, that suddenly appears (“pops up”) in the foreground of the visual interface. Because of heavy abuse pop-ups are generally considered a dark pattern and often blocked by default.&nbsp;[†](#w-popup-popunder)
 
 Port
 : A communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). A port number is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Specific port numbers are commonly reserved to identify specific services.&nbsp;[†](#w-port)
@@ -297,7 +297,7 @@ Pseudo-class
 : One of a range of predefined CSS selectors that targets elements depending on their state rather than on information from the document tree. For example, the selector `a:visited` applies styles only to links that the user has already followed.&nbsp;[‡](#m-pseudo-class)
 
 Pseudo-element
-: One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there isn’t a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`.&nbsp;[‡](#m-pseudo-element)
+: One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`.&nbsp;[‡](#m-pseudo-element)
 
 Pseudocode
 : Code-like syntax that is used to indicate to humans how some code syntax works, or illustrate the design of an item of code architecture. Pseudocode does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)

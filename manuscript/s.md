@@ -452,7 +452,7 @@ Streaming media
 
 Strict mode
 : For HTML/CSS, a web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
-: For JavaScript, a way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of “sloppy mode.” Strict mode isn’t just a subset, it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so strict mode is not relied on without feature-testing for support for the relevant aspects. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally. Strict mode is triggered with `'use strict';`.&nbsp;[‡](#m-strict-mode)
+: For JavaScript, a way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of “sloppy mode.” Strict mode is not just a subset, it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so strict mode is not relied on without feature-testing for support for the relevant aspects. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally. Strict mode is triggered with `'use strict';`.&nbsp;[‡](#m-strict-mode)
 
 String
 : A sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.&nbsp;[†](#w-string)
@@ -467,7 +467,7 @@ Style guide
 : Structured documentation for design particles, elements, and components. May be part of a design system.
 
 Style sheet
-: A file or code snippet containing styling instructions. A style sheet represents a form of separation of presentation and content for web design in which the markup of a webpage (usually HTML) contains the page's semantic content and structure, but does not define its visual layout (style). Instead, the style is defined in an external style sheet file using a style sheet language such as CSS or XSLT. This design approach is identified as a "separation" because it largely supersedes the antecedent methodology in which a page's markup defined both style and structure.&nbsp;[†](#w-style-sheet)
+: A file or code snippet containing styling instructions. A style sheet represents a form of separation of presentation and content for web design in which the markup of a webpage (usually HTML) contains the page’s semantic content and structure, but does not define its visual layout (style). Instead, the style is defined in an external style sheet file using a style sheet language such as CSS or XSLT. This design approach is identified as a “separation” because it largely supersedes the antecedent methodology in which a page’s markup defined both style and structure.&nbsp;[†](#w-style-sheet)
 
 stylelint
 : A CSS linter. ℹ︎&nbsp;[stylelint.io](https://stylelint.io/)

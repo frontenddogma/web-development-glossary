@@ -106,7 +106,7 @@ Dependency
 : → Coupling
 
 Dependency injection
-: A technique whereby one object supplies the dependencies of another object. A "dependency" is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The "injection" refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client's state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve Separation of Concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
+: A technique whereby one object supplies the dependencies of another object. A “dependency” is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The “injection” refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client’s state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve Separation of Concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
 
 Deployment
 : All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, “deployment” should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
@@ -234,7 +234,7 @@ DoS
 : → Denial of Service
 
 Dot file
-: A file (or folder) that starts with a dot character (for example, /home/user/.config). It is treated as hidden, that is, the `ls` command does not display them unless the `-a` flag (`ls -a`) is used. In most command-line shells, wildcards will not match files whose names start with “.” unless the wildcard itself starts with an explicit “.”. A convention arose of using dotfiles in the user's home directory to store per-user configuration or informational text.&nbsp;[†](#w-hidden-file-dir)
+: A file (or folder) that starts with a dot character (for example, /home/user/.config). It is treated as hidden, that is, the `ls` command does not display them unless the `-a` flag (`ls -a`) is used. In most command-line shells, wildcards will not match files whose names start with “.” unless the wildcard itself starts with an explicit “.”. A convention arose of using dotfiles in the user’s home directory to store per-user configuration or informational text.&nbsp;[†](#w-hidden-file-dir)
 
 Dot notation
 : One of two ways to access object properties in JavaScript (`objectName.propertyName`), the other being bracket notation.
