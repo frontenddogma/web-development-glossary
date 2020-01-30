@@ -168,6 +168,9 @@ Service Level Expectation
 Service worker
 : A JavaScript file that operates as a type of web worker. They work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of Registration, Installation, and Activation. Technically, service workers provide a scriptable network proxy in the web browser to manage the web/HTTP requests programmatically. The service workers lie between the network and device to supply the content. They are capable of using the cache mechanisms efficiently and allow error-free behavior during offline periods.&nbsp;[†](#w-pwa)
 
+Set
+: An abstract data type that can store unique values, without any particular order. It is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.&nbsp;[†](#w-set)
+
 SFTP
 : → SSH File Transfer Protocol
 

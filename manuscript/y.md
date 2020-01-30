@@ -13,6 +13,9 @@ YAML Ain’t Markup Language
 Yarn
 : A package manager for the JavaScript programming language. Yarn was developed in 2016 by Facebook. ℹ︎&nbsp;[yarnpkg.com](https://yarnpkg.com/)
 
+yarn.lock
+: An auto-generated lock file used by the Yarn package manager.
+
 Yet Another Multicolumn Layout
 : A modular HTML/CSS framework. ℹ︎&nbsp;[yaml.de](http://www.yaml.de/)
 

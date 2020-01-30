@@ -21,6 +21,15 @@ Handlebars
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
+Hash
+: → Number sign
+
+Hash function
+: Any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are used to index a fixed-size table called a hash table. Use of a hash function to index a hash table is called hashing or scatter storage addressing. Hash functions and their associated hash tables are used in data storage and retrieval applications to access data in a small and nearly constant time per retrieval, and storage space only fractionally greater than the total space required for the data or records themselves. Hashing is a computationally and storage space efficient form of data access which avoids the non-linear access time of ordered and unordered lists and structured trees, and the often exponential storage requirements of direct access of state spaces of large or variable-length keys.&nbsp;[†](#w-hash-function)
+
+Hash table
+: A data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. In many situations, hash tables turn out to be on average more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets.&nbsp;[†](#w-hash-table)
+
 Hashbang
 : → Shebang
 

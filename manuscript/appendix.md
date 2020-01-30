@@ -276,6 +276,8 @@ This book uses material from the following Wikipedia articles:
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon){#w-hackathon}
 * [Hacker](https://en.wikipedia.org/wiki/Hacker){#w-hacker}
 * [Haml](https://en.wikipedia.org/wiki/Haml){#w-haml}
+* [Hash function](https://en.wikipedia.org/wiki/Hash_function){#w-hash-function}
+* [Hash table](https://en.wikipedia.org/wiki/Hash_table){#w-hash-table}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
@@ -469,6 +471,7 @@ This book uses material from the following Wikipedia articles:
 * [Null coalescing operator](https://en.wikipedia.org/wiki/Null_coalescing_operator){#w-coalescing-operator}
 * [Null device](https://en.wikipedia.org/wiki/Null_device){#w-null-device}
 * [Null pointer](https://en.wikipedia.org/wiki/Null_pointer){#w-null-pointer}
+* [Number sign](https://en.wikipedia.org/wiki/Number_sign){#w-number-sign}
 * [Numerical digit](https://en.wikipedia.org/wiki/Numerical_digit){#w-numerical-digit}
 * [Nuxt.js](https://en.wikipedia.org/wiki/Nuxt.js){#w-nuxtjs}
 * [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
@@ -608,6 +611,7 @@ This book uses material from the following Wikipedia articles:
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
+* [Set (abstract data type)](https://en.wikipedia.org/wiki/Set_(abstract_data_type)){#w-set}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix)){#w-shebang}
 * [Shell (computing)](https://en.wikipedia.org/wiki/Shell_(computing)){#w-shell}
@@ -678,6 +682,7 @@ This book uses material from the following Wikipedia articles:
 * [Thread (computing)](https://en.wikipedia.org/wiki/Thread_(computing)){#w-thread}
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
+* [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}

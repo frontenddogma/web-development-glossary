@@ -150,7 +150,7 @@ Tooling
 : @@
 
 Top-Level Domain
-: @@
+: One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name www.example.com, the top-level domain is com. Responsibility for management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA), and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
 
 Top-posting
 : A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
