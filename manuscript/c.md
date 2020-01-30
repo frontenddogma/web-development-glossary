@@ -426,6 +426,9 @@ CSS
 CSS framework
 : → HTML/CSS framework
 
+CSS lock
+: @@
+
 CSS Modules
 : As a CSS Module, a CSS file in which all class and animation names are by default scoped locally. ℹ︎&nbsp;[github.com/css-modules/css-modules](https://github.com/css-modules/css-modules)
 
