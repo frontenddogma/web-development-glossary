@@ -101,7 +101,7 @@ Memoization
 : An optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. Memoization has also been used in other contexts (and for purposes other than speed gains), such as in simple mutually recursive descent parsing. Although related to caching, memoization refers to a specific case of this optimization, distinguishing it from forms of caching such as buffering or page replacement. In the context of some logic programming languages, memoization is also known as tabling.&nbsp;[†](#w-memoization)
 
 Menu
-: A list of options or commands presented to the user of a computer or communications system. A menu may either be a system's entire user interface, or only part of a more complex one.&nbsp;[†](#w-menu)
+: A list of options or commands presented to the user of a computer or communications system. A menu may either be a system’s entire user interface, or only part of a more complex one.&nbsp;[†](#w-menu)
 
 Merge Request
 : A request to merge a version-controlled branch into another branch. The same as a pull request, just used by different platforms.
@@ -137,7 +137,7 @@ Microformat
 : A World Wide Web-based approach to semantic markup which uses HTML/XHTML tags supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. This approach allows software to process information intended for end-users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the web, such processing is difficult because the markup tags used to display information on the web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
 Microsite
-: An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite's main page can have its own domain name or subdomain.&nbsp;[†](#w-microsite)
+: An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain name or subdomain.&nbsp;[†](#w-microsite)
 
 Microsoft Design Language
 : A design language created by Microsoft. This design language is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
