@@ -214,13 +214,16 @@ Transport Layer Security
 : A cryptographic protocol designed to provide communications security over a computer network. Several versions of the TLS (and SSL) protocols find widespread use in applications such as web browsing, email, instant messaging, and voice over IP (VoIP). Websites can use TLS to secure all communications between their servers and web browsers. The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. TLS was first specified in 1999.&nbsp;[†](#w-tls)
 
 Tree-shaking
-: @@
+: A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like Dart, JavaScript, or TypeScript into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is succinctly described as "live code inclusion."&nbsp;[†](#w-tree-shaking)
 
 Trident
 : @@
 
 Trust on First Use
-: @@
+: A security model used by client software which needs to establish a trust relationship with an unknown or not-yet-trusted endpoint. In a TOFU model, the client will try to look up the endpoint's identifier, usually some kind of public key, in its local trust database. If no identifier exists yet for the endpoint, the client software will either prompt the user to determine if the client should trust the identifier or it will simply trust the identifier which was given and record the trust relationship into its trust database. If a different identifier is received in subsequent connections to the endpoint the client software will consider it to be untrusted. The TOFU approach can be used when connecting to arbitrary or unknown endpoints which do not have a trusted third party such as a certificate authority.&nbsp;[†](#w-tofu)
+
+Trust Upon First Use
+: → Trust on First Use
 
 TrustRank
 : An algorithm that conducts link analysis to separate useful webpages from spam and helps search engine rank pages in SERPs (Search Engine Results Pages). It is semi-automated process which means that it needs some human assistance in order to function properly. Search engines have many different algorithms and ranking factors that they use when measuring the quality of webpages, including TrustRank.&nbsp;[†](#w-trustrank)
@@ -236,6 +239,9 @@ TTI
 
 TTL
 : → Time to Live
+
+TUFU
+: → Trust Upon First Use
 
 Turbo pages
 : @@

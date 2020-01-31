@@ -169,6 +169,7 @@ This book uses material from the following Wikipedia articles:
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization){#w-normalization}
+* [Dead code elimination](https://en.wikipedia.org/wiki/Dead_code_elimination){#w-dce}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Deep web](https://en.wikipedia.org/wiki/Deep_web){#w-deep-web}
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
@@ -692,6 +693,8 @@ This book uses material from the following Wikipedia articles:
 * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol){#w-tcp}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
+* [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking){#w-tree-shaking}
+* [Trust on first use](https://en.wikipedia.org/wiki/Trust_on_first_use){#w-tofu}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [](){} @@

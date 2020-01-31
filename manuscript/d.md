@@ -57,6 +57,9 @@ Database Management System
 DBMS
 : → Database Management System
 
+DCE
+: → Dead code elimination
+
 DCL
 : → Data Control Language
 
@@ -68,6 +71,9 @@ DDL
 
 DDoS
 : Distributed → Denial of Service
+
+Dead code elimination
+: A compiler optimization to remove code which does not affect the program results. Removing such code has several benefits: it shrinks program size, an important consideration in some contexts, and it allows the running program to avoid executing irrelevant operations, which reduces its running time. It can also enable further optimizations by simplifying program structure. Dead code includes code that can never be executed (unreachable code), and code that only affects dead variables (written to, but never read again), that is, irrelevant to the program.&nbsp;[†](#w-dce)
 
 Debugging
 : The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.&nbsp;[†](#w-debugging)
