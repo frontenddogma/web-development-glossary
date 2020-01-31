@@ -639,6 +639,7 @@ This book uses material from the following Wikipedia articles:
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}
+* [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler){#w-transpiler}
 * [Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code){#w-spaghetti-code}
 * [Spam](https://en.wikipedia.org/wiki/Spam){#w-spam}
 * [Spamdexing](https://en.wikipedia.org/wiki/Spamdexing){#w-spamdexing}
@@ -688,6 +689,7 @@ This book uses material from the following Wikipedia articles:
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
 * [Tracing (software)](https://en.wikipedia.org/wiki/Tracing_(software)){#w-tracing}
+* [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol){#w-tcp}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}

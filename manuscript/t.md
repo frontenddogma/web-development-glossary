@@ -201,11 +201,14 @@ Tracing
 Trade
 : → Craft
 
+Transcompiler
+: → Transpiler
+
 Transmission Control Protocol
-: @@
+: One of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP, which is part of the Transport Layer of the TCP/IP suite. SSL/TLS often runs on top of TCP. TCP is connection-oriented, and a connection between client and server is established (passive open) before data can be sent. Three-way handshake (active open), retransmission, and error-detection adds to reliability but lengthens latency. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that prioritizes time over reliability. TCP has its origins in 1974.&nbsp;[†](#w-tcp)
 
 Transpiler
-: @@
+: A type of compiler that takes the source code of a program written in a programming language as its input and produces an equivalent source code in the same or a different programming language. Such a source-to-source compiler translates between programming languages that operate at approximately the same level of abstraction, while a traditional compiler translates from a higher level programming language to a lower level programming language.&nbsp;[†](#w-transpiler)
 
 Transport Layer Security
 : A cryptographic protocol designed to provide communications security over a computer network. Several versions of the TLS (and SSL) protocols find widespread use in applications such as web browsing, email, instant messaging, and voice over IP (VoIP). Websites can use TLS to secure all communications between their servers and web browsers. The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. TLS was first specified in 1999.&nbsp;[†](#w-tls)

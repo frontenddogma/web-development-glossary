@@ -232,6 +232,9 @@ FTP
 Fugu
 : A Google project designed to close the capabilities gab between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[chromium.org/teams/web-capabilities-fugu](https://www.chromium.org/teams/web-capabilities-fugu)
 
+Full Service
+: A web agency term for the capabilities to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
+
 Full Stack
 : → Solution stack
 
