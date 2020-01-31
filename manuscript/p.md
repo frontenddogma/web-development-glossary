@@ -97,6 +97,9 @@ Perceivable, Operable, Understandable, and Robust
 Perceived performance
 : How quickly a software feature appears to perform its task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
 
+Percent encoding
+: → URL encoding
+
 Performance
 : The speed in which web pages are downloaded and displayed on the user’s web browser. Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow internet connections and on mobile devices. Web performance also leads to less data travelling across the web, which in turn lowers a website’s power consumption and environmental impact. Some aspects which can affect the speed of page load include browser or server caching as well as image optimization. The performance of the web page can be improved through techniques such as multi-layered cache, light weight design of presentation layer components and asynchronous communication with server side components.&nbsp;[†](#w-performance)
 

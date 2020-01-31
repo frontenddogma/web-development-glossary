@@ -362,6 +362,7 @@ This book uses material from the following Wikipedia articles:
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
 * [Jasmine (JavaScript testing framework)](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)){#w-jasmine}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
+* [Java Database Connectivity](https://en.wikipedia.org/wiki/Java_Database_Connectivity){#w-jdbc}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
 * [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
@@ -530,6 +531,7 @@ This book uses material from the following Wikipedia articles:
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
+* [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding){#w-percent-encoding}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
 * [Perl](https://en.wikipedia.org/wiki/Perl){#w-perl}
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
@@ -593,6 +595,7 @@ This book uses material from the following Wikipedia articles:
 * [Relational model](https://en.wikipedia.org/wiki/Relational_model){#w-relational-model}
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
+* [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework){#w-rdf}
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
 * [Revision tag](https://en.wikipedia.org/wiki/Revision_tag){#w-tag}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
@@ -726,10 +729,17 @@ This book uses material from the following Wikipedia articles:
 * [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language){#w-uml}
+* [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier){#w-uri}
+* [Uniform Resource Name](https://en.wikipedia.org/wiki/Uniform_Resource_Name){#w-urn}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
+* [Unix](https://en.wikipedia.org/wiki/Unix){#w-unix}
+* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy){#w-unix-philosophy}
+* [URL](https://en.wikipedia.org/wiki/URL){#w-url}
 * [URL redirection](https://en.wikipedia.org/wiki/URL_redirection){#w-redirect}
+* [Usability](https://en.wikipedia.org/wiki/Usability){#w-usability}
+* [Usability testing](https://en.wikipedia.org/wiki/Usability_testing){#w-usability-testing}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
 * [](){} @@

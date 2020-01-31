@@ -18,6 +18,9 @@ Java
 Java applet
 : → Applet
 
+Java Database Connectivity
+: An application programming interface (API) for the programming language Java, which defines how a client may access a database. It is a Java-based data access technology used for Java database connectivity. It is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+
 Java servlet
 : A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-java-servlet)
 
@@ -44,6 +47,9 @@ JavaServer Pages
 
 JAWS
 : → Job Access With Speech
+
+JDBC
+: → Java Database Connectivity
 
 Jetty
 : A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
