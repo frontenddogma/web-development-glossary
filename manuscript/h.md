@@ -54,6 +54,10 @@ HEIC
 HEIF
 : → High Efficiency Image File Format
 
+Helper class
+: In software development (object-oriented programming), a class that is used to assist in providing some functionality, which is not the main goal of the application or class in which it is used. An instance of a helper class is called a helper object.&nbsp;[†](#w-helper-class)
+: In web development (CSS), a class that carries no particular meaning (like `.aux` or `.alt`) but may just be used for alternative styling.
+
 Hick’s Law
 : A model describing the time it takes for a person to make a decision as a result of the possible choices they have: Increasing the number of choices will increase the decision time logarithmically. Hick’s Law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick-Hyman law is known as the rate of gain of information.&nbsp;[†](#w-hicks-law)
 
@@ -110,6 +114,9 @@ Hooking
 
 Hop limit
 : → Time to Live
+
+Host
+: A computer or other device connected to a computer network. A host may work as a server offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one network address. Network hosts that participate in applications that use the client-server model of computing, are classified as server or client systems. Network hosts may also function as nodes in peer-to-peer applications, in which all nodes share and consume resources in an equipotent manner.&nbsp;[†](#w-host)
 
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)

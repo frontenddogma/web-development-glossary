@@ -291,6 +291,7 @@ This book uses material from the following Wikipedia articles:
 * [Hash table](https://en.wikipedia.org/wiki/Hash_table){#w-hash-table}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
+* [Helper class](https://en.wikipedia.org/wiki/Helper_class){#w-helper-class}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
@@ -300,6 +301,7 @@ This book uses material from the following Wikipedia articles:
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
+* [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
 * [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
 * [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
@@ -542,6 +544,7 @@ This book uses material from the following Wikipedia articles:
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
 * [Pixel](https://en.wikipedia.org/wiki/Pixel){#w-pixel}
 * [Plain text](https://en.wikipedia.org/wiki/Plain_text){#w-plaintext}
+* [Plane (Unicode)](https://en.wikipedia.org/wiki/Plane_(Unicode)){#w-plane}
 * [Plug-in (computing)](https://en.wikipedia.org/wiki/Plug-in_(computing)){#w-plugin}
 * [Pointer (computer programming)](https://en.wikipedia.org/wiki/Pointer_(computer_programming)){#w-pointer}
 * [Pointing device](https://en.wikipedia.org/wiki/Pointing_device){#w-pointing-device}
@@ -743,6 +746,9 @@ This book uses material from the following Wikipedia articles:
 * [Usability testing](https://en.wikipedia.org/wiki/Usability_testing){#w-usability-testing}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
+* [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}
+* [UTF-16](https://en.wikipedia.org/wiki/UTF-16){#w-utf-16}
+* [UTF-32](https://en.wikipedia.org/wiki/UTF-32){#w-utf-32}
 * [](){} @@
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}

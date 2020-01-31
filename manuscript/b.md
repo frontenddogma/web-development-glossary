@@ -24,6 +24,9 @@ Base64
 Bash
 : A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, Bash has been used widely as the default login shell for most Linux distributions and Apple’s macOS Mojave and earlier versions.&nbsp;[†](#w-bash)
 
+Basic Multilingual Plane
+: The first Unicode plane, plane 0, containing characters for almost all modern languages, and a large number of symbols. A primary objective for the BMP is to support the unification of prior character sets as well as characters for writing. Most of the assigned code points in the BMP are used to encode Chinese, Japanese, and Korean (CJK) characters.&nbsp;[†](#w-plane)
+
 BDD
 : → Behavior-Driven Development
 
@@ -143,6 +146,7 @@ Blogosphere
 : A collective term for all blogs and their interconnections. The term implies that blogs exist together as a connected community (or as a collection of connected communities) or as a social networking service in which everyday authors can publish their opinions. Since the term has been coined, it has been referenced in a number of media and is also used to refer to the Internet.&nbsp;[†](#w-blogosphere)
 
 BMP
+: → Basic Multilingual Plane
 : → Bitmap
 
 BOM
