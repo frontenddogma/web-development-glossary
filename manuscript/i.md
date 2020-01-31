@@ -180,7 +180,7 @@ Intent to Implement
 : → Intent to Prototype
 
 Intent to Prototype
-: A software vendor expression to develop a particular software or software feature. This implementation may not necessarily lead to a public release but instead serve to assess feasibility, desirability, and cost. 
+: A software vendor expression to develop a particular software or software feature. This implementation may not necessarily lead to a public release but instead serve to assess feasibility, desirability, and cost.
 
 Interaction Design
 : The practice of designing interactive digital products, environments, systems, and services. Beyond the digital aspect, interaction design is also useful when creating physical (non-digital) products, exploring how a user might interact with it. Common topics of interaction design include design, human-computer interaction, and software development. While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.&nbsp;[†](#w-ixd)

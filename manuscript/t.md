@@ -77,7 +77,7 @@ Telnet
 : An application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC 15, extended in RFC 855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. The name stands for “teletype network.”&nbsp;[†](#w-telnet)
 
 Template
-: A static or dynamic file used to create or duplicate other files. 
+: A static or dynamic file used to create or duplicate other files.
 : The HTML `template` element and respective use with web components.
 
 Template language
@@ -265,7 +265,7 @@ Type conversion
 : A way of changing an expression from one data type to another. An example would be the conversion of an integer value into a floating point value or its textual representation as a string, and vice versa. Type conversions can take advantage of certain features of type hierarchies or data representations. Two important aspects of a type conversion are whether it happens implicitly (automatically) or explicitly, and whether the underlying data representation is converted from one representation into another, or a given representation is merely reinterpreted as the representation of another data type. In general, both primitive and compound data types can be converted.&nbsp;[†](#w-type-conversion)
 
 Type design
-: The art and process of designing typefaces. Type design is often used synonymously with the term “font design”; technically, font design is the rendering of a typeface design into an entire available family of keyboardable characters, while typeface design is the shaping of individual glyphs, albeit with an eye to the eventual incorporation as a font.&nbsp;[†](#w-type-design) 
+: The art and process of designing typefaces. Type design is often used synonymously with the term “font design”; technically, font design is the rendering of a typeface design into an entire available family of keyboardable characters, while typeface design is the shaping of individual glyphs, albeit with an eye to the eventual incorporation as a font.&nbsp;[†](#w-type-design)
 
 Type I error
 : → False positive
