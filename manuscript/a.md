@@ -6,6 +6,9 @@ A List Apart
 A11Y
 : → Accessibility
 
+AAA
+: → Arrange, Act, Assert
+
 Above the fold
 : The part of a web page that is visible without scrolling.
 
@@ -29,6 +32,9 @@ ActiveX
 
 Accelerated Mobile Pages
 : A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
+
+Acceptance testing
+: @@
 
 Access control
 : The selective restriction of access to a place or other resource while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
@@ -197,6 +203,9 @@ ARIA
 
 ARIA roles
 : A set of predefined names that can be used to specify the meaning and purpose of markup elements. Roles can cover abstract use cases, widgets, document structure, landmarks, live regions, and windows, and are set using the `role` attribute.
+
+Arrange, Act, Assert
+: A pattern @@
 
 Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)

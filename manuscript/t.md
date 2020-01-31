@@ -90,7 +90,10 @@ Template system
 : A platform that lets web designers and developers work with web templates to automatically generate custom web pages. This reuses static web page elements while defining dynamic elements based on web request parameters. Web templates support static content, providing basic structure and appearance. Developers can implement templates from content management systems, web application frameworks, and HTML editors.&nbsp;[†](#w-template-system)
 
 Temporal Dead Zone
-: In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, as that results in a reference error. The TDZ encourages to always a declare a variable before using it. 
+: In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, as that results in a reference error. The TDZ encourages to always a declare a variable before using it.
+
+Ten-second rule
+: @@
 
 Terminal
 : → Console
@@ -101,11 +104,14 @@ Ternary operator
 Tesler’s Law
 : An adage in human–computer interaction stating that every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction. This poses the question of who should be exposed to the complexity. For example, should a software developer add complexity to the software code to make the interaction simpler for the user or should the user deal with a complex interface so that the software code can be simple?&nbsp;[†](#w-teslers-law)
 
-Testing
-: An investigation conducted to provide stakeholders with information about the quality of the software product or service under test. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include the process of executing a program or application with the intent of finding software bugs (errors or other defects), and verifying that the software product is fit for use.&nbsp;[†](#w-testing)
+Test pyramid
+: @@
 
 Test-Driven Development
 : A software development process that relies on the repetition of a very short development cycle: Requirements are turned into very specific test cases, then the code is improved so that the tests pass. This is opposed to software development that allows code to be added that is not proven to meet requirements. Test-driven development is related to the test-first programming concepts of extreme programming, begun in 1999, but more recently has created more general interest in its own right.&nbsp;[†](#w-tdd)
+
+Testing
+: An investigation conducted to provide stakeholders with information about the quality of the software product or service under test. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include the process of executing a program or application with the intent of finding software bugs (errors or other defects), and verifying that the software product is fit for use.&nbsp;[†](#w-testing)
 
 TeX
 : A typesetting system (or formatting system) which was designed and mostly written by Donald Knuth and released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
@@ -124,6 +130,9 @@ Third party
 
 Thread
 : The smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. In particular, the threads of a process share its executable code and the values of its dynamically allocated variables and non-thread-local global variables at any given time.&nbsp;[†](#w-thread)
+
+Three-click rule
+: @@
 
 Time box
 : A fixed time period.

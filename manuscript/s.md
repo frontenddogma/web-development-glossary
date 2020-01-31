@@ -267,6 +267,9 @@ Small integer
 Smashing Magazine
 : A popular online magazine for web design and development. Smashing Magazine was founded in 2006 by Vitaly Friedman and Sven Lennartz. ℹ︎&nbsp;[smashingmagazine.com](https://www.smashingmagazine.com/)
 
+SME
+: → Subject-Matter Expert
+
 Smi
 : → Small integer
 
@@ -466,6 +469,9 @@ Structure
 Structured Query Language
 : A domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). SQL is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. Although SQL is essentially a declarative language (4GL), it includes also procedural elements. SQL was first mentioned in 1974, and became a standard of the American National Standards Institute (ANSI) in 1986.&nbsp;[†](#w-sql)
 
+Stub
+: @@
+
 Style guide
 : Structured documentation for design particles, elements, and components. May be part of a design system.
 
@@ -477,6 +483,15 @@ stylelint
 
 Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
+
+Subject-Matter Expert
+: @@
+
+Subnav
+: → Subnavigation
+
+Subnavigation
+: @@
 
 Subroutine
 : → Routine

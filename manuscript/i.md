@@ -101,6 +101,9 @@ Indexing
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
+Infinite scrolling
+: @@
+
 Information Architecture
 : The structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
@@ -112,6 +115,9 @@ Information overload
 
 Information retrieval
 : The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.&nbsp;[†](#w-information-retrieval)
+
+Information scent
+: @@
 
 Information Security
 : The practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
@@ -241,6 +247,9 @@ Interoperability
 
 Intersection Observer
 : An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing the browser and the sites the user is accessing to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
+
+Interstitial
+: @@
 
 Intrinsic size
 : The size an element would be based on its content, if no external factors were applied to it. For example, inline elements are sized intrinsically: `width`, `height`, and vertical margin and padding have no impact.&nbsp;[‡](#m-intrinsic-size)

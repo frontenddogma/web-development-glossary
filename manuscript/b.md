@@ -85,6 +85,9 @@ BITV
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
 
+Black-box testing
+: @@
+
 Blacklist
 : A basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned. Those items on the list are denied access. The opposite of a blacklist is a whitelist.&nbsp;[†](#w-blacklist)
 

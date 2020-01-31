@@ -101,6 +101,7 @@ This book uses material from the following Wikipedia articles:
 * [CMYK color model](https://en.wikipedia.org/wiki/CMYK_color_model){#w-cmyk}
 * [CNAME record](https://en.wikipedia.org/wiki/CNAME_record){#w-cname}
 * [Coalescing (computer science)](https://en.wikipedia.org/wiki/Coalescing_(computer_science)){#w-coalescing}
+* [Code coverage](https://en.wikipedia.org/wiki/Code_coverage){#w-code-coverage}
 * [Code golf](https://en.wikipedia.org/wiki/Code_golf){#w-code-golf}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}

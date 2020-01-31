@@ -12,6 +12,9 @@ False positive
 Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops.&nbsp;[‡](#m-falsy)
 
+Fat footer
+: @@
+
 Favicon
 : A file containing one or more small icons, associated with a particular website or web page. Browsers that provide favicon support typically display a page’s favicon in the browser’s address bar (sometimes in the history as well) and next to the page’s name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page’s favicon next to the page’s title on the tab, and site-specific browsers use the favicon as a desktop icon.&nbsp;[†](#w-favicon)
 

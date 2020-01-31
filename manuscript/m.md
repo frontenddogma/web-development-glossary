@@ -61,6 +61,9 @@ Mathematical Markup Language
 MathML
 : → Mathematical Markup Language
 
+MAU
+: → Monthly Active Users
+
 MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC 1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
@@ -90,6 +93,9 @@ Media type
 
 Medium integer
 : An integral data type of 24 bits, with a signed range from –8,388,608 to 8,388,607, and an unsigned range from 0 to 16,777,215.
+
+Mega menu
+: @@
 
 Memoization
 : An optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. Memoization has also been used in other contexts (and for purposes other than speed gains), such as in simple mutually recursive descent parsing. Although related to caching, memoization refers to a specific case of this optimization, distinguishing it from forms of caching such as buffering or page replacement. In the context of some logic programming languages, memoization is also known as tabling.&nbsp;[†](#w-memoization)
@@ -123,6 +129,9 @@ Metro
 
 Microformat
 : A World Wide Web-based approach to semantic markup which uses HTML/XHTML tags supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. This approach allows software to process information intended for end-users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the web, such processing is difficult because the markup tags used to display information on the web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
+
+Microsite
+: @@
 
 Microsoft Design Language
 : A design language created by Microsoft. This design language is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
@@ -193,6 +202,9 @@ Monolithic application
 
 Monorepo
 : A software development strategy where code for many projects are stored in the same repository.&nbsp;[†](#w-monorepo)
+
+Monthly Active Users
+: @@
 
 Mosaic
 : The web browser that popularized the World Wide Web and the Internet. It was also a client for earlier internet protocols such as File Transfer Protocol, Network News Transfer Protocol, and Gopher. The browser was named for its support of multiple internet protocols. Its intuitive interface, reliability, Microsoft Windows port, and simple installation all contributed to its popularity within the web, as well as on Microsoft operating systems. Mosaic was also the first browser to display images inline with text instead of displaying them in a separate window. It is often described as the first graphical web browser, though it was preceded by WorldWideWeb, the lesser-known Erwise, and ViolaWWW. Mosaic was first released in 1991.&nbsp;[†](#w-mosaic)
