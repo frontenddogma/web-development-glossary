@@ -202,6 +202,7 @@ Frames per Second
 
 Framework
 : → HTML/CSS framework
+: → JavaScript framework
 : → Software framework
 : → Web framework
 

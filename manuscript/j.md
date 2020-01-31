@@ -24,6 +24,12 @@ Java servlet
 JavaScript
 : → ECMAScript
 
+JavaScript framework
+: An application framework written in JavaScript. A JavaScript framework differs from a JavaScript library in its control flow: A library offers functions to be called by its parent code, whereas a framework defines the entire application design. A developer does not call a framework; instead, the framework calls and uses the code in some particular way. Some JavaScript frameworks follow the model–view–controller paradigm designed to segregate a web application into orthogonal units to improve code quality and maintainability. Examples include AngularJS, Ember.js, Meteor.js, and Vue.js.&nbsp;[†](#w-javascript-framework)
+
+JavaScript library
+: → Library
+
 JavaScript Object Notation
 : An open-standard file format or language-independent data interchange format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems. The Internet media type for JSON is `application/json`.&nbsp;[†](#w-json) ℹ︎&nbsp;[json.org](https://www.json.org/)
 

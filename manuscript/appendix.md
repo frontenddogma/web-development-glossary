@@ -363,6 +363,7 @@ This book uses material from the following Wikipedia articles:
 * [Jasmine (JavaScript testing framework)](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)){#w-jasmine}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
+* [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [JAWS (screen reader)](https://en.wikipedia.org/wiki/JAWS_(screen_reader)){#w-jaws}
@@ -721,7 +722,10 @@ This book uses material from the following Wikipedia articles:
 * [Type system](https://en.wikipedia.org/wiki/Type_system){#w-type-system}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [Typography](https://en.wikipedia.org/wiki/Typography){#w-typography}
+* [Unicode](https://en.wikipedia.org/wiki/Unicode){#w-unicode}
+* [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
+* [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language){#w-uml}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
@@ -864,6 +868,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this){#m-this}
 * [Time to interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive){#m-tti}
 * [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
+* [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined){#m-undefined}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}

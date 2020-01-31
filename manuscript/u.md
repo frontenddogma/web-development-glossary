@@ -13,13 +13,14 @@ UDP
 : → User Datagram Protocol
 
 Uglification
-: @@
+: → Minification
+: → Obfuscation
 
 UI
 : → User Interface
 
 UI framework
-: @@
+: → Framework
 
 UMD
 : → Universal Module Definition
@@ -27,17 +28,20 @@ UMD
 UML
 : → Unified Modeling Language
 
-Undefined
-: @@
+`undefined`
+: A primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are no actual arguments.&nbsp;[‡](#m-undefined)
 
 Underscore hack
 : → Star hack
 
 Unicode
-: @@
+: A computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard is maintained by the Unicode Consortium, and as of May 2019 the most recent version, Unicode 12.1, contains a repertoire of 137,994 characters (consisting of 137,766 graphic characters, 163 format characters, and 65 control characters) covering 150 modern and historic scripts, as well as multiple symbol sets and emoji. The character repertoire of the Unicode Standard is synchronized with ISO/IEC 10646, and both are code-for-code identical.&nbsp;[†](#w-unicode)
+
+Unicode Consortium
+: A 501(c)(3) non-profit organization whose primary purpose is to maintain and publish the Unicode Standard which was developed with the intention of replacing existing character encoding schemes which are limited in size and scope, and are incompatible with multilingual environments. The Consortium describes its overall purpose "to enable people around the world to use computers in any language, by providing freely available specifications and data to form the foundation for software internationalization in all major operating systems, search engines, applications, and the World Wide Web." Unicode's success at unifying character sets has led to its widespread adoption in the internationalization and localization of software. The standard has been implemented in many recent technologies, including XML, the Java programming language, Swift, and modern operating systems. The Unicode Consortium was founded in 1991.&nbsp;[†](#w-unicode-consortium) ℹ︎&nbsp;[unicode.org](https://unicode.org/)
 
 Unified Modeling Language
-: @@
+: A general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system. The creation of UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design. It was developed in 1994/1995 by Grady Booch, Ivar Jacobson, and James Rumbaugh.&nbsp;[†](#w-uml) ℹ︎&nbsp;[uml.org](https://www.uml.org/)
 
 Uniform Resource Identifier
 : @@
