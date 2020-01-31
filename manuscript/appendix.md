@@ -739,6 +739,7 @@ This book uses material from the following Wikipedia articles:
 * [URL](https://en.wikipedia.org/wiki/URL){#w-url}
 * [URL redirection](https://en.wikipedia.org/wiki/URL_redirection){#w-redirect}
 * [Usability](https://en.wikipedia.org/wiki/Usability){#w-usability}
+* [Usability inspection](https://en.wikipedia.org/wiki/Usability_inspection){#w-usability-inspection}
 * [Usability testing](https://en.wikipedia.org/wiki/Usability_testing){#w-usability-testing}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
