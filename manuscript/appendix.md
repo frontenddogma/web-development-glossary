@@ -861,7 +861,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){#m-strict-mode}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}
-* [this]()https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this{#m-this}
+* [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this){#m-this}
 * [Time to interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive){#m-tti}
 * [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
