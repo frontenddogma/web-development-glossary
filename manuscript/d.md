@@ -3,8 +3,14 @@
 /dev/null
 : → Null device
 
+D3.js
+: A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HTML, and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
+
 Daemon
 : A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
+
+Daily Active Users
+: → Active Users
 
 Daily Scrum
 : A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day. A Daily Scrum is not necessarily a “stand-up.”
@@ -39,6 +45,9 @@ Data Query Language
 Data Stream Management System
 : A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers a flexible query processing so that the information need can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
 
+Data type
+: → Type
+
 Data visualization
 : The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect change in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
 
@@ -53,6 +62,9 @@ Database language
 
 Database Management System
 : A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometime extended to indicated the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+
+DAU
+: → Daily Active Users
 
 DBMS
 : → Database Management System
@@ -108,6 +120,9 @@ Demilitarized Zone
 Denial of Service
 : A cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.&nbsp;[†](#w-dos)
 
+Deno
+: A runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created in 2018 by Ryan Dahl, original creator of Node.js, and is focused on security and productivity. Deno explicitly takes on the role of both runtime and package manager within a single executable, rather than requiring a separate package-management program.&nbsp;[†](#w-deno) ℹ︎&nbsp;[deno.land](https://deno.land/)
+
 Dependency
 : → Coupling
 
@@ -156,6 +171,9 @@ DevOps
 
 DHTML
 : → Dynamic HTML
+
+Dialog box
+: A graphical control element in the form of a small window that communicates information to the user and prompts them for a response. Dialog boxes are classified as “modal” or “modeless,” depending on whether they block interaction with the software that initiated the dialog. The type of dialog box displayed is dependent upon the desired user interaction.&nbsp;[†](#w-dialog-box)
 
 Digital Rights Management
 : A set of access control technologies for restricting the use of proprietary hardware and copyrighted works. DRM technologies try to control the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems within devices that enforce these policies. The use of digital rights management is not universally accepted.&nbsp;[†](#w-drm)
@@ -214,6 +232,9 @@ DOM
 
 Domain
 : An administrative grouping of multiple private computer networks or hosts within the same infrastructure. Domains can be identified using a domain name; domains which need to be accessible from the public Internet can be assigned a globally unique name within the Domain Name System (DNS).&nbsp;[†](#w-domain)
+
+Domain expert
+: → Subject-Matter Expert
 
 Domain name
 : An identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site, or the web site itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)

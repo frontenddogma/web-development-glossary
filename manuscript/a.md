@@ -34,7 +34,7 @@ Accelerated Mobile Pages
 : A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
 
 Acceptance testing
-: @@
+: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system (for example: a piece of software, lots of manufactured mechanical parts, or batches of chemical products) prior to its delivery. In software testing the ISTQB defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers, or other authorized entity to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
 : The selective restriction of access to a place or other resource while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
@@ -63,6 +63,9 @@ ActionScript
 Active Server Pages
 : A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
 
+Active Users
+: A performance metric for the success of an internet product such as a social networking service, online game, or mobile app. It measures how many users visit or interact with the product or service over a given interval. This metric is commonly assessed per month as monthly active users (MAU), per week as weekly active users (WAU), or per day as daily active users (DAU).&nbsp;[†](#w-active-users)
+
 Adaptive
 : An aspect of or synonym for Agile development.
 
@@ -83,6 +86,9 @@ ADT
 
 Advanced Package Tool
 : A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages.&nbsp;[†](#w-apt)
+
+Affordance
+: Those action possibilities that are readily perceivable by an actor, that is, an affordance suggests how an object may be interacted with. For example, an underlined word on a web page has the affordance of being clickable.&nbsp;[†](#w-affordance)
 
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
@@ -205,7 +211,7 @@ ARIA roles
 : A set of predefined names that can be used to specify the meaning and purpose of markup elements. Roles can cover abstract use cases, widgets, document structure, landmarks, live regions, and windows, and are set using the `role` attribute.
 
 Arrange, Act, Assert
-: A pattern @@
+: A pattern to organize test methods by.
 
 Array
 : A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple. The simplest type of data structure is a linear array, also called one-dimensional array.&nbsp;[†](#w-array)

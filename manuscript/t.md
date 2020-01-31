@@ -93,7 +93,7 @@ Temporal Dead Zone
 : In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, as that results in a reference error. The TDZ encourages to always a declare a variable before using it.
 
 Ten-second rule
-: @@
+: A rough limit for user attention. After ten seconds, the probability is deemed to increase that users start to engage in other activities, or abandon a process or site.
 
 Terminal
 : → Console
@@ -105,7 +105,7 @@ Tesler’s Law
 : An adage in human–computer interaction stating that every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction. This poses the question of who should be exposed to the complexity. For example, should a software developer add complexity to the software code to make the interaction simpler for the user or should the user deal with a complex interface so that the software code can be simple?&nbsp;[†](#w-teslers-law)
 
 Test pyramid
-: @@
+: A concept by which unit tests, service tests, and UI tests, when drawn in comparison to their desired number and suspected cost (from many cheap unit tests to few expensive UI tests), form a pyramid. The test (automation) period is attributed to Mike Cohn, who wrote about it in 2009.
 
 Test-Driven Development
 : A software development process that relies on the repetition of a very short development cycle: Requirements are turned into very specific test cases, then the code is improved so that the tests pass. This is opposed to software development that allows code to be added that is not proven to meet requirements. Test-driven development is related to the test-first programming concepts of extreme programming, begun in 1999, but more recently has created more general interest in its own right.&nbsp;[†](#w-tdd)
@@ -132,7 +132,7 @@ Thread
 : The smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources. In particular, the threads of a process share its executable code and the values of its dynamically allocated variables and non-thread-local global variables at any given time.&nbsp;[†](#w-thread)
 
 Three-click rule
-: @@
+: An unofficial, debunked web design rule concerning the design of website navigation. The three-click rule suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within the three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
 Time box
 : A fixed time period.
@@ -226,7 +226,7 @@ Tree-shaking
 : A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like Dart, JavaScript, or TypeScript into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is succinctly described as "live code inclusion."&nbsp;[†](#w-tree-shaking)
 
 Trident
-: @@
+: A proprietary browser engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft. Trident was first introduced with the release of Internet Explorer version 4.0 in 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies. In the Microsoft Edge browser, Trident was superseded by its fork, EdgeHTML.&nbsp;[†](#w-trident)
 
 Trust on First Use
 : A security model used by client software which needs to establish a trust relationship with an unknown or not-yet-trusted endpoint. In a TOFU model, the client will try to look up the endpoint's identifier, usually some kind of public key, in its local trust database. If no identifier exists yet for the endpoint, the client software will either prompt the user to determine if the client should trust the identifier or it will simply trust the identifier which was given and record the trust relationship into its trust database. If a different identifier is received in subsequent connections to the endpoint the client software will consider it to be untrusted. The TOFU approach can be used when connecting to arbitrary or unknown endpoints which do not have a trusted third party such as a certificate authority.&nbsp;[†](#w-tofu)
@@ -238,7 +238,7 @@ TrustRank
 : An algorithm that conducts link analysis to separate useful webpages from spam and helps search engine rank pages in SERPs (Search Engine Results Pages). It is semi-automated process which means that it needs some human assistance in order to function properly. Search engines have many different algorithms and ranking factors that they use when measuring the quality of webpages, including TrustRank.&nbsp;[†](#w-trustrank)
 
 Try catch
-: @@
+: A particular exception handling statement (`try`… `catch`) that marks a block of statements to try and specifies a response should an exception be thrown. `try` can also be accompanied by a `finally` statement.&nbsp;[‡](#m-try-catch)
 
 TTFB
 : → Time to First Byte
@@ -253,16 +253,19 @@ TUFU
 : → Trust Upon First Use
 
 Turbo pages
-: @@
+: A website publishing technology based on feed syndication, developed by Yandex. Turbo pages was introduced in 2017. ℹ︎&nbsp;[tech.yandex.com/turbo](https://tech.yandex.com/turbo/)
 
 Type
-: @@
+: An attribute of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters and booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e. variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)
+
+Type coercion
+: → Type conversion
 
 Type conversion
-: @@
+: A way of changing an expression from one data type to another. An example would be the conversion of an integer value into a floating point value or its textual representation as a string, and vice versa. Type conversions can take advantage of certain features of type hierarchies or data representations. Two important aspects of a type conversion are whether it happens implicitly (automatically) or explicitly, and whether the underlying data representation is converted from one representation into another, or a given representation is merely reinterpreted as the representation of another data type. In general, both primitive and compound data types can be converted.&nbsp;[†](#w-type-conversion)
 
 Type design
-: @@
+: The art and process of designing typefaces. Type design is often used synonymously with the term “font design”; technically, font design is the rendering of a typeface design into an entire available family of keyboardable characters, while typeface design is the shaping of individual glyphs, albeit with an eye to the eventual incorporation as a font.&nbsp;[†](#w-type-design) 
 
 Type I error
 : → False positive
@@ -271,15 +274,15 @@ Type II error
 : → False negative
 
 Type system
-: @@
+: A set of rules that assigns a property called type to the various constructs of a computer program, such as variables, expressions, functions, or modules. These types formalize and enforce the otherwise implicit categories the programmer uses for algebraic data types, data structures, or other components. The main purpose of a type system is to reduce possibilities for bugs in computer programs by defining interfaces between different parts of a computer program, and then checking that the parts have been connected in a consistent way. This checking can happen statically (at compile time), dynamically (at run time), or as a combination of both. Type systems have other purposes as well, such as expressing business rules, enabling certain compiler optimizations, allowing for multiple dispatch, providing a form of documentation, etc.&nbsp;[†](#w-type-system)
 
 Typeface
 : The overall design of lettering, whose design can include variations, such as extra bold, bold, regular, light, italic, condensed, extended, etc. Each of these variations of the typeface is a font. Every typeface is a collection of glyphs, each of which represents an individual letter, number, punctuation mark, or other symbol. Not to be confused with a font; before the advent of digital typography and desktop publishing, the two terms had more clearly understood meanings.&nbsp;[†](#w-typeface)
 
 TypeScript
-: @@
+: A programming language developed and maintained by Microsoft. TypeScript is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side execution (as with Node.js or Deno). TypeScript supports definition files that can contain type information of existing JavaScript libraries. This enables other programs to use the values defined in the files as if they were statically typed TypeScript entities. There are third-party header files for popular libraries such as jQuery, MongoDB, and D3.js. TypeScript headers for the Node.js basic modules are also available, allowing development of Node.js programs within TypeScript. The TypeScript compiler is itself written in TypeScript and compiled to JavaScript. TypeScript was first released in 2012.&nbsp;[†](#w-typescript) ℹ︎&nbsp;[typescriptlang.org](https://www.typescriptlang.org/)
 
 Typography
-: @@
+: The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/t.md) and become a glossary&nbsp;contributor!

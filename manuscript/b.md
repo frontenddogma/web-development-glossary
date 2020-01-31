@@ -86,7 +86,7 @@ Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
 
 Black-box testing
-: @@
+: A method of software testing that examines the functionality of an application without peering into its internal structures or workings. This method of test can be applied virtually to every level of software testing: unit, integration, system, and acceptance. Black-box testing is sometimes referred to as specification-based testing.&nbsp;[†](#w-black-box-testing)
 
 Blacklist
 : A basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned. Those items on the list are denied access. The opposite of a blacklist is a whitelist.&nbsp;[†](#w-blacklist)

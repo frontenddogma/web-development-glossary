@@ -102,13 +102,16 @@ Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
 Infinite scrolling
-: @@
+: The dynamic loading of additional page content, usually when a user starts scrolling, so that it seems as if one could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of the page that cannot be reached because of continued adding of contents.
 
 Information Architecture
 : The structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
 Information Design
 : The practice of presenting information in a way that fosters an efficient and effective understanding of the information. The term has come to be used for a specific area of graphic design related to displaying information effectively, rather than just attractively or for artistic expression. Information design is closely related to the field of data visualization. The broad applications of information design along with its close connections to other fields of design and communication practices have created some overlap in the definitions of communication design, data visualization, and information architecture.&nbsp;[†](#w-information-design)
+
+Information foraging
+: A theory that applies the ideas from optimal foraging theory to understand how human users search for information. The theory is based on the assumption that, when searching for information, humans use “built-in” foraging mechanisms that evolved to help our animal ancestors find food. Importantly, better understanding of human search behaviour can improve the usability of websites or any other user interface.&nbsp;[†](#w-information-foraging)
 
 Information overload
 : The difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. Generally, the term is associated with the excessive quantity of daily information. Information overload most likely originated from information theory, which are studies in the storage, preservation, communication, compression, and extraction of information.&nbsp;[†](#w-information-overload)
@@ -117,7 +120,7 @@ Information retrieval
 : The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.&nbsp;[†](#w-information-retrieval)
 
 Information scent
-: @@
+: Cues in the information environment pointing to possible answers. Human users estimate how much useful information they are likely to get on a given path, and after seeking information compare the actual outcome with their predictions. When the information scent stops getting stronger (i.e., when users no longer expect to find useful additional information), the users move to a different information source. Poor information scent is one reason for the ineffectiveness of “(click) here” or “(learn) more” links.&nbsp;[†](#w-information-foraging)
 
 Information Security
 : The practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
@@ -191,6 +194,11 @@ Interactive Advertising Bureau
 Interactive content
 : Content that is specifically intended for user interaction.&nbsp;§
 
+Interface
+: A shared boundary across which two or more separate components of a computer system exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, and combinations of these. Some computer hardware devices, such as a touchscreen, can both send and receive data through the interface, while others such as a mouse or microphone may only provide an interface to send data to a given system.&nbsp;[†](#w-interface)
+: → Graphical User Interface
+: → User Interface
+
 Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
@@ -249,7 +257,7 @@ Intersection Observer
 : An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing the browser and the sites the user is accessing to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
 
 Interstitial
-: @@
+: A web page displayed before or after an expected content page, often to display advertisements or confirm the user's age (prior to showing age-restricted material). Interstitial advertisements are usually delivered by an ad server.&nbsp;[†](#w-interstitial)
 
 Intrinsic size
 : The size an element would be based on its content, if no external factors were applied to it. For example, inline elements are sized intrinsically: `width`, `height`, and vertical margin and padding have no impact.&nbsp;[‡](#m-intrinsic-size)

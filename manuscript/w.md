@@ -21,6 +21,9 @@ WaSP
 Waterfall
 : A breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks. The approach is typical for certain areas of engineering design. In software development, it tends to be among the less iterative and flexible approaches, as progress flows in largely one direction (“downwards” like a waterfall).&nbsp;[†](#w-waterfall)
 
+WAU
+: → Weekly Active Users
+
 WCAG
 : → Web Content Accessibility Guidelines
 
@@ -161,6 +164,9 @@ Website
 
 WebSocket
 : @@
+
+Weekly Active Users
+: → Active Users
 
 WET
 : The opposite of DRY.

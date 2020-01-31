@@ -378,6 +378,12 @@ Convention over Configuration
 Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
+Cookie banner
+: A web page notification alerting and informing about respective site’s use of cookies. Cookie banners are common on European websites because of European regulation around the use of cookies.
+
+Cookie consent
+: The agreement to but also a term for the necessity for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
+
 CoP
 : → Community of Practice
 

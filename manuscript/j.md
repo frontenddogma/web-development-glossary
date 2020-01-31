@@ -79,6 +79,9 @@ JSLint
 JSON
 : → JavaScript Object Notation
 
+JSON Feed
+: A web feed file format for web syndication in JSON instead of XML, as used by RSS and Atom.&nbsp;[†](#w-json-feed) ℹ︎&nbsp;[jsonfeed.org](https://jsonfeed.org/)
+
 JSON Web Encryption
 : An IETF standard providing a standardised syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC 7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
 

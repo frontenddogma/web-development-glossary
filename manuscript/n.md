@@ -22,7 +22,7 @@ Native
 : Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it’s using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
 Navigation
-: @@
+: A menu UI element for website navigation.
 : The process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia. The user interface that is used to do so is called a web browser. A central theme in web design is the development of a web navigation interface that maximizes usability.&nbsp;[†](#w-navigation)
 
 Navigator

@@ -13,7 +13,7 @@ Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops.&nbsp;[‡](#m-falsy)
 
 Fat footer
-: @@
+: A footer UI element but with a substantial amount of content and links. A “fat footer” stands in contrast to a minimal web page footer consisting only basic navigation aids (like a home link) and meta information (like legal notice and contact information).
 
 Favicon
 : A file containing one or more small icons, associated with a particular website or web page. Browsers that provide favicon support typically display a page’s favicon in the browser’s address bar (sometimes in the history as well) and next to the page’s name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page’s favicon next to the page’s title on the tab, and site-specific browsers use the favicon as a desktop icon.&nbsp;[†](#w-favicon)
@@ -28,7 +28,7 @@ Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
 
 Feed
-: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media.&nbsp;[†](#w-feed)
+: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
 Feed reader
 : → News aggregator

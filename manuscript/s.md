@@ -470,7 +470,7 @@ Structured Query Language
 : A domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). SQL is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. Although SQL is essentially a declarative language (4GL), it includes also procedural elements. SQL was first mentioned in 1974, and became a standard of the American National Standards Institute (ANSI) in 1986.&nbsp;[†](#w-sql)
 
 Stub
-: @@
+: A piece of code used to stand in for some other programming functionality. A stub may simulate the behavior of existing code (such as a procedure on a remote machine, such methods are often called mocks) or be a temporary substitute for yet-to-be-developed code. Stubs are therefore most useful in porting, distributed computing as well as general software development and testing.&nbsp;[†](#w-stub)
 
 Style guide
 : Structured documentation for design particles, elements, and components. May be part of a design system.
@@ -485,13 +485,13 @@ Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
 
 Subject-Matter Expert
-: @@
+: A person who is an authority in a particular area or topic. The term domain expert is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavour (e.g. an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
 
 Subnav
 : → Subnavigation
 
 Subnavigation
-: @@
+: A secondary or auxiliary website navigation menu. Visually, a subnavigation is usually less prominent than a main navigation menu.
 
 Subroutine
 : → Routine

@@ -2,13 +2,11 @@
 
 @@
 
-The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development terms and concepts. The Glossary covers some basics.
-
-The Glossary is _very_ mildly opinionated. 
+The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development (and even software development) terms and concepts. The Glossary covers some basics.
 
 The Glossary is not perfect. Please help!
 
-Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The Glossary goes beyond “just” web development.
+Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The Glossary goes beyond “just” web development, and thus nudges to be curious about and familiar with the neighboring fields.
 
 Case, hyphenation, treatment of synonyms may be inconsistent. That reflects reality but is of concern for future updates of the book. [Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is also on the agenda.
 
