@@ -58,7 +58,7 @@ Web content
 : The textual, visual, or aural content that is encountered as part of the user experience on websites. It may include—among other things—text, images, sounds, videos, and animations.&nbsp;[†](#w-web-content)
 
 Web Content Accessibility Guidelines
-: @@ ℹ︎&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
+: A part of a series of web accessibility guidelines published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C). WCAG are a set of recommendations for making Web content more accessible, primarily for people with disabilities, but also for user agents, including highly limited devices, such as mobile phones. WCAG 1.0 became a W3C Recommendation in 1999. ℹ︎&nbsp;[w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/)
 
 Web design
 : @@

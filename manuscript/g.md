@@ -18,11 +18,14 @@ Gecko
 General Data Protection Regulation
 : A regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). The GDPR also addresses the transfer of personal data outside the EU and EEA areas. It aims primarily to give control to individuals over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU. Superseding the Data Protection Directive 95/46/EC, the regulation contains provisions and requirements related to the processing of personal data of individuals (formally called data subjects in the GDPR) who reside in the EEA, and applies to any enterprise—regardless of its location and the data subjects’ citizenship or residence—that is processing the personal information of data subjects inside the EEA.&nbsp;[†](#w-gdpr) ℹ︎&nbsp;[gdpr-info.eu](https://gdpr-info.eu/)
 
+General Image Manipulation Program
+: → GIMP
+
 GIF
 : → Graphics Interchange Format
 
 GIMP
-: @@ ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
+: A raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. Gimp was first released in 1986. ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
 
 Git
 : A distributed version-control system for tracking changes in source code during software development. Git is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. As with most other distributed version-control systems, and unlike most client-server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server. Git was created by Linus Torvalds in 2005.&nbsp;[†](#w-git) ℹ︎&nbsp;[git-scm.com](https://git-scm.com/)

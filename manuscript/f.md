@@ -39,9 +39,6 @@ FID
 FIFO
 : → First In, First Out
 
-Figma
-: @@ ℹ︎&nbsp;[figma.com](https://www.figma.com/)
-
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 

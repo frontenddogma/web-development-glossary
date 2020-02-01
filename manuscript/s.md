@@ -18,6 +18,9 @@ Scalable and Modular Architecture for CSS
 Scalable Vector Graphics
 : An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999. SVG images and their behaviors are defined in XML text files. This means that they can be searched, indexed, scripted, and compressed. ℹ︎&nbsp;[w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
 
+Scalar
+: → Variable
+
 Scaled Scrum
 : → Nexus
 
@@ -235,7 +238,7 @@ Sitemaps
 : A protocol that allows to inform search engines about URLs on a website that are available for crawling. A Sitemap is an XML file that lists the URLs for a site. It allows webmasters to include additional information about each URL: when it was last updated, how often it changes, and how important it is in relation to other URLs in the site. This allows search engines to crawl the site more efficiently and to find URLs that may be isolated from rest of the site’s content. The sitemaps protocol is a URL inclusion protocol and complements robots.txt, a URL exclusion protocol. The Sitemaps protocol was first released in 2005.&nbsp;[†](#w-sitemaps) ℹ︎&nbsp;[sitemaps.org](https://www.sitemaps.org/)
 
 Sketch
-: @@ ℹ︎&nbsp;[sketch.com](https://www.sketch.com/)
+: A vector graphics editor. Sketch is primarily a UI and UX designing tool for website and mobile app design, but focus has been increased on prototyping and collaboration to make it a more comprehensive platform for digital design. Sketch was first released in 2010 for macOS. ℹ︎&nbsp;[sketch.com](https://www.sketch.com/)
 
 Skin
 : → Theme

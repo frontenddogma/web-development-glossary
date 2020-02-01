@@ -172,6 +172,7 @@ This book uses material from the following Wikipedia articles:
 * [Data manipulation language](https://en.wikipedia.org/wiki/Data_manipulation_language){#w-dml}
 * [Data stream management system](https://en.wikipedia.org/wiki/Data_stream_management_system){#w-dsms}
 * [Data type](https://en.wikipedia.org/wiki/Data_type){#w-data-type}
+* [Data validation](https://en.wikipedia.org/wiki/Data_validation){#w-validation}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
@@ -756,12 +757,17 @@ This book uses material from the following Wikipedia articles:
 * [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}
 * [UTF-16](https://en.wikipedia.org/wiki/UTF-16){#w-utf-16}
 * [UTF-32](https://en.wikipedia.org/wiki/UTF-32){#w-utf-32}
-* [](){} @@
+* [Validator](https://en.wikipedia.org/wiki/Validator){#w-validator}
+* [Value (computer science)](https://en.wikipedia.org/wiki/Value_(computer_science)){#w-value}
+* [Variable (computer science)](https://en.wikipedia.org/wiki/Variable_(computer_science)){#w-variable}
+* [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics){#w-vector-image}
+* [Velocity (software development)](https://en.wikipedia.org/wiki/Velocity_(software_development)){#w-velocity}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
+* [](){} @@
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
