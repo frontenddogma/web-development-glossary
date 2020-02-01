@@ -762,7 +762,9 @@ This book uses material from the following Wikipedia articles:
 * [Variable (computer science)](https://en.wikipedia.org/wiki/Variable_(computer_science)){#w-variable}
 * [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics){#w-vector-image}
 * [Velocity (software development)](https://en.wikipedia.org/wiki/Velocity_(software_development)){#w-velocity}
-* [Version control](https://en.wikipedia.org/wiki/Version_control){#w-cl}
+* [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation){#w-verification}
+* [Version control](https://en.wikipedia.org/wiki/Version_control){#w-version-control}
+* [vi](https://en.wikipedia.org/wiki/Vi){#w-vi}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
@@ -901,6 +903,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
 * [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined){#m-undefined}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
+* [Vendor Prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix){#m-vendor-prefix}
 * [](){} @@
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 

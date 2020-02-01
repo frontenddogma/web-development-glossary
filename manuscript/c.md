@@ -77,7 +77,7 @@ Chaining
 : The calling of several methods after another on an object.
 
 Change list
-: The set of changes made in a single commit. This can also represent a sequential view of the source code, allowing the examination of source “as of” any particular changelist ID.&nbsp;[†](#w-cl)
+: The set of changes made in a single commit. This can also represent a sequential view of the source code, allowing the examination of source “as of” any particular changelist ID.&nbsp;[†](#w-version-control)
 
 Change set
 : → Change list
