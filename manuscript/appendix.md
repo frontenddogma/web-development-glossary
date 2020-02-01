@@ -544,7 +544,7 @@ This book uses material from the following Wikipedia articles:
 * [Perl](https://en.wikipedia.org/wiki/Perl){#w-perl}
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
 * [Persona (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)){#w-persona}
-* [PhantomJS]()https://en.wikipedia.org/wiki/PhantomJS{#w-phantomjs}
+* [PhantomJS](https://en.wikipedia.org/wiki/PhantomJS){#w-phantomjs}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
