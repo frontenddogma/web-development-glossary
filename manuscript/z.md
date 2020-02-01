@@ -10,7 +10,7 @@ Zero-indexed
 : → Zero-based indexing
 
 ZIP
-: An archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed. The ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. ZIP was releasedin 1989 by Phil Katz.&nbsp;[†](#w-zip)
+: An archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed. The ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. ZIP was released in 1989 by Phil Katz.&nbsp;[†](#w-zip)
 
 Zsh
 : → Z shell

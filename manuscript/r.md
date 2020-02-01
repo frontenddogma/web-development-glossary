@@ -1,7 +1,7 @@
 # R
 
 Race condition
-: The condition of an electronics, software, or other system where the system’s substantive behavior is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when one or more of the possible behaviors is undesirable. A race condition can be difficult to reproduce and debug because the end result is nondeterministic and depends on the relative timing between interfering threads. Problems that occur when using systems can therefore disappear when running in debug mode, when additional logging is added, or when attaching a debugger, often referred to as a “Heisenbug.” It is therefore better to avoid race conditions by careful software design. The term “race condition” was already in use by 1954.&nbsp;[†](#w-race-condition)
+: The condition of an electronics, software, or other system where the system’s substantive behavior is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when one or more of the possible behaviors is undesirable. A race condition can be difficult to reproduce and debug because the end result is non-deterministic and depends on the relative timing between interfering threads. Problems that occur when using systems can therefore disappear when running in debug mode, when additional logging is added, or when attaching a debugger, often referred to as a “Heisenbug.” It is therefore better to avoid race conditions by careful software design. The term “race condition” was already in use by 1954.&nbsp;[†](#w-race-condition)
 
 Rails
 : → Ruby on Rails
@@ -146,13 +146,13 @@ REPL
 : → Read-Eval-Print Loop
 
 Replaced element
-: An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document’s styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have stylesheets of their own, but they do not inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`.&nbsp;[‡](#m-replaced-element)
+: An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document’s styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have style sheets of their own, but they do not inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`.&nbsp;[‡](#m-replaced-element)
 
 Representational State Transfer
 : A group of software architecture design constraints that bring about efficient, reliable, and scalable distributed systems. A system is called RESTful when it adheres to those constraints. The basic idea of REST is that a resource, e.g. a document, is transferred with its state and relationships (hypertext) via well-defined, standardized operations and formats. Often APIs or services call themselves RESTful when they directly modify a type of document as opposed to triggering actions elsewhere.&nbsp;[‡](#m-rest)
 
 Request
-: In HTTP, a client’s message to a server soliciting a response. A request message consists of a request line (e.g., `GET /images/logo.png HTTP/1.1`, which requests a resource called /images/logo.png from the server), request header fields (e.g., `Accept-Language: en`), an empty line, and an an optional message body.&nbsp;[†](#w-http)
+: In HTTP, a client’s message to a server soliciting a response. A request message consists of a request line (e.g., `GET /images/logo.png HTTP/1.1`, which requests a resource called /images/logo.png from the server), request header fields (e.g., `Accept-Language: en`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
 Request for Comments
 : A type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors. The RFC system is supported by the Internet Society (ISOC). An RFC is authored by engineers and computer scientists in the form of a memorandum describing methods, behaviors, research, or innovations applicable to the working of the Internet and Internet-connected systems. It is submitted either for peer review or to convey new concepts, information, or occasionally engineering humor. The IETF adopts some of the proposals published as RFCs as Internet Standards.&nbsp;[†](#w-rfc)
@@ -314,7 +314,7 @@ Rule set
 RUM
 : → Real User Monitoring
 
-Run-time compilation
+Runtime compilation
 : → Just-in-time compilation
 
 RWD

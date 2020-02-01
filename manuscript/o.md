@@ -86,7 +86,7 @@ OS
 : → Operating System
 
 OSI Model
-: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI Model was first in defined in 1978.&nbsp;[†](#w-osi-model)
+: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI Model was first defined in 1978.&nbsp;[†](#w-osi-model)
 
 OTA
 : → Over the Air

@@ -241,7 +241,7 @@ Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
 
 Assistive Technology Service Provider Interface
-: A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. It is the de facto standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project.&nbsp;[†](#w-at-spi)
+: A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. It is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project.&nbsp;[†](#w-at-spi)
 
 Association for Computing Machinery
 : An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) ℹ︎&nbsp;[acm.org](https://www.acm.org/)
@@ -250,7 +250,7 @@ Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
 
 Asynchronous Module Definition
-: A specification for the JavaScript programming language. AMD defines an application programming interface (API) that defines code module and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed, and fewer page errors, because AMD implementations allow developers to define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
+: A specification for the JavaScript programming language. AMD defines an application programming interface (API) that defines code modules and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed, and fewer page errors, because AMD implementations allow developers to define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
 
 Asynchronous JavaScript and XML
 : A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
@@ -277,7 +277,7 @@ Atomic CSS
 : A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
 
 Attribute
-: A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered meta data.&nbsp;[†](#w-attribute)
+: A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
 
 Attribute minimization
 : The valid option for a Boolean attribute not to have a value if it’s set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; that is, `checked` would be required to be written `checked="checked"`.
@@ -298,7 +298,7 @@ Automagic
 : A blend of “automatic” and “magic,” referring to an action that’s performed automatically but also in a way as to seem magical.
 
 Automatic Semicolon Insertion
-: A ECMAScript feature in which a semicolon is automatically inserted when two statements are separated by a line ending or a closing brace (`}`), or if a line ending follows either of `break`, `continue`, `return`, or `throw` (restricted production).
+: An ECMAScript feature in which a semicolon is automatically inserted when two statements are separated by a line ending or a closing brace (`}`), or if a line ending follows either of `break`, `continue`, `return`, or `throw` (restricted production).
 
 Automation
 : A technology by which a process or procedure is performed with minimal human assistance. Automation or automatic control is the use of various control systems for operating equipment.&nbsp;[†](#w-automation)

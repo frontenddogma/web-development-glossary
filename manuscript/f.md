@@ -28,7 +28,7 @@ Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
 
 Feed
-: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe a channel to it by adding the feed resource address to news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (webpage content) or links to webpages and other kinds of digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
+: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and other kinds of digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
 Feed reader
 : → News aggregator
@@ -234,7 +234,7 @@ FTP
 : → File Transfer Protocol
 
 Fugu
-: A Google project designed to close the capabilities gab between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[chromium.org/teams/web-capabilities-fugu](https://www.chromium.org/teams/web-capabilities-fugu)
+: A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[chromium.org/teams/web-capabilities-fugu](https://www.chromium.org/teams/web-capabilities-fugu)
 
 Full Service
 : A web agency term for the capabilities to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
@@ -250,7 +250,7 @@ Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
 
 Function binding
-: The creating of a new function using the `bind()` method.
+: The creation of a new function using the `bind()` method.
 
 Functional testing
 : A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes _what_ the system does.&nbsp;[†](#w-functional-testing)

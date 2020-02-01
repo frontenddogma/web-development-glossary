@@ -43,13 +43,13 @@ Data Query Language
 : → Query language
 
 Data Stream Management System
-: A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers a flexible query processing so that the information need can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
+: A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers a flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
 
 Data type
 : → Type
 
 Data visualization
-: The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect change in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
+: The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
 
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
@@ -61,7 +61,7 @@ Database language
 : → Query language
 
 Database Management System
-: A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometime extended to indicated the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+: A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometimes extended to indicate the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
 
 DAU
 : → Daily Active Users
@@ -103,7 +103,7 @@ Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plaintext.&nbsp;[†](#w-cryptography)
 
 Deep Web
-: Parts of the World Wide Web whose contents are not indexed by standard web search-engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. Computer-scientist Michael K. Bergman is credited with coining the term “deep web” in 2001 as a search-indexing term. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social-media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video on demand and some online magazines and newspapers.&nbsp;[†](#w-deep-web)
+: Parts of the World Wide Web whose contents are not indexed by standard web search-engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. Computer-scientist Michael K. Bergman is credited with coining the term “deep web” in 2001 as a search-indexing term. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social-media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video on demand as well as online magazines and newspapers.&nbsp;[†](#w-deep-web)
 
 Defect
 : → Bug
@@ -157,7 +157,7 @@ Developer Experience
 : The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 
 Developer Tools
-: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
+: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
 : A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). ℹ︎&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
 
 Development Team
@@ -185,13 +185,13 @@ Display advertising
 : Graphic advertising on Internet websites, apps, or social media through banners or other advertising formats made of text, images, Flash, video, and audio. The main purpose of display advertising is to deliver general advertisements and brand messages to site visitors.&nbsp;[†](#w-display-advertising)
 
 Display resolution
-: The number of distinct pixels in each dimension that can be displayed. It can be an ambiguous term especially as the displayed resolution is controlled by different factors in cathode ray tube (CRT) displays, flat-panel displays (including liquid-crystal displays) and projection displays using fixed picture-element (pixel) arrays. It is usually quoted as width × height, with the units in pixels; for example, 1024×768 means the width is 1024 pixels and the height is 768 pixels. For device displays such as phones, tablets, monitors, and televisions, the use of the word resolution as defined is a misnomer, though common. The term display resolution is usually used to mean pixel dimensions which does not tell anything about the pixel density of the display on which the image is actually formed: Resolution properly refers to the pixel density, the number of pixels per unit distance or area, not total number of pixels. In digital measurement, the display resolution would be given in pixels per inch (PPI).&nbsp;[†](#w-resolution)
+: The number of distinct pixels in each dimension that can be displayed. It can be an ambiguous term especially as the displayed resolution is controlled by different factors in cathode ray tube (CRT) displays, flat-panel displays (including liquid-crystal displays) and projection displays using fixed picture-element (pixel) arrays. It is usually quoted as width × height, with the units in pixels; for example, 1024×768 means the width is 1024 pixels and the height is 768 pixels. For device displays such as phones, tablets, monitors, and televisions, the use of the word resolution as defined is a misnomer, though common. The term display resolution is usually used to mean pixel dimensions which does not tell anything about the pixel density of the display on which the image is actually formed: Resolution properly refers to the pixel density, the number of pixels per unit distance or area, not the total number of pixels. In digital measurement, the display resolution would be given in pixels per inch (PPI).&nbsp;[†](#w-resolution)
 
 Distributed Concurrent Versions System
 : A distributed revision control system that enables software developers working on locally distributed sites to efficiently collaborate on a software project. DCVS is based on Concurrent Versions System.&nbsp;[†](#w-dcvs)
 
 Distributed Version Control System
-: A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up of most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups.&nbsp;[†](#w-dvcs)
+: A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups.&nbsp;[†](#w-dvcs)
 
 Dither
 : An intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images. Dither is routinely used in processing of both digital audio and video data.&nbsp;[†](#w-dither)
@@ -267,7 +267,7 @@ Dot notation
 : One of two ways to access object properties in JavaScript (`objectName.propertyName`), the other being bracket notation.
 
 Dot-agnostic
-: An configuration aspect for email that allows dots (“.”) anywhere within the local-part of the email address, to still refer to the same address. That is, when dot-agnostic, jane.doe@example.com, janedoe@example.com, and j.a.n.e.d.o.e@example.com would all be the same address and reach the same recipient.
+: A configuration aspect for email that allows dots (“.”) anywhere within the local-part of the email address, to still refer to the same address. That is, when dot-agnostic, jane.doe@example.com, janedoe@example.com, and j.a.n.e.d.o.e@example.com would all be the same address and reach the same recipient.
 
 Double
 : A double-precision, 64-bit floating-point data type.
@@ -300,7 +300,7 @@ Dup
 : → Duplicate code
 
 Duplicate code
-: A sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplications in source code is called clone detection.&nbsp;[†](#w-duplicate-code)
+: A sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplication in source code is called clone detection.&nbsp;[†](#w-duplicate-code)
 
 DVCS
 : → Distributed Version Control System

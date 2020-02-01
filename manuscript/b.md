@@ -83,7 +83,7 @@ Bitmap
 : → Raster image
 
 BITV
-: German accessibility regulation. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
+: German accessibility regulations. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
 
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
@@ -255,7 +255,7 @@ Buffer
 : A storage in physical memory used to temporarily store data while it is being transferred from one place to another.&nbsp;[‡](#m-buffer)
 
 Bug
-: A error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program’s source code or its design.&nbsp;[†](#w-bug)
+: An error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program’s source code or its design.&nbsp;[†](#w-bug)
 
 Bug tracking system
 : A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems allow end-users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)

@@ -41,7 +41,7 @@ IDE
 : → Integrated Development Environment
 
 Identifier
-: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical or countable object (or class thereof), or physical or noncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
+: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
 
 IE
 : → Internet Explorer
@@ -74,7 +74,7 @@ Immediately Invoked Function Expression
 : A JavaScript function that runs as soon as it is defined. The IIFE is a design pattern which is also known as a Self-Executing Anonymous Function and contains two major parts: The first is the anonymous function with lexical scope enclosed within the Grouping Operator (`()`). This prevents accessing variables within the IIFE idiom as well as polluting the global scope. The second part creates the immediately invoked function expression (`()`) through which the JavaScript engine will directly interpret the function.&nbsp;[‡](#m-iife)
 
 Immutable
-: A property of an object whose state cannot be modified after it was created (an immutable or unchangeable object). This is in contrast to a mutable object. In some cases, an object is considered immutable even if some internally used attributes change, but the object’s state appears unchanging from an external point of view. Strings and other concrete objects are typically expressed as immutable objects to improve readability and runtime efficiency in object-oriented programming. Immutable objects are also useful because they are inherently thread-safe.&nbsp;[†](#w-immutable)
+: A property of an object whose state cannot be modified after it was created (an immutable or unchangeable object). This is in contrast to a mutable object. In some cases, an object is considered immutable even if some internally used attributes change, but the object’s state appears to be unchanging from an external point of view. Strings and other concrete objects are typically expressed as immutable objects to improve readability and runtime efficiency in object-oriented programming. Immutable objects are also useful because they are inherently thread-safe.&nbsp;[†](#w-immutable)
 
 In-App Browser
 : A browser instance in a mobile application, usually working on the basis of WebViews (Android) or WKWebViews (iOS).
@@ -132,7 +132,7 @@ Infrastructure as Code
 : The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.&nbsp;[†](#w-iac)
 
 Infrastructure as a Service
-: Online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, or backup. A hypervisor runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to varying requirements.&nbsp;[†](#w-iaas)
+: Online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, or backup. A hypervisor runs the virtual machines as guests. Pools of hypervisors within the cloud-operational system can support large numbers of virtual machines and the ability to scale services up and down according to varying requirements.&nbsp;[†](#w-iaas)
 
 Inheritance
 : The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a “child object”) acquires all the properties and behaviors of the parent object (except: constructors, destructor, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces.&nbsp;[†](#w-inheritance)

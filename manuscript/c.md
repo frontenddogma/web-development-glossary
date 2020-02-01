@@ -150,10 +150,10 @@ Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
 
 Cloaking
-: A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to the user’s browser. This can be done by delivering content based on the IP addresses or the User-Agent HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is sometimes to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
+: A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to the user’s browser. This can be done by delivering content based on the IP addresses or the User-Agent HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
 
 Clone detection
-: The automated process of finding duplications in source code.&nbsp;[†](#w-duplicate-code)
+: The automated process of finding duplication in source code.&nbsp;[†](#w-duplicate-code)
 
 Closure
 : A technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those captured variables through the closure’s copies of their values or references, even when the function is invoked outside their scope.&nbsp;[†](#w-closure)
@@ -204,7 +204,7 @@ Code golf
 : A type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that implements a certain algorithm. Playing code golf is known as “golf scripting.” Code golf tournaments may also be named with the programming language used (for example, Perl golf).&nbsp;[†](#w-code-golf)
 
 Code of Conduct
-: A set of rules outlining the norms, rules, and responsibilities of, and or proper practices for, an individual.&nbsp;[†](#w-coc)
+: A set of rules outlining the norms, rules, and responsibilities of, or proper practices for, an individual.&nbsp;[†](#w-coc)
 
 Code point
 : Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
@@ -261,7 +261,7 @@ CommonJS
 : A discontinued project with the goal to establish conventions on module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. CommonJS started in 2009, work on it ended in 2014.&nbsp;[†](#w-commonjs)
 
 Community of Practice
-: A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members’ common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunch room at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
+: A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members’ common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunchroom at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
 
 Compared to what?
 : A (or perhaps the) question data graphics must be able to answer, according to distinguished information design expert Erward Tufte.
@@ -379,7 +379,7 @@ Cookie
 : A small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
 Cookie banner
-: A web page notification alerting and informing about respective site’s use of cookies. Cookie banners are common on European websites because of European regulation around the use of cookies.
+: A web page notification alerting and informing about respective site’s use of cookies. Cookie banners are common on European websites because of European regulations around the use of cookies.
 
 Cookie consent
 : The agreement to but also a term for the necessity for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
@@ -430,7 +430,7 @@ Crontab
 : A configuration file that specifies shell commands to run periodically on a given schedule. The crontab files are stored where the lists of jobs and other instructions to the cron daemon are kept. Users can have their own individual crontab files and often there is a system-wide crontab file (usually in /etc or a subdirectory of /etc) that only system administrators can edit.&nbsp;[†](#w-cron)
 
 Cross-Origin Resource Sharing
-: A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
+: A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, style sheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
 
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)

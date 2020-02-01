@@ -16,13 +16,13 @@ Macromedia Flash
 : → Flash
 
 Mail
-: → E-Mail
+: → Email
 
 Main thread
 : The thread on which a browser processes user events and paints. By default, the browser uses a single thread to run all the JavaScript on a page, as well as to perform layout, reflows, and garbage collection. That is why long-running JavaScript functions can block the thread, leading to an unresponsive page and a bad user experience.&nbsp;[‡](#m-main-thread)
 
 Maintainability
-: The ease with which a product can be maintained in order to correct defects or their cause, repair or replace faulty or worn-out components without having to replace still working parts, prevent unexpected working condition, maximize a product’s useful life, maximize efficiency, reliability, and safety, meet new requirements, make future maintenance easier, or cope with a changed environment.&nbsp;[†](#w-maintainability)
+: The ease with which a product can be maintained in order to correct defects or their cause, repair or replace faulty or worn-out components without having to replace still working parts, prevent unexpected working conditions, maximize a product’s useful life, maximize efficiency, reliability, and safety, meet new requirements, make future maintenance easier, or cope with a changed environment.&nbsp;[†](#w-maintainability)
 
 Maintenance
 : The functional checking, servicing, repairing, or replacing of necessary devices, equipment, machinery, building infrastructure, supporting utilities, and also software in industrial, business, governmental, and residential installations. Over time, maintenance has come to include multiple wordings that describe various cost-effective practices to keep equipment operational; these activities take place either before or after a failure.&nbsp;[†](#w-maintenance)
@@ -46,7 +46,7 @@ Markup
 : → Markup language
 
 Markup language
-: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
+: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Masthead
 : A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and many other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
@@ -68,10 +68,10 @@ MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
-: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1 and RIPEMD algorithms. The initialism “MD” stands for “Message Digest.” The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
+: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The initialism “MD” stands for “Message Digest.” The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
 
 MD5
-: A widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
+: A widely used hash function that produces a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
 
 MD6
 : A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for very long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
@@ -192,7 +192,7 @@ Model View Controller
 : A software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. This kind of pattern is used for designing the layout of the page. Traditionally used for desktop graphical user interfaces (GUIs), this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.&nbsp;[†](#w-mvc)
 
 Model-View-Viewmodel
-: A software architectural pattern. MVVM facilitates a separation of development of the graphical user interface, be it via a markup language or GUI code, from development of the business logic or back-end logic (the data model). The view model of MVVM is a value converter, meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented.&nbsp;[†](#w-mvvm)
+: A software architectural pattern. MVVM facilitates a separation of the development of the graphical user interface, be it via a markup language or GUI code, from the development of the business logic or back-end logic (the data model). The view model of MVVM is a value converter, meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented.&nbsp;[†](#w-mvvm)
 
 Modernizr
 : A JavaScript library that detects the features available in a user’s browser. This lets web pages avoid unsupported features by informing the user their browser is not supported or loading a polyfill. Modernizr aims to provide feature detection in a consistent and easy to use manner that discourages the use of failure-prone browser sniffing. Modernizr was first released in 2009.&nbsp;[†](#w-modernizr) ℹ︎&nbsp;[modernizr.com](https://modernizr.com/)
@@ -204,7 +204,7 @@ Module
 : → Component
 
 Monolith
-: A single-tiered software application in which the user interface and data access code are combined into a single program from a single platform. A monolithic application is self-contained, and independent from other computing applications. In its original use, the term “monolithic” described enormous main frame applications with no usable modularity. This, in combination with rapid increase in computational power and therefore rapid increase in the complexity of the problems which could be tackled by software, resulted in unmaintainable systems and the “software crisis.”&nbsp;[†](#w-monolith)
+: A single-tiered software application in which the user interface and data access code are combined into a single program from a single platform. A monolithic application is self-contained, and independent from other computing applications. In its original use, the term “monolithic” described enormous mainframe applications with no usable modularity. This, in combination with rapid increase in computational power and therefore rapid increase in the complexity of the problems which could be tackled by software, resulted in unmaintainable systems and the “software crisis.”&nbsp;[†](#w-monolith)
 
 Monolithic application
 : → Monolith
