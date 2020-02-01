@@ -1,36 +1,34 @@
 # Introduction
 
-@@
+This is a glossary for web development.
 
-The Glossary presents important, useful, historic, and other terms and abbreviation considered or hoped or guessed relevant for web—and perhaps also software developers. 
+It contains almost 2,000 important, useful, historic, and other terms and abbreviations considered or desired relevant for web developers (and software developers).
 
-The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development (and even software development) terms and concepts. The Glossary covers some basics.
+As it was neither necessary nor desirable to define and explain each term manually, many of the terms and abbreviations are based on Wikipedia and on the Mozilla Developer Network (MDN).
 
-The Glossary is not perfect. Please help!
+The idea of the glossary is that, while not telling a story, it can indeed be read to get a comprehensive and solid overview over web development terms and concepts.
 
-Sometimes a term originates not in Web Development but in Computer Science, Information Security, (Web) Design, Project Management, or in another different but adjacent discipline. The Glossary goes beyond “just” web development, and thus nudges to be curious about and familiar with the neighboring fields.
+The terms in the glossary originate not only in Web Development but in Computer Science, (Web) Design, Project Management, Information Security, and other adjacent disciplines. The glossary goes far beyond “just” web development. It nudges to be curious about and familiar with its neighboring fields.
 
-Some software is mentioned if it was or is influential in some regard, or if mentioning is of historical import. The criteria are still blurry and therefore software may be removed and added in later revisions. Feedback on including software can help.
+## Notes
 
-Case, hyphenation, treatment of synonyms may be inconsistent. That reflects reality but is of concern for future updates of the book. [Adding examples](https://github.com/j9t/web-development-glossary-forum/issues/1) is also on the agenda.
+The terms include some specific tools and applications. These are mentioned if they were or are influential in some regard, or if mentioning is of historical import. The criteria are blurry and therefore tools and applications may be removed and added in later revisions. [Your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) can help making this of more value to you and other readers.
 
-There are certainly errors and controversy! Please [help improve the Glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN. (Work on the book has already led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t).)
+Sometimes a term or abbreviation has several meanings. Only the tech-related ones are shown.
 
-## Conventions
+Sometimes there is imprecision—is a home page really a special type of web page, but a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the terms, it is.)
 
-@@
+Case, hyphenation, and the treatment of synonyms may be inconsistent. This reflects reality—the same concepts are sometimes called by different names, and they are written in different ways—, but is something of concern for updates to this book.
 
-Sometimes a term or abbreviation has several meanings; only the tech-related ones may be shown.
+Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they take on a little detour, but only to be transparent about the journey taken if there is not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but is thought to make meanings, relationships, and sometimes history more clear. An arrow does not always indicated equality or identity, but may also point at closely related concept or a term that also covers the originating term.
 
-Sometimes there’s imprecision—is a home page really a special type of web page, but a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the terms, it is.)
+So far there are few examples. Adding examples is [a priority item](https://github.com/j9t/web-development-glossary-forum/issues/1) for future updates, too.
 
-Arrows (“→”) point to the expanded forms of abbreviations, and to more common and popular synonyms and expressions. Sometimes they may take on a little tour, but just to be clear about the journey taken if there’s not much more to see (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but is thought to make meanings, relationships, and sometimes history more clear. An arrow does not always indicated equality or identity, but may also point at closely related concept or a term that also covers the originating term.
+Finally, there are certainly errors, and maybe controversy, too. Please [help improve the Glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) and also, if applicable, Wikipedia and MDN. Trying to give back to both excellent sources, work on the book has led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve.
 
 ## Disclaimer
 
-@@
-
-Use the Glossary at your own risk. The author assumes no responsibility or liability for any errors or omissions in the contents of this book. All information is subject to change and provided “as is” with no guarantees of completeness, accuracy, or usefulness.
+Use the glossary at your own risk. I, the author, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
 
 ## Credits and Licenses
 
