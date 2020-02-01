@@ -11,6 +11,7 @@ Value
 
 Variable
 : @@
+: → Custom property
 
 Variable scope
 : @@

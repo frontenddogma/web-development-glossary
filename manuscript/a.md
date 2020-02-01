@@ -289,7 +289,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring Tool Accessibility Guidelines
-: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
+: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG 1.0 became a W3C Recommendation in 2000. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
 Authorization
 : The specifying of access rights and privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)

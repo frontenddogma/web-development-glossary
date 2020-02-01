@@ -478,6 +478,9 @@ Custom element
 : → Autonomous custom element
 : → Customized built-in element
 
+Custom property
+: A CSS property that is prefixed with `--`, like `--example-name`, and whose value can be used in other declarations using the `var()` function. Custom properties are scoped to the element(s) they are declared on, and participate in the cascade: The value of a custom property is that from the declaration decided by the cascading algorithm. Custom properties are also known as CSS variables.&nbsp;[‡](#m-custom-property) ℹ︎&nbsp;[w3.org/TR/css-variables-1](https://www.w3.org/TR/css-variables-1/)
+
 Customer Relationship Management
 : An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)
 

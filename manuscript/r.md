@@ -176,7 +176,7 @@ Resolution
 : → Display resolution
 
 Resource Description Framework
-: A family of World Wide Web Consortium (W3C) specifications originally designed as a metadata data model. RDF has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications. RDF was adopted as a W3C recommendation in 1999.&nbsp;[†](#w-rdf) ℹ︎&nbsp;[w3.org/TR/rdf11-concepts](https://www.w3.org/TR/rdf11-concepts/)
+: A family of World Wide Web Consortium (W3C) specifications originally designed as a metadata data model. RDF has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications. RDF became a W3C Recommendation in 1999.&nbsp;[†](#w-rdf) ℹ︎&nbsp;[w3.org/TR/rdf11-concepts](https://www.w3.org/TR/rdf11-concepts/)
 
 Response
 : In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client’s request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)

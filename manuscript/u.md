@@ -6,6 +6,12 @@ UA
 UAAG
 : → User Agent Accessibility Guidelines
 
+UCD
+: → User-Centered Design
+
+UDD
+: → User-Driven Development
+
 UDJO
 : → Using Declarations Just Once
 
@@ -104,43 +110,49 @@ Usability inspection
 : The name for a set of methods where an evaluator inspects a user interface. This is in contrast to usability testing where the usability of the interface is evaluated by testing it on real users. Usability inspections can generally be used early in the development process by evaluating prototypes or specifications for the system that can’t be tested on users. Usability inspection methods are generally considered to be cheaper to implement than testing on users. They include cognitive walkthroughs (task-specific), heuristic evaluations (holistic), and pluralistic walkthroughs.&nbsp;[†](#w-usability-inspection)
 
 Usability Professionals Association
-: @@
+: → User Experience Professionals Association
 
 Usability testing
 : A technique used in user-centered interaction design to evaluate a product by testing it on users. This can be seen as an irreplaceable usability practice, since it gives direct input on how real users use the system. Usability testing is more concerned with the design intuitiveness of the product and tested with users who have no prior exposure to it. Such testing is paramount to the success of an end product as a fully functioning app that creates confusion amongst its users will not last for long. This is in contrast with usability inspection methods where experts use different methods to evaluate a user interface without involving users.&nbsp;[†](#w-usability-testing)
 
 Usenet
-: A worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and Usenet was established in 1980. Users read and post messages (called articles or posts, and collectively termed news) to one or more categories, known as newsgroups. Usenet resembles a bulletin board system (BBS) in many respects and is the precursor to Internet forums that are widely used today.&nbsp;[†](#w-usenet)
+: A worldwide distributed discussion system available on computers. Usenet was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980. Users read and post messages (called “articles” or “posts,” and collectively termed “news”) to one or more categories, known as newsgroups. Usenet resembles a bulletin board system (BBS) in many respects and is the precursor to Internet forums that are widely used today. Discussions are threaded, as with web forums and BBSs, though posts are stored on the server sequentially. The name comes from the term “users network.”&nbsp;[†](#w-usenet)
 
 Using Declarations Just Once
-: @@
-
-Usenet
-: @@
+: A CSS methodology to use every declaration just once (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO has first been mentioned in 2008. ℹ︎&nbsp;[meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
 
 User
-: @@
+: A person who utilizes a computer or network service. Users of computer systems and software products often lack the technical expertise required to fully understand how they work. Power users use advanced features of programs, though they are not necessarily capable of computer programming and system administration. Some software products provide services to other systems and have no direct end users. End users are the ultimate human users (also referred to as operators) of a software product. The term is used to abstract and distinguish those who only use the software from the developers of the system, who enhance the software for end users. In user-centered design, it also distinguishes the software operator from the client who pays for its development and other stakeholders who may not directly use the software, but help establish its requirements.&nbsp;[†](#w-user)
 
 User agent
-: @@
+: Software (a software agent) that is acting on behalf of a user, such as a web browser that “retrieves, renders and facilitates end user interaction with Web content.” An email reader is a mail user agent. In many cases, a user agent acts as a client in a network protocol used in communications within a client–server distributed computing system.&nbsp;[†](#w-ua)
 
 User Agent Accessibility Guidelines
-: @@ ℹ︎&nbsp;[w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
+: A set of guidelines for user agent developers (such as web browsers and media players) aimed at making user agents accessible to users with disabilities. UAAG 1.0 became a W3C Recommendation in 2002.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
 
 User Datagram Protocol
-: @@
+: One of the core members of the Internet protocol suite. The protocol was designed in 1980 by David P. Reed and formally defined in RFC 768. With UDP, computer applications can send messages, in this case referred to as datagrams, to other hosts on an Internet Protocol (IP) network. Prior communications are not required in order to set up communication channels or data paths. UDP is suitable for purposes where error checking and correction are either not necessary or are performed in the application; UDP avoids the overhead of such processing in the protocol stack. Time-sensitive applications often use UDP because dropping packets is preferable to waiting for packets delayed due to retransmission, which may not be an option in a real-time system.&nbsp;[†](#w-udp)
 
 User Experience
-: @@
+: A person's emotions and attitudes about using a particular product, system, or service. UX includes the practical, experiential, affective, meaningful, and valuable aspects of human–computer interaction and product ownership. Additionally, it includes a person's perceptions of system aspects such as utility, ease of use, and efficiency. User experience may be subjective in nature to the degree that it is about individual perception and thought with respect to a product or system. User experience varies dynamically, constantly modifying over time due to changing usage circumstances. Simplified, user experience is about how a user interacts with, and experiences, a product.&nbsp;[†](#w-ux)
+
+User Experience Professionals Association
+: An organization of domain experts “who research, design, and evaluate the user experience (UX) of products and services.” The UXPA was founded as the Usability Professionals Association in 1991, and changed their name to “User Experience Professionals Association” in 2012. ℹ︎&nbsp;[uxpa.org](https://uxpa.org/)
 
 User Interface
-: @@
+: The space of interactions between humans and machines. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' decision-making process. Examples of this broad concept of user interfaces include the interactive aspects of computer operating systems, hand tools, heavy machinery operator controls, and process controls. The design considerations applicable when creating user interfaces are related to or involve such disciplines as ergonomics and psychology. Generally, the goal of user interface design is to produce a user interface which makes it easy, efficient, and enjoyable (user-friendly) to operate a machine in the way which produces the desired result. This generally means that the operator needs to provide minimal input to achieve the desired output, and also that the machine minimizes undesired outputs to the human.&nbsp;[†](#w-ui)
 
 User story
-: @@
+: An informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members.&nbsp;[†](#w-user-story)
 
 User testing
 : → Usability testing
+
+User-Centered Design
+: A framework of processes (not restricted to interfaces or technologies) in which usability goals, user characteristics, environment, tasks and workflow of a product, service, or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with or without actual users during each stage of the process from requirements, pre-production models, and post production, completing a circle of proof back to and ensuring that “development proceeds with the user as the center of focus.” Such testing is necessary as it is often very difficult for the designers of a product to understand intuitively what a first-time user of their design experiences, and what each user's learning curve may look like. User-centered design is common in the design industry and when used is considered to lead to increased product usefulness and usability.&nbsp;[†](#w-ucd)
+
+User-Driven Development
+: → User-Centered Design 
 
 UTF-8
 : A variable width character encoding capable of encoding all 1,112,064 valid code points in Unicode using one to four 8-bit bytes. The encoding is defined by the Unicode Standard, and was originally designed by Ken Thompson and Rob Pike. The name is derived from Unicode (or Universal Coded Character Set) Transformation Format – 8-bit. UTF-8 was designed for backward compatibility with ASCII. Since 2009, UTF-8 has been the dominant encoding (of any kind, not just of Unicode encodings) for the World Wide Web (and declared mandatory “for all things” by WHATWG) and as of January 2020 accounts for 94.8% of all web pages (some of which are simply ASCII, as it is a subset of UTF-8) and 96% of the top 1,000 highest ranked web pages.&nbsp;[†](#w-utf-8)
@@ -156,5 +168,8 @@ Utility class
 
 UX
 : → User Experience
+
+UXPA
+: → User Experience Professionals Association
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/u.md) and become a glossary&nbsp;contributor!

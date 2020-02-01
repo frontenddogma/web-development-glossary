@@ -34,7 +34,7 @@ XPath
 : A query language for selecting nodes from an XML document. In addition, XPath may be used to compute values (e.g., strings, numbers, or Boolean values) from the content of an XML document. XPath was developed by the World Wide Web Consortium (W3C) in 1998.&nbsp;[†](#w-xpath) ℹ︎&nbsp;[w3.org/TR/xpath-3](https://www.w3.org/TR/xpath-3/)
 
 XPointer
-: A system for addressing components of XML-based Internet media. It is divided among four specifications: a “framework” that forms the basis for identifying XML fragments, a positional element addressing scheme, a scheme for namespaces, and a scheme for XPath-based addressing. XPointer Framework is a W3C recommendation since 2003.&nbsp;[†](#w-xpointer)
+: A system for addressing components of XML-based Internet media. It is divided among four specifications: a “framework” that forms the basis for identifying XML fragments, a positional element addressing scheme, a scheme for namespaces, and a scheme for XPath-based addressing. XPointer Framework became a W3C Recommendation in 2003.&nbsp;[†](#w-xpointer)
 
 XQuery
 : A query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.). The language is developed by the XML Query working group of the W3C. The work is closely coordinated with the development of XSLT by the XSL Working Group; the two groups share responsibility for XPath, which is a subset of XQuery.&nbsp;[†](#w-xquery) ℹ︎&nbsp;[w3.org/TR/xquery-31](https://www.w3.org/TR/xquery-31/)

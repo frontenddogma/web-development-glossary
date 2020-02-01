@@ -746,6 +746,13 @@ This book uses material from the following Wikipedia articles:
 * [Usability testing](https://en.wikipedia.org/wiki/Usability_testing){#w-usability-testing}
 * [Use case](https://en.wikipedia.org/wiki/Use_case){#w-case-engineering}
 * [Usenet](https://en.wikipedia.org/wiki/Usenet){#w-usenet}
+* [User (computing)](https://en.wikipedia.org/wiki/User_(computing)){#w-user}
+* [User agent](https://en.wikipedia.org/wiki/User_agent){#w-ua}
+* [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol){#w-udp}
+* [User experience](https://en.wikipedia.org/wiki/User_experience){#w-ux}
+* [User interface](https://en.wikipedia.org/wiki/User_interface){#w-ui}
+* [User story](https://en.wikipedia.org/wiki/User_story){#w-user-story}
+* [User-centered design](https://en.wikipedia.org/wiki/User-centered_design){#w-ucd}
 * [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}
 * [UTF-16](https://en.wikipedia.org/wiki/UTF-16){#w-utf-16}
 * [UTF-32](https://en.wikipedia.org/wiki/UTF-32){#w-utf-32}
@@ -820,6 +827,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
 * [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors){#m-selector}
+* [Custom properties (--*): CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){#m-custom-property}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
