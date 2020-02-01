@@ -234,6 +234,9 @@ Site map
 Sitemaps
 : A protocol that allows to inform search engines about URLs on a website that are available for crawling. A Sitemap is an XML file that lists the URLs for a site. It allows webmasters to include additional information about each URL: when it was last updated, how often it changes, and how important it is in relation to other URLs in the site. This allows search engines to crawl the site more efficiently and to find URLs that may be isolated from rest of the site’s content. The sitemaps protocol is a URL inclusion protocol and complements robots.txt, a URL exclusion protocol. The Sitemaps protocol was first released in 2005.&nbsp;[†](#w-sitemaps) ℹ︎&nbsp;[sitemaps.org](https://www.sitemaps.org/)
 
+Sketch
+: @@ ℹ︎&nbsp;[sketch.com](https://www.sketch.com/)
+
 Skin
 : → Theme
 

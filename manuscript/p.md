@@ -127,6 +127,9 @@ PhantomJS
 Phoenix
 : → Firefox
 
+Photoshop
+: @@ ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
+
 PHP
 : → Hypertext Preprocessor
 
