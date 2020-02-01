@@ -25,6 +25,9 @@ Tag
 Tag Management System
 : A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events and known data.[2] Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag deduplication, and role-based access to data.&nbsp;[†](#w-tms)
 
+Tag soup
+: A pejorative for syntactically or structurally incorrect HTML written for a web page. Because web browsers have historically treated HTML syntax or structural errors leniently, there has been little pressure for web developers to follow published standards, and therefore there is a need for all browser implementations to provide mechanisms to cope with the appearance of “tag soup,” accepting and correcting for invalid syntax and structure where possible.&nbsp;[†](#w-tag-soup)
+
 Tagging
 : → Folksonomy
 
@@ -206,6 +209,9 @@ Tracer code
 
 Tracing
 : A specialized use of logging to record information about a program’s execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical-support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term tracing is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
+
+Tracking
+: → Letter-spacing
 
 Trade
 : → Craft

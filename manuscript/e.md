@@ -48,6 +48,9 @@ Effectiveness
 Efficiency
 : The (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result. In a more general sense, it is the ability to do things well, successfully, and without waste. In more mathematical or scientific terms, it is a measure of the extent to which input is well used for an intended task or function (output). It often specifically comprises the capability of a specific application of effort to produce a specific outcome with a minimum amount or quantity of waste, expense, or unnecessary effort. Not to be confused with effectiveness.&nbsp;[†](#w-efficiency)
 
+Electron
+: A framework developed and maintained by GitHub. Electron allows for the development of desktop GUI applications using web technologies: It combines the Chromium rendering engine and the Node.js runtime. Electron was first released in 2013.&nbsp;[†](#w-electron) ℹ︎&nbsp;[electronjs.org](https://www.electronjs.org/)
+
 Electronic Frontier Foundation
 : An international non-profit digital rights group based in San Francisco, California. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
 

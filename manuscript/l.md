@@ -73,6 +73,9 @@ LESS/Less
 Let’s Encrypt
 : A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. The certificate is valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
+Letter-spacing
+: An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter-spacing should not be confused with kerning. Letter-spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
+
 LIFO
 : → Last In, First Out
 

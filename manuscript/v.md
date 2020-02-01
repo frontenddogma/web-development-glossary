@@ -41,22 +41,22 @@ vi
 : A screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by (and thus standardized by) the Single Unix Specification and POSIX. The original code for vi was written in 1976 by Bill Joy, as the visual mode for a line editor called “ex”. The name “vi” is derived from the shortest unambiguous abbreviation for the ex command `visual`, which switches the ex line editor to visual mode.&nbsp;[†](#w-vi)
 
 Viewport
-: @@
+: A polygon viewing region in computer graphics, and in browser, the visible portion of the entire document. If the document is larger than the viewport, the user can shift the viewport around by scrolling.&nbsp;[†](#w-viewport)
 
 Vim
-: @@
+: A clone, with additions, of the vi text editor program for Unix. Vim's author, Bram Moolenaar, based it upon the source code for a port of the Stevie editor to the Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface.&nbsp;[†](#w-vim) ℹ︎&nbsp;[vim.org](https://www.vim.org/)
 
 Virtual inheritance
 : A C++ technique that ensures only one copy of a base class’s member variables are inherited by grandchild derived classes. Without virtual inheritance, if two classes `B` and `C` inherit from a class `A`, and a class `D` inherits from both `B` and `C`, then `D` will contain two copies of `A`’s member variables: one via `B`, and one via `C`. These will be accessible independently, using scope resolution. Instead, if classes `B` and `C` inherit virtually from class `A`, then objects of class `D` will contain only one set of the member variables from class `A`. This feature is most useful for multiple inheritance, as it makes the virtual base a common subobject for the deriving class and all classes that are derived from it.&nbsp;[†](#w-virtual-inheritance)
 
 Virtual Machine
-: @@
+: An emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. There are different kinds of virtual machines, each with different functions: System virtual machines (also termed full virtualization VMs) provide a substitute for a real machine. Process virtual machines, on the other hand, are designed to execute computer programs in a platform-independent environment.&nbsp;[†](#w-virtual-machine)
 
 Virtual Private Network
-: @@
+: An extension of a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g., a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection. VPN technology was developed to allow remote users and branch offices to access corporate applications and resources. To ensure security, the private network connection is established using an encrypted layered tunneling protocol, and VPN users use authentication methods, including passwords or certificates, to gain access to the VPN.&nbsp;[†](#w-vpn)
 
 Virtual Reality
-: @@
+: A simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e. video games) and educational purposes (i.e. medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality. Currently standard virtual reality systems use either virtual reality headsets or multi-projected environments to generate realistic images, sounds and other sensations that simulate a user's physical presence in a virtual environment.&nbsp;[†](#w-vr)
 
 Virtualization
 : The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources. Virtualization began in the 1960s, as a method of logically dividing the system resources provided by mainframe computers between different applications. Since then, the meaning of the term has broadened.&nbsp;[†](#w-virtualization)
@@ -65,22 +65,22 @@ Visual Basic for Applications
 : An implementation of Microsoft’s event-driven programming language Visual Basic 6, which was declared legacy in 2008, and its associated integrated development environment (IDE). Although pre-.NET Visual Basic is no longer supported or updated by Microsoft, the VBA programming language was upgraded in 2010 with the introduction of Visual Basic for Applications 7 in Microsoft Office applications. Visual Basic for Applications enables building user-defined functions (UDFs), automating processes, and accessing Windows API and other low-level functionality through dynamic-link libraries (DLLs). It supersedes and expands on the abilities of earlier application-specific macro programming languages such as Word’s WordBASIC. VBA was first released in 1993.&nbsp;[†](#w-vba)
 
 Visual formatting model
-: @@
+: A model for how user agents take the document tree, and process and display it for visual media. This includes continuous media such as a computer screen and paged media such as a book or document printed by browser print functions. In the visual formatting model, each element in the document tree generates zero or more boxes according to the box model. The layout of these boxes is governed by box dimensions and type, positioning scheme (normal flow, float, and absolute positioning), Relationships between elements in the document tree, and external information (e.g., viewport size, intrinsic dimensions of images, etc.).&nbsp;[‡](#m-visual-formatting-model)
 
 Visual Studio Code
-: @@
+: A cross-platform source code editor developed by Microsoft. VS Code includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is highly customizable, allowing users to change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality. VS Code was first released in 2015.&nbsp;[†](#w-vs-code) ℹ︎&nbsp;[code.visualstudio.com](https://code.visualstudio.com/)
 
 VM
 : → Virtual Machine
 
 Voice over IP
-: @@
+: A method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol (IP) networks. The steps and principles involved in originating VoIP telephone calls are similar to traditional digital telephony and involve signaling, channel setup, digitization of the analog voice signals, and encoding. Instead of being transmitted over a circuit-switched network, the digital information is packetized and transmission occurs as IP packets over a packet-switched network.&nbsp;[†](#w-voip)
 
 VoiceOver
 : A screen reader built into Apple Inc.’s macOS, iOS, tvOS, watchOS, and iPod operating systems. By using VoiceOver, the user can access their Macintosh or iOS device based on spoken descriptions and, in the case of the Mac, the keyboard. The feature is designed to increase accessibility for blind and low-vision users, as well as for users with dyslexia.&nbsp;[†](#w-voiceover) ℹ︎&nbsp;[apple.com/accessibility/mac/vision](https://www.apple.com/accessibility/mac/vision/)
 
 VoiceXML
-: @@
+: A digital document standard for specifying interactive media and voice dialogs between humans and computers. VoiceXML is used for developing audio and voice response applications, such as banking systems and automated customer service portals. VoiceXML applications are developed and deployed in a manner analogous to how a web browser interprets and visually renders the Hypertext Markup Language (HTML) it receives from a web server. VoiceXML documents are interpreted by a voice browser and in common deployment architectures, users interact with voice browsers via the public switched telephone network (PSTN). The VoiceXML document format is based on Extensible Markup Language (XML). VoiceXML is a standard developed by the World Wide Web Consortium (W3C) whose first version was released in 1999.&nbsp;[†](#w-voicexml) ℹ︎&nbsp;[w3.org/TR/voicexml20](https://www.w3.org/TR/voicexml20/)
 
 Void element
 : An element from HTML, SVG, or MathML that cannot have any child nodes (i.e., nested elements or text nodes). For HTML, the void elements are `<area>`, `<base>`, `<br>`, `<col>`, `<embed>`, `<hr>`, `<img>`, `<input>`, `<link>`, `<meta>`, `<param>`, `<source>`, `<track>`, and `<wbr>`.&nbsp;[‡](#m-void-element)
@@ -101,9 +101,12 @@ Vue
 : → Vue.js
 
 Vue.js
-: @@
+: A model-view-viewmodel JavaScript framework for building user interfaces and single-page applications. Vue.js features an incrementally adoptable architecture that focuses on declarative rendering and component composition. Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages, with Nuxt.js as one of the most popular solutions. Vue.js was created in 2014 by Evan You.&nbsp;[†](#w-vuejs) ℹ︎&nbsp;[vuejs.org](https://vuejs.org/)
+
+VuePress
+: A static site generator based on Vue.js. ℹ︎&nbsp;[vuepress.vuejs.org](https://vuepress.vuejs.org/)
 
 Vuex
-: @@
+: A state management pattern and library for Vue.js applications. ℹ︎&nbsp;[vuex.vuejs.org](https://vuex.vuejs.org/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/v.md) and become a glossary&nbsp;contributor!

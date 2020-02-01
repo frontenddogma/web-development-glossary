@@ -218,6 +218,7 @@ This book uses material from the following Wikipedia articles:
 * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){#w-ecmascript}
 * [Effectiveness](https://en.wikipedia.org/wiki/Effectiveness){#w-effectiveness}
 * [Efficiency](https://en.wikipedia.org/wiki/Efficiency){#w-efficiency}
+* [Electron (software framework)](https://en.wikipedia.org/wiki/Electron_(software_framework)){#w-electron}
 * [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation){#w-eff}
 * [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
@@ -358,6 +359,7 @@ This book uses material from the following Wikipedia articles:
 * [Internet Society](https://en.wikipedia.org/wiki/Internet_Society){#w-isoc}
 * [Interoperability](https://en.wikipedia.org/wiki/Interoperability){#w-interoperability}
 * [Interstitial webpage](https://en.wikipedia.org/wiki/Interstitial_webpage){#w-interstitial}
+* [Intranet](https://en.wikipedia.org/wiki/Intranet){#w-intranet}
 * [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control){#w-ioc}
 * [iOS](https://en.wikipedia.org/wiki/IOS){#w-ios}
 * [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
@@ -389,6 +391,7 @@ This book uses material from the following Wikipedia articles:
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
 * [Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development)){#w-kanban}
 * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos_(protocol)){#w-kerberos}
+* [Kerning](https://en.wikipedia.org/wiki/Kerning){#w-kerning}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph){#w-knowledge-graph}
@@ -405,6 +408,7 @@ This book uses material from the following Wikipedia articles:
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
 * [Let’s Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
@@ -455,6 +459,7 @@ This book uses material from the following Wikipedia articles:
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows){#w-windows}
+* [Middleware](https://en.wikipedia.org/wiki/Middleware){#w-middleware}
 * [MIME](https://en.wikipedia.org/wiki/MIME){#w-mime}
 * [Minification (programming)](https://en.wikipedia.org/wiki/Minification_(programming)){#w-minification}
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product){#w-mvp}
@@ -698,6 +703,7 @@ This book uses material from the following Wikipedia articles:
 * [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
 * [Tag management system](https://en.wikipedia.org/wiki/Tag_management_system){#w-tms}
+* [Tag soup](https://en.wikipedia.org/wiki/Tag_soup){#w-tag-soup}
 * [tar (computing)](https://en.wikipedia.org/wiki/Tar_(computing)){#w-tar}
 * [Tcl](https://en.wikipedia.org/wiki/Tcl){#w-tcl}
 * [Technical debt](https://en.wikipedia.org/wiki/Technical_debt){#w-technical-debt}
@@ -765,11 +771,19 @@ This book uses material from the following Wikipedia articles:
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation){#w-verification}
 * [Version control](https://en.wikipedia.org/wiki/Version_control){#w-version-control}
 * [vi](https://en.wikipedia.org/wiki/Vi){#w-vi}
+* [Viewport](https://en.wikipedia.org/wiki/Viewport){#w-viewport}
+* [Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor)){#w-vim}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
+* [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine){#w-virtual-machine}
+* [Virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network){#w-vpn}
+* [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality){#w-vr}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
+* [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code){#w-vs-code}
+* [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP){#w-voip}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
-* [](){} @@
+* [VoiceXML](https://en.wikipedia.org/wiki/VoiceXML){#w-voicexml}
+* [Vue.js](https://en.wikipedia.org/wiki/Vue.js){#w-vuejs}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
@@ -779,22 +793,52 @@ This book uses material from the following Wikipedia articles:
 * [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
 * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines){#w-wcag}
 * [Web crawler](https://en.wikipedia.org/wiki/Web_crawler){#w-crawler}
+* [Web design](https://en.wikipedia.org/wiki/Web_design){#w-web-design}
+* [Web development](https://en.wikipedia.org/wiki/Web_development){#w-web-development}
 * [Web development tools](https://en.wikipedia.org/wiki/Web_development_tools){#w-developer-tools}
 * [Web feed](https://en.wikipedia.org/wiki/Web_feed){#w-feed}
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework){#w-web-framework}
+* [Web IDL](https://en.wikipedia.org/wiki/Web_IDL){#w-web-idl}
 * [Web indexing](https://en.wikipedia.org/wiki/Web_indexing){#w-web-indexing}
 * [Web navigation](https://en.wikipedia.org/wiki/Web_navigation){#w-navigation}
+* [Web page](https://en.wikipedia.org/wiki/Web_page){#w-web-page}
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
+* [Web resource](https://en.wikipedia.org/wiki/Web_resource){#w-web-resource}
+* [Web service](https://en.wikipedia.org/wiki/Web_service){#w-web-service}
+* [Web standards](https://en.wikipedia.org/wiki/Web_standards){#w-web-standard}
+* [Web Standards Project](https://en.wikipedia.org/wiki/Web_Standards_Project){#w-wasp}
+* [Web storage](https://en.wikipedia.org/wiki/Web_storage){#w-web-storage}
 * [Web syndication](https://en.wikipedia.org/wiki/Web_syndication){#w-syndication}
 * [Web template system](https://en.wikipedia.org/wiki/Web_template_system){#w-template-system}
+* [Web typography](https://en.wikipedia.org/wiki/Web_typography){#w-web-typography}
+* [Web worker](https://en.wikipedia.org/wiki/Web_worker){#w-web-worker}
+* [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly){#w-wasm}
+* [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn){#w-webauthn}
+* [WebGL](https://en.wikipedia.org/wiki/WebGL){#w-webgl}
+* [WebKit](https://en.wikipedia.org/wiki/WebKit){#w-webkit}
+* [WebM](https://en.wikipedia.org/wiki/WebM){#w-webm}
+* [WebP](https://en.wikipedia.org/wiki/WebP){#w-webp}
+* [Webpack](https://en.wikipedia.org/wiki/Webpack){#w-webpack}
+* [Website](https://en.wikipedia.org/wiki/Website){#w-website}
+* [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe){#w-wireframe}
+* [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
+* [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
+* [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character){#w-whitespace}
+* [WHOIS](https://en.wikipedia.org/wiki/WHOIS){#w-whois}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
 * [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
+* [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol){#w-wap}
+* [Wireless Markup Language](https://en.wikipedia.org/wiki/Wireless_Markup_Language){#w-wml}
+* [Workaround](https://en.wikipedia.org/wiki/Workaround){#w-workaround}
+* [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web){#w-www}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
 * [WorldWideWeb](https://en.wikipedia.org/wiki/WorldWideWeb){#w-worldwideweb}
+* [Wrapper function](https://en.wikipedia.org/wiki/Wrapper_function){#w-wrapper-function}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
+* [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG){#w-wysiwyg}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHP](https://en.wikipedia.org/wiki/XHP){#w-xhp}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}
@@ -904,7 +948,8 @@ This book uses material from the following articles by Mozilla contributors:
 * [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined){#m-undefined}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [Vendor Prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix){#m-vendor-prefix}
-* [](){} @@
+* [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model){#m-visual-formatting-model}
+* [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts){#m-web-font}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 
 The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been modified.

@@ -2,6 +2,8 @@
 
 @@
 
+The Glossary presents important, useful, historic, and other terms and abbreviation considered or hoped or guessed relevant for web—and perhaps also software developers. 
+
 The idea is that, while not telling a story, the book can indeed be read to get a solid overview over main web development (and even software development) terms and concepts. The Glossary covers some basics.
 
 The Glossary is not perfect. Please help!

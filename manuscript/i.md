@@ -259,6 +259,9 @@ Intersection Observer
 Interstitial
 : A web page displayed before or after an expected content page, often to display advertisements or confirm the user’s age (prior to showing age-restricted material). Interstitial advertisements are usually delivered by an ad server.&nbsp;[†](#w-interstitial)
 
+Intranet
+: A computer network for sharing information, collaboration tools, operational systems, and other computing services only within an organization, and to the exclusion of access by outsiders to the organization. The term is used in contrast to public networks, such as the Internet, but uses most of the same technology based on the Internet Protocol Suite. A company-wide intranet can constitute an important focal point of internal communication and collaboration, and provide a single starting point to access internal and external resources. In its simplest form, an intranet is established with the technologies for local area networks (LANs) and wide area networks (WANs). Many modern intranets have search engines, user profiles, blogs, mobile apps with notifications, and events planning within their infrastructure.&nbsp;[†](#w-intranet)
+
 Intrinsic size
 : The size an element would be based on its content, if no external factors were applied to it. For example, inline elements are sized intrinsically: `width`, `height`, and vertical margin and padding have no impact.&nbsp;[‡](#m-intrinsic-size)
 
@@ -280,6 +283,9 @@ IP
 
 IP address
 : A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.&nbsp;[†](#w-ip-address)
+
+IP telephony
+: → Voice over IP
 
 IPv4
 : The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)

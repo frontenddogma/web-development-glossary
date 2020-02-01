@@ -9,6 +9,9 @@ Kanban
 Kerberos
 : A computer-network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner. The protocol was named after the character Kerberos (or Cerberus) from Greek mythology. Its designers aimed Kerberos primarily at a client-server model and it provides mutual authentication—both the user and the server verify each other’s identity. Kerberos protocol messages are protected against eavesdropping and replay attacks.&nbsp;[†](#w-kerberos)
 
+Kerning
+: The process of adjusting the spacing between characters in a proportional font, usually to achieve a visually pleasing result. Kerning adjusts the space between individual letter forms, while tracking (letter-spacing) adjusts spacing uniformly over a range of characters. In a well-kerned font, the two-dimensional blank spaces between each pair of characters all have a visually similar area. The related term kern denotes a part of a type letter that overhangs the edge of the type block.&nbsp;[†](#w-kerning)
+
 Key
 : In cryptography, a piece of information (a parameter) that determines the functional output of a cryptographic algorithm. For encryption algorithms, a key specifies the transformation of plaintext into ciphertext, and vice versa for decryption algorithms.&nbsp;[†](#w-key-cryptography)
 : → Database index
