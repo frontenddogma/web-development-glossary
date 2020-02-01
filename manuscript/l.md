@@ -13,7 +13,7 @@ LAMP
 : → Linux, Apache, MySQL, PHP/Perl/Python
 
 Landing page
-: A single web page that appears in response to clicking on a search engine optimized search result, marketing promotion, marketing email, or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main web site.&nbsp;[†](#w-landing-page)
+: A single web page that appears in response to clicking on a search engine optimized search result, marketing promotion, marketing email, or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
 
 Language
 : → Markup language
@@ -122,10 +122,10 @@ Linting
 : The processing of source code through a linter.
 
 Linux
-: A family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open-source software collaboration.&nbsp;[†](#w-linux)
+: A family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open source software collaboration.&nbsp;[†](#w-linux)
 
 Linux, Apache, MySQL, PHP/Perl/Python
-: An archetypal model of web service stacks, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and web applications.&nbsp;[†](#w-lamp)
+: An archetypal model of web service stacks, named as an acronym of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and applications.&nbsp;[†](#w-lamp)
 
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
@@ -173,7 +173,7 @@ Logging
 : The act of keeping a log file.&nbsp;[†](#w-log-file)
 
 Logical properties
-: A CSS module introducing logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS 2.1. Logical properties define direction‐relative equivalents of their corresponding physical properties.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
+: A CSS module introducing logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS&nbsp;2.1. Logical properties define direction‐relative equivalents of their corresponding physical properties.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
 Long task
 : Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop that exceeds 50 ms.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)

@@ -109,7 +109,7 @@ Flash of Unstyled Text
 : The effect when a web page appears briefly with the browser’s default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting.&nbsp;[†](#w-fout)
 
 Flash Player
-: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe Systems since Adobe acquired Macromedia in 2005. In 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML5 standards in place of Flash.&nbsp;[†](#w-flash-player)
+: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plug-in or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe Systems since Adobe acquired Macromedia in 2005. In 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML standards in place of Flash.&nbsp;[†](#w-flash-player)
 
 Flex
 : A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element’s children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied.&nbsp;[‡](#m-flex)
@@ -192,7 +192,7 @@ Fragment identifier
 : A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator in URIs is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
 
 Frame
-: A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different web site as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
+: A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different website as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
 
 Frame rate
 : The frequency (rate) at which consecutive images called frames appear on a display. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in Hertz.&nbsp;[†](#w-frame-rate)
@@ -210,7 +210,7 @@ Frameset
 : A group of named frames to which web pages and media can be directed.&nbsp;[†](#w-frame)
 
 Free and Open Source Software
-: Software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
+: Software that can be classified as both free software and open source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
 
 Free Software Foundation
 : A non-profit organization founded by Richard Stallman in 1985 to support the free software movement, which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization’s preference for software being distributed under copyleft (“share alike”) terms, such as with its own GNU General Public License. The FSF was incorporated in Massachusetts, U.S., where it is also based.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)

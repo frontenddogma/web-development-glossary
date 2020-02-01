@@ -233,7 +233,7 @@ Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995.&nbsp;[†](#w-iis) ℹ︎&nbsp;[iis.net](https://www.iis.net/)
 
 Internet Message Access Protocol
-: An Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP was designed in 1986 and is defined by RFC 3501.&nbsp;[†](#w-imap)
+: An Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP was designed in 1986 and is defined by RFC&nbsp;3501.&nbsp;[†](#w-imap)
 
 Internet Protocol
 : The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.&nbsp;[†](#w-internet-protocol)
@@ -275,7 +275,7 @@ IoC
 : → Inversion of Control
 
 iOS
-: A mobile operating system created and developed by Apple Inc., exclusively for its hardware. iOS was first released in 2007.&nbsp;[†](#w-ios) ℹ︎&nbsp;[apple.com/ios](https://www.apple.com/ios/)
+: A mobile operating system created and developed by Apple, exclusively for its hardware. iOS was first released in 2007.&nbsp;[†](#w-ios) ℹ︎&nbsp;[apple.com/ios](https://www.apple.com/ios/)
 
 IP
 : → Intellectual Property

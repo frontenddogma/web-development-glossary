@@ -7,10 +7,10 @@ Machine Learning
 : The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as “training data,” in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.&nbsp;[†](#w-ml)
 
 macOS
-: A series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
+: A series of proprietary graphical operating systems developed and marketed by Apple since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
 
 macOS, Apache, MySQL, PHP/Perl/Python
-: A solution stack composed of free and open-source software running with proprietary commercial software, to run dynamic web sites on computers running macOS or Windows. It can be used to develop web sites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name MAMP is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example. The developers of MAMP have also ported the system to Windows (but still called MAMP).&nbsp;[†](#w-mamp)
+: A solution stack composed of free and open source software running with proprietary commercial software, to run dynamic websites on computers running macOS or Windows. It can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name MAMP is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example. The developers of MAMP have also ported the system to Windows (but still called MAMP).&nbsp;[†](#w-mamp)
 
 Macromedia Flash
 : → Flash
@@ -56,7 +56,7 @@ Material Design
 
 Mathematical Markup Language
 : In general, a computer notation for representing mathematical formulae, based on mathematical notation. Specialized markup languages are necessary because computers normally deal with linear text and more limited character sets (although increasing support for Unicode is obsoleting very simple uses). A formally standardized syntax also allows a computer to interpret otherwise ambiguous content, for rendering or even evaluating. For computer-interpretable syntaxes, the most popular are TeX/LaTeX and MathML.&nbsp;[†](#w-mathematical-markup-language)
-: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. It aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML5 and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
+: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. It aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
 
 MathML
 : → Mathematical Markup Language
@@ -65,13 +65,13 @@ MAU
 : → Monthly Active Users
 
 MD2
-: A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC 1319 and no longer considered secure.&nbsp;[†](#w-md2)
+: A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
 : A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1 and RIPEMD algorithms. The initialism “MD” stands for “Message Digest.” The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
 
 MD5
-: A widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC 1321.&nbsp;[†](#w-md5)
+: A widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
 
 MD6
 : A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for very long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
@@ -80,7 +80,7 @@ MDL
 : → Microsoft Design Language
 
 MEAN
-: A JavaScript software stack for building dynamic web sites and web applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
+: A JavaScript software stack for building dynamic web sites and applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
 
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)

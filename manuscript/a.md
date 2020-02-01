@@ -109,7 +109,7 @@ Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
 Almost strict mode
-: A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS2 specification and which has been implemented in Safari, Opera 7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
+: A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification and which has been implemented in Safari, Opera 7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
 
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
@@ -139,7 +139,7 @@ Angular
 : A TypeScript-based web application framework developed by Google and a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. Angular was released in 2016.&nbsp;[†](#w-angular) ℹ︎&nbsp;[angular.io](https://angular.io/)
 
 AngularJS
-: A JavaScript-based front-end web framework mainly maintained by Google and a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. AngularJS aims to simplify both the development and the testing of such applications by providing a framework for client-side model-view-controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. AngularJS was first released in 2010 and makes for the frontend part of the MEAN stack. Version 1.7.x is on Long Term Support until July 1st 2021. After that date AngularJS will no longer be updated and Angular is suggested instead.&nbsp;[†](#w-angularjs) ℹ︎&nbsp;[angularjs.org](https://angularjs.org/)
+: A JavaScript-based front-end web framework mainly maintained by Google and a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. AngularJS aims to simplify both the development and the testing of such applications by providing a framework for client-side model-view-controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. AngularJS was first released in 2010 and makes for the frontend part of the MEAN stack. Version 1.7.x is on Long Term Support until July 1, 2021. After that date AngularJS will no longer be updated and Angular is suggested instead.&nbsp;[†](#w-angularjs) ℹ︎&nbsp;[angularjs.org](https://angularjs.org/)
 
 Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)

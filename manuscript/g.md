@@ -77,7 +77,7 @@ GPU
 : → Graphics Processing Unit
 
 Graceful Degradation
-: A design philosophy that centers around trying to build a modern web site/application that will work in the newest browsers, but fall back to an experience that while not as good still delivers essential content and functionality in older browsers. Polyfills can be used to build in missing features with JavaScript, but acceptable alternatives to features like styling and layout should be provided where possible, for example by using the CSS cascade, or HTML fallback behaviour.&nbsp;[‡](#m-graceful-degradation)
+: A design philosophy that centers around trying to build a modern web site or application that will work in the newest browsers, but fall back to an experience that while not as good still delivers essential content and functionality in older browsers. Polyfills can be used to build in missing features with JavaScript, but acceptable alternatives to features like styling and layout should be provided where possible, for example by using the CSS cascade, or HTML fallback behaviour.&nbsp;[‡](#m-graceful-degradation)
 
 Grapheme
 : The smallest unit of a writing system of any given language. An individual grapheme may or may not carry meaning by itself, and may or may not correspond to a single phoneme of the spoken language. In other words, a grapheme is a letter or a number (set) of letters that represent a sound (more correctly, phoneme) in a word. Graphemes include alphabetic letters, typographic ligatures, Chinese characters, numerical digits, punctuation marks, and other individual symbols.&nbsp;[†](#w-grapheme)

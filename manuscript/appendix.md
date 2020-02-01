@@ -944,7 +944,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}
 * [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this){#m-this}
 * [Time to interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive){#m-tti}
-* [try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
+* [try…catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
 * [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined){#m-undefined}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [Vendor Prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix){#m-vendor-prefix}

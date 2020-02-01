@@ -52,7 +52,7 @@ JDBC
 : → Java Database Connectivity
 
 Jetty
-: A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty is developed as a free and open source project as part of the Eclipse Foundation. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+: A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jira
 : A proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. It was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
@@ -95,10 +95,10 @@ JSON Feed
 : A web feed file format for web syndication in JSON instead of XML, as used by RSS and Atom.&nbsp;[†](#w-json-feed) ℹ︎&nbsp;[jsonfeed.org](https://jsonfeed.org/)
 
 JSON Web Encryption
-: An IETF standard providing a standardised syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC 7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
+: An IETF standard providing a standardised syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC&nbsp;7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
 
 JSON Web Signature
-: An IETF standard (RFC 7515) for signing arbitrary data. This is used as the basis for a variety of web-based technologies, like JSON Web Token.&nbsp;[†](#w-jws)
+: An IETF standard (RFC&nbsp;7515) for signing arbitrary data. This is used as the basis for a variety of web-based technologies, like JSON Web Token.&nbsp;[†](#w-jws)
 
 JSON Web Token
 : An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can be typically used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)

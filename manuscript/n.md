@@ -42,7 +42,7 @@ Netscape 4
 : A version of Netscape Navigator memorable for web developers because of its particular support (or lack of support) of web standards.
 
 Netscape Navigator
-: A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of the Netscape Communications Corp. and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994.&nbsp;[†](#w-netscape-navigator)
+: A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of Netscape Communications and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994.&nbsp;[†](#w-netscape-navigator)
 
 Network
 : In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
@@ -86,7 +86,7 @@ Noob
 : → Newbie
 
 Normalization
-: The the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design).&nbsp;[†](#w-normalization)
+: The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design).&nbsp;[†](#w-normalization)
 
 Normalize.css
 : A alternative, less aggressive form of reset style sheet that does not overwrite some user agent style sheet defaults. Normalize.css was first released in 2011 by Nicolas Gallagher. ℹ︎&nbsp;[necolas.github.io/normalize.css](https://necolas.github.io/normalize.css/)
@@ -101,7 +101,7 @@ Not a Number
 : A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
 
 npm
-: A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
+: A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
 
 NPS
 : → Net Promoter Score

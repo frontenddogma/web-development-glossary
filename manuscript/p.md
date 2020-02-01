@@ -77,7 +77,7 @@ Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
 Pay-per-click
-: An internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC “display” advertisements, also known as “banner” ads, are shown on web sites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Linkedin, Pinterest and Twitter have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
+: An internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC “display” advertisements, also known as “banner” ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Linkedin, Pinterest and Twitter have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
 
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
@@ -128,7 +128,7 @@ Phoenix
 : → Firefox
 
 Photoshop
-: A raster graphics editor developed and published by Adobe Inc. for Windows and macOS. Photoshop was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software's name has thus become a generic trademark, leading to its usage as a verb (e.g. "to photoshop an image", "photoshopping", and "photoshop contest") although Adobe discourages such use. Photoshop was first released in 1987. ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
+: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g. “to photoshop an image,” “photoshopping,” and “photoshop contest”) although Adobe discourages such use. Photoshop was first released in 1987. ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
 
 PHP
 : → Hypertext Preprocessor
@@ -198,7 +198,7 @@ Portable Document Format
 : A file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it. PDF was standardized as ISO 32000 in 2008.&nbsp;[†](#w-pdf)
 
 Portable Network Graphics
-: A raster-graphics file-format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). PNG files use the file extension `png` and are assigned MIME media type `image/png`. PNG was published as informational RFC 2083 in 1997, and as an ISO/IEC standard in 2004.&nbsp;[†](#w-png)
+: A raster-graphics file-format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). PNG files use the file extension `png` and are assigned MIME media type `image/png`. PNG was published as informational RFC&nbsp;2083 in 1997, and as an ISO/IEC standard in 2004.&nbsp;[†](#w-png)
 
 Portal
 : A specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet “dashboards” for executives and managers.&nbsp;[†](#w-portal)
@@ -220,7 +220,7 @@ POUR
 : → Perceivable, Operable, Understandable, and Robust
 
 PowerShell
-: A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
+: A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
 
 PPC
 : → Pay-per-click

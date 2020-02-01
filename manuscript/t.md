@@ -23,7 +23,7 @@ Tag
 : In web development, either the start or end tag of an HTML element, like `<p>`, a paragraph’s start tag, or `</ul>`, an unordered list’s end tag. Not to be confused with an element.
 
 Tag Management System
-: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events and known data.[2] Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag deduplication, and role-based access to data.&nbsp;[†](#w-tms)
+: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events and known data. Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag deduplication, and role-based access to data.&nbsp;[†](#w-tms)
 
 Tag soup
 : A pejorative for syntactically or structurally incorrect HTML written for a web page. Because web browsers have historically treated HTML syntax or structural errors leniently, there has been little pressure for web developers to follow published standards, and therefore there is a need for all browser implementations to provide mechanisms to cope with the appearance of “tag soup,” accepting and correcting for invalid syntax and structure where possible.&nbsp;[†](#w-tag-soup)
@@ -77,7 +77,7 @@ Technological Protection Measures
 : → Digital Rights Management
 
 Telnet
-: An application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC 15, extended in RFC 855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. The name stands for “teletype network.”&nbsp;[†](#w-telnet)
+: An application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC&nbsp;15, extended in RFC&nbsp;855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. The name stands for “teletype network.”&nbsp;[†](#w-telnet)
 
 Template
 : A static or dynamic file used to create or duplicate other files.

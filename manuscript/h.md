@@ -146,7 +146,7 @@ HTML5
 : → HTML
 
 HTML5 Boilerplate
-: An HTML, CSS, and JavaScript frontend template for creating HTML5 websites with cross-browser capability.&nbsp;[†](#w-html5-boilerplate) ℹ︎&nbsp;[html5boilerplate.com](https://html5boilerplate.com/)
+: An HTML, CSS, and JavaScript frontend template for creating HTML websites with cross-browser capability.&nbsp;[†](#w-html5-boilerplate) ℹ︎&nbsp;[html5boilerplate.com](https://html5boilerplate.com/)
 
 HTTP
 : → Hypertext Transfer Protocol
@@ -161,7 +161,7 @@ HTTP Strict Transport Security
 : A web security policy mechanism that helps to protect websites against protocol downgrade attacks and cookie hijacking. It allows web servers to declare that web browsers (or other complying user agents) should interact with it using only HTTPS connections, which provide Transport Layer Security (TLS/SSL), unlike the insecure HTTP protocol used alone. The HSTS policy is communicated by the server to the user agent via an HTTPS response header field named `Strict-Transport-Security`. HSTS policy specifies a period of time during which the user agent should only access the server in a secure fashion.&nbsp;[†](#w-hsts)
 
 HTTP/2
-: A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC 2068. The HTTP/2 specification was published as in 2015 as RFC 7540.&nbsp;[†](#w-http2)
+: A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC&nbsp;2068. The HTTP/2 specification was published as in 2015 as RFC&nbsp;7540.&nbsp;[†](#w-http2)
 
 httpd.conf
 : The main configuration file for the Apache HTTP Server. ℹ︎&nbsp;[is.gd/asNHfP](https://httpd.apache.org/docs/2.4/configuring.html)

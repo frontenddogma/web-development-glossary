@@ -61,7 +61,7 @@ README
 : A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
 Real User Monitoring
-: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end-users and to detect errors or slowdowns on web sites.&nbsp;[†](#w-rum)
+: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end-users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
 
 Recidivism
 : As an Agile metric, the total number of user stories completed in a sprint that entered development for the second time divided by the total number of completed stories.
@@ -79,7 +79,7 @@ Redesign
 : The process or outcome of a design update for a product or interface.
 
 Redirect
-: A technique for making a web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened. Similarly, domain redirection or domain forwarding is when all pages in a URL domain are redirected to a different domain. URL redirection is done for various reasons: for URL shortening; to prevent broken links when web pages are moved; to allow multiple domain names belonging to the same owner to refer to a single web site; to guide navigation into and out of a website; for privacy protection; and for hostile purposes such as phishing attacks or malware distribution. Redirects can be set up on the server and the client side.&nbsp;[†](#w-redirect)
+: A technique for making a web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened. Similarly, domain redirection or domain forwarding is when all pages in a URL domain are redirected to a different domain. URL redirection is done for various reasons: for URL shortening; to prevent broken links when web pages are moved; to allow multiple domain names belonging to the same owner to refer to a single website; to guide navigation into and out of a website; for privacy protection; and for hostile purposes such as phishing attacks or malware distribution. Redirects can be set up on the server and the client side.&nbsp;[†](#w-redirect)
 
 Redundancy
 : The intentional duplication of critical components or functions of a system with the intention of increasing reliability of the system. There are four major forms of redundancy: hardware redundancy, such as dual modular redundancy and triple modular redundancy; information redundancy, such as error detection and correction methods; time redundancy, performing the same operation multiple times such as multiple executions of a program or multiple copies of data transmitted; and software redundancy such as N-version programming.&nbsp;[†](#w-redundancy)
@@ -215,7 +215,7 @@ RIB
 : → Routing Information Base
 
 Rich Text Format
-: A proprietary document file format with published specification developed by Microsoft Corporation from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
+: A proprietary document file format with published specification developed by Microsoft from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
 
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
