@@ -6,6 +6,10 @@ Safari
 Same origin
 : → Origin
 
+Sandbox
+: In computer security, a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading. A sandbox is often used to execute untested or untrusted programs or code, possibly from unverified or untrusted third parties, suppliers, users or websites, without risking harm to the host machine or operating system. A sandbox typically provides a tightly controlled set of resources for guest programs to run in, such as storage and memory scratch space. Network access, the ability to inspect the host system, or read from input devices are usually disallowed or heavily restricted.&nbsp;[†](#w-sandbox-security)
+: In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software) 
+
 Sass
 : A preprocessor scripting language. Sass is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, “SCSS” (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
 

@@ -15,6 +15,9 @@ Quality Assurance
 Quality Control
 : A process by which entities review the quality of all factors involved in production. ISO 9000 defines quality control as “a part of quality management focused on fulfilling quality requirements.” QC places emphasis on three aspects: elements such as controls, job management, defined and well managed processes, performance and integrity criteria, and identification of records; competence, such as knowledge, skills, experience, and qualifications; and soft elements, such as personnel, integrity, confidence, organizational culture, motivation, team spirit, and quality relationships.&nbsp;[†](#w-qc)
 
+Quantity Query
+: A complex CSS selector that allows styles to be applied to elements based on the number of siblings. The term may have first been coined in 2015 by Heydon Pickering. ℹ︎&nbsp;[quantityqueries.com](https://quantityqueries.com/)
+
 Query
 : A form of questioning, in a line of inquiry. In computing, a precise request for information retrieval.&nbsp;[†](#w-query)
 

@@ -90,6 +90,7 @@ This book uses material from the following Wikipedia articles:
 * [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
+* [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering){#w-chaos-engineering}
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
@@ -625,6 +626,8 @@ This book uses material from the following Wikipedia articles:
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
+* [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)){#w-sandbox-security}
+* [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
 * [Sass (stylesheet language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)){#w-sass}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Screen reader](https://en.wikipedia.org/wiki/Screen_reader){#w-screen-reader}

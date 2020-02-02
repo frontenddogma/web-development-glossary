@@ -1,6 +1,7 @@
 # C
 
 CA
+: → Certificate Authority
 : → Confidentiality Agreement
 
 Cache
@@ -69,6 +70,9 @@ CDN
 
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
+
+Certificate Authority
+: An entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party, trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 standard. One particularly common use for certificate authorities is to sign certificates used in HTTPS, the secure browsing protocol for the World Wide Web.&nbsp;[†](#w-ca)
 
 CGI
 : → Common Gateway Interface
