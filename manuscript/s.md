@@ -550,4 +550,4 @@ Syntax analysis
 syslog
 : A standard for message logging. syslog allows separation of the software that generates messages, the system that stores them, and the software that reports and analyzes them. Each message is labeled with a facility code, indicating the software type generating the message, and assigned a severity level. syslog was developed in the 1980s by Eric Allman.&nbsp;[†](#w-syslog)
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/s.md) and become a glossary&nbsp;contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

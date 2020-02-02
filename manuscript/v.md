@@ -109,4 +109,4 @@ VuePress
 Vuex
 : A state management pattern and library for Vue.js applications. ℹ︎&nbsp;[vuex.vuejs.org](https://vuex.vuejs.org/)
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/v.md) and become a glossary&nbsp;contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

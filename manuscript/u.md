@@ -172,4 +172,4 @@ UX
 UXPA
 : → User Experience Professionals Association
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/u.md) and become a glossary&nbsp;contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

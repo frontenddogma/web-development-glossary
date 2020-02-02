@@ -323,4 +323,4 @@ Dynamic typing
 Dyslexia
 : A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud and understanding what one reads.&nbsp;[†](#w-dyslexia)
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/d.md) and become a glossary&nbsp;contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

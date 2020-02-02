@@ -266,4 +266,4 @@ WYSIAYG
 WYSIWYG
 : → What You See Is What You Get
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary/blob/master/manuscript/w.md) and become a glossary&nbsp;contributor!
+T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
