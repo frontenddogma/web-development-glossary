@@ -143,6 +143,7 @@ This book uses material from the following Wikipedia articles:
 * [Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network){#w-cdn}
 * [Content management system](https://en.wikipedia.org/wiki/Content_management_system){#w-cms}
 * [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy){#w-csp}
+* [Context switch](https://en.wikipedia.org/wiki/Context_switch){#w-context-switch}
 * [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery){#w-continuous-delivery}
 * [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment){#w-continuous-deployment}
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
