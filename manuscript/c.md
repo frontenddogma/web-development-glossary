@@ -442,6 +442,9 @@ Crontab
 Cross-Origin Resource Sharing
 : A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, style sheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
 
+Cross-Site Request Forgery
+: A type of malicious exploit of a website where unauthorized commands are transmitted from a user that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image elements, hidden forms, and JavaScript XMLHttpRequests, for example, can all work without the user’s interaction or even knowledge. Unlike cross-site scripting (XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user’s browser.&nbsp;[†](#w-csrf)
+
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
 
@@ -450,6 +453,9 @@ CSCS
 
 CSP
 : → Content Security Policy
+
+CSRF
+: → Cross-Site Request Forgery
 
 CSS
 : → Cascading Style Sheets

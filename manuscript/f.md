@@ -54,6 +54,10 @@ File Transfer Protocol
 File-locking
 : A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
 
+Fingerprinting
+: In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
+: In computer security, information collected about a remote computing device for the purpose of identification. Fingerprints can be used to fully or partially identify individual users or devices even when persistent cookies (and zombie cookies) cannot be read or stored in the browser, the client IP address is hidden, and even if one switches to another browser on the same device. This may allow a remote application to detect and prevent online identity theft and credit card fraud, but also to compile long-term records of individuals’ browsing histories even when they are attempting to avoid tracking.&nbsp;[†](#w-device-fingerprint)
+
 Firebird
 : → Firefox
 

@@ -155,6 +155,7 @@ This book uses material from the following Wikipedia articles:
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
 * [cron](https://en.wikipedia.org/wiki/Cron){#w-cron}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
+* [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery){#w-csrf}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
 * [CSS box model](https://en.wikipedia.org/wiki/CSS_box_model){#w-box-model}
@@ -188,6 +189,7 @@ This book uses material from the following Wikipedia articles:
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
+* [Device fingerprint](https://en.wikipedia.org/wiki/Device_fingerprint){#w-device-fingerprint}
 * [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
 * [Dialog box](https://en.wikipedia.org/wiki/Dialog_box){#w-dialog-box}
 * [Digital display advertising](https://en.wikipedia.org/wiki/Digital_display_advertising){#w-display-advertising}
@@ -248,6 +250,7 @@ This book uses material from the following Wikipedia articles:
 * [File system](https://en.wikipedia.org/wiki/File_system){#w-fs}
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
 * [Filler text](https://en.wikipedia.org/wiki/Filler_text){#w-placeholder-text}
+* [Fingerprint (computing)](https://en.wikipedia.org/wiki/Fingerprint_(computing)){#w-fingerprint}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
@@ -829,6 +832,7 @@ This book uses material from the following Wikipedia articles:
 * [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe){#w-wireframe}
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
 * [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
+* [White-box testing](https://en.wikipedia.org/wiki/White-box_testing){#w-white-box-testing}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character){#w-whitespace}
 * [WHOIS](https://en.wikipedia.org/wiki/WHOIS){#w-whois}
@@ -861,6 +865,7 @@ This book uses material from the following Wikipedia articles:
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
+* [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified, which in most cases means that they have been shortened.
 

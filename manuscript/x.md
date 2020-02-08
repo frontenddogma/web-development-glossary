@@ -48,6 +48,9 @@ XSL
 XSLT
 : → Extensible Stylesheet Language Transformations
 
+XSRF
+: → Cross-Site Request Forgery
+
 XSS
 : → Cross-Site Scripting
 
