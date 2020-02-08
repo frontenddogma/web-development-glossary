@@ -27,6 +27,9 @@ Maintainability
 Maintenance
 : The functional checking, servicing, repairing, or replacing of necessary devices, equipment, machinery, building infrastructure, supporting utilities, and also software in industrial, business, governmental, and residential installations. Over time, maintenance has come to include multiple wordings that describe various cost-effective practices to keep equipment operational; these activities take place either before or after a failure.&nbsp;[†](#w-maintenance)
 
+Makefile
+: A file (named “Makefile” by default) containing a set of directives used by a make build automation tool to generate a target. A makefile works upon the principle that files only need recreating if their dependencies are newer than the file being created. The makefile is recursively carried out until everything has been updated and the ultimate target is complete.&nbsp;[†](#w-makefile)
+
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
