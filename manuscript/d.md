@@ -227,6 +227,9 @@ Document Type Definition
 Documentation
 : A set of documents provided on paper, or online, or on digital or analog media. Examples are user guides, white papers, on-line help, quick-reference guides. Paper or hard-copy documentation has become less common.&nbsp;[†](#w-documentation)
 
+Dojo
+: A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based applications and web sites. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
+
 DOM
 : → Document Object Model
 

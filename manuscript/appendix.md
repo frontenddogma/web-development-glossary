@@ -204,6 +204,7 @@ This book uses material from the following Wikipedia articles:
 * [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration){#w-doctype}
 * [Document type definition](https://en.wikipedia.org/wiki/Document_type_definition){#w-dtd}
 * [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
+* [Dojo Toolkit](https://en.wikipedia.org/wiki/Dojo_Toolkit){#w-dojo}
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Domain of discourse](https://en.wikipedia.org/wiki/Domain_of_discourse){#w-domain-of-discourse}
@@ -582,6 +583,7 @@ This book uses material from the following Wikipedia articles:
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Push technology](https://en.wikipedia.org/wiki/Push_technology){#w-push-technology}
 * [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language)){#w-python}
+* [qooxdoo](https://en.wikipedia.org/wiki/Qooxdoo){#w-qooxdoo}
 * [Quality (business)](https://en.wikipedia.org/wiki/Quality_(business)){#w-quality}
 * [Quality assurance](https://en.wikipedia.org/wiki/Quality_assurance){#w-qa}
 * [Quality control](https://en.wikipedia.org/wiki/Quality_control){#w-qc}

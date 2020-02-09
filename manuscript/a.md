@@ -159,6 +159,9 @@ Anonymous inline box
 Anonymous inline element
 : Any text that is directly contained inside a block container element that’s not inside an inline element.
 
+Anonymous text
+: Any string of characters that is not contained within an inline element. 
+
 ANSI
 : → American National Standards Institute
 
