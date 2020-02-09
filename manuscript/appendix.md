@@ -409,6 +409,7 @@ This book uses material from the following Wikipedia articles:
 * [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading){#w-lazy-loading}
 * [Lead programmer](https://en.wikipedia.org/wiki/Lead_programmer){#w-lead}
 * [Lead time](https://en.wikipedia.org/wiki/Lead_time){#w-lead-time}
+* [Leading](https://en.wikipedia.org/wiki/Leading){#w-leading}
 * [Lean thinking](https://en.wikipedia.org/wiki/Lean_thinking){#w-lean}
 * [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
