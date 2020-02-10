@@ -42,6 +42,9 @@ hasLayout
 HCI
 : → Human-Computer Interaction
 
+HDD
+: → Hypothesis-Driven Development
+
 Heading content
 : Content that defines the header of a section (whether explicitly marked up using sectioning content elements, or implied by the heading content itself), marked up through the `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, and `hgroup` elements.&nbsp;§
 
@@ -198,5 +201,8 @@ Hypertext Transfer Protocol
 
 Hypertext Transfer Protocol Secure
 : An extension of the Hypertext Transfer Protocol (HTTP). HTTPS is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS, or HTTP over SSL. The principal motivations for HTTPS are authentication of the accessed website, protection of privacy, and integrity of the exchanged data while in transit. The bidirectional encryption of communications between a client and server protects against eavesdropping and tampering of the communication. The authentication aspect of HTTPS requires a trusted third party to sign server-side digital certificates, which historically was expensive.&nbsp;[†](#w-https)
+
+Hypothesis-Driven Development
+: A product development approach based on continuously running experiments to test hypotheses about a product, its users, and the market.
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
