@@ -546,6 +546,7 @@ This book uses material from the following Wikipedia articles:
 * [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
+* [Penetration test](https://en.wikipedia.org/wiki/Penetration_test){#w-penetration-testing}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
 * [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding){#w-percent-encoding}
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator){#w-kpi}
