@@ -176,6 +176,12 @@ Todo
 TOFU
 : → Trust on First Use
 
+Tom’s Obvious, Minimal Language
+: A configuration file format that is intended to be easy to read and write due to obvious semantics which aim to be minimal, and that is designed to map unambiguously to a dictionary. TOML was released in 2013 by Tom Preston-Werner.&nbsp;[†](#w-toml) ℹ︎&nbsp;[github.com/toml-lang/toml](https://github.com/toml-lang/toml)
+
+TOML
+: → Tom’s Obvious, Minimal Language
+
 Tomcat
 : → Apache Tomcat
 
