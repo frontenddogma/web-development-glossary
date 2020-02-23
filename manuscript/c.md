@@ -172,6 +172,9 @@ Cloud computing
 Cloud storage
 : A model of computer data storage in which the digital data is stored in logical pools. The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a hosting company. These cloud storage providers are responsible for keeping the data available and accessible, and the physical environment protected and running. People and organizations buy or lease storage capacity from the providers to store user, organization, or application data.&nbsp;[†](#w-cloud-storage)
 
+CLS
+: → Cumulative Layout Shift
+
 Cluster
 : A set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.&nbsp;[†](#w-cluster)
 
@@ -489,6 +492,9 @@ CTA
 
 CTR
 : → Click-Through Rate
+
+Cumulative Layout Shift
+: @@
 
 Custom element
 : → Autonomous custom element
