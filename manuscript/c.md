@@ -494,7 +494,7 @@ CTR
 : → Click-Through Rate
 
 Cumulative Layout Shift
-: @@
+: A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
 
 Custom element
 : → Autonomous custom element
