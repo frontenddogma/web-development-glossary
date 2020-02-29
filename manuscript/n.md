@@ -51,7 +51,7 @@ Network packet
 : → Packet
 
 Newbie
-: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning internet activity, such as online gaming or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
+: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, such as online gaming or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in Internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
 
 Newline
 : A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (“↵”).&nbsp;[†](#w-newline)

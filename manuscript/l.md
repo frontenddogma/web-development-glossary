@@ -127,6 +127,9 @@ Linting
 Linux
 : A family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open source software collaboration.&nbsp;[†](#w-linux)
 
+Linux Standard Base
+: A joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the Filesystem Hierarchy Standard used in the Linux kernel. The LSB is based on the POSIX specification, the Single UNIX Specification (SUS), and several other open standards, but extends them in certain areas.&nbsp;[†](#w-lsb)
+
 Linux, Apache, MySQL, PHP/Perl/Python
 : An archetypal model of web service stacks, named as an acronym of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and applications.&nbsp;[†](#w-lamp)
 
@@ -191,7 +194,10 @@ Lossless
 : A class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavourable. Typical examples are executable programs, text documents, and source code. Some image file formats, like PNG or GIF, use only lossless compression.&nbsp;[†](#w-lossless)
 
 Lossy
-: A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end-user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and internet telephony.&nbsp;[†](#w-lossy)
+: A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end-user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
+
+LSB
+: → Linux Standard Base
 
 LTR
 : → Left-to-Right

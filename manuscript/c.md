@@ -353,7 +353,7 @@ Content box
 : → Box
 
 Content Delivery Network
-: A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating the performance bottlenecks of the Internet. They are a layer in the internet ecosystem.&nbsp;[†](#w-cdn)
+: A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating the performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
 
 Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps and programme code that display content and interact with the user.&nbsp;[†](#w-cms)

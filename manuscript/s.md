@@ -176,7 +176,7 @@ Service Level Expectation
 : The definition and setting of expectations of a service to be given, like what time it may take for work to be done, or issues to be resolved.
 
 Service worker
-: A JavaScript file that operates as a type of web worker. They work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of Registration, Installation, and Activation. Technically, service workers provide a scriptable network proxy in the web browser to manage the web/HTTP requests programmatically. The service workers lie between the network and device to supply the content. They are capable of using the cache mechanisms efficiently and allow error-free behavior during offline periods.&nbsp;[†](#w-pwa)
+: A JavaScript file that operates as a type of web worker. They work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of Registration, Installation, and Activation. Technically, service workers provide a scriptable network proxy in the web browser to manage HTTP requests programmatically. The service workers lie between the network and device to supply the content. They are capable of using the cache mechanisms efficiently and allow error-free behavior during offline periods.&nbsp;[†](#w-pwa)
 
 Set
 : An abstract data type that can store unique values, without any particular order. It is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.&nbsp;[†](#w-set)
@@ -221,7 +221,7 @@ SI
 : → Speed Index
 
 Signed HTTP Exchanges
-: A draft standard to make internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
+: A draft standard to make Internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
 Simple Mail Transfer Protocol
 : A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail and Yahoo! Mail, may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol on port number 25.&nbsp;[†](#w-smtp)
@@ -525,7 +525,7 @@ Support
 : The (often percentage-based) availability and popularity of a particular software, a software feature, or device.
 
 Surface Web
-: The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the internet; according to one source, as of 2015, Google’s index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
+: The portion of the World Wide Web that is readily available to the general public and searchable with standard web search engines. It is the opposite of the Deep Web, the part of the Web not indexed by a web search engine. The Surface Web only consists of 10% of the information that is on the Internet; according to one source, as of 2015, Google’s index of the Surface Web contains about 14.5 billion pages.&nbsp;[†](#w-surface-web)
 
 Surfing
 : → Browsing

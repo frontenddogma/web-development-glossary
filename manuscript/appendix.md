@@ -422,6 +422,7 @@ This book uses material from the following Wikipedia articles:
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
 * [lint (software)](https://en.wikipedia.org/wiki/Lint_(software)){#w-lint}
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
+* [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base){#w-lsb}
 * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
@@ -629,6 +630,7 @@ This book uses material from the following Wikipedia articles:
 * [Router (computing)](https://en.wikipedia.org/wiki/Router_(computing)){#w-router}
 * [Routing](https://en.wikipedia.org/wiki/Routing){#w-routing}
 * [Routing table](https://en.wikipedia.org/wiki/Routing_table){#w-routing-table}
+* [RPM Package Manager](https://en.wikipedia.org/wiki/RPM_Package_Manager){#w-rpm}
 * [RSS](https://en.wikipedia.org/wiki/RSS){#w-rss}
 * [RTFM](https://en.wikipedia.org/wiki/RTFM){#w-rtfm}
 * [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging){#w-rubber-ducking}

@@ -188,7 +188,7 @@ Responsive design
 : → Responsive Web Design
 
 Responsive Web Design
-: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.&nbsp;[†](#w-rwd)
+: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic.&nbsp;[†](#w-rwd)
 
 Responsiveness
 : → Responsive Web Design
@@ -257,11 +257,11 @@ Round-Trip Delay Time
 : → Round-Trip Time
 
 Round-Trip Time
-: The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
+: The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An Internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
 Router
 : For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered to open the next page.&nbsp;[‡](#m-router)
-: For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
+: For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an inter-network (e.g. the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
 
 Routine
 : A sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.&nbsp;[†](#w-subroutine)
@@ -274,6 +274,12 @@ Routing Information Base
 
 Routing table
 : A data table stored in a router or a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes. The routing table contains information about the topology of the network immediately around it.&nbsp;[†](#w-routing-table)
+
+RPM
+: → RPM Package Manager
+
+RPM Package Manager
+: Originally called “Red Hat Package Manager”, a free and open source package management system. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
 RSS
 : → RDF Site Summary

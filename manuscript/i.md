@@ -86,7 +86,7 @@ Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. The Increment is created by members of the Development Team. It must be usable and meet the definition of “Done.”
 
 Indexed Database
-: A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the Web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
+: A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
 
 IndexedDB
 : → Indexed Database
@@ -212,7 +212,7 @@ Internationalization
 : The process of designing a software application so that it can be adapted to various languages and regions without engineering changes.&nbsp;[†](#w-i18n-l10n)
 
 Internationalized Resource Identifier
-: An internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. It was defined in 2005 by the Internet Engineering Task Force (IETF).&nbsp;[†](#w-iri)
+: An Internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. It was defined in 2005 by the Internet Engineering Task Force (IETF).&nbsp;[†](#w-iri)
 
 Internet
 : The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
@@ -236,7 +236,7 @@ Internet Message Access Protocol
 : An Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP was designed in 1986 and is defined by RFC&nbsp;3501.&nbsp;[†](#w-imap)
 
 Internet Protocol
-: The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.&nbsp;[†](#w-internet-protocol)
+: The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables inter-networking, and essentially establishes the Internet.&nbsp;[†](#w-internet-protocol)
 
 Internet Relay Chat
 : An application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on a 3rd party server. IRC was created in 1988 by Jarkko Oikarinen.&nbsp;[†](#w-irc)
@@ -288,7 +288,7 @@ IP telephony
 : → Voice over IP
 
 IPv4
-: The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)
+: The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based inter-networking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)
 
 IPv6
 : The most recent version of the Internet Protocol (IP). IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the anticipated problem of IPv4 address exhaustion. IPv6 is intended to replace IPv4.&nbsp;[†](#w-ipv6)

@@ -34,10 +34,10 @@ Accelerated Mobile Pages
 : A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
 
 Acceptance testing
-: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system (for example: a piece of software, lots of manufactured mechanical parts, or batches of chemical products) prior to its delivery. In software testing the ISTQB defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers, or other authorized entity to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
+: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable the user, customers, or other authorized entity to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
-: The selective restriction of access to a place or other resource while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
+: The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
 
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
@@ -51,20 +51,17 @@ Accessibility Object Model
 Accessibility tree
 : → Accessibility Object Model
 
-Accessible
-: → Accessibility
-
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. ℹ︎&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
 ActionScript
-: An object-oriented programming language originally developed by Macromedia (later acquired by Adobe Systems). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
+: An object-oriented programming language originally developed by Macromedia (later acquired by Adobe). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
 
 Active Server Pages
 : A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
 
 Active Users
-: A performance metric for the success of an internet product such as a social networking service, online game, or mobile app. It measures how many users visit or interact with the product or service over a given interval. This metric is commonly assessed per month as monthly active users (MAU), per week as weekly active users (WAU), or per day as daily active users (DAU).&nbsp;[†](#w-active-users)
+: A performance metric for the success of an Internet product such as a social networking service, online game, or mobile app. It measures how many users visit or interact with the product or service over a given interval. This metric is commonly assessed per month as monthly active users (MAU), per week as weekly active users (WAU), or per day as daily active users (DAU).&nbsp;[†](#w-active-users)
 
 Adaptive
 : An aspect of or synonym for Agile development.
@@ -79,13 +76,13 @@ Adobe Flash
 : → Flash
 
 ads.txt
-: An initiative from IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of internet fraud prevention.&nbsp;[†](#w-adstxt)
+: An initiative from the IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of Internet fraud prevention.&nbsp;[†](#w-adstxt)
 
 ADT
 : → Abstract Data Type
 
 Advanced Package Tool
-: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages.&nbsp;[†](#w-apt)
+: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-apt)
 
 Affordance
 : Those action possibilities that are readily perceivable by an actor, that is, an affordance suggests how an object may be interacted with. For example, an underlined word on a web page has the affordance of being clickable.&nbsp;[†](#w-affordance)

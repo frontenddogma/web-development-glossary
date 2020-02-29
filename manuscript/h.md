@@ -110,7 +110,7 @@ Homepage
 : → Website
 
 HomeSite
-: A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe Systems, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
+: A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
 
 Hooking
 : A range of techniques used to alter or augment the behaviour of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)

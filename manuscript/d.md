@@ -282,7 +282,7 @@ DQL
 : → Data Query Language
 
 Dreamweaver
-: A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe Systems in 2005.&nbsp;[†](#w-dreamweaver)
+: A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe in 2005.&nbsp;[†](#w-dreamweaver)
 
 DRM
 : → Digital Rights Management
