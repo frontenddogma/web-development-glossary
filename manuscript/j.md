@@ -51,6 +51,9 @@ JAWS
 JDBC
 : → Java Database Connectivity
 
+Jekyll
+: A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
+
 Jetty
 : A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 

@@ -240,6 +240,7 @@ This book uses material from the following Wikipedia articles:
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
+* [Facebook Instant Articles](https://en.wikipedia.org/wiki/Facebook_Instant_Articles){#w-instant-articles}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}

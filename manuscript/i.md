@@ -163,6 +163,9 @@ Inline-level element
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
+Instant Articles
+: A feature from social networking company Facebook for use with collaborating news and content publishers, that the publisher can choose to use for articles they select. When a publisher selects an article for Instant Articles, people browsing Facebook with the Facebook mobile app can see the entire article within the app, with formatting very similar to that on the publisher’s website.&nbsp;[†](#w-instant-articles) ℹ︎&nbsp;[instantarticles.fb.com](https://instantarticles.fb.com/)
+
 Integer
 : In computer science, a datum of integral data type, a data type that represents some range of mathematical integers. Integral data types may be of different sizes and may or may not be allowed to contain negative values. Integers are commonly represented in a computer as a group of binary digits (bits). With 32 bits, an integer has a signed range from –2,147,483,648 to 2,147,483,647, and an unsigned range from 0 to 4,294,967,295.&nbsp;[†](#w-integer-computer-science)
 : In mathematics, a number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, while 9.75, 5½, and √2 are not. The set of integers consists of zero (0), the positive natural numbers (1, 2, 3, …), also called whole numbers or counting numbers, and their additive inverses (the negative integers, i.e., –1, –2, –3, …).&nbsp;[†](#w-integer-math)
