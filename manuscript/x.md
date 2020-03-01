@@ -25,7 +25,7 @@ XML User Interface Language
 : A user interface markup language developed by Mozilla. XUL is implemented as an XML dialect, enabling graphical user interfaces to be written in a similar manner to web pages. Such applications must be created using the Mozilla codebase (or a fork of it); the most prominent example is the Firefox web browser.&nbsp;[†](#w-xul) ℹ︎&nbsp;[developer.mozilla.org/XUL](https://developer.mozilla.org/XUL)
 
 XMLHttpRequest
-: An API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser’s JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML, but also HTML, JSON, or plain text.&nbsp;[†](#w-xmlhttprequest)
+: An API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser’s JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of AJAX design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML, but also HTML, JSON, or plain text.&nbsp;[†](#w-xmlhttprequest)
 
 XP
 : → Extreme Programming

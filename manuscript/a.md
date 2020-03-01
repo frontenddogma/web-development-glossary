@@ -130,13 +130,13 @@ Analytics
 : → Web analytics
 
 Anchor
-: Technical name for a link, usually referring to the underlying `a` element.
+: Technical name for a link, usually referring to the `a` element.
 
 Angular
 : A TypeScript-based web application framework developed by Google and a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. Angular was released in 2016.&nbsp;[†](#w-angular) ℹ︎&nbsp;[angular.io](https://angular.io/)
 
 AngularJS
-: A JavaScript-based front-end web framework mainly maintained by Google and a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. AngularJS aims to simplify both the development and the testing of such applications by providing a framework for client-side model-view-controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. AngularJS was first released in 2010 and makes for the frontend part of the MEAN stack. Version 1.7.x is on Long Term Support until July 1, 2021. After that date AngularJS will no longer be updated and Angular is suggested instead.&nbsp;[†](#w-angularjs) ℹ︎&nbsp;[angularjs.org](https://angularjs.org/)
+: A JavaScript-based frontend web framework mainly maintained by Google and a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. AngularJS aims to simplify both the development and the testing of such applications by providing a framework for client-side model-view-controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. AngularJS was first released in 2010 and makes for the frontend part of the MEAN stack. Version 1.7.x is on Long Term Support until July 1, 2021. After that date AngularJS will no longer be updated and Angular is suggested instead.&nbsp;[†](#w-angularjs) ℹ︎&nbsp;[angularjs.org](https://angularjs.org/)
 
 Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)
@@ -163,7 +163,7 @@ ANSI
 : → American National Standards Institute
 
 Anti-pattern
-: A common response to a recurring problem that is usually ineffective and risks being highly counterproductive, and that has more bad consequences than good ones.&nbsp;[†](#w-anti-pattern)
+: A common response to a recurring problem that is usually ineffective and risks being highly counterproductive, and that has more negative than positive consequences.&nbsp;[†](#w-anti-pattern)
 
 AOM
 : → Accessibility Object Model
@@ -184,10 +184,10 @@ App
 : → Application
 
 App shell
-: The minimal HTML, CSS, and JavaScript necessary to spawn a site or app user interface.
+: The minimal HTML, CSS, and JavaScript necessary to provide a site or app user interface.
 
 Applet
-: Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plug-in. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
+: Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plugin. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
 
 Application
 : A computer program designed to help people perform an activity. An application differs from an operating system (which runs a computer), a utility (which performs maintenance or general-purpose chores), and a programming tool (with which computer programs are created). Depending on the activity for which it was designed, an application can manipulate text, numbers, audio, graphics, and a combination of these elements. Some application packages focus on a single task, such as word processing; others, called integrated software include several applications.&nbsp;[†](#w-application)
@@ -229,7 +229,7 @@ ASP
 : → Active Server Pages
 
 ASP.NET
-: A server-side web application framework designed for web development to produce dynamic web pages. ASP.NET was developed by Microsoft to allow programmers to build dynamic web sites, applications, and services. It was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
+: A server-side web application framework designed to build dynamic web sites, applications, and services. ASP.NET was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
 
 Aspect ratio
 : A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)
@@ -244,16 +244,16 @@ Assistive Technology Service Provider Interface
 : A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. It is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project.&nbsp;[†](#w-at-spi)
 
 Association for Computing Machinery
-: An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing society. The ACM is a non-profit professional membership group, reporting nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City. The ACM is an umbrella organization for academic and scholarly interests in computer science. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) ℹ︎&nbsp;[acm.org](https://www.acm.org/)
+: An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing community. Its motto is “Advancing Computing as a Science and Profession.”&nbsp;[†](#w-acm) ℹ︎&nbsp;[acm.org](https://www.acm.org/)
 
 Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
 
 Asynchronous Module Definition
-: A specification for the JavaScript programming language. AMD defines an application programming interface (API) that defines code modules and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed, and fewer page errors, because AMD implementations allow developers to define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
+: A specification for the JavaScript programming language. AMD defines an application programming interface (API) that defines code modules and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed. AMD implementations also suggest fewer page errors, because developers can define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
 
 Asynchronous JavaScript and XML
-: A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
+: A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, AJAX allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
 
 at
 : A command in Unix-like operating systems, Microsoft Windows, and ReactOS used to schedule commands to be executed once, at a particular time in the future.&nbsp;[†](#w-at)
@@ -280,7 +280,7 @@ Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
 
 Attribute minimization
-: The valid option for a Boolean attribute not to have a value if it’s set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; that is, `checked` would be required to be written `checked="checked"`.
+: The valid option for a Boolean attribute not to have a value if it’s set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; for example, `checked` is suggested to be written `checked="checked"`.
 
 Augmented Reality
 : An interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory. AR can be defined as a system that fulfills three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.&nbsp;[†](#w-ar)
@@ -292,7 +292,7 @@ Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG 1.0 became a W3C Recommendation in 2000. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
 Authorization
-: The specifying of access rights and privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)
+: The specifying of access rights and privileges to resources, which is related to information security and computer security in general, and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)
 
 Automagic
 : A blend of “automatic” and “magic,” referring to an action that’s performed automatically but also in a way as to seem magical.
@@ -304,7 +304,7 @@ Automation
 : A technology by which a process or procedure is performed with minimal human assistance. Automation or automatic control is the use of various control systems for operating equipment.&nbsp;[†](#w-automation)
 
 Autonomous custom element
-: One type of custom element for a web component. An autonomous custom element is standalone, that is, it does not inherit from standard HTML elements. Autonomous custom elements are used by literally writing them out as an HTML element.&nbsp;[‡](#m-custom-element)
+: One type of custom element for a web component. An autonomous custom element is standalone, that is, it does not inherit from standard HTML elements. Autonomous custom elements are used by literally writing them out as HTML elements.&nbsp;[‡](#m-custom-element)
 
 AWS
 : → Amazon Web Services

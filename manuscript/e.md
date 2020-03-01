@@ -13,7 +13,7 @@ EBM
 : → Evidence-Based Management
 
 Eclipse
-: An integrated development environment (IDE) used in computer programming. Eclipse contains a base workspace and an extensible plug-in system for customizing the environment. It is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages.&nbsp;[†](#w-eclipse) ℹ︎&nbsp;[eclipse.org](https://www.eclipse.org/)
+: An integrated development environment (IDE) used in computer programming. Eclipse contains a base workspace and an extensible plugin system for customizing the environment. It is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages.&nbsp;[†](#w-eclipse) ℹ︎&nbsp;[eclipse.org](https://www.eclipse.org/)
 
 ECMA
 : → European Computer Manufacturers Association

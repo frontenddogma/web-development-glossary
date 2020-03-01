@@ -1,7 +1,7 @@
 # Y
 
 Yahoo! User Interface Library
-: A discontinued JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting. YUI includes several core CSS resources. Development on YUI began in 2005 and Yahoo! properties such as My Yahoo! and the Yahoo! front page began using YUI in the summer of that year. YUI was released for public use in 2006, and development stopped in 2014.&nbsp;[†](#w-yui) ℹ︎&nbsp;[yuilibrary.com](https://yuilibrary.com/)
+: A discontinued JavaScript library for building richly interactive web applications using techniques such as AJAX, DHTML, and DOM scripting. YUI includes several core CSS resources. Development on YUI began in 2005 and Yahoo! properties such as My Yahoo! and the Yahoo! front page began using YUI in the summer of that year. YUI was released for public use in 2006, and development stopped in 2014.&nbsp;[†](#w-yui) ℹ︎&nbsp;[yuilibrary.com](https://yuilibrary.com/)
 
 YAML
 : → YAML Ain’t Markup Language
