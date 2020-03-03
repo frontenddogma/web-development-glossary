@@ -122,7 +122,7 @@ EOL
 : → End of line
 
 Epic
-: In Agile, a large problem or feature space that is to be broken into several user stories, or issues, and necessarily distributed over several Sprints.
+: In agile development, a large problem or feature space that is to be broken into several user stories, or issues, and necessarily distributed over several Sprints.
 
 Error
 : → Bug
@@ -140,7 +140,7 @@ European Computer Manufacturers Association
 : → Ecma International
 
 Event
-: An action or occurrence recognized by software, often originating asynchronously from the external environment, that may be handled by the software. Computer events can be generated or triggered by the system, by the user or in other ways. Typically, events are handled synchronously with the program flow, that is, the software may have one or more dedicated places where events are handled, frequently an event loop. A source of events includes the user, who may interact with the software by way of, for example, keystrokes on the keyboard. Another source is a hardware device such as a timer. Software can also trigger its own set of events into the event loop, e.g. to communicate the completion of a task. Software that changes its behavior in response to events is said to be event-driven, often with the goal of being interactive.&nbsp;[†](#w-event)
+: An action or occurrence recognized by software, often originating asynchronously from the external environment, that may be handled by the software. Computer events can be generated or triggered by the system, by the user, or in other ways. Typically, events are handled synchronously with the program flow, that is, the software may have one or more dedicated places where events are handled, frequently an event loop. A source of events includes the user, who may interact with the software by way of, for example, keystrokes on the keyboard. Another source is a hardware device such as a timer. Software can also trigger its own set of events into the event loop, e.g. to communicate the completion of a task. Software that changes its behavior in response to events is said to be event-driven, often with the goal of being interactive.&nbsp;[†](#w-event)
 
 Event handler
 : A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
