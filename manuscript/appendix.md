@@ -207,7 +207,6 @@ This book uses material from the following Wikipedia articles:
 * [Dojo Toolkit](https://en.wikipedia.org/wiki/Dojo_Toolkit){#w-dojo}
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
-* [Domain of discourse](https://en.wikipedia.org/wiki/Domain_of_discourse){#w-domain-of-discourse}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}

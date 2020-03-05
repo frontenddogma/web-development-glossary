@@ -95,7 +95,7 @@ Pen test
 : → Penetration testing
 
 Penetration testing
-: An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. A penetration test is performed to identify both weaknesses (also referred to as vulnerabilities), including the potential for unauthorized parties to gain access to the system’s features and data, as well as strengths, enabling a full risk assessment to be completed. The process typically identifies the target systems and a particular goal, then reviews available information and undertakes various means to attain that goal.&nbsp;[†](#w-penetration-testing)
+: An authorized simulated cyber attack on a computer system, performed to evaluate the security of the system. A penetration test is performed to identify both weaknesses (also referred to as vulnerabilities), including the potential for unauthorized parties to gain access to the system’s features and data, as well as strengths, enabling a full risk assessment to be completed. The process typically identifies the target systems and a particular goal, then reviews available information and undertakes various means to attain that goal.&nbsp;[†](#w-penetration-testing)
 
 Perceivable, Operable, Understandable, and Robust
 : The four major principles of WCAG&nbsp;2.0. Information and user interface components must be presentable to users in ways they can perceive; user interface components and navigation must be operable; information and the operation of user interface must be understandable; and content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.&nbsp;[†](#w-wcag)

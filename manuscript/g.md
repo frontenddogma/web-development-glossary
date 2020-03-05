@@ -117,7 +117,7 @@ gulp
 : → gulp.js
 
 gulp.js
-: A JavaScript toolkit used as a streaming build system (similar to a more package-focussed Make) in frontend web development. gulp is a task runner built on Node.js and npm, used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization, etc. It was created in 2013 by Eric Schoffstall.&nbsp;[†](#w-gulp) ℹ︎&nbsp;[gulpjs.com](https://gulpjs.com/)
+: A JavaScript toolkit used as a streaming build system (similar to a more package-focused Make) in frontend web development. gulp is a task runner built on Node.js and npm, used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization, etc. It was created in 2013 by Eric Schoffstall.&nbsp;[†](#w-gulp) ℹ︎&nbsp;[gulpjs.com](https://gulpjs.com/)
 
 Gutter
 : The space between columns of printed text, including the gap between facing pages.&nbsp;[†](#w-gutter)

@@ -88,7 +88,7 @@ Dead code elimination
 : A compiler optimization to remove code which does not affect the program results. Removing such code has several benefits: it shrinks program size, an important consideration in some contexts, and it allows the running program to avoid executing irrelevant operations, which reduces its running time. It can also enable further optimizations by simplifying program structure. Dead code includes code that can never be executed (unreachable code), and code that only affects dead variables (written to, but never read again), that is, irrelevant to the program.&nbsp;[†](#w-dce)
 
 Debugging
-: The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.&nbsp;[†](#w-debugging)
+: The process of finding and resolving defects or problems within a computer program that prevent correct operation of application or system software. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.&nbsp;[†](#w-debugging)
 
 Declaration
 : In CSS, a declaration assigns a value of a property (or, in case of a shorthand, several values for several properties) to a selected element. A declaration is part of a declaration block as well as a rule. It consists of a property, a colon (`:`), and a value. If there are multiple declarations in a block, a semi-colon (`;`) must be inserted to separate each declaration.&nbsp;[†](#w-css)
@@ -103,7 +103,7 @@ Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plaintext.&nbsp;[†](#w-cryptography)
 
 Deep Web
-: Parts of the World Wide Web whose contents are not indexed by standard web search-engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. Computer-scientist Michael K. Bergman is credited with coining the term “deep web” in 2001 as a search-indexing term. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social-media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video on demand as well as online magazines and newspapers.&nbsp;[†](#w-deep-web)
+: Parts of the World Wide Web whose contents are not indexed by standard web search engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video-on-demand as well as online magazines and newspapers. The term “Deep Web” has first been used in 2001 by Michael K. Bergman.&nbsp;[†](#w-deep-web)
 
 Defect
 : → Bug
@@ -111,17 +111,17 @@ Defect
 Defect tracking system
 : → Bug tracking system
 
-Definition of Done
-: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. Mutually defined by the Development Teams of an organization’s Scrum teams.
+Definition of “Done”
+: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum teams.
 
 Demilitarized Zone
 : A physical or logical subnetwork that contains and exposes an organization’s external-facing services to an untrusted network, usually a larger network such as the Internet. The purpose of a DMZ is to add an additional layer of security to an organization’s local area network (LAN): An external network node can access only what is exposed in the DMZ, while the rest of the organization’s network is firewalled.&nbsp;[†](#w-dmz)
 
 Denial of Service
-: A cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.&nbsp;[†](#w-dos)
+: A cyber attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.&nbsp;[†](#w-dos)
 
 Deno
-: A runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created in 2018 by Ryan Dahl, original creator of Node.js, and is focused on security and productivity. Deno explicitly takes on the role of both runtime and package manager within a single executable, rather than requiring a separate package-management program.&nbsp;[†](#w-deno) ℹ︎&nbsp;[deno.land](https://deno.land/)
+: A runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created in 2018 by Ryan Dahl, original creator of Node.js, and is focused on security and productivity. Deno explicitly takes on the role of both runtime and package manager within a single executable, rather than requiring a separate package management program.&nbsp;[†](#w-deno) ℹ︎&nbsp;[deno.land](https://deno.land/)
 
 Dependency
 : → Coupling
@@ -158,7 +158,7 @@ Developer Experience
 
 Developer Tools
 : Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
-: A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). ℹ︎&nbsp;[developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
+: A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). ℹ︎&nbsp;[is.gd/TsOXbb](https://developers.google.com/web/tools/chrome-devtools)
 
 Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
@@ -216,7 +216,7 @@ Document directive
 : A way to govern the properties of a document or worker environment to which a content security policy (CSP) applies. Document directives do not fall back to the `default-src` directive.&nbsp;[‡](#m-document-directive)
 
 Document Object Model
-: A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) ℹ︎&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
+: A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style, or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) ℹ︎&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
 
 Document type declaration
 : → Doctype
@@ -225,7 +225,7 @@ Document Type Definition
 : A set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference.&nbsp;[†](#w-dtd)
 
 Documentation
-: A set of documents provided on paper, or online, or on digital or analog media. Examples are user guides, white papers, on-line help, quick-reference guides. Paper or hard-copy documentation has become less common.&nbsp;[†](#w-documentation)
+: A set of documents provided in digital or analog media. Examples include user guides, white papers, online help, and quick-reference guides.&nbsp;[†](#w-documentation)
 
 Dojo
 : A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based applications and web sites. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
@@ -240,16 +240,13 @@ Domain expert
 : → Subject-Matter Expert
 
 Domain name
-: An identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a website, or the website itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
+: An identification string that defines a realm of administrative autonomy, authority, or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a website, or the website itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
 
 Domain Name Service
 : → Domain Name System
 
 Domain Name System
-: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
-
-Domain of discourse
-: The set of entities over which certain variables of interest in some formal treatment may range.&nbsp;[†](#w-domain-of-discourse)
+: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
@@ -276,13 +273,13 @@ Double
 : A double-precision, 64-bit floating-point data type.
 
 Downtime
-: A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a timespan that a system is unavailable or offline. The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
+: A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. Downtime is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
 
 DQL
 : → Data Query Language
 
 Dreamweaver
-: A proprietary web development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe in 2005.&nbsp;[†](#w-dreamweaver)
+: A proprietary web design and development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe in 2005.&nbsp;[†](#w-dreamweaver)
 
 DRM
 : → Digital Rights Management
@@ -300,7 +297,7 @@ Duck typing
 : An application of the duck test—“If it walks like a duck and it quacks like a duck, then it must be a duck”—to determine if an object can be used for a particular purpose. With normal typing, suitability is determined by an object’s type. In duck typing, an object’s suitability is determined by the presence of certain methods and properties, rather than the type of the object itself.&nbsp;[†](#w-duck-typing)
 
 Dup
-: → Duplicate code
+: → Duplicate (code)
 
 Duplicate code
 : A sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplication in source code is called clone detection.&nbsp;[†](#w-duplicate-code)
@@ -312,7 +309,7 @@ DX
 : → Developer Experience
 
 Dynamic
-: A type of website being dynamic on the server or on the client side: A server-side dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A client-side dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
+: A type of website being dynamic on the server or on the client side. A server-side dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A client-side dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)

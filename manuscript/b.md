@@ -168,7 +168,7 @@ Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
 
 Bound variable
-: A variable that was previously free, but has been bound to a specific value or set of values called domain of discourse or universe.&nbsp;[†](#w-free-bound-variable)
+: A variable that was previously free, but has been bound to a specific value or set of values.&nbsp;[†](#w-free-bound-variable)
 
 Bounding box
 : The smallest possible rectangle (aligned with the axes of that element’s user coordinate system) that entirely encloses an element and its descendants.&nbsp;[‡](#m-bounding-box)
