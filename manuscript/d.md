@@ -4,10 +4,10 @@
 : → Null device
 
 D3.js
-: A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HTML, and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
+: A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HyperText Markup Language (HTML), and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
 
 Daemon
-: A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is the daemon that implements the system logging facility, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
+: A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
 
 Daily Active Users
 : → Active Users
@@ -16,16 +16,16 @@ Daily Scrum
 : A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day. A Daily Scrum is not necessarily a “stand-up.”
 
 Dark Mode
-: A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background and is often discussed in terms of computer user interface design and web design. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
+: A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
 
 Dark pattern
-: A user interface that has been crafted to trick users into doing things. The neologism “dark pattern” was coined in 2010 by Harry Brignull. Another more broad definition of a dark pattern is an instance where “user value is supplanted in favor of shareholder value.”&nbsp;[†](#w-dark-pattern) ℹ︎&nbsp;[darkpatterns.org](https://www.darkpatterns.org/)
+: A user interface that has been crafted to trick users into doing things. Another definition of a dark pattern is an instance where “user value is supplanted in favor of shareholder value.” The neologism “dark pattern” was coined in 2010 by Harry Brignull.&nbsp;[†](#w-dark-pattern) ℹ︎&nbsp;[darkpatterns.org](https://www.darkpatterns.org/)
 
 Darknet
 : The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organisations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
 
 Dart
-: A client-optimized programming language for apps on multiple platforms. Dart is used to build mobile, desktop, backend, and web applications. Dart is an object-oriented, class defined, garbage-collected language using a C-style syntax that transcompiles optionally into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system. Dart was released in 2011 by Google.&nbsp;[†](#w-dart) ℹ︎&nbsp;[dart.dev](https://dart.dev/)
+: A client-optimized programming language for apps on multiple platforms. Dart is an object-oriented, class-defined, garbage-collected language using a C-style syntax that transcompiles optionally into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system. Dart was released in 2011 by Google.&nbsp;[†](#w-dart) ℹ︎&nbsp;[dart.dev](https://dart.dev/)
 
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
@@ -43,13 +43,13 @@ Data Query Language
 : → Query language
 
 Data Stream Management System
-: A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers a flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
+: A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
 
 Data type
 : → Type
 
 Data visualization
-: The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
+: The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. The mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
 
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
@@ -61,7 +61,7 @@ Database language
 : → Query language
 
 Database Management System
-: A “software system that enables users to define, create, maintain and control access to the database.” The DBMS acronym is sometimes extended to indicate the underlying database model, with RDBMS for relational, OODBMS or ORDBMS for the object (orientated) model and ORDBMS for Object-Relational. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+: A software system that enables users to define, create, maintain, and control access to a database. The DBMS acronym is sometimes extended to indicate the underlying database model, with RDBMS for the relational, OODBMS or ORDBMS for the object-oriented, and ORDBMS for the object-relational model. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
 
 DAU
 : → Daily Active Users
