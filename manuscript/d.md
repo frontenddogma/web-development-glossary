@@ -66,6 +66,9 @@ Database Management System
 DAU
 : → Daily Active Users
 
+DBC
+: → Design by Contract
+
 DBMS
 : → Database Management System
 
@@ -140,6 +143,9 @@ Deprecation
 
 Design
 : A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
+
+Design by Contract
+: An approach for designing software. DBC prescribes that software designers should define formal, precise, and verifiable interface specifications for software components, which extend the ordinary definition of abstract data types with preconditions, postconditions, and invariants. These specifications are referred to as “contracts,” in accordance with a conceptual metaphor with the conditions and obligations of business contracts. The approach assumes all client components that invoke an operation on a server component will meet the preconditions specified as required for that operation.&nbsp;[†](#w-dbc)
 
 Design language
 : → Design system

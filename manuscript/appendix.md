@@ -188,6 +188,7 @@ This book uses material from the following Wikipedia articles:
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
+* [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract){#w-dbc}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
 * [Device fingerprint](https://en.wikipedia.org/wiki/Device_fingerprint){#w-device-fingerprint}
 * [DevOps](https://en.wikipedia.org/wiki/DevOps){#w-devops}
