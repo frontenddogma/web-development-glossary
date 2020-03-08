@@ -294,6 +294,9 @@ Compiling
 Component
 : A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-cbse)
 
+Component library
+: → Pattern library
+
 Component-Based Development
 : → Component-Based Software Engineering
 
