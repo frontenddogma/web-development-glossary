@@ -22,7 +22,7 @@ Dark pattern
 : A user interface that has been crafted to trick users into doing things. Another definition of a dark pattern is an instance where “user value is supplanted in favor of shareholder value.” The neologism “dark pattern” was coined in 2010 by Harry Brignull.&nbsp;[†](#w-dark-pattern) ℹ︎&nbsp;[darkpatterns.org](https://www.darkpatterns.org/)
 
 Darknet
-: The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organisations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
+: The part of the Internet below the private Deep Web that uses custom software and hidden networks superimposed on the architecture of the Internet. “Darknet” was originally often associated with the Tor network. Anonymous communication between whistle-blowers, journalists, and news organizations is also facilitated by the “Darknet” Tor network.&nbsp;[†](#w-darknet)
 
 Dart
 : A client-optimized programming language for apps on multiple platforms. Dart is an object-oriented, class-defined, garbage-collected language using a C-style syntax that transcompiles optionally into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system. Dart was released in 2011 by Google.&nbsp;[†](#w-dart) ℹ︎&nbsp;[dart.dev](https://dart.dev/)

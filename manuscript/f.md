@@ -43,7 +43,7 @@ File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
 File Manager
-: A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g. viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties and file permissions.&nbsp;[†](#w-file-manager)
+: A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g. viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
 
 File system
 : A software that controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. Taking its name from the way paper-based data management system is named, each group of data is called a “file.” There are many different kinds of file systems. Each one has different structure and logic, properties of speed, flexibility, security, or size.&nbsp;[†](#w-fs)
@@ -52,7 +52,7 @@ File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
 
 File-locking
-: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
+: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of a race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
 
 Fingerprinting
 : In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
@@ -62,28 +62,28 @@ Firebird
 : → Firefox
 
 Firefox
-: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. ℹ︎&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
+: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. From 2003 to 2004, Phoenix was called Firebird before being renamed to Firefox. ℹ︎&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
 
 First Contentful Paint
 : The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading. The question “Is it happening?” is “yes” when the first contentful paint completes.&nbsp;[‡](#m-fcp)
 
 First CPU Idle
-: The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all of visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
+: The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
 
 First In, First Out
-: A method for organising and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
+: A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
 
 First Input Delay
-: The time from when a user first interacts with a site (i.e. when they click a link, tap on a button, or uses a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browsers response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
+: The time from when a user first interacts with a site (i.e. when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
 
 First Interactive
 : → First CPU Idle
 
 First Meaningful Paint
-: The paint after which the biggest above-the-fold layout change has happened and web fonts have loaded. It is when the answer to “Is it useful?” becomes “yes,” upon first meaningful paint completion.&nbsp;[‡](#m-fmp)
+: The paint after which the biggest above-the-fold layout change has happened and web fonts have loaded. It is when the answer to “Is it useful?” becomes “yes,” that is, upon first meaningful paint completion.&nbsp;[‡](#m-fmp)
 
 First Paint
-: The time between navigation and when the browser render the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “is it happening?”&nbsp;[‡](#m-first-paint)
+: The time between navigation and when the browser renders the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “Is it happening?”&nbsp;[‡](#m-first-paint)
 
 First-Class Function
 : A function that is treated like any other variable in respective language.&nbsp;[‡](#m-first-class-function)
@@ -99,10 +99,10 @@ Fixed
 : A web design approach in which page elements have a fixed as opposed to a variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
 
 Flash
-: A deprecated multimedia software platform used for production of animations, rich Internet applications, desktop applications, mobile applications, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone and camera input.&nbsp;[†](#w-flash)
+: A deprecated multimedia software platform used for the production of animations, games, and applications. Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe favors a transition to HTML. The Flash Player has been deprecated and has its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
 
 Flash of Faux Text
-: The minimized effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
+: The effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
 
 Flash of Invisible Text
 : The effect when a browser hides text until respective web font is loaded, possibly leading to invisible content.
@@ -161,7 +161,7 @@ Folksonomy
 : The system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later. Over time, this can give rise to a classification system based on those tags and how often they are applied or searched for, in contrast to a taxonomic classification designed by the owners of the content and specified when it is published. This practice is also known as collaborative tagging, social classification, social indexing, and social tagging.&nbsp;[†](#w-folksonomy)
 
 Font
-: With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer roman,” “Bulmer,” “Bulmer bold” and “Bulmer extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, the font is a digital file.&nbsp;[†](#w-font)
+: With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer Roman,” “Bulmer,” “Bulmer Bold” and “Bulmer Extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, the font is a digital file.&nbsp;[†](#w-font)
 
 Font block period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render an invisible fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
@@ -173,7 +173,7 @@ Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
 Fork
-: The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork often implies not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
+: The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork can imply not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 
 Form
 : An interface that allows to enter data that is sent to a server for processing. Forms can resemble paper or database forms because web users fill out the forms using checkboxes, radio buttons, or text fields. In HTML, forms are set up using the `form` and related elements.&nbsp;[†](#w-form)
@@ -194,7 +194,7 @@ FPS
 : → Frames per Second
 
 Fragment identifier
-: A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator in URIs is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
+: A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
 
 Frame
 : A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different website as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
