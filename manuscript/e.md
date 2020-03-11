@@ -134,7 +134,7 @@ Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
 
 Etiquette
-: The set of conventional rules of personal behaviour in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
+: The set of conventional rules of personal behavior in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
 
 European Computer Manufacturers Association
 : → Ecma International

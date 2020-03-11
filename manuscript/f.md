@@ -71,7 +71,7 @@ First CPU Idle
 : The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
 
 First In, First Out
-: A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behaviour: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
+: A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behavior: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
 
 First Input Delay
 : The time from when a user first interacts with a site (i.e. when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
@@ -212,13 +212,13 @@ Framework
 : → Web framework
 
 Frameset
-: A group of named frames to which web pages and media can be directed.&nbsp;[†](#w-frame)
+: A group of named frames which can point to web pages or media.&nbsp;[†](#w-frame)
 
 Free and Open Source Software
 : Software that can be classified as both free software and open source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
 
 Free Software Foundation
-: A non-profit organization founded by Richard Stallman in 1985 to support the free software movement, which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization’s preference for software being distributed under copyleft (“share alike”) terms, such as with its own GNU General Public License. The FSF was incorporated in Massachusetts, U.S., where it is also based.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)
+: A non-profit organization that supports the free software movement and which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization’s preference for software being distributed under copyleft (“share alike”) terms. The FSF was founded in 1985 by Richard Stallman.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)
 
 Free variable
 : A notation (symbol) that specifies places in an expression where substitution may take place and is not a parameter of this or any container expression. Some older books use the terms real variable and apparent variable for free variable and bound variable, respectively. The idea is related to a placeholder (a symbol that will later be replaced by some literal string), or a wildcard character that stands for an unspecified symbol.&nbsp;[†](#w-free-bound-variable)
@@ -239,10 +239,10 @@ FTP
 : → File Transfer Protocol
 
 Fugu
-: A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[chromium.org/teams/web-capabilities-fugu](https://www.chromium.org/teams/web-capabilities-fugu)
+: A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[is.gd/Yyn0oQ](https://www.chromium.org/teams/web-capabilities-fugu)
 
 Full Service
-: A web agency term for the capabilities to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
+: A web agency term for the ability to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
 
 Full Stack
 : → Solution stack
@@ -258,6 +258,6 @@ Function binding
 : The creation of a new function using the `bind()` method.
 
 Functional testing
-: A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes _what_ the system does.&nbsp;[†](#w-functional-testing)
+: A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes what a system does.&nbsp;[†](#w-functional-testing)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

@@ -113,7 +113,7 @@ HomeSite
 : A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
 
 Hooking
-: A range of techniques used to alter or augment the behaviour of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)
+: A range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)
 
 Hop limit
 : → Time to Live
@@ -176,7 +176,7 @@ HTTPS Everywhere
 : A browser extension for Google Chrome, Mozilla Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. The option to “Block all HTTP requests” makes it possible to block and unblock all non-HTTPS browser connections. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
 
 Human-Computer Interaction
-: The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioural sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
+: The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 
 Hydration
 : Client-side DOM extension and manipulation of server-rendered static HTML.
