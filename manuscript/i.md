@@ -12,9 +12,6 @@ I18N
 IA
 : → Information Architecture
 
-IANA
-: → Internet Assigned Numbers Authority
-
 IaaS
 : → Infrastructure as a Service
 
@@ -24,6 +21,9 @@ IAB
 
 IaC
 : → Infrastructure as Code
+
+IANA
+: → Internet Assigned Numbers Authority
 
 ICANN
 : → Internet Corporation for Assigned Names and Numbers
@@ -41,7 +41,7 @@ IDE
 : → Integrated Development Environment
 
 Identifier
-: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
+: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical, or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
 
 IE
 : → Internet Explorer
@@ -49,23 +49,23 @@ IE
 IETF
 : → Internet Engineering Task Force
 
+Iframe
+: A frame placed inside the body of an HTML document, usually via respective `iframe` element.
+
 IIFE
 : → Immediately Invoked Function Expression
 
 IIS
 : → Internet Information Services
 
-Iframe
-: A frame placed inside the body of an HTML document, usually referring to respective `iframe` element.
-
 Image
-: An artifact that depicts visual perception, such as a photograph or other two-dimensional picture, particularly one that resembles a subject (usually a physical object). In the context of signal processing, an image is a distributed amplitude of color(s). In web development, an image often refers to an image file.&nbsp;[†](#w-image)
+: An artifact that depicts visual perception, such as a photograph or other two-dimensional picture, particularly one that resembles a subject (usually a physical object). In the context of signal processing, an image is a distributed amplitude of color. In web development, an image often refers to an image file or element.&nbsp;[†](#w-image)
 
 Image map
 : A list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination). Image maps can be created in different ways, from server-side image maps relying on the `ismap` attribute to client-side image maps using the `map` and `area` elements, or a combination of list markup and CSS styling.&nbsp;[†](#w-image-map)
 
 Image replacement
-: An early web design technique that uses Cascading Style Sheets to replace text on a web page with an image containing that text. It is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[meiert.com/de/publications/articles/20050513](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
+: An early web design technique that uses Cascading Style Sheets to replace text on a web page with an image containing that text. Image replacement is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[is.gd/LVXQZj](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
 
 IMAP
 : → Internet Message Access Protocol
@@ -99,13 +99,13 @@ Indexing
 : → Zero-based indexing
 
 Industrial Design
-: A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: the creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
+: A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: The creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
 Infinite scrolling
-: The dynamic loading of additional page content, usually when a user starts scrolling, so that it seems as if one could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of the page that cannot be reached because of continued adding of contents.
+: The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if one could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
 
 Information Architecture
-: The structural design of shared information environments; the art and science of organizing and labelling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
+: The structural design of shared information environments; the art and science of organizing and labeling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
 Information Design
 : The practice of presenting information in a way that fosters an efficient and effective understanding of the information. The term has come to be used for a specific area of graphic design related to displaying information effectively, rather than just attractively or for artistic expression. Information design is closely related to the field of data visualization. The broad applications of information design along with its close connections to other fields of design and communication practices have created some overlap in the definitions of communication design, data visualization, and information architecture.&nbsp;[†](#w-information-design)
@@ -120,22 +120,22 @@ Information retrieval
 : The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.&nbsp;[†](#w-information-retrieval)
 
 Information scent
-: Cues in the information environment pointing to possible answers. Human users estimate how much useful information they are likely to get on a given path, and after seeking information compare the actual outcome with their predictions. When the information scent stops getting stronger (i.e., when users no longer expect to find useful additional information), the users move to a different information source. Poor information scent is one reason for the ineffectiveness of “(click) here” or “(learn) more” links.&nbsp;[†](#w-information-foraging)
+: Cues in the information environment pointing to possible answers. Human users estimate how much useful information they are likely to get on a given path, and after seeking information compare the actual outcome with their predictions. When the information scent stops getting stronger (i.e., when users no longer expect to find useful additional information), users move to a different information source. Poor information scent is one reason for the ineffectiveness of “(click) here” or “(learn) more” links.&nbsp;[†](#w-information-foraging)
 
 Information Security
-: The practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
+: The practice of protecting information by mitigating information risks. Information Security is part of information risk management, and typically involves preventing or at least reducing the probability of unauthorized or inappropriate access, use, disclosure, disruption, deletion or destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information Security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
 Infosec
 : → Information Security
 
-Infrastructure as Code
-: The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.&nbsp;[†](#w-iac)
-
 Infrastructure as a Service
 : Online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, or backup. A hypervisor runs the virtual machines as guests. Pools of hypervisors within the cloud-operational system can support large numbers of virtual machines and the ability to scale services up and down according to varying requirements.&nbsp;[†](#w-iaas)
 
+Infrastructure as Code
+: The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.&nbsp;[†](#w-iac)
+
 Inheritance
-: The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a “child object”) acquires all the properties and behaviors of the parent object (except: constructors, destructor, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces.&nbsp;[†](#w-inheritance)
+: The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a “child object”) acquires all the properties and behaviors of the parent object (except: constructors, destructors, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces.&nbsp;[†](#w-inheritance)
 
 Inline
 : → Inline box
@@ -206,7 +206,7 @@ Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
 Internal
-: Not developed outside of one’s organization.
+: Not coming from outside of one’s organization.
 
 International Organization for Standardization
 : An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes worldwide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)
@@ -215,22 +215,22 @@ Internationalization
 : The process of designing a software application so that it can be adapted to various languages and regions without engineering changes.&nbsp;[†](#w-i18n-l10n)
 
 Internationalized Resource Identifier
-: An Internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. It was defined in 2005 by the Internet Engineering Task Force (IETF).&nbsp;[†](#w-iri)
+: An Internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. IRIs were defined in 2005 by the Internet Engineering Task Force (IETF).&nbsp;[†](#w-iri)
 
 Internet
-: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
+: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
 
 Internet Assigned Numbers Authority
 : A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet Protocol Suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
 
 Internet Corporation for Assigned Names and Numbers
-: A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network’s stable and secure operation. ICANN performs the actual technical maintenance work of the Central Internet Address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998.&nbsp;[†](#w-icann) ℹ︎&nbsp;[icann.org](https://www.icann.org/)
+: A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network’s stable and secure operation. ICANN performs the actual technical maintenance work of central Internet address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998.&nbsp;[†](#w-icann) ℹ︎&nbsp;[icann.org](https://www.icann.org/)
 
 Internet Engineering Task Force
 : An open standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986.&nbsp;[†](#w-ietf) ℹ︎&nbsp;[ietf.org](https://ietf.org/)
 
 Internet Explorer
-: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[microsoft.com/download/internet-explorer.aspx](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 
 Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995.&nbsp;[†](#w-iis) ℹ︎&nbsp;[iis.net](https://www.iis.net/)
@@ -248,25 +248,25 @@ Internet Resource Locator
 : A locator defined by an Internet resource location standard.
 
 Internet Service Provider
-: An organization that provides services for accessing, using, or participating in the Internet. Internet services typically provided by ISPs include Internet access, Internet transit, domain name registration, web hosting, Usenet service, and colocation.&nbsp;[†](#w-isp)
+: An organization that provides services for accessing, using, or participating in the Internet. Internet services typically provided by ISPs include Internet access, Internet transit, domain name registration, web hosting, Usenet service, and co-location.&nbsp;[†](#w-isp)
 
 Internet Society
-: A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is “to promote the open development, evolution and use of the Internet for the benefit of all people throughout the world.”&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
+: A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is “to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.”&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
 
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
 
 Intersection Observer
-: An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing the browser and the sites the user is accessing to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
+: An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing browsers and sites to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
 
 Interstitial
 : A web page displayed before or after an expected content page, often to display advertisements or confirm the user’s age (prior to showing age-restricted material). Interstitial advertisements are usually delivered by an ad server.&nbsp;[†](#w-interstitial)
 
 Intranet
-: A computer network for sharing information, collaboration tools, operational systems, and other computing services only within an organization, and to the exclusion of access by outsiders to the organization. The term is used in contrast to public networks, such as the Internet, but uses most of the same technology based on the Internet Protocol Suite. A company-wide intranet can constitute an important focal point of internal communication and collaboration, and provide a single starting point to access internal and external resources. In its simplest form, an intranet is established with the technologies for local area networks (LANs) and wide area networks (WANs). Many modern intranets have search engines, user profiles, blogs, mobile apps with notifications, and events planning within their infrastructure.&nbsp;[†](#w-intranet)
+: A computer network for sharing information, collaboration tools, operational systems, and other computing services only within an organization, and to the exclusion of access by outsiders to the organization. The term is used in contrast to public networks, such as the Internet, but uses most of the same technology. A company-wide intranet can constitute an important focal point of internal communication and collaboration, and provide a single starting point to access internal and external resources. In its simplest form, an intranet is established with the technologies for local area networks (LANs) and wide area networks (WANs). Many modern intranets have search engines, user profiles, blogs, mobile apps with notifications, and events planning within their infrastructure.&nbsp;[†](#w-intranet)
 
 Intrinsic size
-: The size an element would be based on its content, if no external factors were applied to it. For example, inline elements are sized intrinsically: `width`, `height`, and vertical margin and padding have no impact.&nbsp;[‡](#m-intrinsic-size)
+: The size an element has just going by its content, with no external factors applied. For example, inline elements are sized intrinsically, with styling for width, height, and vertical margin and padding having no impact.&nbsp;[‡](#m-intrinsic-size)
 
 Inversion of Control
 : A programming principle that inverts the flow of control as compared to traditional control flow. In IoC, custom-written portions of a computer program receive the flow of control from a generic framework. A software architecture with this design inverts control as compared to traditional procedural programming, where the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks. With inversion of control, it is the framework that calls into the custom, or task-specific, code.&nbsp;[†](#w-ioc)
