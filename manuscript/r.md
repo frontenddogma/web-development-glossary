@@ -49,7 +49,7 @@ Read the Fucking Manual
 : The suggesting that one could have found more information or a solution to a problem in documentation. Initialisms similar to RTFM include “STFW” (“Search the Fucking Web”), “GIYF” (“Google Is Your Friend”), “DYOR” (“Do Your Own Research”), and “LMGTFY” (“Let Me Google That for You”).&nbsp;[†](#w-rtfm)
 
 Read-Eval-Print Loop
-: A simple, interactive computer programming environment that takes single user inputs (i.e., single expressions), evaluates (executes) them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is usually used to refer to programming interfaces similar to the classic Lisp machine interactive environment. Common examples include command line shells and similar environments for programming languages, and the technique is very characteristic of scripting languages.&nbsp;[†](#w-repl)
+: A simple, interactive computer programming environment that takes single user inputs (i.e., single expressions), evaluates (executes) them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is usually used to refer to programming interfaces similar to the classic Lisp machine interactive environment. Common examples include command-line shells and similar environments for programming languages, and the technique is very characteristic of scripting languages.&nbsp;[†](#w-repl)
 
 Readability
 : The ease with which a reader can understand a written text. In natural language, the readability of text depends on its content (the complexity of its vocabulary and syntax) and its presentation (such as typographic aspects like font size, line height, and line length). Not to be confused with legibility.&nbsp;[†](#w-readability)
@@ -64,7 +64,7 @@ Real User Monitoring
 : A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end-users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
 
 Recidivism
-: As an Agile metric, the total number of user stories completed in a sprint that entered development for the second time divided by the total number of completed stories.
+: As an Agile metric, the total number of user stories completed in a Sprint that entered development for the second time divided by the total number of completed stories.
 
 Recommendation
 : The W3C term for a specification or web standard.

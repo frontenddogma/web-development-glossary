@@ -35,7 +35,7 @@ Tailoring
 : The developing and refactoring to precise dimensions and needs.
 
 tar
-: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive”, as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program.&nbsp;[†](#w-tar)
+: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive”, as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program.&nbsp;[†](#w-tar)
 
 Tarball
 : A tar archive file.
@@ -77,7 +77,7 @@ Technological Protection Measures
 : → Digital Rights Management
 
 Telnet
-: An application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC&nbsp;15, extended in RFC&nbsp;855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. The name stands for “teletype network.”&nbsp;[†](#w-telnet)
+: An application protocol used on the Internet or local area network to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection. User data is interspersed in-band with Telnet control information in an 8-bit byte-oriented data connection over the Transmission Control Protocol (TCP). Telnet was developed in 1969 beginning with RFC&nbsp;15, extended in RFC&nbsp;855, and standardized as Internet Engineering Task Force (IETF) Internet Standard STD 8, one of the first Internet standards. The name stands for “teletype network.”&nbsp;[†](#w-telnet)
 
 Template
 : A static or dynamic file used to create or duplicate other files.
