@@ -856,6 +856,7 @@ This book uses material from the following Wikipedia articles:
 * [Wrapper function](https://en.wikipedia.org/wiki/Wrapper_function){#w-wrapper-function}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG){#w-wysiwyg}
+* [x-height](https://en.wikipedia.org/wiki/X-height){#w-x-height}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHP](https://en.wikipedia.org/wiki/XHP){#w-xhp}
 * [XHTML](https://en.wikipedia.org/wiki/XHTML){#w-xhtml}

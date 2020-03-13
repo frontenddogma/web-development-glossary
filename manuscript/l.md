@@ -13,7 +13,7 @@ LAMP
 : → Linux, Apache, MySQL, PHP/Perl/Python
 
 Landing page
-: A single web page that appears in response to clicking on a search engine optimized search result, marketing promotion, marketing email, or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
+: A single web page that appears in response to clicking on an search-optimized search result, online advertisement, or marketing promotion. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
 
 Language
 : → Markup language
@@ -29,7 +29,7 @@ Latency
 : A time interval between the stimulation and response, or, from a more general point of view, a time delay between the cause and the effect of some physical change in the system being observed. Latency is physically a consequence of the limited velocity with which any physical interaction can propagate. The magnitude of this velocity is always less than or equal to the speed of light. Therefore, every physical system with any physical separation (distance) between cause and effect will experience some sort of latency, regardless of the nature of stimulation that it has been exposed to.&nbsp;[†](#w-latency)
 
 LaTeX
-: A document preparation system. When writing, the writer uses plain text as opposed to the formatted text found in WYSIWYG (“what you see is what you get”) word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, or letter), to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MikTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&nbsp;[†](#w-latex) ℹ︎&nbsp;[latex-project.org](https://www.latex-project.org/)
+: A document preparation system. When writing, the writer uses plain text as opposed to the formatted text found in WYSIWYG (“what you see is what you get”) word processors like Microsoft Word, LibreOffice Writer, or Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, or letter), to stylize text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MikTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&nbsp;[†](#w-latex) ℹ︎&nbsp;[latex-project.org](https://www.latex-project.org/)
 
 Launch
 : The (usually public) release of a new software or hardware product.
@@ -38,7 +38,7 @@ Law of Conservation of Complexity
 : → Tesler’s Law
 
 Layout
-: The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. The high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
 
 Layout engine
 : → Browser engine
@@ -47,7 +47,7 @@ Layout table
 : An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout, often in conjunction with spacer images, is a popular web design method from the 90s and early 2000s that is not in use anymore.
 
 Lazy loading
-: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. It can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
+: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. Lazy loading can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
 
 LCP
 : → Largest Contentful Paint
@@ -56,7 +56,7 @@ LDAP
 : → Lightweight Directory Access Protocol
 
 Lead Time
-: The latency between the initiation and completion of a process. For example, the lead time between the placement of an order and delivery of new cars by a given manufacturer might be between 2 weeks and 6 months, depending on various particularities. One business dictionary defines “manufacturing lead time” as the total time required to manufacture an item, including order preparation time, queue time, setup time, run time, move time, inspection time, and put-away time.&nbsp;[†](#w-lead-time)
+: The latency between the initiation and completion of a process. For example, the lead time between the placement of an order and delivery of a new car by a given manufacturer might be between two weeks and six months, depending on various particularities. Manufacturing lead time, as another example, may be defined as the total time required to manufacture an item, including order preparation time, queue time, setup time, run time, move time, inspection time, and put-away time.&nbsp;[†](#w-lead-time)
 
 Leading
 : The space between adjacent lines of type; the exact definition varies. In hand typesetting, leading is the thin strips of lead that were inserted between lines of type in the composing stick to increase the vertical distance between them. The thickness of the strip is called “leading” and is equal to the difference between the size of the type and the distance from one baseline to the next. For instance, given a type size of 10 points and a distance between baselines of 12 points, the leading would be 2 points. In CSS, leading refers to the difference between the values of `font-size` and `line-height`.&nbsp;[†](#w-leading)
@@ -70,20 +70,20 @@ Left-to-Right
 Legibility
 : The ease with which a reader can recognize individual characters in text. Aspects of type design that affect legibility include x-height, character shapes, stroke contrast, the size of counters, serifs, or lack thereof, and weight. Not to be confused with readability.&nbsp;[†](#w-legibility)
 
-LESS/Less
-: A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. The indented syntax of Less is a nested metalanguage, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
+Less/LESS
+: A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client or server side. The indented syntax of Less is a nested meta-language, as valid CSS is valid Less code with the same semantics. Less provides the following mechanisms: variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
 
 Let’s Encrypt
-: A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. The certificate is valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
+: A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
 Letter-spacing
 : An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter-spacing should not be confused with kerning. Letter-spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
 
+Library
+: Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
+
 LIFO
 : → Last In, First Out
-
-Library
-: Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies.&nbsp;[†](#w-library)
 
 Ligature
 : The joining of two or more graphemes or letters as a single glyph. An example is the character “æ” as used in English, in which the letters “a” and “e” are joined. The common ampersand (“&”) developed from a ligature in which the handwritten Latin letters “e” and “t” (spelling “et”, from the Latin for “and”) were combined.&nbsp;[†](#w-ligature)
@@ -116,7 +116,7 @@ Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
 
 Linked Data
-: Structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
+: Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked data builds upon standard Web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linter
 : A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and any suspicious constructs. The term (“lint”) originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)

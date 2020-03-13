@@ -1,5 +1,8 @@
 # X
 
+x-height
+: The distance between the baseline and the mean line of lowercase letters in a typeface. Typically, this is the height of the letter “x” in a font (the source of the term), as well as the letters “v”, “w”, and “z”. (Curved letters such as “a”, “c”, “e”, “m”, “n”, “o”, “r”, “s”, and “u” tend to exceed the x-height slightly, due to overshoot.) As one of the most important dimensions of a font, x-height is used to define how high lowercase letters are compared to uppercase letters.&nbsp;[†](#w-x-height)
+
 XForms
 : An XML format used for collecting inputs from web forms. XForms was designed to be the next generation of HTML/XHTML forms, but is generic enough that it can also be used in a standalone manner or with presentation languages other than XHTML to describe a user interface and a set of common data manipulation tasks. XForms 1.0 (Third Edition) was published in 2007.&nbsp;[†](#w-xforms) ℹ︎&nbsp;[w3.org/TR/xforms](https://www.w3.org/TR/xforms/)
 

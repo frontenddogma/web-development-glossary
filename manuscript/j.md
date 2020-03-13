@@ -13,13 +13,13 @@ Jasmine
 : A testing framework for JavaScript. Jasmine aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax.&nbsp;[†](#w-jasmine) ℹ︎&nbsp;[jasmine.github.io](https://jasmine.github.io/)
 
 Java
-: A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. Java was first released in 1995.&nbsp;[†](#w-java) ℹ︎&nbsp;[java.com](https://www.java.com/)
+: A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to byte code that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. Java was first released in 1995.&nbsp;[†](#w-java) ℹ︎&nbsp;[java.com](https://www.java.com/)
 
 Java applet
 : → Applet
 
 Java Database Connectivity
-: An application programming interface (API) for the programming language Java, which defines how a client may access a database. It is a Java-based data access technology used for Java database connectivity. It is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+: An application programming interface (API) for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 
 Java servlet
 : A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-java-servlet)
@@ -34,7 +34,7 @@ JavaScript library
 : → Library
 
 JavaScript Object Notation
-: An open-standard file format or language-independent data interchange format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems. The Internet media type for JSON is `application/json`.&nbsp;[†](#w-json) ℹ︎&nbsp;[json.org](https://www.json.org/)
+: An open-standard file format or language-independent data interchange format that uses human-readable text to transmit data objects consisting of attribute-value pairs and array data types (or any other serializable value). JSON is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems. The Internet media type for JSON is `application/json`.&nbsp;[†](#w-json) ℹ︎&nbsp;[json.org](https://www.json.org/)
 
 JavaScript Object Notation for Linked Data
 : A method of encoding Linked Data using JSON. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group.&nbsp;[†](#w-json-ld) ℹ︎&nbsp;[json-ld.org](https://json-ld.org/)
@@ -55,10 +55,10 @@ Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
 
 Jetty
-: A Java HTTP (Web) server and Java Servlet container. While Web Servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+: A Java HTTP (Web) server and Java Servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jira
-: A proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. It was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
+: A proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 
 JIT
 : → Just in Time
@@ -67,10 +67,10 @@ JIT compiler
 : → Just-in-time compilation
 
 Job Access With Speech
-: A computer screen reader program for Microsoft Windows that allows blind and visually impaired users to read the screen either with a text-to-speech output or by a refreshable Braille display. JAWS is produced by the Blind and Low Vision Group of Freedom Scientific and was first released in 1995.&nbsp;[†](#w-jaws) ℹ︎&nbsp;[freedomscientific.com/products/software/jaws](https://www.freedomscientific.com/products/software/jaws/)
+: A computer screen reader program for Microsoft Windows that allows blind and visually impaired users to read the screen either with a text-to-speech output or by a refreshable Braille display. JAWS is produced by the Blind and Low Vision Group of Freedom Scientific and was first released in 1995.&nbsp;[†](#w-jaws) ℹ︎&nbsp;[is.gd/EJwKy3](https://www.freedomscientific.com/products/software/jaws/)
 
 Joint Photographic Experts Group
-: The joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)
+: A joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)
 
 JPEG
 : A commonly used method of lossy compression and a file format for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality. Since its introduction in 1992, JPEG has been the most widely used image compression standard in the world, and the most widely used digital image format, with several billion JPEG images produced every day as of 2015.&nbsp;[†](#w-jpeg)
@@ -80,13 +80,13 @@ JPG
 : → JPEG
 
 jQuery
-: A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and AJAX. The set of jQuery core features—DOM element selections, traversal, and manipulation—enabled by its selector engine (named “Sizzle” from v1.3), created a new “programming style,” fusing algorithms and DOM data structures. This style influenced the architecture of other JavaScript frameworks like YUI v3 and Dojo, later stimulating the creation of the standard Selectors API. As of May 2019, jQuery is used by 73% of the 10 million most popular websites. jQuery was presented in 2006 by John Resig.&nbsp;[†](#w-jquery) ℹ︎&nbsp;[jquery.com](https://jquery.com/)
+: A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and AJAX. The set of jQuery core features enabled by its selector engine (named “Sizzle” from v1.3) created a new “programming style,” fusing algorithms and DOM data structures. This style influenced the architecture of other JavaScript frameworks like YUI v3 and Dojo, later stimulating the creation of the standard Selectors API. As of May 2019, jQuery is used by 73% of the 10 million most popular websites. jQuery was released in 2006 by John Resig.&nbsp;[†](#w-jquery) ℹ︎&nbsp;[jquery.com](https://jquery.com/)
 
 JS
 : → JavaScript
 
 JScript
-: A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in the Internet Explorer 3.0 browser released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
+: A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in Internet Explorer 3.0 released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
 
 JSLint
 : A static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSLint is provided primarily as a browser-based web application accessible through the domain jslint.com, but there are also command-line adaptations. It was created in 2002 by Douglas Crockford.&nbsp;[†](#w-jslint) ℹ︎&nbsp;[jslint.com](https://www.jslint.com/)
@@ -98,13 +98,13 @@ JSON Feed
 : A web feed file format for web syndication in JSON instead of XML, as used by RSS and Atom.&nbsp;[†](#w-json-feed) ℹ︎&nbsp;[jsonfeed.org](https://jsonfeed.org/)
 
 JSON Web Encryption
-: An IETF standard providing a standardised syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC&nbsp;7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
+: An IETF standard providing a standardized syntax for the exchange of encrypted data, based on JSON and Base64. It is defined by RFC&nbsp;7516. Along with JSON Web Signature (JWS), it is one of the two possible formats of a JWT (JSON Web Token).&nbsp;[†](#w-json-web-encryption)
 
 JSON Web Signature
 : An IETF standard (RFC&nbsp;7515) for signing arbitrary data. This is used as the basis for a variety of web-based technologies, like JSON Web Token.&nbsp;[†](#w-jws)
 
 JSON Web Token
-: An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can be typically used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)
+: An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can typically be used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)
 
 JSON-LD
 : → JavaScript Object Notation for Linked Data
@@ -119,7 +119,7 @@ Just in Time
 : A business methodology aimed at reducing times within the production system as well as response times from suppliers and to customers, for everything to happen “just in time.”&nbsp;[†](#w-jit)
 
 Just-in-time compilation
-: A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
+: A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly byte code translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyzes the code being executed and identifies parts of the code where the speed-up gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
 
 JWS
 : → JSON Web Signature

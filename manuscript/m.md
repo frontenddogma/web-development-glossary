@@ -118,8 +118,8 @@ Message Digest
 : → MD5
 : → MD6
 
-Meta element
-: An HTML element that can provide structured metadata about a web page. Meta elements are part of a web page’s `head` section. Multiple meta elements with different attributes can be used on the same page. Meta elements can be used to specify a page’s description, keywords, and other metadata. The `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
+Meta-element
+: An HTML element that can provide structured metadata about a web page. Meta-elements are part of a web page’s `head` section. Multiple meta-elements with different attributes can be used on the same page. Meta-elements can be used to specify a page’s description, keywords, and other metadata. The `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
 
 Metadata
 : Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and metadata.&nbsp;[†](#w-metadata)

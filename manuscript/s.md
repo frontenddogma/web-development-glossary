@@ -129,7 +129,7 @@ SEM
 : → Search Engine Marketing
 
 Semantic Versioning
-: A particular versioning scheme. SemVer uses a sequence of three digits (`Major.Minor.Patch`), an optional pre-release tag and optional build meta tag. In this scheme, risk, and functionality are the measures of significance. Breaking changes are indicated by increasing the major number (high risk), new non-breaking features increment the minor number (medium risk) and all other non-breaking changes increment the patch number (lowest risk). The presence of a pre-release tag (`-alpha`, `-beta`) indicates substantial risk, as does a major number of zero (`0.y.z`), which is used to indicate a work-in-progress that may contain any level of potentially breaking changes (highest risk).&nbsp;[†](#w-versioning) ℹ︎&nbsp;[semver.org](https://semver.org/)
+: A particular versioning scheme. SemVer uses a sequence of three digits (`Major.Minor.Patch`), an optional pre-release tag and optional build meta-tag. In this scheme, risk, and functionality are the measures of significance. Breaking changes are indicated by increasing the major number (high risk), new non-breaking features increment the minor number (medium risk) and all other non-breaking changes increment the patch number (lowest risk). The presence of a pre-release tag (`-alpha`, `-beta`) indicates substantial risk, as does a major number of zero (`0.y.z`), which is used to indicate a work-in-progress that may contain any level of potentially breaking changes (highest risk).&nbsp;[†](#w-versioning) ℹ︎&nbsp;[semver.org](https://semver.org/)
 
 Semantics
 : For markup languages, the meaning of elements, element groups, and microformats.
