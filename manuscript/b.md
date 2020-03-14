@@ -231,7 +231,7 @@ Browser engine
 : A core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user’s device. Besides “browser engine,” two other terms are in common use regarding related concepts: “layout engine” and “rendering engine.” In theory, layout and rendering (or “painting”) could be handled by separate engines. In practice, however, they are tightly coupled and rarely considered separately.&nbsp;[†](#w-browser-engine)
 
 Browser extension
-: A small software module for customizing a web browser. Browsers typically allow a variety of extensions, including user interface modifications, ad blocking, and cookie management. Browser plugins are a separate type of module. The main difference is that extensions are usually just source code, but plugins are always executables (i.e. object code). As of 2019, plugins have been deprecated by most browsers, while extensions are widely used.&nbsp;[†](#w-browser-extension)
+: A small software module for customizing a web browser. Browsers typically allow a variety of extensions, including user interface modifications, ad blocking, and cookie management. Browser plugins are a separate type of module. The main difference is that extensions are usually just source code, but plugins are always executables (i.e., object code). As of 2019, plugins have been deprecated by most browsers, while extensions are widely used.&nbsp;[†](#w-browser-extension)
 
 Browser Helper Object
 : A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of Internet Explorer 4. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)
@@ -258,7 +258,7 @@ Bug
 : An error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program’s source code or its design.&nbsp;[†](#w-bug)
 
 Bug tracking system
-: A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems allow end-users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)
+: A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems allow end users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)
 
 Bugfix
 : → Patch

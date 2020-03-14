@@ -61,7 +61,7 @@ Database language
 : → Query language
 
 Database Management System
-: A software system that enables users to define, create, maintain, and control access to a database. The DBMS acronym is sometimes extended to indicate the underlying database model, with RDBMS for the relational, OODBMS or ORDBMS for the object-oriented, and ORDBMS for the object-relational model. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+: A software system that enables users to define, create, maintain, and control access to a database. The “DBMS” acronym is sometimes extended to indicate the underlying database model, with RDBMS for the relational, OODBMS or ORDBMS for the object-oriented, and ORDBMS for the object-relational model. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
 
 DAU
 : → Daily Active Users

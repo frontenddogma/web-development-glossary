@@ -119,7 +119,7 @@ Linked Data
 : Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked data builds upon standard Web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linter
-: A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and any suspicious constructs. The term (“lint”) originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)
+: A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term “lint” originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)
 
 Linting
 : The processing of source code through a linter.
@@ -131,7 +131,7 @@ Linux Standard Base
 : A joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the Filesystem Hierarchy Standard used in the Linux kernel. The LSB is based on the POSIX specification, the Single UNIX Specification (SUS), and several other open standards, but extends them in certain areas.&nbsp;[†](#w-lsb)
 
 Linux, Apache, MySQL, PHP/Perl/Python
-: An archetypal model of web service stacks, named as an acronym of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and applications.&nbsp;[†](#w-lamp)
+: An archetypal model of web service stacks, named as an acronym (“LAMP”) of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and applications.&nbsp;[†](#w-lamp)
 
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
@@ -161,10 +161,10 @@ Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)
 
 Local variable
-: A variable that is given local scope. Local variable references in the function or block in which it is declared override the same variable name in the larger scope. In programming languages with only two levels of visibility, local variables are contrasted with global variables. On the other hand, many ALGOL-derived languages allow any number of nested levels of visibility, with private variables, functions, constants and types hidden within them, either by nested blocks or nested functions. Local variables are fundamental to procedural programming, and more generally modular programming—variables of local scope are used to avoid issues with side-effects that can occur with global variables.&nbsp;[†](#w-local-variable)
+: A variable that is given local scope. Local variable references in the function or block in which it is declared override the same variable name in the larger scope. In programming languages with only two levels of visibility, local variables are contrasted with global variables. On the other hand, many ALGOL-derived languages allow any number of nested levels of visibility, with private variables, functions, constants, and types hidden within them, either by nested blocks or nested functions. Local variables are fundamental to procedural programming, and more generally modular programming. Variables of local scope are used to avoid issues with side-effects that can occur with global variables.&nbsp;[†](#w-local-variable)
 
 Locale
-: A set of parameters that defines the user’s language, region and any special variant preferences that the user wants to see in their user interface. Usually a locale identifier consists of at least a language code and a country/region code.&nbsp;[†](#w-locale)
+: A set of parameters that defines the user’s language, region, and any special variant preferences that the user wants to see in their user interface. Usually a locale identifier consists of at least a language code and a country or region code.&nbsp;[†](#w-locale)
 
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
@@ -179,7 +179,7 @@ Logging
 : The act of keeping a log file.&nbsp;[†](#w-log-file)
 
 Logical properties
-: A CSS module introducing logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS&nbsp;2.1. Logical properties define direction‐relative equivalents of their corresponding physical properties.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
+: A CSS module introducing properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS&nbsp;2.1.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
 Long task
 : Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop that exceeds 50 ms.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
@@ -191,10 +191,10 @@ Lorem ipsum
 : → Placeholder text
 
 Lossless
-: A class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavourable. Typical examples are executable programs, text documents, and source code. Some image file formats, like PNG or GIF, use only lossless compression.&nbsp;[†](#w-lossless)
+: A class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavorable. Typical examples are executable programs, text documents, and source code. Some image file formats, like PNG or GIF, use only lossless compression.&nbsp;[†](#w-lossless)
 
 Lossy
-: A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end-user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
+: A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
 
 LSB
 : → Linux Standard Base
@@ -206,6 +206,6 @@ LTS
 : → Long-Term Support
 
 Lynx
-: A customizable text-based web browser for use on cursor-addressable character cell terminals. As of November 2019, it is the oldest web browser still in general use and active development, having started in 1992.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)
+: A customizable text-based web browser for use on cursor-addressable character cell terminals. As of 2019, it is the oldest web browser still in general use and active development, having started in 1992.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

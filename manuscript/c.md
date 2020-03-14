@@ -350,13 +350,13 @@ Containing block
 
 Content
 : → Content box
-: The information and experiences that are directed toward an end-user or audience. Content is “something that is to be expressed through some medium, as speech, writing, or any of various arts.” Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, ebooks, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
+: The information and experiences that are directed toward an end user or audience. Content is “something that is to be expressed through some medium, as speech, writing, or any of various arts.” Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, ebooks, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
 
 Content box
 : → Box
 
 Content Delivery Network
-: A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means for alleviating performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
+: A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end users. CDNs came into existence in the late 1990s as a means for alleviating performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
 
 Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)

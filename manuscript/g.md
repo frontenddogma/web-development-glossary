@@ -51,8 +51,14 @@ Global variable
 Glyph
 : A readable mark of a particular meaning.
 
+GNU
+: An operating system and extensive collection of computer software. GNU is composed wholly of free software, most of which is licensed under the GNU Project’s own General Public License (GPL). “GNU” is a recursive acronym for “GNU’s Not Unix!”, chosen because GNU’s design is Unix-like, but differs from Unix by being free software and containing no Unix code. Development of the GNU operating system was initiated by Richard Stallman while he worked at the MIT Artificial Intelligence Laboratory. It was first called the GNU Project, and announced in 1983.&nbsp;[†](#w-gnu) ℹ︎&nbsp;[gnu.org](https://www.gnu.org/)
+
 GNU General Public License
 : A widely-used free software license that guarantees end users the freedom to run, study, share, and modify the software. The license was originally written by Richard Stallman for the GNU Project, and grants the recipients of a computer program the rights of the Free Software Definition. The GPL is a copyleft license, which means that derivative work must be free software and distributed under the same or equivalent license terms. This is in distinction to permissive free software licenses, of which the BSD licenses and the MIT License are widely-used less-restrictive examples. GPL was the first copyleft license for general use.&nbsp;[†](#w-gpl)
+
+GNU Project
+: A free software mass collaboration project initiated in 1983 by Richard Stallman. The GNU Project’s goal is to give computer users freedom and control in their use of their computers and computing devices by collaboratively developing and publishing software that gives everyone the rights to freely run the software, copy and distribute, study, and modify it. GNU software grants these rights in its license, the GNU General Public License.&nbsp;[†](#w-gnu-project)
 
 Go
 : A statically typed, compiled programming language developed by Robert Griesemer, Rob Pike, and Ken Thompson, and released by Google in 2009. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.&nbsp;[†](#w-go) ℹ︎&nbsp;[golang.org](https://golang.org/)

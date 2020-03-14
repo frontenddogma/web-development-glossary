@@ -61,7 +61,7 @@ README
 : A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
 Real User Monitoring
-: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end-users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
+: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
 
 Recidivism
 : As an Agile metric, the total number of user stories completed in a Sprint that entered development for the second time divided by the total number of completed stories.
@@ -113,7 +113,7 @@ Relational Data Stream Management System
 : A distributed, in-memory data stream management system (DSMS) that is designed to use standards-compliant SQL queries to process unstructured and structured data streams in real-time. Unlike SQL queries executed in a traditional RDBMS, which return a result and exit, SQL queries executed in a RDSMS do not exit, generating results continuously as new data become available.&nbsp;[†](#w-rdsms)
 
 Relational database
-: A digital database based on the relational model of data. A relational database has gradually come to describe a broader class of database systems, which at a minimum present the data to the user as relations (a presentation in tabular form, i.e. as a collection of tables with each table consisting of a set of rows and columns), and provide relational operators to manipulate the data in tabular form.&nbsp;[†](#w-relational-database)
+: A digital database based on the relational model of data. A relational database has gradually come to describe a broader class of database systems, which at a minimum present the data to the user as relations (a presentation in tabular form, i.e., as a collection of tables with each table consisting of a set of rows and columns), and provide relational operators to manipulate the data in tabular form.&nbsp;[†](#w-relational-database)
 
 Relational Database Management System
 : A database management system (DBMS) based on the relational model. Most databases in widespread use today are based on this model.&nbsp;[†](#w-relational-database)

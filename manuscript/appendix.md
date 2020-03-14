@@ -277,7 +277,9 @@ This book uses material from the following Wikipedia articles:
 * [Git](https://en.wikipedia.org/wiki/Git){#w-git}
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}
 * [GitLab](https://en.wikipedia.org/wiki/GitLab){#w-gitlab}
+* [GNU](https://en.wikipedia.org/wiki/GNU){#w-gnu}
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
+* [GNU Project](https://en.wikipedia.org/wiki/GNU_Project){#w-gnu-project}
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
 * [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}

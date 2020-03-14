@@ -74,7 +74,7 @@ First In, First Out
 : A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behavior: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
 
 First Input Delay
-: The time from when a user first interacts with a site (i.e. when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
+: The time from when a user first interacts with a site (i.e., when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
 
 First Interactive
 : → First CPU Idle

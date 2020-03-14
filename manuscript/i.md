@@ -41,7 +41,7 @@ IDE
 : → Integrated Development Environment
 
 Identifier
-: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical, or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation ID often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
+: A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical, or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation “ID” often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
 
 IE
 : → Internet Explorer
