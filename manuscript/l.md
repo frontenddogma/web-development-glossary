@@ -185,7 +185,7 @@ Long task
 : Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop that exceeds 50 ms.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
 
 Loop
-: A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include “for” loops, “while” and “do while” loops, “foreach”, and infinite loops.&nbsp;[†](#w-control-flow)
+: A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include `for` loops, `while` and `do while` loops, `foreach`, and infinite loops.&nbsp;[†](#w-control-flow)
 
 Lorem ipsum
 : → Placeholder text
