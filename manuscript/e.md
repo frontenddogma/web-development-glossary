@@ -91,7 +91,7 @@ Encrypted Media Extensions
 : A W3C specification for providing a communication channel between web browsers and digital rights management (DRM) agent software. EME allows the use of HTML video to play back DRM-wrapped content such as streaming video services without the use of heavy third-party media plugins like Adobe Flash or Microsoft Silverlight. The use of a third-party key management system may be required, depending on whether the publisher chooses to scramble the keys. EME is based on the Media Source Extensions specification. ℹ︎&nbsp;[w3.org/TR/encrypted-media](https://www.w3.org/TR/encrypted-media/)
 
 Encryption
-: The process of converting ordinary information (called plaintext) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
+: The process of converting ordinary information (called plain-text) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
 
 End of line
 : → Newline
@@ -106,7 +106,7 @@ End-to-end testing
 : A software test methodology focused on testing an entire application from start to end based on conditions that are as realistic as possible, explicitly including dependencies on other software and infrastructure.
 
 Entity
-: A primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as `#DEFAULT`). Entities are foundational to the organizational structure and definition of SGML documents. The SGML specification defines numerous entity types, which are distinguished by keyword qualifiers and context. An entity string value may variously consist of plain text, SGML tags, or references to previously defined entities.&nbsp;[†](#w-entity)
+: A primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as `#DEFAULT`). Entities are foundational to the organizational structure and definition of SGML documents. The SGML specification defines numerous entity types, which are distinguished by keyword qualifiers and context. An entity string value may variously consist of plain-text, SGML tags, or references to previously defined entities.&nbsp;[†](#w-entity)
 
 Entity graph
 : → Knowledge Graph
@@ -179,7 +179,7 @@ Extensible Stylesheet Language
 : A family of languages used to transform and render XML documents. Historically, the W3C’s XSL Working Group produced a draft specification under the name “XSL,” which eventually split into three parts: 1) XSL Transformation (XSLT), an XML language for transforming XML documents; 2) XSL Formatting Objects (XSL-FO), an XML language for specifying the visual formatting of an XML document; and 3) XML Path Language (XPath), a non-XML language used by XSLT, and also available for use in non-XSLT contexts, for addressing the parts of an XML document. The term “XSL” is now used with a number of different meanings.&nbsp;[†](#w-xsl) ℹ︎&nbsp;[w3.org/Style/XSL](https://www.w3.org/Style/XSL/)
 
 Extensible Stylesheet Language Transformations
-: A declarative language used to convert XML documents into other XML documents, HTML, PDF, plain text, and so on. XSLT has its own processor that accepts XML input, or any format convertible to an XQuery and XPath Data Model. The XSLT processor produces a new document based on the XML document and an XSLT style sheet, making no changes to the original files in the process.&nbsp;[‡](#m-xslt) ℹ︎&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
+: A declarative language used to convert XML documents into other XML documents, HTML, PDF, plain-text, and so on. XSLT has its own processor that accepts XML input, or any format convertible to an XQuery and XPath Data Model. The XSLT processor produces a new document based on the XML document and an XSLT style sheet, making no changes to the original files in the process.&nbsp;[‡](#m-xslt) ℹ︎&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
 
 External
 : Not coming from within one’s organization.

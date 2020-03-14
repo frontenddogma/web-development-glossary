@@ -36,7 +36,7 @@ Nesting
 : The organizing of information in layers, or the containing of objects in other objects. Nesting almost always refers to self-similar or recursive structures in some sense.&nbsp;[†](#w-nesting)
 
 Net Promoter Score
-: A management tool that can be used to gauge the loyalty of a firm’s customer relationships. It serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company/product/service to a friend or colleague?”&nbsp;[†](#w-nps)
+: A management tool that can be used to gauge the loyalty of a firm’s customer relationships. NPS serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company, product, or service to a friend or colleague?”&nbsp;[†](#w-nps)
 
 Netscape 4
 : A version of Netscape Navigator memorable for web developers because of its particular support (or lack of support) of web standards.
@@ -45,16 +45,16 @@ Netscape Navigator
 : A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of Netscape and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994.&nbsp;[†](#w-netscape-navigator)
 
 Network
-: In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
+: In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route, and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
 
 Network packet
 : → Packet
 
 Newbie
-: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, such as online gaming or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in Internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
+: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, online gaming, or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and be used as a term of abuse in Internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
 
 Newline
-: A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (“↵”).&nbsp;[†](#w-newline)
+: A control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (↵).&nbsp;[†](#w-newline)
 
 News aggregator
 : Client software or a web application which aggregates syndicated web content such as online newspapers, blogs, podcasts, and video blogs (vlogs) in one location for easy viewing. The updates distributed may include journal tables of contents, podcasts, videos, and news items. Aggregation technology helps to consolidate many websites into one page that can show only the new or updated information from many sites. Aggregators reduce the time and effort needed to regularly check websites for updates, creating a unique information space or personal newspaper.&nbsp;[†](#w-news-aggregator)
@@ -64,7 +64,7 @@ Nexus
 : → WorldWideWeb
 
 NGINX
-: A web server which can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated Nginx served 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
+: A web server which can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated Nginx to serve 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
 
 Night Mode
 : → Dark Mode
@@ -77,10 +77,10 @@ Node Package Manager
 : → npm
 
 Node.js
-: An cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command-line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user’s web browser. Consequently, Node.js represents a “JavaScript everywhere” paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
+: A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for server- and client-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
 Non-Disclosure Agreement
-: A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to or by third parties. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and Kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
+: A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
 Noob
 : → Newbie
@@ -92,7 +92,7 @@ Normalize.css
 : An alternative, less aggressive form of reset style sheet that does not overwrite some user agent style sheet defaults. Normalize.css was first released in 2011 by Nicolas Gallagher. ℹ︎&nbsp;[necolas.github.io/normalize.css](https://necolas.github.io/normalize.css/)
 
 Normative
-: Relating to an evaluative standard. Normativity is the phenomenon in human societies of designating some actions or outcomes as good or desirable or permissible and others as bad or undesirable or impermissible. A norm in this normative sense means a standard for evaluating or making judgments about behavior or outcomes. Normative is sometimes also used, somewhat confusingly, to mean relating to a descriptive standard: doing what is normally done or what most others are expected to do in practice. In this sense a norm is not evaluative, a basis for judging behavior or outcomes; it is simply a fact or observation about behavior or outcomes, without judgment.&nbsp;[†](#w-normative)
+: Relating to an evaluative standard. Normativity is the phenomenon in human societies of designating some actions or outcomes as good or desirable or permissible and others as bad or undesirable or impermissible. A norm in this normative sense means a standard for evaluating or making judgments about behavior or outcomes.&nbsp;[†](#w-normative)
 
 NoSQL
 : A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
@@ -101,7 +101,7 @@ Not a Number
 : A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
 
 npm
-: A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command-line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
+: A package manager for the JavaScript programming language. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command-line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
 
 NPS
 : → Net Promoter Score
@@ -110,7 +110,7 @@ Null
 : A `null` value which represents a reference that points, generally intentionally, to a non-existent or invalid object or address. The meaning of a `null` reference varies among language implementations. In JavaScript, `null` is one of the primitive values.&nbsp;[‡](#m-null)
 
 Null device
-: A device file that discards all data written to it but reports that the write operation succeeded. This device is called `/dev/null` on Unix and Unix-like systems, `NUL:` or `NUL` on DOS and CP/M, `nul` on newer Windows systems (internally `\Device\Null` on Windows NT), `NIL:` on Amiga operating systems, and `NL:` on OpenVMS. In Windows Powershell, the equivalent is `$null`. The null device provides no data to any process that reads from it, yielding EOF immediately. In IBM DOS/360, OS/360 (MFT, MVT), OS/390 and z/OS operating systems, such files would be assigned in JCL to `DD DUMMY`. In programmer jargon, especially Unix jargon, the null device may also be called the bit bucket or black hole.&nbsp;[†](#w-null-device)
+: A device file that discards all data written to it but reports that the write operation succeeded. This device is called `/dev/null` on Unix and Unix-like systems, `NUL:` or `NUL` on DOS and CP/M, `nul` on newer Windows systems (internally `\Device\Null` on Windows NT), `NIL:` on Amiga operating systems, and `NL:` on OpenVMS. In Windows Powershell, the equivalent is `$null`. The null device provides no data to any process that reads from it, yielding EOF immediately. In IBM DOS/360, OS/360 (MFT, MVT), OS/390, and z/OS operating systems, such files would be assigned in JCL to `DD DUMMY`. In programmer jargon, especially Unix jargon, the null device may also be called the “bit bucket” or “black hole.”&nbsp;[†](#w-null-device)
 
 Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
@@ -119,7 +119,7 @@ Number
 : In JavaScript, a numeric data type in the double-precision 64-bit floating point format (IEEE 754). In other programming languages different numeric types can exist, for examples: Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
-: The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now-rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as “hashtags,” and from that, the symbol itself is sometimes called a “hashtag.”&nbsp;[†](#w-number-sign)
+: The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as “hashtags,” and from that, the symbol itself is sometimes called a “hashtag.”&nbsp;[†](#w-number-sign)
 
 Numeral
 : → Numerical digit
@@ -128,9 +128,9 @@ Numeric character reference
 : A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
 
 Numerical digit
-: A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit-numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin _digiti_ meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e., the decimal (ancient Latin adjective _decem_ meaning ten) digits.&nbsp;[†](#w-numerical-digit)
+: A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin _digiti_ meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e., the decimal (ancient Latin adjective _decem_ meaning ten) digits.&nbsp;[†](#w-numerical-digit)
 
 Nuxt.js
-: A web application framework based on Vue.js, Node.js, Webpack, and Babel.js. The framework is advertised as a “meta-framework for universal applications.” The term “universal” is used with the meaning that the goal of the framework is to enable users to create web views in JavaScript utilizing familiar Vue.js single file component system and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, the framework enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
+: A web application framework based on Vue.js, Node.js, Webpack, and Babel. The framework is advertised as a “meta-framework for universal applications.” The term “universal” is used with the meaning that the goal of the framework is to enable users to create web views in JavaScript utilizing familiar Vue.js single file component system and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, the framework enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

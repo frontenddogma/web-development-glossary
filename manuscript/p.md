@@ -107,7 +107,7 @@ Percent encoding
 : → URL encoding
 
 Performance
-: The speed in which web pages are downloaded and displayed on the user’s web browser. Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow Internet connections and on mobile devices. Web performance also leads to less data travelling across the Web, which in turn lowers a website’s power consumption and environmental impact. Some aspects which can affect the speed of page load include browser or server caching as well as image optimization. The performance of the web page can be improved through techniques such as multi-layered cache, light weight design of presentation layer components, and asynchronous communication with server-side components.&nbsp;[†](#w-performance)
+: The speed in which web pages are downloaded and displayed on the user’s web browser. Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow Internet connections and on mobile devices. Web performance also leads to less data travelling across the Web, which in turn lowers a website’s power consumption and environmental impact. Some aspects which can affect the speed of page load include browser or server caching as well as image optimization. The performance of the web page can be improved through techniques such as multi-layered cache, lightweight design of presentation layer components, and asynchronous communication with server-side components.&nbsp;[†](#w-performance)
 
 Performance budget
 : A metrics-based set of performance-related limits for a site or app. The limits are to be controlled and not to be crossed (budget). Limits can include bundle sizes, document sizes, image weights, specific time thresholds, and also performance indices like Speed Index.
@@ -164,8 +164,8 @@ Placeholder
 Placeholder text
 : Text that shares some characteristics of a real written text, but is random or otherwise generated. It may be used to display a sample of fonts, generate text for testing, or to spoof an email spam filter. The process of using filler text is sometimes called greeking, although the text itself may be nonsense, or largely Latin, as with “Lorem ipsum.”&nbsp;[†](#w-placeholder-text)
 
-Plaintext
-: A loose term for data (e.g. file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain text is different from formatted text, where style information is included.&nbsp;[†](#w-plaintext)
+Plain-text
+: A loose term for data (e.g. file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain-text is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
 
 Plane
 : In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called “supplementary planes.” The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
@@ -238,7 +238,7 @@ PR
 : → Pull Request
 
 Preact
-: A JavaScript library described as a light-weight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
+: A JavaScript library described as a lightweight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
 
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)

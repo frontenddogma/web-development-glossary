@@ -562,7 +562,7 @@ This book uses material from the following Wikipedia articles:
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
 * [Pixel](https://en.wikipedia.org/wiki/Pixel){#w-pixel}
-* [Plain text](https://en.wikipedia.org/wiki/Plain_text){#w-plaintext}
+* [Plain text](https://en.wikipedia.org/wiki/Plain_text){#w-plain-text}
 * [Plane (Unicode)](https://en.wikipedia.org/wiki/Plane_(Unicode)){#w-plane}
 * [Plug-in (computing)](https://en.wikipedia.org/wiki/Plug-in_(computing)){#w-plugin}
 * [Pointer (computer programming)](https://en.wikipedia.org/wiki/Pointer_(computer_programming)){#w-pointer}

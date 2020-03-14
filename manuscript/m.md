@@ -4,13 +4,13 @@ Mac OS
 : → macOS
 
 Machine Learning
-: The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as “training data,” in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.&nbsp;[†](#w-ml)
+: The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as “training data,” in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers.&nbsp;[†](#w-ml)
 
 macOS
-: A series of proprietary graphical operating systems developed and marketed by Apple since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
+: A series of proprietary graphical operating systems developed and marketed by Apple since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
 
 macOS, Apache, MySQL, PHP/Perl/Python
-: A solution stack composed of free and open source software running with proprietary commercial software, to run dynamic websites on computers running macOS or Windows. It can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name “MAMP” is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example. The developers of MAMP have also ported the system to Windows (but still called MAMP).&nbsp;[†](#w-mamp)
+: A solution stack composed of free and open source software running with proprietary commercial software, to serve dynamic websites on computers running macOS. MAMP can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name “MAMP” is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example.&nbsp;[†](#w-mamp)
 
 Macromedia Flash
 : → Flash
@@ -19,7 +19,7 @@ Mail
 : → Email
 
 Main thread
-: The thread on which a browser processes user events and paints. By default, the browser uses a single thread to run all the JavaScript on a page, as well as to perform layout, reflows, and garbage collection. That is why long-running JavaScript functions can block the thread, leading to an unresponsive page and a bad user experience.&nbsp;[‡](#m-main-thread)
+: The thread on which a browser processes user events and paints. By default, the browser uses a single thread to run all the JavaScript on a page, as well as to perform layout, reflows, and garbage collection. This single thread is why long-running JavaScript functions can block the thread, leading to an unresponsive page and a bad user experience.&nbsp;[‡](#m-main-thread)
 
 Maintainability
 : The ease with which a product can be maintained in order to correct defects or their cause, repair or replace faulty or worn-out components without having to replace still working parts, prevent unexpected working conditions, maximize a product’s useful life, maximize efficiency, reliability, and safety, meet new requirements, make future maintenance easier, or cope with a changed environment.&nbsp;[†](#w-maintainability)
@@ -34,13 +34,13 @@ MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Margin
-: Per the CSS box model, the (width of the) margin area of a box, that is, an element on a web page. The margin area lies outside the border area of a box.
+: Per the CSS box model, the (width and height of the) margin area of a box, that is, an element on a web page. The margin area lies outside the border area of a box.
 
 Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
 Markdown
-: A lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
+: A lightweight markup language with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain-text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
 
 Marketing
 : The study and management of exchange relationships. Marketing is the business process of creating relationships with and satisfying customers. Because marketing is used to attract customers, it is one of the primary components of business management and commerce. Marketers can direct product to other businesses (B2B marketing) or directly to consumers (B2C marketing).&nbsp;[†](#w-marketing)
@@ -49,17 +49,17 @@ Markup
 : → Markup language
 
 Markup language
-: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all of the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
+: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Masthead
-: A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and many other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
+: A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
 
 Material Design
 : A design language, developed in 2014 by Google. Expanding on the “card” motifs that debuted in Google Now, Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.&nbsp;[†](#w-material-design) ℹ︎&nbsp;[material.io/design](https://material.io/design/)
 
 Mathematical Markup Language
 : In general, a computer notation for representing mathematical formulae, based on mathematical notation. Specialized markup languages are necessary because computers normally deal with linear text and more limited character sets (although increasing support for Unicode is obsoleting very simple uses). A formally standardized syntax also allows a computer to interpret otherwise ambiguous content, for rendering or even evaluating. For computer-interpretable syntaxes, the most popular are TeX/LaTeX and MathML.&nbsp;[†](#w-mathematical-markup-language)
-: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. It aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
+: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. MathML aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
 
 MathML
 : → Mathematical Markup Language
@@ -71,7 +71,7 @@ MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
-: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The initialism “MD” stands for “Message Digest.” The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
+: A cryptographic hash function developed in 1990 by Ronald Rivest, whose initialism “MD” stands for “Message Digest”. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
 
 MD5
 : A widely used hash function that produces a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
@@ -89,7 +89,7 @@ Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
 Media query
-: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g. smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone technology of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
+: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g. smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
 Media type
 : → MIME type
@@ -110,7 +110,7 @@ Merge Request
 : A request to merge a version-controlled branch into another branch. The same as a pull request, just used by different platforms.
 
 Merging
-: A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, it is necessary when a file is modified on two independent branches and subsequently merged. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many revision control software tools include merge capabilities.&nbsp;[†](#w-merging)
+: A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many revision control software tools include merge capabilities.&nbsp;[†](#w-merging)
 
 Message Digest
 : → MD2
@@ -122,10 +122,10 @@ Meta-element
 : An HTML element that can provide structured metadata about a web page. Meta-elements are part of a web page’s `head` section. Multiple meta-elements with different attributes can be used on the same page. Meta-elements can be used to specify a page’s description, keywords, and other metadata. The `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
 
 Metadata
-: Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and metadata.&nbsp;[†](#w-metadata)
+: Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and statistical metadata.&nbsp;[†](#w-metadata)
 
 Metadata content
-: Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of the document with other documents, or that conveys other “out of band” information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
+: Content that sets up the presentation or behavior of the rest of the content, or that sets up the relationship of a document with other documents, or that conveys other “out of band” information. Metadata content is marked up through the `base`, `link`, `meta`, `noscript`, `script`, `style`, `template`, and `title` elements.&nbsp;§
 
 Method
 : A procedure associated with a message and an object. An object consists of data and behavior. The data and behavior comprise an interface, which specifies how the object may be utilized by any of various consumers of the object. Data is represented as properties of the object and behaviors are represented as methods of the object. For example, a `Window` object could have methods such as `open` and `close`, while its state (whether it is opened or closed at any given point in time) would be a property. In class-based programming, methods are defined in a class, and objects are instances of a given class.&nbsp;[†](#w-method)
@@ -137,13 +137,13 @@ Metro
 : → Microsoft Design Language
 
 Microformat
-: A World Wide Web-based approach to semantic markup which uses HTML/XHTML tags supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. This approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup tags used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
+: An approach to semantic markup which uses HTML/XHTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
 Microsite
-: An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain name or subdomain.&nbsp;[†](#w-microsite)
+: An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
 
 Microsoft Design Language
-: A design language created by Microsoft. This design language is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
+: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
 
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
@@ -161,7 +161,7 @@ Minifier
 : A software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
 
 Minimum Viable Product
-: A version of a product with just enough features to satisfy early customers and provide feedback for future product development. Gathering insights from an MVP is often less expensive than developing a product with more features, which increases costs and risk if the product fails, for example, due to incorrect assumptions.&nbsp;[†](#w-mvp)
+: A version of a product with just enough features to satisfy early customers and provide feedback for future product development. Gathering insights from an MVP is often less expensive than developing a product with more features, which increases costs and risk if the product fails.&nbsp;[†](#w-mvp)
 
 MIP
 : → Mobile Instant Pages
@@ -174,7 +174,7 @@ ML
 : → Markup language
 
 Mobile
-: In computing, human-computer interaction in which a computer is expected to be transported during normal usage, which allows for transmission of data, voice and video. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc networks and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.&nbsp;[†](#w-mobile)
+: In computing, human-computer interaction in which a computer is expected to be transported during normal usage, which allows for transmission of data, voice, and video. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication includes _ad hoc_ networks and infrastructure networks as well as communication properties, protocols, data formats, and concrete technologies.&nbsp;[†](#w-mobile)
 
 Mobile First
 : A form of progressive enhancement and an approach to web development and web design that focuses on prioritizing design and development for mobile screen sizes over design and development for desktop screen sizes. The rationale behind the mobile-first approach is to provide users with good user experiences at all screen sizes—by starting with creating a user experience that works well on small screens, and then building on top of that to further enrich the user experience as the screen size increases. The mobile-first approach contrasts with the older approach of designing for desktop screen sizes first, and then only later adding some support for small screen sizes.&nbsp;[‡](#m-mobile-first)
@@ -183,7 +183,7 @@ Mobile Instant Pages
 : A mobile-centered web development and publishing framework similar to Accelerated Mobile Pages (AMP). MIP was released in 2016 by Baidu. ℹ︎&nbsp;[mipengine.org](https://www.mipengine.org/)
 
 Mobilegeddon
-: A name for Google’s search engine algorithm update of April 21, 2015. The term was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015. The term was then adopted by webmasters and web-developers. The main effect of this update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop.&nbsp;[†](#w-mobilegeddon)
+: A name for Google’s search engine algorithm update of April 21, 2015. The term “Mobilegeddon” was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015. The term was then adopted by webmasters and web-developers. The main effect of the update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop.&nbsp;[†](#w-mobilegeddon)
 
 Mocha
 : → JavaScript
@@ -191,8 +191,8 @@ Mocha
 Modal
 : A graphical control element subordinate to an application’s main window. It creates a mode that disables the main window but keeps it visible, with the modal window as a child window in front of it. Users must interact with the modal window before they can return to the parent application. This avoids interrupting the workflow on the main window. Modal windows are sometimes called heavy windows or modal dialogs because they often display a dialog box.&nbsp;[†](#w-modal)
 
-Model View Controller
-: A software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. This kind of pattern is used for designing the layout of the page. Traditionally used for desktop graphical user interfaces (GUIs), this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.&nbsp;[†](#w-mvc)
+Model-View-Controller
+: A software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. Traditionally used for desktop graphical user interfaces (GUIs), this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.&nbsp;[†](#w-mvc)
 
 Model-View-Viewmodel
 : A software architectural pattern. MVVM facilitates a separation of the development of the graphical user interface, be it via a markup language or GUI code, from the development of the business logic or backend logic (the data model). The view model of MVVM is a value converter, meaning the view model is responsible for exposing (converting) the data objects from the model in such a way that objects are easily managed and presented.&nbsp;[†](#w-mvvm)
@@ -201,7 +201,7 @@ Modernizr
 : A JavaScript library that detects the features available in a user’s browser. This lets web pages avoid unsupported features by informing the user their browser is not supported or loading a polyfill. Modernizr aims to provide feature detection in a consistent and easy to use manner that discourages the use of failure-prone browser sniffing. Modernizr was first released in 2009.&nbsp;[†](#w-modernizr) ℹ︎&nbsp;[modernizr.com](https://modernizr.com/)
 
 Modular design
-: An approach (design theory and practice) that subdivides a system into smaller parts called modules, which can be independently created, modified, replaced or exchanged between different systems.&nbsp;[†](#w-modular-design)
+: An approach (design theory and practice) that subdivides a system into smaller parts called modules, which can be independently created, modified, replaced, or exchanged between different systems.&nbsp;[†](#w-modular-design)
 
 Module
 : → Component
@@ -213,13 +213,13 @@ Monolithic application
 : → Monolith
 
 Monorepo
-: A software development strategy where code for many projects are stored in the same repository.&nbsp;[†](#w-monorepo)
+: A software development strategy where code for many projects is stored in the same repository.&nbsp;[†](#w-monorepo)
 
 Monthly Active Users
 : → Active Users
 
 Mosaic
-: The web browser that popularized the World Wide Web and the Internet. It was also a client for earlier Internet protocols such as File Transfer Protocol, Network News Transfer Protocol, and Gopher. The browser was named for its support of multiple Internet protocols. Its intuitive interface, reliability, Microsoft Windows port, and simple installation all contributed to its popularity within the Web, as well as on Microsoft operating systems. Mosaic was also the first browser to display images inline with text instead of displaying them in a separate window. It is often described as the first graphical web browser, though it was preceded by WorldWideWeb, the lesser-known Erwise, and ViolaWWW. Mosaic was first released in 1991.&nbsp;[†](#w-mosaic)
+: The web browser that popularized the World Wide Web and the Internet. Mosaic was also a client for earlier Internet protocols such as File Transfer Protocol, Network News Transfer Protocol, and Gopher. The browser was named for its support of multiple Internet protocols. Its intuitive interface, reliability, Microsoft Windows port, and simple installation all contributed to its popularity within the Web, as well as on Microsoft operating systems. Mosaic was also the first browser to display images inline with text instead of displaying them in a separate window. It is often described as the first graphical web browser, though it was preceded by WorldWideWeb, the lesser-known Erwise, and ViolaWWW. Mosaic was first released in 1991.&nbsp;[†](#w-mosaic)
 
 Moving Picture Experts Group
 : A working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission, the MPEG formats. The MPEG was established in 1988 by the initiative of Hiroshi Yasuda.&nbsp;[†](#w-moving-picture-experts-group) ℹ︎&nbsp;[mpeg.chiariglione.org](https://mpeg.chiariglione.org/)
@@ -238,7 +238,7 @@ MSIE
 : → Internet Explorer
 
 Multimedia
-: Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)
+: Content that uses a combination of different content forms such as text, audio, images, animations, video, and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)
 
 Multiple inheritance
 : A feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class. It is distinct from single inheritance, where an object or class may only inherit from one particular object or class. Multiple inheritance has been a sensitive issue for many years, with opponents pointing to its increased complexity and ambiguity in situations such as the “diamond problem,” where it may be ambiguous as to which parent class a particular feature is inherited from if more than one parent class implements said feature. This can be addressed in various ways, including using virtual inheritance.&nbsp;[†](#w-multiple-inheritance)
@@ -247,7 +247,7 @@ Multipurpose Internet Mail Extensions
 : An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP).&nbsp;[†](#w-mime)
 
 Mustache
-: A web template system. Mustache is described as a “logic-less” system because it lacks any explicit control flow statements, like `if` and `else` conditionals or `for` loops; however, both looping and conditional evaluation can be achieved using section tags processing lists and lambdas. It is named “Mustache” because of heavy use of braces, “{ }”, that resemble a sideways moustache. Mustache is used mainly for mobile and web applications.&nbsp;[†](#w-mustache) ℹ︎&nbsp;[mustache.github.io](https://mustache.github.io/)
+: A web template system. Mustache is described as a “logic-less” system because it lacks any explicit control flow statements, like `if` and `else` conditionals or `for` loops; however, both looping and conditional evaluation can be achieved using section tags processing lists and lambdas. It is named “Mustache” because of the heavy use of “{” and “}” braces, which resemble a sideways moustache. Mustache is used mainly for mobile and web applications.&nbsp;[†](#w-mustache) ℹ︎&nbsp;[mustache.github.io](https://mustache.github.io/)
 
 Mutable
 : A property of an object whose state can be modified after it was created (mutable or changeable object). This is in contrast to an immutable object.&nbsp;[†](#w-immutable)
@@ -256,7 +256,7 @@ Mutation
 : In JavaScript, a change of the DOM tree or a change of object properties.
 
 MVC
-: → Model View Controller
+: → Model-View-Controller
 
 MVP
 : → Minimum Viable Product
