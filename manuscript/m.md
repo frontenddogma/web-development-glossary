@@ -34,7 +34,7 @@ MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Margin
-: Per the CSS box model, the (width and height of the) margin area of a box, that is, an element on a web page. The margin area lies outside the border area of a box.
+: Per the CSS box model, the (width of the) margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
 
 Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.

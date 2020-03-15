@@ -1,7 +1,7 @@
 # P
 
 package.json
-: A file containing dependencies, scripts, and metadata for npm (Node Package Manager) packages.
+: A file containing dependencies, scripts, and metadata for npm (Node Package Manager) or Yarn packages.
 
 package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
@@ -13,19 +13,19 @@ Packet
 : A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)
 
 Padding
-: Per the CSS box model, the (width of the) padding area of a box, that is, an element on a web page. The padding area lies between the content and border areas of a box.
+: Per the CSS box model, the (width of the) padding area of a box, that is, an element of a document. The padding area lies between the content and border areas of a box.
 
 Page
 : → Web page
 
 Page impression
-: → Pageview
+: → Page view
 
 Page prediction
 : A browser feature or script which, when enabled, tells the browser to download resources the user is likely to visit before any user requests for the content are made. Page prediction improves performance by enabling almost instant loading of predicted content. However, page prediction may also download content a user does not request.&nbsp;[‡](#m-page-prediction)
 
 Page Quality
-: Custom quality criteria for web pages (Google) and Facebook Pages (Facebook).
+: Custom and proprietary quality criteria for web pages (Google) and Facebook Pages (Facebook).
 
 PageRank
 : An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and it is the best known.&nbsp;[†](#w-pagerank)
@@ -33,14 +33,14 @@ PageRank
 PageSpeed
 : A family of tools by Google, designed to help a website’s performance optimization. PageSpeed was introduced in 2010. There are four main components of PageSpeed family tools: PageSpeed Module, also known as `mod_pagespeed`, PageSpeed Insights, PageSpeed Service, and the PageSpeed Chrome DevTools extension. All of these components are built to identify faults in a website’s compliance with Google’s Web Performance Best Practices, as well as to automate the optimization process.&nbsp;[†](#w-pagespeed) ℹ︎&nbsp;[developers.google.com/speed](https://developers.google.com/speed)
 
-Pageview
-: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-pageview)
+Page view
+: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-page-view)
 
 Pair programming
 : An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the observer also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the observer as a safety net and guide.&nbsp;[†](#w-pair-programming)
 
 Palpable content
-: Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows any flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
+: Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
 
 Paradigm
 : A distinct set of concepts or thought patterns, including theories, research methods, postulates, and standards for what constitutes legitimate contributions to a field. According to Thomas Kuhn (1962), scientific paradigms are “universally recognized scientific achievements that, for a time, provide model problems and solutions for a community of practitioners.”&nbsp;[†](#w-paradigm)
@@ -57,11 +57,11 @@ Pareto Principle
 Parkinson’s Law
 : The idea that work expands so to fill the time available for its completion. It is sometimes applied to the growth of bureaucracy in an organization. It was stated in 1955 by Cyril Northcote Parkinson in an essay published in _The Economist_. A popular corollary is that “Work contracts to fit in the time we give it.”&nbsp;[†](#w-parkinsons-law)
 
-Parsing
-: The process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term parsing comes from Latin _pars_ (_orationis_), meaning “part (of speech)”. The term has slightly different meanings in different branches of linguistics and computer science. Within computational linguistics “parsing” is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic and other information.&nbsp;[†](#w-parsing)
-
 Parser
 : A software component that takes input data (frequently text) and builds a data structure—often some kind of parse tree, abstract syntax tree, or other hierarchical structure, giving a structural representation of the input while checking for correct syntax. The parsing may be preceded or followed by other steps, or these may be combined into a single step. The parser is often preceded by a separate lexical analyzer, which creates tokens from the sequence of input characters; alternatively, these can be combined in scannerless parsing. Parsers may be programmed by hand or may be automatically or semi-automatically generated by a parser generator. Parsing is complementary to templating, which produces formatted output.&nbsp;[†](#w-parsing)
+
+Parsing
+: The process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term parsing comes from Latin _pars_ (_orationis_), meaning “part (of speech)”. The term has slightly different meanings in different branches of linguistics and computer science. Within computational linguistics “parsing” is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic and other information.&nbsp;[†](#w-parsing)
 
 Patch
 : A set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, like around functionality, usability, or performance. Patches are also called bugfixes (or bug fixes).&nbsp;[†](#w-patch)
@@ -327,7 +327,7 @@ Push technology
 : A style of Internet-based communication where the request for a given transaction is initiated by the publisher or central server. It is contrasted with pull/get, where the request for the transmission of information is initiated by the receiver or client. Push services are often based on information preferences expressed in advance.&nbsp;[†](#w-push-technology)
 
 PV
-: → Pageview
+: → Page view
 
 PWA
 : → Progressive Web App

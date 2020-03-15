@@ -538,7 +538,7 @@ This book uses material from the following Wikipedia articles:
 * [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [PageRank](https://en.wikipedia.org/wiki/PageRank){#w-pagerank}
-* [Pageview](https://en.wikipedia.org/wiki/Pageview){#w-pageview}
+* [Pageview](https://en.wikipedia.org/wiki/Pageview){#w-page-view}
 * [Pair programming](https://en.wikipedia.org/wiki/Pair_programming){#w-pair-programming}
 * [Paradigm](https://en.wikipedia.org/wiki/Paradigm){#w-paradigm}
 * [Parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling){#w-parallax-scrolling}
