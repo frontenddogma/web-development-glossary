@@ -334,7 +334,7 @@ Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
 
 Console
-: A computer program designed to be used via a text-only computer interface, such as a text terminal, the command-line interface of some operating systems (Unix, DOS, etc.) or the text-based interface included with most Graphical User Interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
+: A computer program designed to be used via a text-only computer interface, such as a text terminal, the command-line interface of some operating systems (Unix, DOS, etc.), or the text-based interface included with most graphical user interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
 
 Constant
 : A value that cannot be altered by the program during normal execution, i.e., the value is constant. When associated with an identifier, a constant is said to be “named,” although the terms “constant” and “named constant” are often used interchangeably. This is contrasted with a variable.&nbsp;[†](#w-constant)

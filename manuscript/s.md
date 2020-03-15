@@ -188,7 +188,7 @@ SGML
 : → Standard Generalized Markup Language
 
 Shadow DOM
-: A scoped sub-tree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the web component standards. ℹ︎&nbsp;[is.gd/70szug](https://w3c.github.io/webcomponents/spec/shadow/)
+: A scoped subtree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the web component standards. ℹ︎&nbsp;[is.gd/70szug](https://w3c.github.io/webcomponents/spec/shadow/)
 
 Shadow host
 : The element that a shadow tree is attached to, like the root element of a custom element.

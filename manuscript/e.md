@@ -55,7 +55,7 @@ Electronic Frontier Foundation
 : An international non-profit digital rights group based in San Francisco, California. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
 
 Element
-: In HTML, a part of an HTML (Hypertext Markup Language) document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
+: In HTML, a part of an HTML (HyperText Markup Language) document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
 
 Em
 : A typographic unit equal to the currently specified point size. For example, one em in a 16-point typeface is 16 points. Therefore, this unit is the same for all typefaces at a given point size. In CSS, the `em` unit is the height of the font in nominal points or inches.&nbsp;[†](#w-em)
