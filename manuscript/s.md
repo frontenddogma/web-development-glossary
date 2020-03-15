@@ -398,7 +398,7 @@ SQL
 : → Structured Query Language
 
 SQL injection
-: A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
+: A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g., to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
 Squad
 : A Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[labs.spotify.com/2013/03/20/agile-a-la-spotify](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
@@ -501,7 +501,7 @@ Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
 
 Subject-Matter Expert
-: A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavour (e.g. an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
+: A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavour (e.g., an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
 
 Subnav
 : → Subnavigation

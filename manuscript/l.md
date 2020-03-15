@@ -155,7 +155,7 @@ Local
 : → Local scope
 
 Local-part
-: The first part of an email address. It may use any of the following ASCII characters: uppercase and lowercase Latin letters “A” to “Z” and “a” to “z”; digits “0” to “9”; the printable characters “!”, “#”, “$”, “%”, “&”, “'”, “*”, “+”, “-”, “/”, “=”, “?”, “^”, “_”, “`”, “{”, “|”, “}”, and “~”; and dots (“.”), provided that a dot is not the first or last character unless quoted, and provided also that it does not appear consecutively unless quoted (e.g. jane..doe@example.com is not allowed, but "jane..doe"@example.com is).&nbsp;[†](#w-email-address)
+: The first part of an email address. It may use any of the following ASCII characters: uppercase and lowercase Latin letters “A” to “Z” and “a” to “z”; digits “0” to “9”; the printable characters “!”, “#”, “$”, “%”, “&”, “'”, “*”, “+”, “-”, “/”, “=”, “?”, “^”, “_”, “`”, “{”, “|”, “}”, and “~”; and dots (“.”), provided that a dot is not the first or last character unless quoted, and provided also that it does not appear consecutively unless quoted (e.g., jane..doe@example.com is not allowed, but "jane..doe"@example.com is).&nbsp;[†](#w-email-address)
 
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)

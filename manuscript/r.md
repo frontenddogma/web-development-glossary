@@ -149,7 +149,7 @@ Replaced element
 : An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document’s styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have style sheets of their own, but they do not inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`.&nbsp;[‡](#m-replaced-element)
 
 Representational State Transfer
-: A group of software architecture design constraints that bring about efficient, reliable, and scalable distributed systems. A system is called RESTful when it adheres to those constraints. The basic idea of REST is that a resource, e.g. a document, is transferred with its state and relationships (hypertext) via well-defined, standardized operations and formats. Often APIs or services call themselves RESTful when they directly modify a type of document as opposed to triggering actions elsewhere.&nbsp;[‡](#m-rest)
+: A group of software architecture design constraints that bring about efficient, reliable, and scalable distributed systems. A system is called RESTful when it adheres to those constraints. The basic idea of REST is that a resource, e.g., a document, is transferred with its state and relationships (hypertext) via well-defined, standardized operations and formats. Often APIs or services call themselves RESTful when they directly modify a type of document as opposed to triggering actions elsewhere.&nbsp;[‡](#m-rest)
 
 Request
 : In HTTP, a client’s message to a server soliciting a response. A request message consists of a request line (e.g., `GET /images/logo.png HTTP/1.1`, which requests a resource called /images/logo.png from the server), request header fields (e.g., `Accept-Language: en`), an empty line, and an optional message body.&nbsp;[†](#w-http)
@@ -261,7 +261,7 @@ Round-Trip Time
 
 Router
 : For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered to open the next page.&nbsp;[‡](#m-router)
-: For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an inter-network (e.g. the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
+: For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an inter-network (e.g., the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
 
 Routine
 : A sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.&nbsp;[†](#w-subroutine)

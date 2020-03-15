@@ -134,7 +134,7 @@ Phoenix
 : → Firefox
 
 Photoshop
-: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g. “to photoshop”) although Adobe discourages such use. Photoshop was first released in 1987. ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
+: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g., “to photoshop”) although Adobe discourages such use. Photoshop was first released in 1987. ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
 
 PHP
 : → Hypertext Preprocessor
@@ -165,7 +165,7 @@ Placeholder text
 : Text that shares some characteristics of a real written text, but is random or otherwise generated. It may be used to display a sample of fonts, generate text for testing, or to spoof an email spam filter. The process of using filler text is sometimes called greeking, although the text itself may be nonsense, or largely Latin, as with “Lorem ipsum.”&nbsp;[†](#w-placeholder-text)
 
 Plain-text
-: A loose term for data (e.g. file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain-text is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
+: A loose term for data (e.g., file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain-text is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
 
 Plane
 : In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called “supplementary planes.” The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)

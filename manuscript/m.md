@@ -89,7 +89,7 @@ Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
 Media query
-: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g. smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
+: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
 Media type
 : → MIME type
@@ -155,7 +155,7 @@ MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 
 Minification
-: The process of removing all unnecessary characters from the source codes of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient.&nbsp;[†](#w-minification)
+: The process of removing all unnecessary characters from the source codes of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g., the Internet) more efficient.&nbsp;[†](#w-minification)
 
 Minifier
 : A software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
