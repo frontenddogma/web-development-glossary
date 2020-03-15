@@ -229,7 +229,7 @@ Robots exclusion standard
 robots.txt
 : A standard and special file used by websites to communicate with web crawlers and other web robots. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt)
 
-Robustness principle
+Robustness Principle
 : → Postel’s Law
 
 Root

@@ -186,6 +186,7 @@ This book uses material from the following Wikipedia articles:
 * [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack){#w-dos}
 * [Deno (software)](https://en.wikipedia.org/wiki/Deno_(software)){#w-deno}
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
+* [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle){#w-dip}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract){#w-dbc}

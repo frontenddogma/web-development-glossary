@@ -39,7 +39,7 @@ Scope
 : The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings—a precise definition is tricky, but in casual use and in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term “scope” is also used to refer to the set of all entities that are visible or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, “part of a program” refers to “portion of the source code (area of text),” and is known as lexical scope. In some languages, however, “part of a program” refers to “portion of runtime (time period during execution),” and is known as dynamic scope.&nbsp;[†](#w-scope)
 
 Scoped styles
-: A concept to contain styles only to a certain element as well as its children (as opposed to have them affect other elements as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like Web Components. Frameworks like Vue support both concept and attribute.
+: A concept to contain styles only to a certain element as well as its children (as opposed to have them affect other elements as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like web components. Frameworks like Vue support both concept and attribute.
 
 Screen reader
 : A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include for example interacting with dedicated Accessibility API, using various operating system features (like inter-process communication and querying user interface properties) and employing hooking techniques.&nbsp;[†](#w-screen-reader)
@@ -188,7 +188,7 @@ SGML
 : → Standard Generalized Markup Language
 
 Shadow DOM
-: A scoped sub-tree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the Web Component standards. ℹ︎&nbsp;[w3c.github.io/webcomponents/spec/shadow](https://w3c.github.io/webcomponents/spec/shadow/)
+: A scoped sub-tree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the web component standards. ℹ︎&nbsp;[w3c.github.io/webcomponents/spec/shadow](https://w3c.github.io/webcomponents/spec/shadow/)
 
 Shadow host
 : The element that a shadow tree is attached to, like the root element of a custom element.

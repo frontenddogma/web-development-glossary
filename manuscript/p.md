@@ -140,7 +140,7 @@ PHP
 : → Hypertext Preprocessor
 
 PhpStorm
-: A commercial, cross-platform IDE for PHP. PhpStorm provides an editor for PHP, HTML, and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code. PhpStorm was first released in 2009.&nbsp;[†](#w-phpstorm) ℹ︎&nbsp;[jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
+: A commercial, cross-platform IDE for PHP. PhpStorm provides an editor for PHP, HTML, and JavaScript with on-the-fly code analysis, error prevention, and automated refactorings for PHP and JavaScript code. PhpStorm was first released in 2009.&nbsp;[†](#w-phpstorm) ℹ︎&nbsp;[jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
 
 Phrasing content
 : The text of an HTML document, as well as elements that mark up that text at the intra-paragraph level. Runs of phrasing content form paragraphs.&nbsp;§
@@ -149,13 +149,13 @@ Ping
 : A computer network administration software utility used to test the reachability of a host on an Internet Protocol (IP) network. It is available for virtually all operating systems that have networking capability, including most embedded network administration software. Ping measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source.&nbsp;[†](#w-ping)
 
 Pinging
-: A colloquial expression for notifying or contacting another person.
+: A colloquial expression for contacting or notifying another person.
 
 Pixel
-: A physical point in a raster image, or the smallest addressable element in an all points addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
+: A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
 
 Pixel-perfect
-: The development goal of building exactly to design specs (that is, the resulting site or app looks exactly as designed, down to each pixel), as well as to have a site or app look exactly the same on all browsers and devices. In modern web development with its focus on responsive design and an indeterminable combination of browsers and devices, pixel-perfection is considered an unrealistic and problematic practice.
+: The development goal of building exactly to design specs (that is, the resulting site or app looks exactly as intended, down to each pixel), as well as to have a site or app look exactly the same on all browsers and devices. In modern web development with its focus on responsive design and an indeterminable combination of browsers and devices, pixel-perfection is considered an unrealistic and problematic practice.
 
 Placeholder
 : → Free variable
@@ -168,7 +168,7 @@ Plain-text
 : A loose term for data (e.g., file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain-text is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
 
 Plane
-: In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called “supplementary planes.” The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
+: In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called “supplementary planes.” The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
 
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
@@ -183,10 +183,10 @@ Pointing device
 : An input interface (specifically a human interface device) that allows a user to input spatial (i.e., continuous and multi-dimensional) data to a computer. CAD systems and graphical user interfaces (GUI) allow the user to control and provide data to the computer using physical gestures by moving a hand-held mouse or similar device across the surface of the physical desktop and activating switches on the mouse. While the most common pointing device by far is the mouse, many more devices have been developed.&nbsp;[†](#w-pointing-device)
 
 Polyfill
-: Code that implements a feature on web browsers that do not support the feature. Most often, it refers to a JavaScript library that implements an HTML web standard, either an established standard (supported by some browsers) on older browsers, or a proposed standard (not supported by any browsers) on existing browsers. Formally, “a polyfill is a shim for a browser API.” Polyfills allow web developers to use an API regardless of whether or not it is supported by a browser, and usually with minimal overhead.&nbsp;[†](#w-polyfill)
+: Code that implements a feature on web browsers that do not natively support the feature. Most often, a polyfill refers to a JavaScript library that implements an HTML web standard, either an established one (supported by some browsers) on older browsers, or a proposed standard (not supported by any browsers) on existing browsers. Formally, “a polyfill is a shim for a browser API.” Polyfills allow web developers to use an API regardless of whether or not it is supported by a browser, and usually with minimal overhead.&nbsp;[†](#w-polyfill)
 
 Polymer Project
-: A JavaScript library for building web applications using Web Components. Development of the library started in 2013, it was released in 2015. Polymer is being developed by Google.&nbsp;[†](#w-polymer) ℹ︎&nbsp;[polymer-project.org](https://www.polymer-project.org/)
+: A JavaScript library for building web applications using web components. Development of the library started in 2013, and it was released in 2015. Polymer was developed by Google.&nbsp;[†](#w-polymer) ℹ︎&nbsp;[polymer-project.org](https://www.polymer-project.org/)
 
 POP
 : → Post Office Protocol
@@ -201,13 +201,13 @@ Port
 : A communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). A port number is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Specific port numbers are commonly reserved to identify specific services.&nbsp;[†](#w-port)
 
 Portable Document Format
-: A file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it. PDF was standardized as ISO 32000 in 2008.&nbsp;[†](#w-pdf)
+: A file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images, and other information needed to display it. PDF was standardized as ISO 32000 in 2008.&nbsp;[†](#w-pdf)
 
 Portable Network Graphics
-: A raster-graphics file-format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). PNG files use the file extension `png` and are assigned MIME media type `image/png`. PNG was published as informational RFC&nbsp;2083 in 1997, and as an ISO/IEC standard in 2004.&nbsp;[†](#w-png)
+: A raster graphic file format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). PNG files use the file extension `png` and are assigned the MIME media type `image/png`. PNG was published as informational RFC&nbsp;2083 in 1997, and as an ISO/IEC standard in 2004.&nbsp;[†](#w-png)
 
 Portal
-: A specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet “dashboards” for executives and managers.&nbsp;[†](#w-portal)
+: A specially designed website that brings together information from diverse sources, like emails, online forums, and search engines, in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet “dashboards” for executives and managers.&nbsp;[†](#w-portal)
 : A mechanism that allows for the rendering and quick navigation of embedded content. ℹ︎&nbsp;[wicg.github.io/portals](https://wicg.github.io/portals/)
 
 Post mortem
@@ -220,7 +220,7 @@ PostCSS
 : A software development tool that uses JavaScript-based plugins to automate routine CSS operations. PostCSS was first released in 2013.&nbsp;[†](#w-postcss) ℹ︎&nbsp;[postcss.org](https://postcss.org/)
 
 Postel’s Law
-: “Be conservative in what you send, be liberal in what you accept.” Also known as the robustness principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
+: “Be conservative in what you send, be liberal in what you accept.” Also known as the Robustness Principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
 
 POUR
 : → Perceivable, Operable, Understandable, and Robust
@@ -250,7 +250,7 @@ Prerendering
 : The prefetching and then rendering of content in the background by a browser, as if the content had been rendered into an invisible separate tab. When the user navigates to the prerendered content, the current content is replaced by the prerendered content instantly.&nbsp;[‡](#m-prerendering)
 
 Presentation
-: In web development, the code that deals with how content is presented. This is usually achieved through Cascading Style Sheets (CSS).
+: In web development, the code that deals with how content is being presented. This is usually achieved through Cascading Style Sheets (CSS).
 
 Presto
 : The browser engine of the Opera web browser from the release of Opera&nbsp;7 in 2003 until the release of Opera&nbsp;15 in 2013, at which time Opera switched to using the Blink engine that was originally created for Chromium. Presto was also used to power the Opera Mini and Opera Mobile browsers.&nbsp;[†](#w-presto)
@@ -268,7 +268,7 @@ Privacy
 : The ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals. When something is private to a person, it usually means that something is inherently special or sensitive to them. The domain of privacy partially overlaps with security, which can include the concepts of appropriate use, as well as protection of information. Privacy may also take the form of bodily integrity. The right not to be subjected to unsanctioned invasions of privacy by the government, corporations or individuals is part of many countries’ privacy laws, and in some cases, constitutions.&nbsp;[†](#w-privacy)
 
 Product Backlog
-: In Scrum, a prioritized list of work needed to be done to create and maintain a product. The Product Backlog is managed by a Product Owner.
+: In Scrum, a prioritized list of work needed to be done to create and maintain a product. A Product Backlog is managed by the Product Owner.
 
 Product Backlog Item
 : An element from a Product Backlog. PBIs can include research tasks, specifications, requirements, use cases, user stories, epics, bugs, and refactoring tasks.
@@ -283,7 +283,7 @@ Progressive Enhancement
 : A strategy for web design that emphasizes core web page content first. This strategy then progressively adds more nuanced and technically rigorous layers of presentation and features on top of the content as the end user’s browser or Internet connection permit. The proposed benefits of this strategy are that it allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater bandwidth.&nbsp;[†](#w-progressive-enhancement)
 
 Progressive Web App
-: A type of application software delivered through the Web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page. PWAs work in any browser, but “app-like” features such as being independent of connectivity, install to home screen, and push messaging depend on browser support.&nbsp;[†](#w-pwa)
+: A type of application software delivered through the Web, built using common web technologies including HTML, CSS, and JavaScript. A PWA is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page.&nbsp;[†](#w-pwa)
 
 Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the `Promise` object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)
@@ -297,13 +297,14 @@ Property
 : In programming, a special sort of class member, intermediate in functionality between a field (or data member) and a method. The syntax for reading and writing of properties is like for fields, but property reads and writes are (usually) translated to “getter” and “setter” method calls. The field-like syntax is easier to read and write than lots of method calls, yet the interposition of method calls “under the hood” allows for data validation, active updating (e.g., of GUI elements), or implementation of what may be called “read-only fields.”&nbsp;[†](#w-property-programming)
 
 Protocol
-: A system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity. The protocol defines the rules, syntax, semantics and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both.&nbsp;[†](#w-protocol)
+: A system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity. The protocol defines the rules, syntax, semantics, and synchronization of communication and possible error recovery methods. Protocols may be implemented by hardware, software, or a combination of both.&nbsp;[†](#w-protocol)
 
 Prototype
-: A private property of an object which holds a link to another object. That prototype object has a prototype of its own, and so on until an object is reached with `null` as its prototype. By definition, `null` has no prototype, and acts as the final link in this prototype chain.&nbsp;[‡](#m-prototype)
+: In software development, a private property of an object which holds a link to another object. That prototype object has a prototype of its own, and so on until an object is reached with `null` as its prototype. By definition, `null` has no prototype, and acts as the final link in this prototype chain.&nbsp;[‡](#m-prototype)
+: In web development and design, a more or less elaborate preview or proof of concept.
 
 Prototyping
-: The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. It is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: The software designer and implementer can get valuable feedback from the users early in the project. The client and the contractor can compare if the software made matches the software specification, according to which the software program is built. It also allows the software engineer some insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
+: The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. Prototyping is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: Software designers and implementers can get valuable feedback from users early in the project, clients and contractors can compare if the software matches the specification according to which the software is built, and software engineers get insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
 
 PRPL
 : A web performance development pattern based on the sequence “Push” (important resources), “Render” (as soon as possible), “Pre-cache” (assets), and “Lazy-load.”
@@ -315,7 +316,7 @@ Pseudo-element
 : One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`.&nbsp;[‡](#m-pseudo-element)
 
 Pseudocode
-: Code-like syntax that is used to indicate to humans how some code syntax works, or illustrate the design of an item of code architecture. Pseudocode does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)
+: Code-like syntax that is used to indicate to humans how some code syntax works, or to illustrate the design of an item of code architecture. Pseudocode does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)
 
 Pull Request
 : A request to merge a version-controlled branch into another branch. The same as a merge request, just used by different platforms.
@@ -333,6 +334,6 @@ PWA
 : → Progressive Web App
 
 Python
-: An interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python’s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a “batteries included” language due to its comprehensive standard library.&nbsp;[†](#w-python) ℹ︎&nbsp;[python.org](https://www.python.org/)
+: An interpreted, high-level, general-purpose programming language. Python’s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a “batteries included” language due to its comprehensive standard library. It was created in 1991 by Guido van Rossum.&nbsp;[†](#w-python) ℹ︎&nbsp;[python.org](https://www.python.org/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

@@ -132,6 +132,9 @@ Dependency
 Dependency injection
 : A technique whereby one object supplies the dependencies of another object. A “dependency” is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The “injection” refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client’s state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve Separation of Concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
 
+Dependency Inversion Principle
+: A specific form of decoupling software modules. When following this principle, the conventional dependency relationships established from high-level policy-setting modules to low-level dependency modules are reversed, thus rendering high-level modules independent of the low-level module implementation details. The principle states 1) that high-level modules should not depend on low-level modules, but that both should depend on abstractions (e.g., interfaces), and 2) that abstractions should not depend on details, but that details (concrete implementations) should depend on abstractions.&nbsp;[†](#w-dip)
+
 Deployment
 : All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, “deployment” should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
 
