@@ -433,6 +433,7 @@ This book uses material from the following Wikipedia articles:
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
+* [Long-term support](https://en.wikipedia.org/wiki/Long-term_support){#w-lts}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}

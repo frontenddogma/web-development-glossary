@@ -501,7 +501,7 @@ Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
 
 Subject-Matter Expert
-: A person who is an authority in a particular area or topic. The term domain expert is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavour (e.g. an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
+: A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavour (e.g. an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
 
 Subnav
 : → Subnavigation

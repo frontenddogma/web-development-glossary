@@ -43,7 +43,7 @@ File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
 File Manager
-: A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g. viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
+: A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g., viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
 
 File system
 : A software that controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. Taking its name from the way paper-based data management system is named, each group of data is called a “file.” There are many different kinds of file systems. Each one has different structure and logic, properties of speed, flexibility, security, or size.&nbsp;[†](#w-fs)

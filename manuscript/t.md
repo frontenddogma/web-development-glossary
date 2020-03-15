@@ -214,7 +214,7 @@ Tracer code
 : A concept from _The Pragmatic Programmer_, the developing of skeleton functionality that can serve as a proof of concept but also remain part of the later software. Tracer code, or code as tracer bullets, is a term borrowed from military shooting with brightly-colored tracer ammunition. Tracer code is different from prototyping, whose code may be abandoned.
 
 Tracing
-: A specialized use of logging to record information about a program’s execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical-support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term tracing is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
+: A specialized use of logging to record information about a program’s execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical-support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term “tracing” is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
 
 Tracking
 : → Letter-spacing
