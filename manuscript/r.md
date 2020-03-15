@@ -13,7 +13,7 @@ Random variable
 : A variable whose values depend on outcomes of a random phenomenon. The formal mathematical treatment of random variables is a topic in probability theory. In that context, a random variable is understood as a measurable function defined on a probability space whose outcomes are typically real numbers.&nbsp;[†](#w-random-variable)
 
 Ranking
-: A relationship between a set of items such that, for any two items, the first is either “ranked higher than,” “ranked lower than” or “ranked equal to” the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank and TrustRank.&nbsp;[†](#w-ranking)
+: A relationship between a set of items such that, for any two items, the first is either “ranked higher than,” “ranked lower than” or “ranked equal to” the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank, and TrustRank.&nbsp;[†](#w-ranking)
 
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
@@ -28,16 +28,13 @@ RDF
 : → Resource Description Framework
 
 RDF Site Summary
-: A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. The news aggregator will automatically check the RSS feed for new content, allowing the list to be automatically passed from website to website or from website to user. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. RSS is also used to distribute podcasts. An RSS document (called “feed,” “web feed,” or “channel”) includes full or summarized text, and metadata, like publishing date and author’s name.&nbsp;[†](#w-rss)
+: A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. An RSS document (called “feed,” “web feed,” or “channel”) includes full or summarized text, and metadata, like publishing date and author names.&nbsp;[†](#w-rss)
 
 RDSMS
 : → Relational Data Stream Management System
 
 React
-: A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with an API.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
-
-ReactJS
-: → React
+: A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with APIs.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
 
 Reactive Extensions for JavaScript
 : A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎&nbsp;[reactivex.io](http://reactivex.io/)
@@ -45,8 +42,11 @@ Reactive Extensions for JavaScript
 Reactive Programming
 : A declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm it is possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow. Reactive programming has been proposed as a way to simplify the creation of interactive user interfaces and near-real-time system animation.&nbsp;[†](#w-reactive-programming)
 
+ReactJS
+: → React
+
 Read the Fucking Manual
-: The suggesting that one could have found more information or a solution to a problem in documentation. Initialisms similar to RTFM include “STFW” (“Search the Fucking Web”), “GIYF” (“Google Is Your Friend”), “DYOR” (“Do Your Own Research”), and “LMGTFY” (“Let Me Google That for You”).&nbsp;[†](#w-rtfm)
+: The suggestion that one could have found more information or a solution to a problem in documentation. Initialisms similar to RTFM include “STFW” (“Search the Fucking Web”), “GIYF” (“Google Is Your Friend”), “DYOR” (“Do Your Own Research”), and “LMGTFY” (“Let Me Google That for You”).&nbsp;[†](#w-rtfm)
 
 Read-Eval-Print Loop
 : A simple, interactive computer programming environment that takes single user inputs (i.e., single expressions), evaluates (executes) them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is usually used to refer to programming interfaces similar to the classic Lisp machine interactive environment. Common examples include command-line shells and similar environments for programming languages, and the technique is very characteristic of scripting languages.&nbsp;[†](#w-repl)
@@ -58,10 +58,10 @@ Reading disorder
 : → Dyslexia
 
 README
-: A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain-text file called READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
+: A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain-text file called READ.ME, README.TXT, README.md (for a text file using Markdown markup), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
 Real User Monitoring
-: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
+: A passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
 
 Recidivism
 : As an Agile metric, the total number of user stories completed in a Sprint that entered development for the second time divided by the total number of completed stories.
@@ -83,7 +83,7 @@ Redirect
 
 Redundancy
 : The intentional duplication of critical components or functions of a system with the intention of increasing reliability of the system. There are four major forms of redundancy: hardware redundancy, such as dual modular redundancy and triple modular redundancy; information redundancy, such as error detection and correction methods; time redundancy, performing the same operation multiple times such as multiple executions of a program or multiple copies of data transmitted; and software redundancy such as N-version programming.&nbsp;[†](#w-redundancy)
-: The unintentional or temporary duplication of software with the consequence of making the software less efficient and more difficult to maintain.
+: The often unnoticed or unintentional duplication of software with the consequence of making the software less efficient and more difficult to maintain.
 
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
@@ -104,7 +104,7 @@ Regex
 : → Regular expression
 
 Regular expression
-: A sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for “find” or “find and replace” operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory. Regular expressions are used in search engines, search and replace dialogs of word processors and text editors, in text processing utilities such as sed and AWK and in lexical analysis. Many programming languages provide regex capabilities either built-in or via libraries.&nbsp;[†](#w-regex)
+: A sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for “find” or “find and replace” operations on strings, or for input validation. Regular expressions are a technique developed in theoretical computer science and formal language theory. They are used in search engines, “search and replace” dialogs of word processors and text editors, in text processing utilities such as sed and awk, and in lexical analysis. Many programming languages provide regex capabilities either built-in or via libraries.&nbsp;[†](#w-regex)
 
 Rehydration
 : → Hydration
@@ -122,7 +122,7 @@ Relational model
 : An approach to database management using a structure and language consistent with first-order predicate logic, first described in 1969 by Edgar F. Codd, where all data is represented in terms of tuples, grouped into relations. A database organized in terms of the relational model is a relational database. The purpose of the relational model is to provide a declarative method for specifying data and queries: Users directly state what information the database contains and what information they want from it, and let the database management system software take care of describing data structures for storing the data and retrieval procedures for answering queries.&nbsp;[†](#w-relational-model)
 
 Relaunch
-: The (usually public) release of a significantly redone software or hardware product.
+: The (usually public) release of a significantly redone software product.
 
 Rem
 : → Root em
@@ -155,7 +155,7 @@ Request
 : In HTTP, a client’s message to a server soliciting a response. A request message consists of a request line (e.g., `GET /images/logo.png HTTP/1.1`, which requests a resource called /images/logo.png from the server), request header fields (e.g., `Accept-Language: en`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
 Request for Comments
-: A type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors. The RFC system is supported by the Internet Society (ISOC). An RFC is authored by engineers and computer scientists in the form of a memorandum describing methods, behaviors, research, or innovations applicable to the working of the Internet and Internet-connected systems. It is submitted either for peer review or to convey new concepts, information, or occasionally engineering humor. The IETF adopts some of the proposals published as RFCs as Internet Standards.&nbsp;[†](#w-rfc)
+: A type of text document from the technology community. An RFC document may come from many bodies including from the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), or from independent authors. The RFC system is supported by the Internet Society (ISOC). An RFC is authored by engineers and computer scientists in the form of a memorandum describing methods, behaviors, research, or innovations applicable to the working of the Internet and Internet-connected systems. It is submitted either for peer review or to convey new concepts, information, and occasionally engineering humor. The IETF adopts some of the proposals published as RFCs as Internet Standards.&nbsp;[†](#w-rfc)
 
 Request header
 : An HTTP header that can be used in an HTTP request, and that does not relate to the content of the message. Request headers, like `Accept`, `Accept-*`, or `If-*` allow to perform conditional requests; others like `Cookie`, `User-Agent`, or `Referer` precise the context so that the server can tailor the answer. Not all headers appearing in a request are request headers. For example, the `Content-Length` appearing in a `POST` request is actually an entity header referring to the size of the body of the request message. However, these entity headers are often called request headers in such a context.&nbsp;[‡](#m-request-header)
@@ -170,7 +170,7 @@ Reset
 : → Reset style sheet
 
 Reset style sheet
-: A set of CSS rules used to “clear” the formatting of HTML elements, or to make respective formatting consistent in major web browsers. The usefulness of reset style sheets is disputed because they do not technically “reset” anything, and because in practice, their use is often unnecessary, only increasing the payload of respective sites or apps.
+: A set of CSS rules used to “clear” the formatting of HTML elements, or to make respective formatting consistent in major web browsers. The usefulness of reset style sheets is disputed because they do not technically “reset” styling, and because in practice, their use is often unnecessary, only increasing the payload of respective sites or apps.
 
 Resolution
 : → Display resolution
@@ -245,13 +245,13 @@ Root em
 : A typographic unit in CSS (`rem`) that corresponds with the computed value of the font size of the root element (for HTML, the `html` element).
 
 Root element
-: The element that encloses all the other elements and is therefore the sole parent element to all the other elements. A root element is also the root node of the DOM. Root elements are also called document elements. In HTML, the root element is the `html` element.&nbsp;[†](#w-root-element)
+: The element that encloses all other elements in a document and is therefore the sole parent element to all other elements. A root element is also the root node of the DOM. Root elements are also called document elements. In HTML documents, the `html` element is the root element.&nbsp;[†](#w-root-element)
 
 Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
 
 Rooting
-: The process of allowing users of smartphones, tablets and other devices running the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative (superuser) permissions as on Linux or any other Unix-like operating system.&nbsp;[†](#w-rooting)
+: The process of allowing users of smartphones, tablets, and other devices running the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative (superuser) permissions as on Linux or any other Unix-like operating system.&nbsp;[†](#w-rooting)
 
 Round-Trip Delay Time
 : → Round-Trip Time
@@ -260,14 +260,14 @@ Round-Trip Time
 : The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An Internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
 Router
-: For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered to open the next page.&nbsp;[‡](#m-router)
+: For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered subsequently.&nbsp;[‡](#m-router)
 : For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an inter-network (e.g., the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
 
 Routine
 : A sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.&nbsp;[†](#w-subroutine)
 
 Routing
-: The process of selecting a path for traffic in a network or between or across multiple networks. The routing process usually directs forwarding on the basis of routing tables. Routing tables maintain a record of the routes to various network destinations.&nbsp;[†](#w-routing)
+: The process of selecting a path for traffic in a network or between or across multiple networks. The routing process usually directs forwarding on the basis of routing tables.&nbsp;[†](#w-routing)
 
 Routing Information Base
 : → Routing table
@@ -301,7 +301,7 @@ RTL
 RTT
 : → Round-Trip Time
 
-Rubber ducking
+Rubber-ducking
 : A method of debugging code. The name is a reference to a story in the book _The Pragmatic Programmer_ in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving different inanimate objects.&nbsp;[†](#w-rubber-ducking)
 
 Ruby
@@ -309,10 +309,10 @@ Ruby
 : As markup, special HTML elements for brief text that goes alongside a base text; such Ruby text is used for pronunciation and annotation in East Asian documents. ℹ︎&nbsp;[w3.org/TR/ruby](https://www.w3.org/TR/ruby/)
 
 Ruby on Rails
-: A server-side web application framework written in Ruby. Rails is a model-view-controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS, and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don’t repeat yourself (DRY), and the active record pattern. Rails was first released in 2005.&nbsp;[†](#w-ruby-on-rails) ℹ︎&nbsp;[rubyonrails.org](https://rubyonrails.org/)
+: A server-side web application framework written in Ruby. Rails is a model-view-controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS, and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including Convention over Configuration (CoC) and Don’t Repeat Yourself (DRY). Rails was first released in 2005.&nbsp;[†](#w-ruby-on-rails) ℹ︎&nbsp;[rubyonrails.org](https://rubyonrails.org/)
 
 Rule
-: A CSS selector followed by a declaration block.
+: A CSS selector and its successive declaration block.
 
 Rule set
 : → Rule

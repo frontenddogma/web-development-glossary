@@ -166,7 +166,7 @@ Developer Experience
 : The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 
 Developer Tools
-: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or web application.&nbsp;[†](#w-developer-tools)
+: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or application.&nbsp;[†](#w-developer-tools)
 : A set of web developer tools built directly into the Google Chrome browser (Chrome DevTools). ℹ︎&nbsp;[is.gd/TsOXbb](https://developers.google.com/web/tools/chrome-devtools)
 
 Development Team
@@ -194,7 +194,7 @@ Display advertising
 : Graphic advertising on Internet websites, apps, or social media through banners or other advertising formats made of text, images, Flash, video, and audio. The main purpose of display advertising is to deliver general advertisements and brand messages to site visitors.&nbsp;[†](#w-display-advertising)
 
 Display resolution
-: The number of distinct pixels in each dimension that can be displayed. It can be an ambiguous term especially as the displayed resolution is controlled by different factors in cathode ray tube (CRT) displays, flat-panel displays (including liquid-crystal displays) and projection displays using fixed picture-element (pixel) arrays. It is usually quoted as width × height, with the units in pixels; for example, 1024×768 means the width is 1024 pixels and the height is 768 pixels. For device displays such as phones, tablets, monitors, and televisions, the use of the word resolution as defined is a misnomer, though common. The term “display resolution” is usually used to mean pixel dimensions which does not tell anything about the pixel density of the display on which the image is actually formed: Resolution properly refers to the pixel density, the number of pixels per unit distance or area, not the total number of pixels. In digital measurement, the display resolution would be given in pixels per inch (PPI).&nbsp;[†](#w-resolution)
+: The number of distinct pixels in each dimension that can be displayed. It can be an ambiguous term especially as the displayed resolution is controlled by different factors in cathode ray tube (CRT) displays, flat-panel displays (including liquid-crystal displays) and projection displays using fixed picture-element (pixel) arrays. It is usually quoted as width × height, with the units in pixels; for example, 1024×768 means the width is 1024 pixels and the height is 768 pixels. For device displays such as phones, tablets, monitors, and televisions, the use of the word “resolution” as defined is a misnomer, though common. The term “display resolution” is usually used to mean pixel dimensions which does not tell anything about the pixel density of the display on which the image is actually formed: Resolution properly refers to the pixel density, the number of pixels per unit distance or area, not the total number of pixels. In digital measurement, the display resolution would be given in pixels per inch (PPI).&nbsp;[†](#w-resolution)
 
 Distributed Concurrent Versions System
 : A distributed revision control system that enables software developers working on locally distributed sites to efficiently collaborate on a software project. DCVS is based on Concurrent Versions System.&nbsp;[†](#w-dcvs)
@@ -237,7 +237,7 @@ Documentation
 : A set of documents provided in digital or analog media. Examples include user guides, white papers, online help, and quick-reference guides.&nbsp;[†](#w-documentation)
 
 Dojo
-: A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based applications and web sites. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
+: A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based websites and applications. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
 
 DOM
 : → Document Object Model

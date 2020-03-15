@@ -98,7 +98,7 @@ Holey
 : A property of an array that misses elements, and cannot be optimized as effectively anymore.
 
 Home page
-: The initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well.&nbsp;[†](#w-home-page)
+: The initial or main web page of a website or browser. The initial page of a website is sometimes called main page as well.&nbsp;[†](#w-home-page)
 
 Home Page Reader
 : A discontinued self-voicing web browser designed for people who are blind. It was developed by IBM until 2006.&nbsp;[†](#w-hpr)

@@ -240,7 +240,7 @@ Browser sniffing
 : A set of techniques used in websites and web applications in order to determine the web browser a visitor is using, and to serve browser-appropriate content to the visitor. This practice is sometimes used to circumvent incompatibilities between browsers due to misinterpretation of HTML, Cascading Style Sheets (CSS), or the Document Object Model (DOM). While the World Wide Web Consortium maintains up-to-date central versions of some of the most important Web standards in the form of recommendations, in practice no vendor has developed a browser which adheres exactly to these standards. As a result, different browsers may display the same page differently, and browser sniffing was developed to detect the web browser in order to help ensure consistent display of content.&nbsp;[†](#w-browser-sniffing)
 
 Browser testing
-: The testing of web sites and apps in different web browsers.
+: The testing of websites and apps in different web browsers.
 
 Browser War
 : A market competition between web browsers, usually referring to the First Browser War (1995–2001) between Internet Explorer (Microsoft) and Navigator (Netscape) or the Second Browser War (2004–2017) between Internet Explorer, Firefox (Mozilla), and Chrome (Google).

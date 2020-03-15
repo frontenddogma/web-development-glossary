@@ -83,7 +83,7 @@ MDL
 : → Microsoft Design Language
 
 MEAN
-: A JavaScript software stack for building dynamic web sites and applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
+: A JavaScript software stack for building dynamic websites and applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
 
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)

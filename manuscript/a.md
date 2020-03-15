@@ -229,7 +229,7 @@ ASP
 : → Active Server Pages
 
 ASP.NET
-: A server-side web application framework designed to build dynamic web sites, applications, and services. ASP.NET was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
+: A server-side web application framework designed to build dynamic websites, applications, and services. ASP.NET was first released in 2002 with version 1.0 of the .NET Framework, and is the successor to Microsoft’s Active Server Pages (ASP) technology.&nbsp;[†](#w-aspnet) ℹ︎&nbsp;[dotnet.microsoft.com/apps/aspnet](https://dotnet.microsoft.com/apps/aspnet)
 
 Aspect ratio
 : A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)

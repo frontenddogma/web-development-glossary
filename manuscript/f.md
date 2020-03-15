@@ -248,7 +248,7 @@ Full Stack
 : → Solution stack
 
 Full stack developer
-: A developer who can handle all aspects of website or web application development, that is, including both frontend and backend development.
+: A developer who can handle all aspects of website or application development, that is, including both frontend and backend development.
 : A developer who masters a particular solution stack.
 
 Function

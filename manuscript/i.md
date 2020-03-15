@@ -242,7 +242,7 @@ Internet Protocol
 : The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables inter-networking, and essentially establishes the Internet.&nbsp;[†](#w-internet-protocol)
 
 Internet Relay Chat
-: An application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on a 3rd party server. IRC was created in 1988 by Jarkko Oikarinen.&nbsp;[†](#w-irc)
+: An application-layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on a 3rd party server. IRC was created in 1988 by Jarkko Oikarinen.&nbsp;[†](#w-irc)
 
 Internet Resource Locator
 : A locator defined by an Internet resource location standard.

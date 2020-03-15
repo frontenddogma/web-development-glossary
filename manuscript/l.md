@@ -131,7 +131,7 @@ Linux Standard Base
 : A joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the Filesystem Hierarchy Standard used in the Linux kernel. The LSB is based on the POSIX specification, the Single UNIX Specification (SUS), and several other open standards, but extends them in certain areas.&nbsp;[†](#w-lsb)
 
 Linux, Apache, MySQL, PHP/Perl/Python
-: An archetypal model of web service stacks, named as an acronym (“LAMP”) of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and applications.&nbsp;[†](#w-lamp)
+: An archetypal model of web service stacks, named as an acronym (“LAMP”) of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic websites and applications.&nbsp;[†](#w-lamp)
 
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.

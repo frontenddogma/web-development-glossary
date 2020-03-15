@@ -106,7 +106,7 @@ End-to-end testing
 : A software test methodology focused on testing an entire application from start to end based on conditions that are as realistic as possible, explicitly including dependencies on other software and infrastructure.
 
 Entity
-: A primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as `#DEFAULT`). Entities are foundational to the organizational structure and definition of SGML documents. The SGML specification defines numerous entity types, which are distinguished by keyword qualifiers and context. An entity string value may variously consist of plain-text, SGML tags, or references to previously defined entities.&nbsp;[†](#w-entity)
+: A primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML-reserved word (such as `#DEFAULT`). Entities are foundational to the organizational structure and definition of SGML documents. The SGML specification defines numerous entity types, which are distinguished by keyword qualifiers and context. An entity string value may variously consist of plain-text, SGML tags, or references to previously defined entities.&nbsp;[†](#w-entity)
 
 Entity graph
 : → Knowledge Graph
