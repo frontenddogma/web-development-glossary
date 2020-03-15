@@ -3,6 +3,9 @@
 A List Apart
 : A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
 
+A/B testing
+: A user experience research methodology. A/B tests consist of a randomized experiment with two variants, A and B. A/B testing includes the application of statistical hypothesis testing or “two-sample hypothesis testing” as used in the field of statistics. It is a way to compare two versions of a single variable, typically by testing a subject’s response to variant A against variant B, and determining which of the two variants is more effective.&nbsp;[†](#w-a-b-testing)
+
 A11Y
 : → Accessibility
 
@@ -289,7 +292,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring Tool Accessibility Guidelines
-: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG 1.0 became a W3C Recommendation in 2000. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
+: Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG&nbsp;1.0 became a W3C Recommendation in 2000, and ATAG&nbsp;2.0 in 2015. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
 
 Authorization
 : The specifying of access rights and privileges to resources, which is related to information security and computer security in general, and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)

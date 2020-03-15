@@ -88,6 +88,9 @@ Redundancy
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
 
+Refactoring
+: The process of restructuring and optimizing existing computer code—changing the factoring—without changing its external behavior. Refactoring is intended to improve non-functional attributes of the software. Advantages include improved code readability and reduced complexity; these can improve source code maintainability and create a more expressive internal architecture or object model to improve extensibility.&nbsp;[†](#w-refactoring)
+
 Reference error
 : As `ReferenceError`, an object representing an error (and the error itself) when a non-existent variable is referenced.&nbsp;[‡](#m-reference-error)
 

@@ -255,7 +255,7 @@ Domain Name Service
 : → Domain Name System
 
 Domain Name System
-: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
+: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a world-wide distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)

@@ -209,7 +209,7 @@ Internal
 : Not coming from outside of one’s organization.
 
 International Organization for Standardization
-: An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes worldwide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)
+: An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes world-wide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)
 
 Internationalization
 : The process of designing a software application so that it can be adapted to various languages and regions without engineering changes.&nbsp;[†](#w-i18n-l10n)
@@ -218,7 +218,7 @@ Internationalized Resource Identifier
 : An Internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. IRIs were defined in 2005 by the Internet Engineering Task Force (IETF).&nbsp;[†](#w-iri)
 
 Internet
-: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
+: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices world-wide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
 
 Internet Assigned Numbers Authority
 : A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet Protocol Suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)

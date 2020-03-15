@@ -4,6 +4,7 @@
 
 This book uses material from the following Wikipedia articles:
 
+* [A/B testing](https://en.wikipedia.org/wiki/A/B_testing){#w-a-b-testing}
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
 * [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing){#w-acceptance-testing}
@@ -110,6 +111,7 @@ This book uses material from the following Wikipedia articles:
 * [Code golf](https://en.wikipedia.org/wiki/Code_golf){#w-code-golf}
 * [Code point](https://en.wikipedia.org/wiki/Code_point){#w-code-point}
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
+* [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring){#w-refactoring}
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
 * [CodePen](https://en.wikipedia.org/wiki/CodePen){#w-codepen}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
@@ -759,6 +761,7 @@ This book uses material from the following Wikipedia articles:
 * [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
 * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language){#w-uml}
+* [Uniform Resource Characteristic](https://en.wikipedia.org/wiki/Uniform_Resource_Characteristic){#w-urc}
 * [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier){#w-uri}
 * [Uniform Resource Name](https://en.wikipedia.org/wiki/Uniform_Resource_Name){#w-urn}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}

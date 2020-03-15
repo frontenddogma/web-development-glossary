@@ -216,6 +216,9 @@ Code of Conduct
 Code point
 : Any of the numerical values that make up the code space for a character encoding. Many code points represent single characters but they can also have other meanings, such as for formatting.&nbsp;[†](#w-code-point)
 
+Code refactoring
+: → Refactoring
+
 Code review
 : A software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation. At least one of the persons must not be the code’s author. The persons performing the checking, excluding the author, are called reviewers.&nbsp;[†](#w-code-review)
 
@@ -359,7 +362,7 @@ Content Delivery Network
 : A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end users. CDNs came into existence in the late 1990s as a means for alleviating performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
 
 Content Management System
-: A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)
+: A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for Enterprise Content Management (ECM) and Web Content Management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)
 
 Content network
 : A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through respective ad platform.

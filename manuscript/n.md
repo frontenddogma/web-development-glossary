@@ -116,7 +116,7 @@ Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
 
 Number
-: In JavaScript, a numeric data type in the double-precision 64-bit floating point format (IEEE 754). In other programming languages different numeric types can exist, for examples: Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
+: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types can exist, for examples: Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
 : The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as “hashtags,” and from that, the symbol itself is sometimes called a “hashtag.”&nbsp;[†](#w-number-sign)
