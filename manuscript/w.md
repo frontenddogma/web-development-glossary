@@ -48,8 +48,14 @@ Web analytics
 Web Application Framework
 : → Web framework
 
+Web beacon
+: → Tracking pixel
+
 Web browser
 : → Browser
+
+Web bug
+: → Tracking pixel
 
 Web Bundles
 : A draft standard to to bundle and store HTTP responses. Web Bundles are a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
@@ -126,6 +132,9 @@ Web Standards Project
 
 Web storage
 : Methods and protocols for storing client-side data. Web storage supports persistent data storage, similar to cookies but with a greatly enhanced capacity and no information stored in the HTTP request header. There are two main web storage types: local storage and session storage, behaving similarly to persistent cookies and session cookies respectively. Web storage is standardized by the World Wide Web Consortium (W3C) and WHATWG.&nbsp;[†](#w-web-storage)
+
+Web tracking
+: The practice by which operators of websites collect, store, and share information about user activity on the World Wide Web. Analysis of individual behavior may be used to provide content that relates to the implied preferences and may be of interest to various parties. Uses for web tracking include creating profiles that are used to individualize advertisements (advertising companies), determining how easy a website design is to use (usability testing), analyzing the performance of websites as a whole (web analytics), or, broadly, spying on individuals and solving crime (law enforcement).&nbsp;[†](#w-web-tracking)
 
 Web typography
 : The use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual web pages to control font display until Netscape introduced the `font` element in 1995, which was then standardized in the HTML&nbsp;3.2 specification. However, the font specified had to be installed on the user’s computer or a fallback font, such as a browser’s default sans-serif or monospace font, would be used. The CSS&nbsp;2 specification was released in 1998 and attempted to improve the font selection process by adding font matching, synthesis and download. These techniques did not gain much use, and were removed in the CSS&nbsp;2.1 specification. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997. Font downloading was later included in the CSS&nbsp;3 fonts module, and has since been implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in Web typography, as well as the usage of font downloading.&nbsp;[†](#w-web-typography)

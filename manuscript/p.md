@@ -154,6 +154,9 @@ Pinging
 Pixel
 : A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
 
+Pixel tag
+: → Tracking pixel
+
 Pixel-perfect
 : The development goal of building exactly to design specs (that is, the resulting site or app looks exactly as intended, down to each pixel), as well as to have a site or app look exactly the same on all browsers and devices. In modern web development with its focus on responsive design and an indeterminable combination of browsers and devices, pixel-perfection is considered an unrealistic and problematic practice.
 

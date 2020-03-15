@@ -21,6 +21,7 @@ Tachyons
 Tag
 : In version control, a textual label that can be associated with a specific revision of a project maintained by a version control system. A tag allows to define a meaningful name to be given to a particular state of a project that is under version control. This label can then be used in place of the revision identifier for commands supported by the version control system.&nbsp;[†](#w-tag)
 : In web development, either the start or end tag of an HTML element, like `<p>`, a paragraph’s start tag, or `</ul>`, an unordered list’s end tag. Not to be confused with an element.
+: → Tracking pixel
 
 Tag Management System
 : A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events and known data. Typical functionality includes testing environment (sandboxing), audit trail and version control, ability to A/B test different solutions, tag de-duplication, and role-based access to data.&nbsp;[†](#w-tms)
@@ -218,6 +219,10 @@ Tracing
 
 Tracking
 : → Letter-spacing
+: → Web tracking
+
+Tracking pixel
+: One of various techniques used on web pages and email to unobtrusively (usually invisibly) allow for checking that a user has accessed some content. Tracking pixels are typically used by third parties to monitor the activity of users of a website for the purpose of web analytics or page tagging. They can also be used for email tracking. Using such pixels, companies and organizations can track the online behavior of web users. At first, the companies doing such tracking were mainly advertisers and web analytics companies; later social media sites also started to use the same tracking techniques, for instance through the use of buttons which act as tracking beacons.&nbsp;[†](#w-web-beacon)
 
 Trade
 : → Craft

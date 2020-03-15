@@ -808,6 +808,7 @@ This book uses material from the following Wikipedia articles:
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
+* [Web beacon](https://en.wikipedia.org/wiki/Web_beacon){#w-web-beacon}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web Components](https://en.wikipedia.org/wiki/Web_Components){#w-web-component}
 * [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
@@ -831,6 +832,7 @@ This book uses material from the following Wikipedia articles:
 * [Web storage](https://en.wikipedia.org/wiki/Web_storage){#w-web-storage}
 * [Web syndication](https://en.wikipedia.org/wiki/Web_syndication){#w-syndication}
 * [Web template system](https://en.wikipedia.org/wiki/Web_template_system){#w-template-system}
+* [Web tracking](https://en.wikipedia.org/wiki/Web_tracking){#w-web-tracking}
 * [Web typography](https://en.wikipedia.org/wiki/Web_typography){#w-web-typography}
 * [Web worker](https://en.wikipedia.org/wiki/Web_worker){#w-web-worker}
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly){#w-wasm}
