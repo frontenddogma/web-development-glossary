@@ -908,7 +908,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
 * [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors){#m-selector}
-* [Custom properties (--*): CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){#m-custom-property}
+* [Custom properties: CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){#m-custom-property}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
