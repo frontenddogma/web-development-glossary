@@ -77,7 +77,7 @@ Node Package Manager
 : → npm
 
 Node.js
-: A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for server- and client-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
+: A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for client- and server-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)

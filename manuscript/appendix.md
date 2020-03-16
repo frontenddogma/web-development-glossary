@@ -660,6 +660,7 @@ This book uses material from the following Wikipedia articles:
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
 * [Selenium (software)](https://en.wikipedia.org/wiki/Selenium_(software)){#w-selenium}
+* [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web){#w-semantic-web}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
