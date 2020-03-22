@@ -927,6 +927,7 @@ This book uses material from the following articles by Mozilla contributors:
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
+* [Functional programming](https://en.wikipedia.org/wiki/Functional_programming){#w-functional-programming}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
