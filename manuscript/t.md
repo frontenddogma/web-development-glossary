@@ -96,7 +96,7 @@ Template system
 Temporal Dead Zone
 : In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, with this resulting in a reference error. The TDZ encourages to always declare a variable before using it.
 
-Ten-second rule
+Ten-Second Rule
 : A rough limit for user attention. After ten seconds, the probability is deemed to increase that users start to engage in other activities, or abandon a process or site.
 
 Terminal
@@ -135,8 +135,8 @@ Third party
 Thread
 : The smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources.&nbsp;[†](#w-thread)
 
-Three-click rule
-: An unofficial, debunked web design rule concerning the design of website navigation. The three-click rule suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
+Three-Click Rule
+: An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
 Time box
 : A fixed time period.
