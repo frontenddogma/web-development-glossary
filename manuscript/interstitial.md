@@ -1,1 +1,1 @@
-C> # The Web Development Glossary
+# The Web Development Glossary
