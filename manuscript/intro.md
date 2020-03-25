@@ -6,7 +6,7 @@ It covers almost 2,000 important, useful, and historic terms and abbreviations r
 
 The glossary goes beyond “just” web development. The terms it contains originate not only in Web Development but in Computer Science, Design, Information Security, Project Management, and other adjacent disciplines. It nudges you to be curious, to look beyond. It nudges you to acquaint yourself with the Web itself. And while it does not tell a story like other books would do, you can still read the glossary as you would read other books.
 
-C> ⁂
+## About the Glossary
 
 Many definitions and explanations of this glossary are based on Wikipedia and the Mozilla Developer Network (MDN). It was not necessary, nor desirable, to come up with a new definition and explanation for every term.
 
@@ -22,11 +22,11 @@ Arrows (“→”) point to the expanded forms of abbreviations, and to the more
 
 Finally, and unfortunately, there are certainly errors, and perhaps also controversy. Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) as well as, if applicable, Wikipedia and MDN. Trying to give back to the communities, work on the book led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve. Thank you for contributing as well.
 
-C> ⁂
+### Disclaimer
 
 Use the glossary at your own risk. I, the author, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
 
-C> ⁂
+### Licenses
 
 The Web Development Glossary is licensed under a [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
 
