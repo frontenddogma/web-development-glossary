@@ -1,6 +1,5 @@
 acknowledgments.md
 intro.md
-curtain.md
 a.md
 b.md
 c.md

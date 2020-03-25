@@ -22,10 +22,6 @@ Arrows (“→”) point to the expanded forms of abbreviations, and to the more
 
 Finally, and unfortunately, there are certainly errors, and perhaps also controversy. Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) as well as, if applicable, Wikipedia and MDN. Trying to give back to the communities, work on the book led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve. Thank you for contributing as well.
 
-### Disclaimer
-
-Use the glossary at your own risk. I, the author, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
-
 ### Licenses
 
 The Web Development Glossary is licensed under a [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -35,3 +31,9 @@ A great number of definitions build on [Wikipedia](https://en.wikipedia.org/wiki
 Some definitions build on the [MDN Web Docs Glossary](https://developer.mozilla.org/en-US/docs/Glossary). They are marked “‡” and likewise attributed in the Appendix. The original material is licensed under a [CC BY-SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
 
 A handful of definitions build on the [HTML Living Standard](https://html.spec.whatwg.org/). They are marked “§”. The original material is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+### Disclaimer
+
+Use the glossary at your own risk. I, the author, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
+
+However, now, much tender loving care went into this book. Please enjoy.
