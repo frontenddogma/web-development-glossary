@@ -4,7 +4,7 @@ This is a glossary for web development.
 
 It covers almost 2,000 important, useful, and historic terms and abbreviations relevant for web (and software) developers.
 
-The glossary connects you with HTML, CSS, JavaScript, accessibility, security, performance, usability, typography, localization, internationalization, infrastructure and tooling and much more, and then goes beyond “just” web development. The terms it contains also span computer science, design, information and project management, even philosophy and psychology, as well as other disciplines of interest to the modern developer. With this thoroughness the glossary encourages you to stay curious, to learn more about the Web itself as well as the people using the Web. And while the glossary does not tell a story like other books would do, you can still read it as you would read other books.
+The glossary connects you with HTML, CSS, JavaScript, accessibility, security, performance, usability, typography, localization, internationalization, infrastructure and tooling and much more, and then goes beyond “just” web development. The terms it contains also touch computer science, design, information and project management, even philosophy and psychology, as well as other disciplines of interest to the modern developer. With this thoroughness the glossary encourages you to stay curious, to learn more about the Web itself as well as the people using the Web. And while the glossary does not tell a story like other books would do, you can still read it as you would read other books.
 
 ## About the Glossary
 
@@ -34,4 +34,4 @@ A handful of definitions build on the [HTML Living Standard](https://html.spec.w
 
 Use this glossary at your own risk. Despite all passion and care that went into producing this book, I, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
 
-This all being said: Please enjoy.
+This all being said: Enjoy web development, and enjoy this book.
