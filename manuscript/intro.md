@@ -34,6 +34,6 @@ A handful of definitions build on the [HTML Living Standard](https://html.spec.w
 
 ### Disclaimer
 
-Use the glossary at your own risk. I, the author, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
+Use this glossary at your own risk. Despite all passion and care that went into producing this book, I, Jens Oliver Meiert, assume no responsibility or liability for errors or omissions in the contents of this book. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or usefulness.
 
-However, now, much tender loving care went into this book. Please enjoy.
+This all being said: Please enjoy.
