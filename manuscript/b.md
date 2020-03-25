@@ -101,13 +101,13 @@ Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
 
 Block
+: In CSS, a section enclosed by an opening (`{`) and a closing curly brace (`}`).
+: In JavaScript, a collection of related statements enclosed by an opening (`{`) and a closing curly brace (`}`).&nbsp;[‡](#m-block)
 : → Block box
 : → Block container box
 : → Block container element
 : → Block-level box
 : → Block-level element
-: In CSS, a section enclosed by an opening (`{`) and a closing curly brace (`}`).
-: In JavaScript, a collection of related statements enclosed by an opening (`{`) and a closing curly brace (`}`).&nbsp;[‡](#m-block)
 
 Block box
 : A block-level box that is also a block container.
@@ -164,26 +164,26 @@ Boolean
 Bootstrap
 : An HTML/CSS framework. ℹ︎&nbsp;[getbootstrap.com](https://getbootstrap.com/)
 
+Border
+: Per the CSS box model, any kind of line (solid, dotted, dashed, etc.) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
+
+Bottom-posting
+: A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
+
 Bounce rate
 : A marketing term used in web traffic analysis that represents the percentage of visitors who enter a site and then leave (“bounce”) rather than continue to view other pages within the same site. The bounce rate is calculated by counting the number of single page visits and dividing that by the total visits. It is then represented as a percentage of total visits.&nbsp;[†](#w-bounce-rate)
 
 Bound variable
 : A variable that was previously free, but has been bound to a specific value or set of values.&nbsp;[†](#w-free-bound-variable)
 
+Boundary value problem
+: A boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions.&nbsp;[†](#w-boundary-value-problem)
+
 Bounding box
 : The smallest possible rectangle (aligned with the axes of that element’s user coordinate system) that entirely encloses an element and its descendants.&nbsp;[‡](#m-bounding-box)
 
 Bourne shell
 : A shell, or command-line interpreter, for computer operating systems. Developed by Stephen Bourne at Bell Labs, it was a replacement for the Thompson shell, whose executable file had the same name (`sh`). The Bourne shell was released in 1979 in the Version 7 Unix release distributed to colleges and universities.&nbsp;[†](#w-bourne-shell)
-
-Border
-: Per the CSS box model, any kind of line (solid, dotted, dashed, …) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
-
-Bottom-posting
-: A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
-
-Boundary value problem
-: A boundary value problem is a differential equation together with a set of additional constraints, called the boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions.&nbsp;[†](#w-boundary-value-problem)
 
 Bower
 : A maintenance-only package manager for the JavaScript programming language. Bower was first released in 2012. ℹ︎&nbsp;[bower.io](https://bower.io/)
@@ -216,7 +216,7 @@ Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
 
 Broken link
-: A hyperlink that does not work, or work anymore, that is, it points to a target that is not available. Broken links constitute link rot.
+: A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.
 
 Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second-order context modeling.&nbsp;[†](#w-brotli) ℹ︎&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
