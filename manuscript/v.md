@@ -67,6 +67,9 @@ Visual Basic for Applications
 Visual formatting model
 : A model for how user agents take the document tree, and process and display it for visual media. This includes continuous media such as a computer screen, and paged media such as a book or document printed by browser print functions. In the visual formatting model, each element in the document tree generates zero or more boxes according to the box model. The layout of these boxes is governed by box dimensions and type, positioning scheme (normal flow, float, and absolute positioning), relationships between elements in the document tree, and external information (e.g., viewport size, intrinsic dimensions of images, etc.).&nbsp;[‡](#m-visual-formatting-model)
 
+Visual regression testing
+: Typically automated testing for unintended visual changes (regressions) on a website or app.
+
 Visual Studio Code
 : A cross-platform source code editor developed by Microsoft. VS Code includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is highly customizable, allowing users to change theme, keyboard shortcuts, and preferences, and to install extensions that add additional functionality. VS Code was first released in 2015.&nbsp;[†](#w-vs-code) ℹ︎&nbsp;[code.visualstudio.com](https://code.visualstudio.com/)
 
@@ -93,6 +96,9 @@ VPN
 
 VR
 : → Virtual Reality
+
+VRT
+: → Visual regression testing
 
 VS Code
 : → Visual Studio Code
