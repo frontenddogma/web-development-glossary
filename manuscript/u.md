@@ -28,6 +28,9 @@ UI
 UI framework
 : → Framework
 
+UI redressing
+: → Clickjacking
+
 UMD
 : → Universal Module Definition
 

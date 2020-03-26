@@ -100,6 +100,7 @@ This book uses material from the following Wikipedia articles:
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * [Clean URL](https://en.wikipedia.org/wiki/Clean_URL){#w-clean-url}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
+* [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking){#w-clickjacking}
 * [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
 * [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
 * [Cloaking](https://en.wikipedia.org/wiki/Cloaking){#w-cloaking}

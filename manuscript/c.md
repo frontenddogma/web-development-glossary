@@ -144,6 +144,9 @@ Click
 Click-Through Rate
 : The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.&nbsp;[†](#w-ctr)
 
+Clickjacking
+: A malicious technique of tricking a user into clicking on something different from what the user perceives, thus potentially revealing confidential information or allowing others to take control of the user’s computer.&nbsp;[†](#w-clickjacking)
+
 Client
 : A piece of computer hardware or software that accesses a service made available by a server. The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network.&nbsp;[†](#w-client)
 
@@ -268,7 +271,7 @@ Common Gateway Interface
 : An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
 
 CommonJS
-: A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. CommonJS started in 2009, work on it ended in 2014.&nbsp;[†](#w-commonjs)
+: A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. Work on CommonJS started in 2009, and ended in 2014.&nbsp;[†](#w-commonjs)
 
 Community of Practice
 : A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members’ common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunchroom at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
@@ -428,7 +431,7 @@ CQS
 : → Command-Query Separation
 
 Craft
-: A pastime or a profession that requires particular skills and knowledge of skilled work. The traditional term “craftsman” is nowadays often replaced by “artisan” and rarely by “craftsperson” (“craftspeople”).&nbsp;[†](#w-craft)
+: A pastime or a profession that requires particular skills and knowledge of skilled work.&nbsp;[†](#w-craft)
 
 Crawler
 : An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)
