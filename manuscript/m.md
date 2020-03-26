@@ -110,7 +110,7 @@ Merge Request
 : A request to merge a version-controlled branch into another branch. The same as a pull request, just used by different platforms.
 
 Merging
-: A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many revision control software tools include merge capabilities.&nbsp;[†](#w-merging)
+: A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many version control software tools include merge capabilities.&nbsp;[†](#w-merging)
 
 Message Digest
 : → MD2

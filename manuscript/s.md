@@ -516,7 +516,7 @@ Subroutine
 : → Routine
 
 Subversion
-: A software versioning and revision control system. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet, and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)
+: A software versioning and version control system. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet, and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)
 
 SUIT CSS
 : A CSS methodology for component-based UI development. ℹ︎&nbsp;[suitcss.github.io](https://suitcss.github.io/)
