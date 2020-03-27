@@ -13,7 +13,7 @@ Packet
 : A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)
 
 Padding
-: Per the CSS box model, the (width of the) padding area of a box, that is, an element of a document. The padding area lies between the content and border areas of a box.
+: Per the CSS box model, the padding area of a box, that is, an element of a document. The padding area lies between the content and border areas of a box.
 
 Page
 : → Web page
@@ -37,7 +37,7 @@ Page view
 : A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-page-view)
 
 Pair programming
-: An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the observer also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the observer as a safety net and guide.&nbsp;[†](#w-pair-programming)
+: An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the navigator or observer, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the navigator also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the navigator as a safety net and guide.&nbsp;[†](#w-pair-programming)
 
 Palpable content
 : Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
@@ -229,7 +229,7 @@ POUR
 : → Perceivable, Operable, Understandable, and Robust
 
 PowerShell
-: A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on .NET Framework while the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
+: A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on the .NET Framework, the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
 
 PPC
 : → Pay-per-click
@@ -238,7 +238,7 @@ PQ
 : → Page Quality
 
 PR
-: → Pull Request
+: → Pull request
 
 Preact
 : A JavaScript library described as a lightweight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
@@ -321,8 +321,8 @@ Pseudo-element
 Pseudocode
 : Code-like syntax that is used to indicate to humans how some code syntax works, or to illustrate the design of an item of code architecture. Pseudocode does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)
 
-Pull Request
-: A request to merge a version-controlled branch into another branch. The same as a merge request, just used by different platforms.
+Pull request
+: → Merge request
 
 Push notification
 : Small messages that can reach audiences anywhere and anytime. While pop-ups appear only when audiences are on the site they belong to, push messages are independent of sites. They are associated with web browsers and apps.&nbsp;[†](#w-push-technology)

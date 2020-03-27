@@ -199,7 +199,7 @@ Tor
 : A project, software, and network for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Router.” Tor directs Internet traffic through a free, world-wide, volunteer overlay network consisting of more than 7,000 relays to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. Tor’s intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored. Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user’s privacy, but does not hide the fact that someone is using Tor. Tor was first released in 2002.&nbsp;[†](#w-tor) ℹ︎&nbsp;[torproject.org](https://www.torproject.org/)
 
 Tor Browser
-: A cross-platform web browser and the flagship product of the Tor Project. It was created as the Tor Browser Bundle by Steven J. Murdoch and announced in 2008. The Tor Browser consists of a modified Mozilla Firefox ESR web browser, the TorButton, TorLauncher, NoScript, and HTTPS Everywhere Firefox extensions, and the Tor proxy. Users can run the Tor Browser from removable media.&nbsp;[†](#w-tor)
+: A cross-platform web browser and the flagship product of the Tor Project. It was created as the Tor Browser Bundle by Steven J. Murdoch and announced in 2008. The Tor Browser consists of a modified Firefox ESR web browser, the TorButton, TorLauncher, NoScript, and HTTPS Everywhere Firefox extensions, and the Tor proxy. Users can run the Tor Browser from removable media.&nbsp;[†](#w-tor)
 
 Tor network
 : → Tor

@@ -16,7 +16,7 @@ Jasmine
 : A testing framework for JavaScript. Jasmine aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax.&nbsp;[†](#w-jasmine) ℹ︎&nbsp;[jasmine.github.io](https://jasmine.github.io/)
 
 Java
-: A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to byte code that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. Java was first released in 1995.&nbsp;[†](#w-java) ℹ︎&nbsp;[java.com](https://www.java.com/)
+: A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. Java was first released in 1995.&nbsp;[†](#w-java) ℹ︎&nbsp;[java.com](https://www.java.com/)
 
 Java applet
 : → Applet
@@ -64,7 +64,7 @@ Jetty
 : A Java HTTP (Web) server and Java Servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jira
-: A proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
+: A proprietary issue tracking product by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 
 JIT
 : → Just in Time
@@ -95,7 +95,7 @@ JScript
 : A dialect of the ECMAScript standard that is used in Microsoft’s Internet Explorer. JScript is implemented as an Active Scripting engine. JScript was developed by Microsoft and first supported in Internet Explorer 3.0 released in 1996. Its most recent version is JScript 9.0, included in Internet Explorer 9.&nbsp;[†](#w-jscript)
 
 JSLint
-: A static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSLint is provided primarily as a browser-based web application accessible through the domain jslint.com, but there are also command-line adaptations. It was created in 2002 by Douglas Crockford.&nbsp;[†](#w-jslint) ℹ︎&nbsp;[jslint.com](https://www.jslint.com/)
+: A static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSLint is provided primarily as a browser-based web application accessible through jslint.com, but there are also command-line adaptations. JSLint was created in 2002 by Douglas Crockford.&nbsp;[†](#w-jslint) ℹ︎&nbsp;[jslint.com](https://www.jslint.com/)
 
 JSON
 : → JavaScript Object Notation
@@ -125,7 +125,7 @@ Just in Time
 : A business methodology aimed at reducing times within the production system as well as response times from suppliers and to customers, for everything to happen “just in time.”&nbsp;[†](#w-jit)
 
 Just-in-time compilation
-: A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly byte code translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyzes the code being executed and identifies parts of the code where the speed-up gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
+: A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyzes the code being executed and identifies parts of the code where the speed-up gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
 
 JWS
 : → JSON Web Signature

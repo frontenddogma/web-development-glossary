@@ -95,7 +95,7 @@ Blacklist
 : A basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned. Those items on the list are denied access. The opposite of a blacklist is a whitelist.&nbsp;[†](#w-blacklist)
 
 Blink
-: A browser engine used in the Google Chrome browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera, Adobe, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
+: A browser engine used in the Chrome web browser and other projects. It is developed as part of the Chromium project with contributions from Google, Facebook, Microsoft, Opera, Adobe, Intel, IBM, Samsung, and others. Blink was released in 2013.&nbsp;[†](#w-blink)
 
 Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)

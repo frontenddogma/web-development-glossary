@@ -50,7 +50,7 @@ IETF
 : → Internet Engineering Task Force
 
 Iframe
-: A frame placed inside the body of an HTML document, usually via respective `iframe` element.
+: A frame placed inside the body of an HTML document, usually via the `iframe` element.
 
 IIFE
 : → Immediately Invoked Function Expression
@@ -102,7 +102,7 @@ Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: The creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
 Infinite scrolling
-: The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if one could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
+: The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if they could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
 
 Information Architecture
 : The structural design of shared information environments; the art and science of organizing and labeling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
@@ -117,13 +117,13 @@ Information overload
 : The difficulty in understanding an issue and effectively making decisions when one has too much information about that issue. Generally, the term is associated with the excessive quantity of daily information. Information overload most likely originated from information theory, which are studies in the storage, preservation, communication, compression, and extraction of information.&nbsp;[†](#w-information-overload)
 
 Information retrieval
-: The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.&nbsp;[†](#w-information-retrieval)
+: The activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images, or sounds.&nbsp;[†](#w-information-retrieval)
 
 Information scent
 : Cues in the information environment pointing to possible answers. Human users estimate how much useful information they are likely to get on a given path, and after seeking information compare the actual outcome with their predictions. When the information scent stops getting stronger (i.e., when users no longer expect to find useful additional information), users move to a different information source. Poor information scent is one reason for the ineffectiveness of “(click) here” or “(learn) more” links.&nbsp;[†](#w-information-foraging)
 
 Information Security
-: The practice of protecting information by mitigating information risks. Information Security is part of information risk management, and typically involves preventing or at least reducing the probability of unauthorized or inappropriate access, use, disclosure, disruption, deletion or destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g., electronic or physical, tangible (e.g., paperwork) or intangible (e.g., knowledge). Information Security’s primary focus is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
+: The practice of protecting information by mitigating information risks. Information Security is part of information risk management, and typically involves preventing or at least reducing the probability of unauthorized or inappropriate access, use, disclosure, disruption, deletion or destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g., electronic or physical, tangible (e.g., paperwork) or intangible (e.g., knowledge). The primary focus of Information Security is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
 Infosec
 : → Information Security
@@ -206,7 +206,7 @@ Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
 Internal
-: Not coming from outside of one’s organization.
+: Coming from within one’s organization.
 
 International Organization for Standardization
 : An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes world-wide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)

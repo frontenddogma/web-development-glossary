@@ -20,7 +20,7 @@ Language
 : → Programming language
 
 Largest Contentful Paint
-: The time it takes for the largest content element visible in the viewport to render. Large elements to be considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
+: The time it takes for the largest content element visible in the viewport to render. Large elements considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
 
 Last In, First Out
 : → Stack
@@ -38,16 +38,16 @@ Law of Conservation of Complexity
 : → Tesler’s Law
 
 Layout
-: The part of graphic design that deals in the arrangement of visual elements on a (web) page. It generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: The part of graphic design that deals in the arrangement of visual elements on a (web) page. Layout generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
 
 Layout engine
 : → Browser engine
 
 Layout table
-: An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout, often in conjunction with spacer images, is a popular web design method from the 90s and early 2000s that is not in use anymore.
+: An HTML table used not for intended functional purposes (for tabular data), but for layout. Using tables for layout, often in conjunction with spacer images, is a popular web design method from the 90s and early 2000s that is largely not in use anymore.
 
 Lazy loading
-: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. Lazy loading can contribute to efficiency in the program’s operation if properly and appropriately used. The opposite of lazy loading is eager loading. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages.&nbsp;[†](#w-lazy-loading)
+: A design pattern commonly used in computer programming to defer initialization of an object until the point at which it is needed. Lazy loading can contribute to efficiency in the program’s operation if properly and appropriately used. This makes it ideal in use cases where network content is accessed and initialization times are to be kept at a minimum, such as in the case of web pages. The opposite of lazy loading is eager loading.&nbsp;[†](#w-lazy-loading)
 
 LCP
 : → Largest Contentful Paint
@@ -55,7 +55,7 @@ LCP
 LDAP
 : → Lightweight Directory Access Protocol
 
-Lead Time
+Lead time
 : The latency between the initiation and completion of a process. For example, the lead time between the placement of an order and delivery of a new car by a given manufacturer might be between two weeks and six months, depending on various particularities. Manufacturing lead time, as another example, may be defined as the total time required to manufacture an item, including order preparation time, queue time, setup time, run time, move time, inspection time, and put-away time.&nbsp;[†](#w-lead-time)
 
 Leading
@@ -110,7 +110,7 @@ Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
 
 Link
-: A reference from one web resource to another web resource, made by an anchor.
+: A reference from one web resource to another web resource, established through the use of an anchor.
 
 Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
@@ -155,7 +155,7 @@ Local
 : → Local scope
 
 Local-part
-: The first part of an email address. It may use any of the following ASCII characters: uppercase and lowercase Latin letters “A” to “Z” and “a” to “z”; digits “0” to “9”; the printable characters “!”, “#”, “$”, “%”, “&”, “'”, “*”, “+”, “-”, “/”, “=”, “?”, “^”, “_”, “`”, “{”, “|”, “}”, and “~”; and dots (“.”), provided that a dot is not the first or last character unless quoted, and provided also that it does not appear consecutively unless quoted (e.g., jane..doe@example.com is not allowed, but "jane..doe"@example.com is).&nbsp;[†](#w-email-address)
+: The first part of an email address. It may use any of the following ASCII characters: uppercase and lowercase Latin letters “A” to “Z” and “a” to “z”; digits “0” to “9”; the printable characters “!”, “#”, “$”, “%”, “&”, “'”, “*”, “+”, “-”, “/”, “=”, “?”, “^”, “_”, “`”, “{”, “|”, “}”, and “~”; and dots (“.”), provided that a dot is not the first or last character unless quoted, and provided also that it does not appear consecutively unless quoted (i.e., jane..doe@example.com is not allowed).&nbsp;[†](#w-email-address)
 
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)
@@ -182,7 +182,7 @@ Logical properties
 : A CSS module introducing properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS&nbsp;2.1.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
 Long task
-: Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop that exceeds 50 ms.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
+: Any uninterrupted period where the main UI thread is busy for 50&nbsp;ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
 
 Long-Term Support
 : A product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition.&nbsp;[†](#w-lts)

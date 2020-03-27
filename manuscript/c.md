@@ -530,7 +530,7 @@ CVS
 Cyan, Magenta, Yellow, and Key
 : As the CMYK color model, a subtractive color model used in color printing, and also used to describe the printing process itself. CMYK refers to the four ink plates used in some color printing: cyan, magenta, yellow, and key (black). The CMYK model works by partially or entirely masking colors on a lighter, usually white, background. The ink reduces the light that would otherwise be reflected. Such a model is called subtractive because inks “subtract” the colors red, green, and blue from white light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow.&nbsp;[†](#w-cmyk)
 
-Cycle Time
+Cycle time
 : The amount of time between the start of work on a task to the time it’s delivered.
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

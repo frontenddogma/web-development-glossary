@@ -4,7 +4,7 @@
 : A directory-level configuration file supported by several web servers, used for the configuration of website access issues, such as URL redirection, URL shortening, access control, and more. A site could have more than one .htaccess file, and the files are placed inside the web tree (i.e., inside directories and their subdirectories). .htaccess files act as a subset of the server’s global configuration file (like httpd.conf) for the directory that they are in, or all subdirectories. The original purpose of .htaccess—reflected in its name—was to allow per-directory access control by, for example, requiring a password to access web content. More commonly, however, the .htaccess files define or override many other configuration settings such as content type, character set, CGI handlers, etc.&nbsp;[†](#w-htaccess)
 
 .htpasswd
-: A flat file used to store usernames and password for basic authentication on an Apache HTTP Server. The name of the file is given in the .htaccess configuration, and can be anything although “.htpasswd” is the canonical name. .htpasswd is often maintained with the shell command “htpasswd” which can add, delete, and update users, and will properly encode the password for use (so that it is easily checked, but not reversed back to the original password). The file consists of rows, each row corresponding to a username, followed by a colon, followed by a string containing the hashed password optionally prepended by an algorithm specifier (`$2y$`, `$apr1$`, or `{SHA}`) or salt. The hash historically used “UNIX crypt” style with MD5 or SHA1 as common alternatives, although as of version 2.2.18 a variant of MD5 is now the default.&nbsp;[†](#w-htpasswd)
+: A flat file used to store usernames and password for basic authentication on an Apache HTTP Server. The name of the file is given in the .htaccess configuration, and can be anything although “.htpasswd” is the canonical name. .htpasswd is often maintained with the shell command “htpasswd” which can add, delete, and update users, and will properly encode the password for use (so that it is easily checked, but not reversed back to the original password). The file consists of rows, each row corresponding to a username, followed by a colon, followed by a string containing the hashed password optionally prepended by an algorithm specifier (`$2y$`, `$apr1$`, or `{SHA}`) or salt. The hash historically used “Unix crypt” style with MD5 or SHA1 as common alternatives, although as of version 2.2.18 a variant of MD5 is now the default.&nbsp;[†](#w-htpasswd)
 
 Hackathon
 : A Sprint-like event, and often one in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects. The goal of a hackathon is to create functioning software or hardware by the end of the event.&nbsp;[†](#w-hackathon)
@@ -12,7 +12,7 @@ Hackathon
 Hacker
 : Any skilled computer expert that uses their technical knowledge to overcome a problem. While “hacker” can refer to any skilled computer programmer, the term has become associated in popular culture with a “security hacker,” someone who, with their technical knowledge, uses bugs or exploits to break into computer systems.&nbsp;[†](#w-hacker)
 
-HAML/Haml
+Haml/HAML
 : → HTML Abstraction Markup Language
 
 Handlebars
@@ -25,7 +25,7 @@ Hash
 : → Number sign
 
 Hash function
-: Any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are used to index a fixed-size table called a hash table. Use of a hash function to index a hash table is called hashing or scatter storage addressing. Hash functions and their associated hash tables are used in data storage and retrieval applications to access data in a small and nearly constant time per retrieval, and storage space only fractionally greater than the total space required for the data or records themselves. Hashing is a computationally and storage space efficient form of data access.&nbsp;[†](#w-hash-function)
+: Any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are used to index a fixed-size table called a hash table. Use of a hash function to index a hash table is called hashing or scatter storage addressing. Hash functions and their associated hash tables are used in data storage and retrieval applications to access data in a small and nearly constant time per retrieval, and storage space only fractionally greater than the total space required for the data or records themselves. Hashing is a computationally and storage-efficient form of data access.&nbsp;[†](#w-hash-function)
 
 Hash table
 : A data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. In many situations, hash tables turn out to be more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets.&nbsp;[†](#w-hash-table)
@@ -143,7 +143,7 @@ HTML&nbsp;5
 : → HTML
 
 HTML/CSS framework
-: A library allowing for easier, standards-compliant web design using the Cascading Style Sheets language. Most of these frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript-based functions, but are mostly design-oriented and focused around interactive UI patterns. This detail differentiates CSS (or HTML/CSS) frameworks from JavaScript frameworks.&nbsp;[†](#w-css-framework)
+: A library allowing for easier web design and development using HTML and CSS. Most HTML/CSS frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript-based functions, but are mostly design-oriented and focused around interactive UI patterns. This detail differentiates HTML/CSS frameworks from JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
 HTML5
 : → HTML
@@ -173,7 +173,7 @@ HTTPS
 : → Hypertext Transfer Protocol Secure
 
 HTTPS Everywhere
-: A browser extension for Google Chrome, Mozilla Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
+: A browser extension for Chrome, Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
 
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
@@ -191,7 +191,7 @@ Hypertext
 : Text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access. Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set, or by touching the screen. Apart from text, the term “hypertext” is also sometimes used to describe tables, images, and other presentational content formats with integrated hyperlinks. Hypertext is one of the key underlying concepts of the World Wide Web.&nbsp;[†](#w-hypertext)
 
 HyperText Markup Language
-: The standard markup language for documents designed to be displayed in a web browser. HTML can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML and its elements describe the structure of a web page semantically, and HTML originally included cues for the appearance of the document. HTML was first presented in 1991.&nbsp;[†](#w-html) ℹ︎&nbsp;[html.spec.whatwg.org](https://html.spec.whatwg.org/)
+: The standard markup language for documents designed to be displayed in a web browser. HTML can be used together with formatting languages such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML and its elements describe the structure of a web page semantically, and HTML originally included cues for the appearance of the document. HTML was first presented in 1991.&nbsp;[†](#w-html) ℹ︎&nbsp;[html.spec.whatwg.org](https://html.spec.whatwg.org/)
 
 Hypertext Preprocessor
 : A general-purpose programming language originally designed for web development. PHP was created in 1994 by Rasmus Lerdorf; the PHP reference implementation is now produced by The PHP Group. PHP originally stood for “Personal Home Page,” but it now stands for the recursive initialism “Hypertext Preprocessor.” PHP code may be executed with a command-line interface (CLI), embedded into HTML code, or used in combination with various web template systems, web content management systems, and web frameworks. PHP code is usually processed by a PHP interpreter implemented as a module in a web server or as a Common Gateway Interface (CGI) executable. The web server outputs the results of the interpreted and executed PHP code, which may be any type of data, such as generated HTML code or binary image data.&nbsp;[†](#w-php) ℹ︎&nbsp;[php.net](https://www.php.net/)

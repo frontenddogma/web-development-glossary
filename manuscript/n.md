@@ -4,7 +4,7 @@
 : → .NET Framework
 
 .NET Framework
-: A software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using .NET Framework is called “managed code.” FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
+: A software framework developed by Microsoft that runs primarily on Microsoft Windows. The .NET Framework includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for the .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using the .NET Framework is called “managed code.” FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
 
 n-based indexing
 : The option to freely choose the base index of an array. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.&nbsp;[†](#w-array)
@@ -26,7 +26,7 @@ Navigation
 : The process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia. The user interface that is used to do so is called a web browser. A central theme in web design is the development of a web navigation interface that maximizes usability.&nbsp;[†](#w-navigation)
 
 Navigator
-: A role in pair programming.
+: The guiding and reviewing role in pair programming.
 : → Netscape Navigator
 
 NDA
@@ -51,7 +51,7 @@ Network packet
 : → Packet
 
 Newbie
-: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, online gaming, or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and may be used as a term of abuse in Internet-based games)—but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
+: A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, online gaming, or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and may be used as a term of abuse in Internet-based games), but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
 
 Newline
 : A control character or sequence of control characters in a character encoding specification (e.g., ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the Enter key (↵).&nbsp;[†](#w-newline)
@@ -116,7 +116,7 @@ Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
 
 Number
-: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types can exist, for examples: Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
+: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
 : The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as “hashtags,” and from that, the symbol itself is sometimes called a “hashtag.”&nbsp;[†](#w-number-sign)
@@ -128,9 +128,9 @@ Numeric character reference
 : A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
 
 Numerical digit
-: A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin _digiti_ meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e., the decimal (ancient Latin adjective _decem_ meaning ten) digits.&nbsp;[†](#w-numerical-digit)
+: A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin _digiti_, meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e., the decimal (ancient Latin adjective _decem_, meaning ten) digits.&nbsp;[†](#w-numerical-digit)
 
 Nuxt.js
-: A web application framework based on Vue.js, Node.js, Webpack, and Babel. The framework is advertised as a “meta-framework for universal applications.” The term “universal” is used with the meaning that the goal of the framework is to enable users to create web views in JavaScript utilizing familiar Vue.js single file component system and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, the framework enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
+: A web application framework based on Vue.js, Node.js, Webpack, and Babel. The framework is advertised as a “meta-framework for universal applications.” The term “universal” refers to the goal of the framework to enable users to create web views in JavaScript via the familiar Vue.js single file component system. These views function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, Nuxt.js enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

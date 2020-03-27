@@ -188,13 +188,13 @@ Response header
 : An HTTP header that can be used in an HTTP response and that does not relate to the content of the message. Response headers, like `Age`, `Location`, or `Server` are used to give a more detailed context of the response. Not all headers appearing in a response are response headers. For example, the `Content-Length` header is an entity header referring to the size of the body of the response message. However, these entity requests are usually called responses headers in such a context.&nbsp;[‡](#m-response-header)
 
 Responsive design
-: → Responsive Web Design
+: → Responsive web design
 
-Responsive Web Design
-: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic.&nbsp;[†](#w-rwd)
+Responsive web design
+: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic.&nbsp;[†](#w-rwd)
 
 Responsiveness
-: → Responsive Web Design
+: → Responsive web design
 
 REST
 : → Representational State Transfer
@@ -327,7 +327,7 @@ Runtime compilation
 : → Just-in-time compilation
 
 RWD
-: → Responsive Web Design
+: → Responsive web design
 
 RxJS
 : → Reactive Extensions for JavaScript

@@ -7,7 +7,7 @@ Machine Learning
 : The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as “training data,” in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers.&nbsp;[†](#w-ml)
 
 macOS
-: A series of proprietary graphical operating systems developed and marketed by Apple since 2001. It is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
+: A series of proprietary graphical operating systems developed and marketed by Apple since 2001. macOS is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
 
 macOS, Apache, MySQL, PHP/Perl/Python
 : A solution stack composed of free and open source software running with proprietary commercial software, to serve dynamic websites on computers running macOS. MAMP can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name “MAMP” is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example.&nbsp;[†](#w-mamp)
@@ -34,7 +34,7 @@ MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Margin
-: Per the CSS box model, the (width of the) margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
+: Per the CSS box model, the margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
 
 Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
@@ -49,7 +49,7 @@ Markup
 : → Markup language
 
 Markup language
-: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics—meaning that their specification prescribes generally how to present the structured data on particular media. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
+: A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision, and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
 Masthead
 : A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
@@ -57,9 +57,11 @@ Masthead
 Material Design
 : A design language, developed in 2014 by Google. Expanding on the “card” motifs that debuted in Google Now, Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.&nbsp;[†](#w-material-design) ℹ︎&nbsp;[material.io/design](https://material.io/design/)
 
+Mathematical markup language
+: A computer notation for representing mathematical formulae, based on mathematical notation. Specialized markup languages are necessary because computers normally deal with linear text and more limited character sets (although increasing support for Unicode is obsoleting very simple uses). A formally standardized syntax also allows a computer to interpret otherwise ambiguous content, for rendering or even evaluating. For computer-interpretable syntaxes, the most popular are TeX/LaTeX and MathML.&nbsp;[†](#w-mathematical-markup-language)
+
 Mathematical Markup Language
-: In general, a computer notation for representing mathematical formulae, based on mathematical notation. Specialized markup languages are necessary because computers normally deal with linear text and more limited character sets (although increasing support for Unicode is obsoleting very simple uses). A formally standardized syntax also allows a computer to interpret otherwise ambiguous content, for rendering or even evaluating. For computer-interpretable syntaxes, the most popular are TeX/LaTeX and MathML.&nbsp;[†](#w-mathematical-markup-language)
-: As MathML, an application of XML for describing mathematical notations and capturing both its structure and content. MathML aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
+: An application of XML for describing mathematical notations and capturing both its structure and content. MathML aims at integrating mathematical formulae into World Wide Web pages and other documents. It is part of HTML and an ISO standard ISO/IEC DIS 40314 since 2015.&nbsp;[†](#w-mathml) ℹ︎&nbsp;[w3.org/Math](https://www.w3.org/Math/)
 
 MathML
 : → Mathematical Markup Language
@@ -68,10 +70,10 @@ MAU
 : → Monthly Active Users
 
 MD2
-: A cryptographic hash function developed in 1989 by Ronald Rivest. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
+: A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest”. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
-: A cryptographic hash function developed in 1990 by Ronald Rivest, whose initialism “MD” stands for “Message Digest”. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
+: A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
 
 MD5
 : A widely used hash function that produces a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
@@ -106,8 +108,8 @@ Memoization
 Menu
 : A list of options or commands presented to the user of a computer or communications system. A menu may either be a system’s entire user interface, or only part of a more complex one.&nbsp;[†](#w-menu)
 
-Merge Request
-: A request to merge a version-controlled branch into another branch. The same as a pull request, just used by different platforms.
+Merge request
+: A request to merge a version-controlled branch into another branch.
 
 Merging
 : A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many version control software tools include merge capabilities.&nbsp;[†](#w-merging)
@@ -119,7 +121,7 @@ Message Digest
 : → MD6
 
 Meta-element
-: An HTML element that can provide structured metadata about a web page. Meta-elements are part of a web page’s `head` section. Multiple meta-elements with different attributes can be used on the same page. Meta-elements can be used to specify a page’s description, keywords, and other metadata. The `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
+: An HTML element that can provide structured metadata about a web page. Meta-elements are part of a web page’s `head` section. Multiple meta-elements with different attributes can be used on the same page. Meta-elements can be used to specify a page’s description, keywords, and other metadata. The HTML `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
 
 Metadata
 : Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and statistical metadata.&nbsp;[†](#w-metadata)
@@ -137,7 +139,7 @@ Metro
 : → Microsoft Design Language
 
 Microformat
-: An approach to semantic markup which uses HTML/XHTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
+: An approach to semantic markup which uses HTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
 Microsite
 : An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
@@ -155,7 +157,7 @@ MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 
 Minification
-: The process of removing all unnecessary characters from the source codes of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g., the Internet) more efficient.&nbsp;[†](#w-minification)
+: The process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g., the Internet) more efficient.&nbsp;[†](#w-minification)
 
 Minifier
 : A software that removes all unnecessary characters from markup, style sheets, scripts, and other source code.
@@ -201,7 +203,7 @@ Modernizr
 : A JavaScript library that detects the features available in a user’s browser. This lets web pages avoid unsupported features by informing the user their browser is not supported or loading a polyfill. Modernizr aims to provide feature detection in a consistent and easy to use manner that discourages the use of failure-prone browser sniffing. Modernizr was first released in 2009.&nbsp;[†](#w-modernizr) ℹ︎&nbsp;[modernizr.com](https://modernizr.com/)
 
 Modular design
-: An approach (design theory and practice) that subdivides a system into smaller parts called modules, which can be independently created, modified, replaced, or exchanged between different systems.&nbsp;[†](#w-modular-design)
+: A design theory and practice that subdivides a system into smaller parts called modules, which can be independently created, modified, replaced, or exchanged between different systems.&nbsp;[†](#w-modular-design)
 
 Module
 : → Component
@@ -229,7 +231,7 @@ MPEG
 : → Moving Picture Experts Group
 
 MR
-: → Merge Request
+: → Merge request
 
 MSHTML
 : → Trident

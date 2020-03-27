@@ -34,7 +34,7 @@ GitHub
 : A company that provides hosting for software development version control using Git. GitHub is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as its own features.&nbsp;[†](#w-github) ℹ︎&nbsp;[github.com](https://github.com/)
 
 GitLab
-: A company providing a web-based DevOps lifecycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Ukrainians Dmitriy Zaporozhets and Valery Sizov.&nbsp;[†](#w-gitlab) ℹ︎&nbsp;[gitlab.com](https://gitlab.com/)
+: A company providing a web-based DevOps lifecycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Dmitriy Zaporozhets and Valery Sizov.&nbsp;[†](#w-gitlab) ℹ︎&nbsp;[gitlab.com](https://gitlab.com/)
 
 Global
 : → Global scope
@@ -108,7 +108,7 @@ Greeking
 
 Grid
 : In design, a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. The grid serves as an armature or framework on which a designer can organize graphic elements (images, glyphs, paragraphs, etc.) in a rational, easy-to-absorb manner. A grid can be used to organize graphic elements in relation to a page, to other graphic elements on the page, or to other parts of the same graphic element or shape.&nbsp;[†](#w-grid)
-: In CSS, an element defined using the `grid` value of the `display` property, for which columns and rows can be specified through the `grid-template-rows` and `grid-template-columns` properties. The grid defined this way is described as an explicit grid. If content is placed outside of this explicit grid, or if auto-placement and the grid algorithm are being relied on, then extra tracks will be created in the implicit grid. The implicit grid is the grid created automatically due to content being added outside of the tracks defined.&nbsp;[‡](#m-grid)
+: In CSS, an element defined using the `grid` value of the `display` property, for which columns and rows can be specified through the `grid-template-rows` and `grid-template-columns` properties. The grid defined this way is described as an explicit grid. If content is placed outside of this explicit grid, or if auto-placement and the grid algorithm are being relied on, then extra tracks will be created in the implicit grid. The implicit grid is the grid created automatically due to content being added outside of the tracks defined.&nbsp;[‡](#m-grid) ℹ︎&nbsp;[w3.org/TR/css-grid-1](https://www.w3.org/TR/css-grid-1/)
 
 Grid computing
 : The use of widely distributed computer resources to reach a common goal. A computing grid can be thought of as a distributed system with non-interactive workloads that involve many files. Grid computing is distinguished from conventional high-performance computing systems such as cluster computing in that grid computers have each node set to perform a different task or application. Grid computers also tend to be more heterogeneous and geographically dispersed.&nbsp;[†](#w-grid-computing)

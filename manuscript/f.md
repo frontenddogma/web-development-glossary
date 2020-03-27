@@ -28,7 +28,7 @@ Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
 
 Feed
-: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and other kinds of digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
+: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
 Feed reader
 : → News aggregator
@@ -42,7 +42,7 @@ FIFO
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
-File Manager
+File manager
 : A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g., viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
 
 File system
@@ -158,10 +158,10 @@ FOIT
 : → Flash of Invisible Text
 
 Folksonomy
-: The system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later. Over time, this can give rise to a classification system based on those tags and how often they are applied or searched for, in contrast to a taxonomic classification designed by the owners of the content and specified when it is published. This practice is also known as collaborative tagging, social classification, social indexing, and social tagging.&nbsp;[†](#w-folksonomy)
+: The system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later. Over time, this can give rise to a classification system based on those tags and how often they are applied or searched for, in contrast to a taxonomic classification designed by the owners of the content and specified when it is published. Folksonomies are also known as collaborative tagging, social classification, social indexing, and social tagging.&nbsp;[†](#w-folksonomy)
 
 Font
-: With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer Roman,” “Bulmer,” “Bulmer Bold” and “Bulmer Extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, the font is a digital file.&nbsp;[†](#w-font)
+: With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer Roman,” “Bulmer,” “Bulmer Bold,” and “Bulmer Extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, a font is a digital file.&nbsp;[†](#w-font)
 
 Font block period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render an invisible fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
@@ -215,7 +215,7 @@ Frameset
 : A group of named frames which can point to web pages or media.&nbsp;[†](#w-frame)
 
 Free and Open Source Software
-: Software that can be classified as both free software and open source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
+: Software that can be classified as both free software and open source software, that is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software. This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.&nbsp;[†](#w-foss)
 
 Free Software Foundation
 : A non-profit organization that supports the free software movement and which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization’s preference for software being distributed under copyleft (“share alike”) terms. The FSF was founded in 1985 by Richard Stallman.&nbsp;[†](#w-fsf) ℹ︎&nbsp;[fsf.org](https://www.fsf.org/)
@@ -242,7 +242,7 @@ Fugu
 : A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[is.gd/Yyn0oQ](https://www.chromium.org/teams/web-capabilities-fugu)
 
 Full Service
-: A web agency term for the ability to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
+: A web agency term for the ability and capability to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
 
 Full Stack
 : → Solution stack
