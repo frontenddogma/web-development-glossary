@@ -380,6 +380,7 @@ This book uses material from the following Wikipedia articles:
 * [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
 * [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
+* [JAR (file format)](https://en.wikipedia.org/wiki/JAR_(file_format)){#w-jar}
 * [Jasmine (JavaScript testing framework)](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)){#w-jasmine}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java Database Connectivity](https://en.wikipedia.org/wiki/Java_Database_Connectivity){#w-jdbc}
@@ -811,10 +812,12 @@ This book uses material from the following Wikipedia articles:
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
 * [VoiceXML](https://en.wikipedia.org/wiki/VoiceXML){#w-voicexml}
 * [Vue.js](https://en.wikipedia.org/wiki/Vue.js){#w-vuejs}
+* [WAR (file format)](https://en.wikipedia.org/wiki/WAR_(file_format)){#w-war}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
+* [Web application](https://en.wikipedia.org/wiki/Web_application){#w-web-app}
 * [Web beacon](https://en.wikipedia.org/wiki/Web_beacon){#w-web-beacon}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web Components](https://en.wikipedia.org/wiki/Web_Components){#w-web-component}

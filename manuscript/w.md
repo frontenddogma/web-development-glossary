@@ -15,6 +15,9 @@ WAMP
 WAP
 : → Wireless Application Protocol
 
+WAR
+: → Web application archive
+
 Wasm
 : → WebAssembly
 
@@ -44,6 +47,15 @@ Web address
 
 Web analytics
 : The measurement, collection, analysis, and reporting of web data for purposes of understanding and optimizing web usage. However, web analytics is not just a process for measuring web traffic but can be used as a tool for business and market research, and to assess and improve the effectiveness of a website. Web analytics applications can also help companies measure the results of traditional print or broadcast advertising campaigns.&nbsp;[†](#w-web-analytics)
+
+Web app
+: → Web application
+
+Web application
+: A client-server computer program that the client (including the user interface and client-side logic) runs in a web browser. The general distinction between a dynamic web page of any kind and a “web application” is unclear. Websites most likely to be referred to as web applications are those which have similar functionality to a desktop or mobile application.&nbsp;[†](#w-web-app)
+
+Web application archive
+: A file used to distribute a collection of JAR files, JavaServer Pages, Java servlets, Java classes, XML files, tag libraries, static web pages (HTML and related files), and other resources that together constitute a web application.&nbsp;[†](#w-war)
 
 Web Application Framework
 : → Web framework
