@@ -322,10 +322,10 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
 * [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
-* [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
+* [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
@@ -501,12 +501,12 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
 * [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
-* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
+* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
 * [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator){#w-netscape-navigator}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
