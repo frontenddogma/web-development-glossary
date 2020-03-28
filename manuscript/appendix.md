@@ -747,6 +747,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Three-click rule](https://en.wikipedia.org/wiki/Three-click_rule){#w-three-click-rule}
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
+* [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}

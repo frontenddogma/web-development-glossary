@@ -150,6 +150,9 @@ Time to Interactive
 Time to Live
 : A mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded or revalidated. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is commonly used to improve the performance and manage the caching of data.&nbsp;[†](#w-ttl)
 
+Timestamp
+: A sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. The term derives from rubber stamps used in offices to stamp the current date, and sometimes time, in ink on paper documents, to record when a document was received.&nbsp;[†](#w-timestamp)
+
 Tiny integer
 : An integral data type of 8 bits, with a signed range from –128 to 127, and an unsigned range from 0 to 255.
 
