@@ -13,13 +13,13 @@ Object-Oriented Programming
 : A programming paradigm based on the concept of “objects,” which can contain data, in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods). A feature of objects is their procedures that can access and often modify the data fields of the object with which they are associated (objects have a notion of “this” or “self”). In OOP, computer programs are designed by making them out of objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.&nbsp;[†](#w-oop)
 
 Objectives and Key Results
-: A framework for defining and tracking objectives and their outcomes. OKRs comprise an objective—a clearly defined goal—and one or more key results—specific measures used to track the achievement of that goal. The goal of OKR is to define how to achieve objectives through concrete, specific, and measurable actions. Key results can be measured on a 0–100% scale or any numerical unit. The development of OKRs is generally attributed to Andy Grove, who introduced the approach to Intel and documented OKR in his 1983 book _High Output Management_.&nbsp;[†](#w-okr)
+: A framework for defining and tracking objectives and their outcomes. OKR comprise an objective—a clearly defined goal—and one or more key results—specific measures used to track the achievement of that goal. The goal of OKR is to define how to achieve objectives through concrete, specific, and measurable actions. Key results can be measured on a 0–100% scale or any numerical unit. The development of OKR is generally attributed to Andy Grove, who introduced the approach to Intel and documented OKR in his 1983 book _High Output Management_.&nbsp;[†](#w-okr)
 
 Observer
 : → Navigator
 
 Observer pattern
-: A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. It is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
+: A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The observer pattern is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
 
 Offline
 : Being in a state of disconnection from the Internet.
@@ -37,7 +37,7 @@ One-based indexing
 : The indexing of the first element of an array by subscript of 1.&nbsp;[†](#w-array)
 
 One-Time Password
-: A password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid a number of shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartcard or specific cellphone) as well as something a person knows (such as a PIN). The most important advantage that is addressed by OTPs is that, in contrast to static passwords, they are not vulnerable to replay attacks.&nbsp;[†](#w-otp)
+: A password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid a number of shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartphone with an OTP app) as well as something a person knows (such as a PIN). The most important advantage that is addressed by OTPs is that, in contrast to static passwords, they are not vulnerable to replay attacks.&nbsp;[†](#w-otp)
 
 OOCSS
 : → Object-Oriented CSS
@@ -61,7 +61,7 @@ Operand
 : In mathematics, the object of a mathematical operation, i.e., the object or quantity that is operated on. In “3 + 6”, “3” and “6” are operands, while “+” is an (addition) operator.&nbsp;[†](#w-operand)
 
 Operating System
-: System software that manages computer hardware, software resources, and provides common services for computer programs. For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer—from cellular phones and video game consoles to web servers and supercomputers.&nbsp;[†](#w-os)
+: System software that manages computer hardware and software resources and that provides services for computer programs. For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although application code is usually executed directly by the hardware and frequently makes system calls to an OS function, or is interrupted by it. Operating systems are found on many devices that contain a computer—from cellular phones and video game consoles to web servers and supercomputers.&nbsp;[†](#w-os)
 
 Operator
 : In mathematics, a mapping that acts on elements of a space to produce elements of another space (possibly the same space, sometimes required to be the same space). An operator is also used for denoting the symbol of a mathematical operation, which is related with the meaning of “operator” in computer programming.&nbsp;[†](#w-operator-math)
@@ -74,7 +74,7 @@ Optional markup
 : Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for respective document to be valid.
 
 Orca
-: An extensible screen reader from the GNOME project for individuals who are blind or visually impaired. Using various combinations of speech synthesis and braille, Orca helps provide access to applications and toolkits that support the AT-SPI. The name Orca, which is another term for a killer whale, is a nod to the long-standing tradition of naming screen readers after aquatic creatures.&nbsp;[†](#w-orca) ℹ︎&nbsp;[wiki.gnome.org/Projects/Orca](https://wiki.gnome.org/Projects/Orca)
+: An extensible screen reader from the GNOME project for individuals who are blind or visually impaired. Using various combinations of speech synthesis and braille, Orca helps provide access to applications and toolkits that support the AT-SPI. The name Orca, which is the name of a killer whale, is a nod to the long-standing tradition of naming screen readers after aquatic creatures.&nbsp;[†](#w-orca) ℹ︎&nbsp;[wiki.gnome.org/Projects/Orca](https://wiki.gnome.org/Projects/Orca)
 
 Origin
 : A concept defined by the scheme (protocol), host (domain), and port of the URL used to access it. Two objects have the same origin only when the scheme, host, and port all match. Some operations are restricted to same-origin content, and this restriction can be lifted using cross-origin resource sharing (CORS).&nbsp;[‡](#m-origin)

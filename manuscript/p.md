@@ -10,7 +10,7 @@ Packed
 : A property of an array that consists only of elements, and that can be optimized accordingly.
 
 Packet
-: A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)
+: A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example, source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)
 
 Padding
 : Per the CSS box model, the padding area of a box, that is, an element of a document. The padding area lies between the content and border areas of a box.
@@ -28,13 +28,13 @@ Page Quality
 : Custom and proprietary quality criteria for web pages (Google) and Facebook Pages (Facebook).
 
 PageRank
-: An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and it is the best known.&nbsp;[†](#w-pagerank)
+: An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and the best known.&nbsp;[†](#w-pagerank)
 
 PageSpeed
-: A family of tools by Google, designed to help a website’s performance optimization. PageSpeed was introduced in 2010. There are four main components of PageSpeed family tools: PageSpeed Module, also known as `mod_pagespeed`, PageSpeed Insights, PageSpeed Service, and the PageSpeed Chrome DevTools extension. All of these components are built to identify faults in a website’s compliance with Google’s Web Performance Best Practices, as well as to automate the optimization process.&nbsp;[†](#w-pagespeed) ℹ︎&nbsp;[developers.google.com/speed](https://developers.google.com/speed)
+: A family of tools by Google, designed to help a website’s performance optimization. PageSpeed was introduced in 2010. There are four main components of PageSpeed family tools: PageSpeed Module, also known as mod_pagespeed, PageSpeed Insights, PageSpeed Service, and the PageSpeed Chrome DevTools extension. All of these components are built to identify faults in a website’s compliance with Google’s Web Performance Best Practices, as well as to automate the optimization process.&nbsp;[†](#w-pagespeed) ℹ︎&nbsp;[developers.google.com/speed](https://developers.google.com/speed)
 
 Page view
-: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another “page” pointing to the page in question.&nbsp;[†](#w-page-view)
+: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another page pointing to the page in question.&nbsp;[†](#w-page-view)
 
 Pair programming
 : An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the navigator or observer, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the navigator also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the navigator as a safety net and guide.&nbsp;[†](#w-pair-programming)
@@ -55,7 +55,7 @@ Pareto Principle
 : The observation that for many events, roughly 80% of the effects come from 20% of the causes. It is named after Italian economist Vilfredo Pareto, who noted the 80/20 connection in 1896, as published in his first work, _Cours d’économie politique_. In it, Pareto showed that approximately 80% of the land in Italy was owned by 20% of the population. It is a similar axiom of business management that “80% of sales come from 20% of clients.”&nbsp;[†](#w-pareto-principle)
 
 Parkinson’s Law
-: The idea that work expands so to fill the time available for its completion. It is sometimes applied to the growth of bureaucracy in an organization. It was stated in 1955 by Cyril Northcote Parkinson in an essay published in _The Economist_. A popular corollary is that “Work contracts to fit in the time we give it.”&nbsp;[†](#w-parkinsons-law)
+: The idea that work expands so to fill the time available for its completion. Parkinson’s Law is sometimes applied to the growth of bureaucracy in an organization. It was stated in 1955 by Cyril Northcote Parkinson in an essay published in _The Economist_. A popular corollary is that “Work contracts to fit in the time we give it.”&nbsp;[†](#w-parkinsons-law)
 
 Parser
 : A software component that takes input data (frequently text) and builds a data structure—often some kind of parse tree, abstract syntax tree, or other hierarchical structure, giving a structural representation of the input while checking for correct syntax. The parsing may be preceded or followed by other steps, or these may be combined into a single step. The parser is often preceded by a separate lexical analyzer, which creates tokens from the sequence of input characters; alternatively, these can be combined in scannerless parsing. Parsers may be programmed by hand or may be automatically or semi-automatically generated by a parser generator. Parsing is complementary to templating, which produces formatted output.&nbsp;[†](#w-parsing)
@@ -64,7 +64,7 @@ Parsing
 : The process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term “parsing” comes from Latin _pars_ (_orationis_), meaning “part (of speech)”. The term has slightly different meanings in different branches of linguistics and computer science. Within computational linguistics “parsing” is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic and other information.&nbsp;[†](#w-parsing)
 
 Patch
-: A set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, like around functionality, usability, or performance. Patches are also called bugfixes (or bug fixes).&nbsp;[†](#w-patch)
+: A set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, like around functionality, performance, or usability. Patches are also called bugfixes (or bug fixes).&nbsp;[†](#w-patch)
 : → Change list
 
 Pattern
@@ -77,7 +77,7 @@ Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
 Pay-per-click
-: An Internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC “display” advertisements, also known as “banner” ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, LinkedIn, Pinterest, and Twitter have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
+: An Internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC display advertisements, also known as banner ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Twitter, LinkedIn, and Pinterest have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
 
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
@@ -101,7 +101,7 @@ Perceivable, Operable, Understandable, and Robust
 : The four major principles of WCAG&nbsp;2.0. Information and user interface components must be presentable to users in ways they can perceive; user interface components and navigation must be operable; information and the operation of user interface must be understandable; and content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.&nbsp;[†](#w-wcag)
 
 Perceived performance
-: How quickly a software feature appears to perform its task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
+: How quickly a software feature appears to perform a task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
 
 Percent encoding
 : → URL encoding
@@ -134,13 +134,13 @@ Phoenix
 : → Firefox
 
 Photoshop
-: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g., “to photoshop”) although Adobe discourages such use. Photoshop was first released in 1987. ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
+: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1987 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g., “to photoshop”) although Adobe discourages such use.&nbsp;[†](#w-photoshop) ℹ︎&nbsp;[adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
 
 PHP
 : → Hypertext Preprocessor
 
 PhpStorm
-: A commercial, cross-platform IDE for PHP. PhpStorm provides an editor for PHP, HTML, and JavaScript with on-the-fly code analysis, error prevention, and automated refactorings for PHP and JavaScript code. PhpStorm was first released in 2009.&nbsp;[†](#w-phpstorm) ℹ︎&nbsp;[jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
+: A commercial, cross-platform IDE for PHP. PhpStorm provides an editor for PHP, HTML, CSS, and JavaScript with on-the-fly code analysis, error prevention, and automated refactorings for PHP and JavaScript code. PhpStorm was first released in 2009.&nbsp;[†](#w-phpstorm) ℹ︎&nbsp;[jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
 
 Phrasing content
 : The text of an HTML document, as well as elements that mark up that text at the intra-paragraph level. Runs of phrasing content form paragraphs.&nbsp;§
@@ -165,13 +165,13 @@ Placeholder
 : → Placeholder text
 
 Placeholder text
-: Text that shares some characteristics of a real written text, but is random or otherwise generated. It may be used to display a sample of fonts, generate text for testing, or to spoof an email spam filter. The process of using filler text is sometimes called greeking, although the text itself may be nonsense, or largely Latin, as with “Lorem ipsum.”&nbsp;[†](#w-placeholder-text)
+: Text that shares some characteristics of a real written text, but is random or otherwise generated. Placeholder text may be used to display a sample of fonts, generate text for testing, or to spoof an email spam filter. The process of using filler text is sometimes called greeking, although the text itself may be nonsense, or largely Latin, as with “Lorem ipsum.”&nbsp;[†](#w-placeholder-text)
 
 Plain-text
-: A loose term for data (e.g., file contents) that represent only characters of readable material but not its graphical representation nor other objects (floating-point numbers, images, etc.). It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. Plain-text is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
+: A loose term for data (e.g., file contents) that represent only characters of readable material but no graphical representation or other objects and media. Plain-text may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. It is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
 
 Plane
-: In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called “supplementary planes.” The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
+: In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called supplementary planes. The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
 
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
@@ -183,10 +183,10 @@ Pointer
 : A programming language object that stores a memory address. This can be that of another value located in computer memory, or in some cases, that of memory mapped computer hardware. A pointer references a location in memory, and obtaining the value stored at that location is known as dereferencing the pointer.&nbsp;[†](#w-pointer)
 
 Pointing device
-: An input interface (specifically a human interface device) that allows a user to input spatial (i.e., continuous and multi-dimensional) data to a computer. CAD systems and graphical user interfaces (GUIs) allow the user to control and provide data to the computer using physical gestures by moving a hand-held mouse or similar device across the surface of the physical desktop and activating switches on the mouse. While the most common pointing device by far is the mouse, many more devices have been developed.&nbsp;[†](#w-pointing-device)
+: An input interface (specifically a human interface device) that allows a user to input spatial (i.e., continuous and multi-dimensional) data to a computer. CAD systems and graphical user interfaces (GUIs) allow the user to control and provide data to the computer using physical gestures by moving a hand-held mouse or similar device across the surface of the physical desktop and activating switches on the mouse. While the most common pointing device by far is the mouse, many more have been developed.&nbsp;[†](#w-pointing-device)
 
 Polyfill
-: Code that implements a feature on web browsers that do not natively support the feature. Most often, a polyfill refers to a JavaScript library that implements an HTML web standard, either an established one (supported by some browsers) on older browsers, or a proposed standard (not supported by any browsers) on existing browsers. Formally, “a polyfill is a shim for a browser API.” Polyfills allow web developers to use an API regardless of whether or not it is supported by a browser, and usually with minimal overhead.&nbsp;[†](#w-polyfill)
+: Code that implements a feature on web browsers that do not natively support the feature. Most often, a polyfill refers to a JavaScript library that implements an HTML web standard, either an established one (supported by some browsers) on older browsers, or a proposed standard (not supported by any browsers) on existing browsers. Formally, a polyfill is a shim for a browser API. Polyfills allow web developers to use an API regardless of whether or not it is supported by a browser, and usually with minimal overhead.&nbsp;[†](#w-polyfill)
 
 Polymer Project
 : A JavaScript library for building web applications using web components. Development of the library started in 2013, and it was released in 2015. Polymer was developed by Google.&nbsp;[†](#w-polymer) ℹ︎&nbsp;[polymer-project.org](https://www.polymer-project.org/)
@@ -223,7 +223,7 @@ PostCSS
 : A software development tool that uses JavaScript-based plugins to automate routine CSS operations. PostCSS was first released in 2013.&nbsp;[†](#w-postcss) ℹ︎&nbsp;[postcss.org](https://postcss.org/)
 
 Postel’s Law
-: “Be conservative in what you send, be liberal in what you accept.” Also known as the Robustness Principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
+: “Be conservative in what you send, be liberal in what you accept.” Also known as the Robustness Principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: Be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
 
 POUR
 : → Perceivable, Operable, Understandable, and Robust
@@ -304,7 +304,7 @@ Protocol
 
 Prototype
 : In software development, a private property of an object which holds a link to another object. That prototype object has a prototype of its own, and so on until an object is reached with `null` as its prototype. By definition, `null` has no prototype, and acts as the final link in this prototype chain.&nbsp;[‡](#m-prototype)
-: In web development and design, a more or less elaborate preview or proof of concept.
+: In web development and design, a more or less elaborate proof of concept or preview for a website or app.
 
 Prototyping
 : The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. Prototyping is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: Software designers and implementers can get valuable feedback from users early in the project, clients and contractors can compare if the software matches the specification according to which the software is built, and software engineers get insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
@@ -315,11 +315,11 @@ PRPL
 Pseudo-class
 : One of a range of predefined CSS selectors that targets elements depending on their state rather than on information from the document tree. For example, the selector `a:visited` applies styles only to links that the user has already followed.&nbsp;[‡](#m-pseudo-class)
 
+Pseudo-code
+: Code-like syntax that is used to indicate to humans how some code syntax works, or to illustrate the design of an item of code architecture. Pseudo-code does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)
+
 Pseudo-element
 : One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`.&nbsp;[‡](#m-pseudo-element)
-
-Pseudocode
-: Code-like syntax that is used to indicate to humans how some code syntax works, or to illustrate the design of an item of code architecture. Pseudocode does not work when tried to run as code.&nbsp;[‡](#m-pseudocode)
 
 Pull request
 : → Merge request

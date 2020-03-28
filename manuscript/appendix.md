@@ -18,6 +18,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
 * [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash){#w-flash}
 * [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
+* [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop){#w-photoshop}
 * [ads.txt](https://en.wikipedia.org/wiki/Ads.txt){#w-adstxt}
 * [Affordance](https://en.wikipedia.org/wiki/Affordance){#w-affordance}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
