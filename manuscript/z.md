@@ -1,7 +1,7 @@
 # Z
 
 Z shell
-: A Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.&nbsp;[†](#w-zsh)
+: A Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including features of Bash, ksh, and tcsh.&nbsp;[†](#w-zsh)
 
 Zero-based indexing
 : A way of numbering in which the initial element of a sequence is assigned the index 0, rather than the index 1 as is typical in everyday non-mathematical or non-programming circumstances. Under zero-indexed or zero-based numbering, the initial element is sometimes termed the “zeroth” element, rather than the first element; “zeroth” is a coined ordinal number corresponding to the number zero.&nbsp;[†](#w-zero-based-indexing)

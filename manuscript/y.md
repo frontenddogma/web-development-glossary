@@ -17,7 +17,7 @@ yarn.lock
 : An auto-generated lock file used by the Yarn package manager.
 
 Yet Another Multicolumn Layout
-: A modular HTML/CSS framework. ℹ︎&nbsp;[yaml.de](http://www.yaml.de/)
+: A modular HTML/CSS framework. YAML was first released in 2005. ℹ︎&nbsp;[yaml.de](http://www.yaml.de/)
 
 YUI
 : → Yahoo User Interface Library

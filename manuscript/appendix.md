@@ -324,8 +324,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
 * [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
-* [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
+* [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
@@ -944,8 +944,8 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Grid](https://developer.mozilla.org/en-US/docs/Glossary/Grid){#m-grid}
 * [Grid Tracks](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Tracks){#m-grid-track}
 * [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting){#m-hoisting}
-* [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods){#m-http-method}
 * [Houdini](https://developer.mozilla.org/en-US/docs/Glossary/Houdini){#m-houdini}
+* [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods){#m-http-method}
 * [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE){#m-iife}
 * [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain){#m-prototype}
 * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API){#m-intersection-observer}

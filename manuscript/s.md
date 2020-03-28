@@ -311,7 +311,7 @@ SOC
 : → Separation of Concerns
 
 Social Web
-: → Web 2.0
+: → Web&nbsp;2.0
 
 Soft launch
 : A preview release of a product or service to a limited audience prior to the general public. Soft-launching a product is sometimes used to gather data or feedback regarding its acceptance in the marketplace, prior to making it widely available during an official release or grand opening. A company may also choose a soft launch to test the functionality of a product, allowing adjustments to be made before a wider release and marketing efforts are implemented.&nbsp;[†](#w-soft-launch)
@@ -486,7 +486,7 @@ String
 : A sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.&nbsp;[†](#w-string)
 
 Structure
-: In web development, the code that deals with how content is organized and weighed. This is usually achieved through HyperText Markup Language (HTML).
+: In web development, the code that deals with how content is organized and weighed. This is usually achieved through HTML (HyperText Markup Language).
 
 Structured Query Language
 : A domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). SQL is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables. The scope of SQL includes data query, data manipulation (insert, update, and delete), data definition (schema creation and modification), and data access control. Although SQL is essentially a declarative language (4GL), it also includes procedural elements. SQL was first mentioned in 1974, and became a standard of the American National Standards Institute (ANSI) in 1986.&nbsp;[†](#w-sql)

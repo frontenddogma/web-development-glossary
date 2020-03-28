@@ -114,7 +114,7 @@ Almost strict mode
 : A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification and which has been implemented in Safari, Opera 7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
 
 Amaya
-: A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
+: A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
 Amazon Silk
 : → Silk

@@ -25,7 +25,7 @@ XML Schema Definition
 : A specification for how to formally describe the elements in an Extensible Markup Language (XML) document. XSD can be used by programmers to verify each piece of item content in a document, and to check if it adheres to the description of the element it is placed in.&nbsp;[†](#w-xsd) ℹ︎&nbsp;[w3.org/TR/xmlschema-0](https://www.w3.org/TR/xmlschema-0/)
 
 XML User Interface Language
-: A user interface markup language developed by Mozilla. XUL is implemented as an XML dialect, enabling graphical user interfaces to be written in a similar manner to web pages. Such applications must be created using the Mozilla codebase (or a fork of it); the most prominent example is the Firefox web browser.&nbsp;[†](#w-xul) ℹ︎&nbsp;[developer.mozilla.org/XUL](https://developer.mozilla.org/XUL)
+: A user interface markup language developed by Mozilla. XUL is implemented as an XML dialect, enabling graphical user interfaces to be written in a similar manner to web pages. Such applications must be created using the Mozilla codebase (or a fork of it), with the Firefox web browser being the most prominent example.&nbsp;[†](#w-xul) ℹ︎&nbsp;[developer.mozilla.org/XUL](https://developer.mozilla.org/XUL)
 
 XMLHttpRequest
 : An API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser’s JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of AJAX design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML, but also HTML, JSON, or plain-text.&nbsp;[†](#w-xmlhttprequest)
@@ -34,13 +34,13 @@ XP
 : → Extreme Programming
 
 XPath
-: A query language for selecting nodes from an XML document. In addition, XPath may be used to compute values (e.g., strings, numbers, or Boolean values) from the content of an XML document. XPath was developed by the World Wide Web Consortium (W3C) in 1998.&nbsp;[†](#w-xpath) ℹ︎&nbsp;[w3.org/TR/xpath-3](https://www.w3.org/TR/xpath-3/)
+: A query language for selecting nodes from an XML document. In addition, XPath may be used to compute values (e.g., strings, numbers, or Boolean values) from the content of an XML document. XPath was developed in 1998 by the World Wide Web Consortium (W3C).&nbsp;[†](#w-xpath) ℹ︎&nbsp;[w3.org/TR/xpath-3](https://www.w3.org/TR/xpath-3/)
 
 XPointer
 : A system for addressing components of XML-based Internet media. It is divided among four specifications: a “framework” that forms the basis for identifying XML fragments, a positional element addressing scheme, a scheme for namespaces, and a scheme for XPath-based addressing. XPointer, or the XPointer Framework, became a W3C Recommendation in 2003.&nbsp;[†](#w-xpointer) ℹ︎&nbsp;[w3.org/TR/xptr-framework](https://www.w3.org/TR/xptr-framework/)
 
 XQuery
-: A query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text, and with vendor-specific extensions for other data formats (JSON, binary, etc.). The language is developed by the XML Query working group of the W3C. The work is closely coordinated with the development of XSLT by the XSL Working Group; the two groups share responsibility for XPath, which is a subset of XQuery.&nbsp;[†](#w-xquery) ℹ︎&nbsp;[w3.org/TR/xquery-31](https://www.w3.org/TR/xquery-31/)
+: A query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML or text, and with vendor-specific extensions for other data formats (JSON, binary, etc.). The language is developed by the XML Query Working Group of the World Wide Web Consortium (W3C). The work is closely coordinated with the development of XSLT by the XSL Working Group; the two groups share responsibility for XPath, which is a subset of XQuery.&nbsp;[†](#w-xquery) ℹ︎&nbsp;[w3.org/TR/xquery-31](https://www.w3.org/TR/xquery-31/)
 
 XSD
 : → XML Schema Definition

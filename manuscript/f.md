@@ -128,7 +128,7 @@ Float
 : A mechanism for visual formatting in CSS building on the `float` property, allowing content to flow along an element’s sides.
 
 Flock
-: A discontinued web browser that specialized in providing social networking and Web 2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
+: A discontinued web browser that specialized in providing social networking and Web&nbsp;2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
 
 FLOSS
 : → Free/Libre and Open Source Software
