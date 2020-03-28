@@ -192,6 +192,9 @@ App
 App shell
 : The minimal HTML, CSS, and JavaScript necessary to provide a site or app user interface.
 
+Apple Safari
+: → Safari
+
 Applet
 : Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plugin. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
 
