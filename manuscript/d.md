@@ -66,6 +66,9 @@ Database Management System
 DAU
 : → Daily Active Users
 
+DAVE
+: → Delete, add, view, edit
+
 DBC
 : → Design by Contract
 
@@ -116,6 +119,9 @@ Defect tracking system
 
 Definition of “Done”
 : A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum teams.
+
+Delete, add, view, edit
+: A variation of CRUD.&nbsp;[†](#w-crud)
 
 Demilitarized Zone
 : A physical or logical subnetwork that contains and exposes an organization’s external-facing services to an untrusted network, usually a larger network such as the Internet. The purpose of a DMZ is to add an additional layer of security to an organization’s local area network (LAN): An external network node can access only what is exposed in the DMZ, while the rest of the organization’s network is firewalled.&nbsp;[†](#w-dmz)

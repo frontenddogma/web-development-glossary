@@ -106,7 +106,7 @@ Ternary operator
 : An operator that takes three arguments. The arguments and result can be of different types. Many programming languages that use C-like syntax feature a ternary operator, `?:`, which defines a conditional expression. In some languages, this operator is referred to as the conditional operator.&nbsp;[†](#w-ternary-operator)
 
 Tesler’s Law
-: An adage in human-computer interaction stating that every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction, which poses the question of who should be exposed to the complexity. For example, should a software developer add complexity to the software code to make the interaction simpler for the user or should the user deal with a complex interface so that the software code can be simple?&nbsp;[†](#w-teslers-law)
+: An adage in human-computer interaction stating that every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction, which poses the question of who should be exposed to the complexity. For example, should a software developer add complexity to the software code to make the interaction simpler for the user, or should a user deal with a complex interface so that the software code can be simple?&nbsp;[†](#w-teslers-law)
 
 Test pyramid
 : A concept by which unit tests, service tests, and UI tests, when drawn in comparison to their desired number and suspected cost (from many cheap unit tests to few expensive UI tests), form a pyramid. The test (automation) pyramid is attributed to Mike Cohn, who wrote about it in 2009.
@@ -136,7 +136,7 @@ Thread
 : The smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. The implementation of threads and processes differs between operating systems, but in most cases a thread is a component of a process. Multiple threads can exist within one process, executing concurrently and sharing resources such as memory, while different processes do not share these resources.&nbsp;[†](#w-thread)
 
 Three-Click Rule
-: An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
+: An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
 Time box
 : A fixed time period.
@@ -145,7 +145,7 @@ Time to First Byte
 : A measurement used as an indication of the responsiveness of a web server or other network resource. TTFB measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client’s browser. This time is made up of the socket connection time, the time taken to send the HTTP request, and the time taken to get the first byte of the page. Although sometimes misunderstood as a post-DNS calculation, the original calculation of TTFB in networking always includes network latency in measuring the time it takes for a resource to begin loading.&nbsp;[†](#w-ttfb)
 
 Time to Interactive
-: A non-standardized web performance “progress” metric defined as the point in time when the last Long Task finished and was followed by 5 seconds of network and main thread inactivity. TTI, proposed by the Web Incubator Community Group in 2018, is intended to provide a metric that describes when a page or application contains useful content and the main thread is idle and free to respond to user interactions, including having event handlers registered.&nbsp;[‡](#m-tti)
+: A non-standardized web performance “progress” metric defined as the point in time when the last Long Task finished and was followed by five seconds of network and main thread inactivity. TTI, proposed by the Web Incubator Community Group in 2018, is intended to provide a metric that describes when a page or application contains useful content and the main thread is idle and free to respond to user interactions, including having event handlers registered.&nbsp;[‡](#m-tti)
 
 Time to Live
 : A mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded or revalidated. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is commonly used to improve the performance and manage the caching of data.&nbsp;[†](#w-ttl)
@@ -183,17 +183,17 @@ TOFU
 Tom’s Obvious, Minimal Language
 : A configuration file format that is intended to be easy to read and write due to obvious semantics which aim to be minimal, and that is designed to map unambiguously to a dictionary. TOML was released in 2013 by Tom Preston-Werner.&nbsp;[†](#w-toml) ℹ︎&nbsp;[github.com/toml-lang/toml](https://github.com/toml-lang/toml)
 
-TOML
-: → Tom’s Obvious, Minimal Language
-
 Tomcat
 : → Apache Tomcat
 
+TOML
+: → Tom’s Obvious, Minimal Language
+
 Tooling
-: All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of the workflow are being supported or automated.
+: All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of a workflow are being supported or automated.
 
 Top-Level Domain
-: One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name www.example.com, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA), and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
+: One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
 
 Top-posting
 : A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
@@ -243,10 +243,10 @@ Transport Layer Security
 : A cryptographic protocol designed to provide communications security over a computer network. Several versions of the TLS (and SSL) protocols find widespread use in applications such as web browsing, email, instant messaging, and voice over IP (VoIP). Websites can use TLS to secure all communications between their servers and web browsers. The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. TLS was first specified in 1999.&nbsp;[†](#w-tls)
 
 Tree-shaking
-: A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like Dart, JavaScript, or TypeScript into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree-shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is also described as “live code inclusion.”&nbsp;[†](#w-tree-shaking)
+: A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like JavaScript, TypeScript, or Dart into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree-shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is also described as “live code inclusion.”&nbsp;[†](#w-tree-shaking)
 
 Trident
-: A proprietary browser engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft. Trident was first introduced with the release of Internet Explorer version 4.0 in 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies. In the Microsoft Edge browser, Trident was superseded by its fork, EdgeHTML.&nbsp;[†](#w-trident)
+: A proprietary browser engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft. Trident was first introduced with the release of Internet Explorer version 4.0 in 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies. In the Edge browser, Trident was superseded by its fork, EdgeHTML.&nbsp;[†](#w-trident)
 
 Trust on First Use
 : A security model used by client software which needs to establish a trust relationship with an unknown or not-yet-trusted endpoint. In a TOFU model, the client will try to look up the endpoint’s identifier, usually some kind of public key, in its local trust database. If no identifier exists yet for the endpoint, the client software will either prompt the user to determine if the client should trust the identifier or it will simply trust the identifier which was given and record the trust relationship into its trust database. If a different identifier is received in subsequent connections to the endpoint the client software will consider it to be untrusted. The TOFU approach can be used when connecting to arbitrary or unknown endpoints which do not have a trusted third party, such as a certificate authority.&nbsp;[†](#w-tofu)

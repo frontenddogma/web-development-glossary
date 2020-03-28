@@ -11,7 +11,7 @@ Sandbox
 : In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software) 
 
 Sass
-: A preprocessor scripting language. Sass is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, “SCSS” (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
+: A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, SCSS (Sassy CSS), uses block formatting like that of CSS, with braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
 
 SassScript
 : The scripting language used with Sass. SassScript provides the following mechanisms: variables, nesting, mixins, and selector inheritance.&nbsp;[†](#w-sass)
@@ -36,10 +36,10 @@ SCM
 : → Source Control Management
 
 Scope
-: The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings—a precise definition is tricky, but in casual use and in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term “scope” is also used to refer to the set of all entities that are visible or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, “part of a program” refers to “portion of the source code (area of text),” and is known as lexical scope. In some languages, however, “part of a program” refers to “portion of runtime (time period during execution),” and is known as dynamic scope.&nbsp;[†](#w-scope)
+: The region of a computer program where a name binding is valid, that is, where the name can be used to refer to the entity. Such a region is referred to as a scope block. In other parts of the program the name may refer to a different entity (it may have a different binding), or to nothing at all (it may be unbound). The scope of a binding is also known as the visibility of an entity. A scope is a part of a program that can be the scope for a set of bindings, which in practice largely corresponds to a block, a function, or a file, depending on language and type of entity. The term “scope” is also used to refer to the set of all entities that are visible, or names that are valid within a portion of the program or at a given point in a program, which is more correctly referred to as context or environment. Strictly speaking, “part of a program” refers to “portion of the source code (area of text),” and is known as lexical scope. In some languages, however, “part of a program” refers to “portion of runtime (time period during execution),” and is known as dynamic scope.&nbsp;[†](#w-scope)
 
 Scoped styles
-: A concept to limit otherwise broad styles only to a certain element and its children (as opposed to having them affect many other elements of a document as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like web components. Frameworks like Vue support both concept and attribute.
+: A concept to limit otherwise broad styles to a certain element and its children (as opposed to having them affect many other elements of a document as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like web components. Frameworks like Vue support both concept and attribute.
 
 Screen reader
 : A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include interacting with dedicated Accessibility APIs, using various operating system features (like inter-process communication and querying user interface properties), and employing hooking techniques.&nbsp;[†](#w-screen-reader)
@@ -48,7 +48,7 @@ Script
 : Code, usually small routines and programs, written in a scripting language.
 
 Scripting language
-: A programming language for a special runtime environment that automates the execution of tasks; the tasks could alternatively be executed one-by-one by a human operator. Scripting languages are often interpreted (rather than compiled). A scripting language can be viewed as a domain-specific language for a particular environment. The term “scripting language” is also used loosely to refer to dynamic high-level general-purpose languages, such as Perl, PowerShell, Python, and Tcl. The spectrum of scripting languages ranges from very small and highly domain-specific languages to general-purpose programming languages used for scripting. Standard examples of scripting languages for specific environments include: Bash, for the Unix or Unix-like operating systems; ECMAScript (JavaScript), for web browsers; and Visual Basic for Applications, for Microsoft Office applications.&nbsp;[†](#w-scripting-language)
+: A programming language for a special runtime environment that automates the execution of tasks; the tasks could alternatively be executed one-by-one by a human operator. Scripting languages are often interpreted (rather than compiled). A scripting language can be viewed as a domain-specific language for a particular environment. The term “scripting language” is also used loosely to refer to dynamic high-level general-purpose languages, such as Perl, PowerShell, Python, and Tcl. The spectrum of scripting languages ranges from very small and highly domain-specific languages to general-purpose programming languages used for scripting. Standard examples of scripting languages for specific environments include: Bash, for the Unix or Unix-like operating systems; ECMAScript (JavaScript), for web browsers; and Visual Basic for Applications (VBA), for Microsoft Office applications.&nbsp;[†](#w-scripting-language)
 
 Scroll Snap
 : A CSS module that introduces scroll snap positions, which enforce the scroll positions that a scroll container’s scrollport may end at after a scrolling operation has completed.&nbsp;[‡](#m-scroll-snap) ℹ︎&nbsp;[w3.org/TR/css-scroll-snap-1](https://www.w3.org/TR/css-scroll-snap-1/)
@@ -84,7 +84,7 @@ Search Engine Advertising
 : The purchasing and managing of advertisements in online search engines and their content networks.
 
 Search engine indexing
-: The collecting, parsing, and storing of data to facilitate fast and accurate information retrieval. Index design incorporates interdisciplinary concepts from linguistics, cognitive psychology, mathematics, informatics, and computer science. Popular search engines focus on the full-text indexing of online, natural language documents. Media types such as video, audio, and graphics are also searchable.&nbsp;[†](#w-search-engine-indexing)
+: The collecting, parsing, and storing of data to facilitate fast and accurate information retrieval. Index design incorporates interdisciplinary concepts from computer science, informatics, mathematics, linguistics, and cognitive psychology. Popular search engines focus on the full-text indexing of online, natural language documents. Media types such as video, audio, and graphics are also searchable.&nbsp;[†](#w-search-engine-indexing)
 
 Search Engine Marketing
 : A form of Internet marketing that involves the promotion of websites by increasing their visibility in search engine results pages (SERPs) primarily through paid advertising. SEM may incorporate search engine optimization (SEO), which adjusts or rewrites website content and site architecture to achieve a higher ranking in search engine results pages to enhance pay per click (PPC) listings.&nbsp;[†](#w-sem)
@@ -151,7 +151,7 @@ SERP
 : → Search Engine Results Page
 
 Server
-: A server is a computer program or a device that provides functionality for other programs or devices, called clients. This architecture is called the client-server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called services, such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device. Typical servers are database servers, file servers, mail servers, print servers, web servers, game servers, and application servers.&nbsp;[†](#w-server)
+: A server is a computer program or a device that provides functionality for other programs or devices, called clients. This architecture is called the client-server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called services, such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device. Typical servers are web servers, database servers, application servers, file servers, mail servers, print servers, and game servers.&nbsp;[†](#w-server)
 
 Server cluster
 : → Cluster
@@ -176,7 +176,7 @@ Service Level Agreement
 : A commitment between a service provider and a client. Particular aspects of the service—quality, availability, responsibilities—are agreed between the service provider and the service user. The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract. As an example, Internet service providers and telcos will commonly include service level agreements within the terms of their contracts with customers to define the level(s) of service being sold in plain language terms. In this case the SLA will typically have a technical definition in mean time between failures (MTBF), mean time to repair or mean time to recovery (MTTR); identifying which party is responsible for reporting faults or paying fees; responsibility for various data rates; throughput; jitter; or similar measurable details.&nbsp;[†](#w-sla)
 
 Service Level Expectation
-: The definition and setting of expectations of a service to be given, like what time it may take for work to be done, or issues to be resolved.
+: The defining and setting of expectations for a service to be given, like what time it may take for work to be done, or issues to be resolved.
 
 Service worker
 : A JavaScript file that operates as a type of web worker. Service workers work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates, and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of registration, installation, and activation.&nbsp;[†](#w-pwa)
@@ -225,6 +225,9 @@ SI
 
 Signed HTTP Exchanges
 : A draft standard to make Internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
+
+Silk
+: A web browser for Fire OS. Silk was released in 2011 by Amazon. ℹ︎&nbsp;[amazon.com/dp/B01M35MQV4](https://www.amazon.com/dp/B01M35MQV4)
 
 Simple Mail Transfer Protocol
 : A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail, and Yahoo Mail may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol (TCP) on port number 25.&nbsp;[†](#w-smtp)
@@ -317,13 +320,13 @@ Soft opening
 : → Soft launch
 
 Software
-: A collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs, and data. Computer software includes computer programs, libraries, and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.&nbsp;[†](#w-software)
+: A collection of instructions and data that tell a computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs, and data. Computer software includes computer programs, libraries, and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.&nbsp;[†](#w-software)
 
 Software crisis
 : A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany.&nbsp;[†](#w-software-crisis)
 
 Software development
-: The process of conceiving, specifying, designing, programming, documenting, testing, and bugfixing involved in creating and maintaining applications, frameworks, or other software components. Software development is a process of writing and maintaining the source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.&nbsp;[†](#w-software-development)
+: The process of conceiving, specifying, designing, programming, documenting, testing, and bugfixing involved in creating and maintaining applications, frameworks, or other software components. Software development is a process of writing and maintaining source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process. Therefore, software development may include research, prototyping, modification, reuse, re-engineering, maintenance, and other activities that result in software products.&nbsp;[†](#w-software-development)
 
 Software framework
 : An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications and is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate the development of software applications, products, and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable the development of a project or system.&nbsp;[†](#w-software-framework)
@@ -362,7 +365,7 @@ Spamdexing
 : The deliberate manipulation of search engine indexes. Spamdexing involves a number of methods, such as link building and repeating unrelated phrases, to manipulate the relevance or prominence of resources indexed, in a manner inconsistent with the purpose of the indexing system.&nbsp;[†](#w-spamdexing)
 
 Spamming
-: The use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website. While the most widely recognized form of spam is email spam, the term is applied to similar abuses in other media: instant messaging spam, Usenet newsgroup spam, Web search engine spam, spam in blogs, wiki spam, online classified ads spam, mobile phone messaging spam, Internet forum spam, junk fax transmissions, social spam, spam mobile apps, television advertising, and file sharing spam. It is named after Spam, a luncheon meat, by way of a Monty Python sketch about a restaurant that has Spam in every dish and where patrons annoyingly chant “Spam” over and over again.&nbsp;[†](#w-spamming)
+: The use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website. While the most widely recognized form of spam is email spam, the term is applied to similar abuses in other media: instant messaging spam, Usenet newsgroup spam, search engine spam, spam in blogs, wiki spam, online classified ads spam, mobile phone messaging spam, Internet forum spam, junk fax transmissions, social spam, spam mobile apps, television advertising, and file sharing spam. It is named after Spam, a luncheon meat, by way of a Monty Python sketch about a restaurant that has Spam in every dish and where patrons annoyingly chant “Spam” over and over again.&nbsp;[†](#w-spamming)
 
 SPDY
 : A deprecated networking protocol that was developed primarily at Google for transporting web content. SPDY (pronounced “speedy”) manipulates HTTP traffic, with particular goals of reducing web page load latency and improving web security. SPDY achieves reduced latency through compression, multiplexing, and prioritization, although this depends on a combination of network and website deployment conditions. Throughout the process, the core developers of SPDY have also been involved in the development of HTTP/2, SPDY’s successor.&nbsp;[†](#w-spdy)
@@ -383,7 +386,7 @@ Spider
 : → Crawler
 
 Splash screen
-: A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page; or may simply be a rectangle near the center of the screen or page. The splash screens of operating systems and some applications that expect to be run in full screen usually cover the entire screen. On websites, splash screens are in most cases considered an anti-pattern.&nbsp;[†](#w-splash-screen)
+: A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
 
 Spoofing
 : A situation in which a person or program successfully identifies as another by falsifying data, to gain an illegitimate advantage.&nbsp;[†](#w-spoofing)
@@ -404,7 +407,7 @@ SQL injection
 : A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g., to dump database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is incorrectly filtered for string literal escape characters embedded in SQL statements, or when user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
 Squad
-: The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[labs.spotify.com/2013/03/20/agile-a-la-spotify](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
+: The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
 SSG
 : → Static Site Generator
@@ -425,7 +428,7 @@ Stack
 : An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out).&nbsp;[†](#w-stack)
 
 Stack Overflow
-: A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming. Stack Overflow was created to be a more open alternative to earlier Q&A sites. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
+: A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
 
 Stacking context
 : A three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the user, who is assumed to be facing the viewport or web page. For CSS, each box belongs to one stacking context. The `z-index` property establishes whether a box establishes a stacking context, and the level of a box in its stacking context.&nbsp;[‡](#m-stacking-context)
@@ -476,7 +479,7 @@ Streaming media
 : Multimedia that is constantly received by and presented to an end user while being delivered by a provider. The verb “to stream” refers to the process of delivering or obtaining media in this manner; the term refers to the delivery method of the medium, rather than the medium itself, and is an alternative to file downloading, a process in which the end user obtains the entire file for the content before watching or listening to it.&nbsp;[†](#w-streaming)
 
 Strict mode
-: For HTML/CSS, a web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
+: A web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a very small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
 : For JavaScript, a way to opt into a restricted variant of JavaScript, thereby implicitly opting-out of “sloppy mode.” Strict mode is not just a subset, it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so strict mode is not relied on without feature-testing for support for the relevant aspects. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally. Strict mode is triggered with `'use strict';`.&nbsp;[‡](#m-strict-mode)
 
 String
@@ -516,7 +519,7 @@ Subroutine
 : → Routine
 
 Subversion
-: A software versioning and version control system. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet, and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)
+: A software versioning and version control system. Software developers use Subversion to maintain current and historical versions of files such as source code and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet, and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)
 
 SUIT CSS
 : A CSS methodology for component-based UI development. ℹ︎&nbsp;[suitcss.github.io](https://suitcss.github.io/)

@@ -119,7 +119,7 @@ Chrome Custom Tabs
 : A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
 
 Chromium
-: A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Microsoft Edge, Opera, and Amazon Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
+: A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Edge, Opera, and Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
 
 CI
 : → Continuous Integration
@@ -433,11 +433,20 @@ CQS
 Craft
 : A pastime or a profession that requires particular skills and knowledge of skilled work.&nbsp;[†](#w-craft)
 
+CRAP
+: → Create, replicate, append, process
+
 Crawler
 : An Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering). Web search engines and some other sites use Web crawling or spidering software to update their web content or indices of others sites’ web content.&nbsp;[†](#w-crawler)
 
 Crawling
 : The systematic browsing of the World Wide Web for the purpose of indexing.&nbsp;[†](#w-crawler)
+
+Create, read, update, and delete
+: The four basic functions of persistent storage.&nbsp;[†](#w-crud)
+
+Create, replicate, append, process
+: A variation of CRUD.&nbsp;[†](#w-crud)
 
 CRM
 : → Customer Relationship Management
@@ -459,6 +468,9 @@ Cross-Site Request Forgery
 
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
+
+CRUD
+: → Create, read, update, and delete
 
 CSCS
 : → Customized Scripting in C#

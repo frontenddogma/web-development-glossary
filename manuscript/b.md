@@ -212,6 +212,9 @@ Branch
 Branching
 : The duplication of an object under version control (such as a source code file or a directory tree) so that modifications can occur in parallel along multiple branches. Branching generally implies the ability to later merge or integrate changes back onto the parent branch.&nbsp;[†](#w-branching)
 
+BREAD
+: → Browse, read, edit, add, delete
+
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
 
@@ -220,6 +223,9 @@ Broken link
 
 Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second-order context modeling.&nbsp;[†](#w-brotli) ℹ︎&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
+
+Browse, read, edit, add, delete
+: A variation of CRUD.&nbsp;[†](#w-crud)
 
 Browser
 : A software application for accessing information on the World Wide Web. When a user requests a particular website, the web browser retrieves the necessary content from a web server and displays the resulting web page on the user’s device. As of March 2019, more than 4.3 billion people use a browser, which is about 55% of the world’s population. The three most popular browsers are Chrome, Firefox, and Safari.&nbsp;[†](#w-browser)
@@ -234,7 +240,7 @@ Browser extension
 : A small software module for customizing a web browser. Browsers typically allow a variety of extensions, including user interface modifications, ad blocking, and cookie management. Browser plugins are a separate type of module. The main difference is that extensions are usually just source code, but plugins are always executables (i.e., object code). As of 2019, plugins have been deprecated by most browsers, while extensions are widely used.&nbsp;[†](#w-browser-extension)
 
 Browser Helper Object
-: A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of Internet Explorer 4. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in the default web browser Microsoft Edge.&nbsp;[†](#w-bho)
+: A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of Internet Explorer 4. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in Edge.&nbsp;[†](#w-bho)
 
 Browser sniffing
 : A set of techniques used in websites and web applications in order to determine the web browser a visitor is using, and to serve browser-appropriate content to the visitor. This practice is sometimes used to circumvent incompatibilities between browsers due to misinterpretation of HTML, Cascading Style Sheets (CSS), or the Document Object Model (DOM). While the World Wide Web Consortium maintains up-to-date central versions of some of the most important Web standards in the form of recommendations, in practice no vendor has developed a browser which adheres exactly to these standards. As a result, different browsers may display the same page differently, and browser sniffing was developed to detect the web browser in order to help ensure consistent display of content.&nbsp;[†](#w-browser-sniffing)

@@ -159,6 +159,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
+* [Create, read, update and delete](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete){#w-crud}
 * [cron](https://en.wikipedia.org/wiki/Cron){#w-cron}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery){#w-csrf}
@@ -607,7 +608,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
 * [Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode){#w-quirks-mode}
 * [Race condition](https://en.wikipedia.org/wiki/Race_condition){#w-race-condition}
-* [Raku (programming language)](http://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
+* [Raku (programming language)](https://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
 * [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
 * [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}

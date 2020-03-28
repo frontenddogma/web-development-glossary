@@ -116,6 +116,9 @@ Almost strict mode
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the W3C and INRIA from 1996 to 2012.
 
+Amazon Silk
+: → Silk
+
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
 

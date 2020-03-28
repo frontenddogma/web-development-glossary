@@ -147,6 +147,9 @@ Microsite
 Microsoft Design Language
 : A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
 
+Microsoft Edge
+: → Edge
+
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
 
@@ -225,6 +228,9 @@ Mosaic
 
 Moving Picture Experts Group
 : A working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission, the MPEG formats. The MPEG was established in 1988 by the initiative of Hiroshi Yasuda.&nbsp;[†](#w-moving-picture-experts-group) ℹ︎&nbsp;[mpeg.chiariglione.org](https://mpeg.chiariglione.org/)
+
+Mozilla Firefox
+: → Firefox
 
 MPEG
 : A series of audio and video compression standards developed by the Moving Picture Experts Group, including MPEG-1 (1993), MPEG-2 (1995), MPEG-4 (1998), MPEG-7 (2002), and MPEG-21 (2001).
