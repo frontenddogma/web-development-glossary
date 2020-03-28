@@ -1,5 +1,3 @@
-{mainmatter}
-
 # A
 
 A List Apart
