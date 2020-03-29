@@ -213,7 +213,7 @@ Branching
 : The duplication of an object under version control (such as a source code file or a directory tree) so that modifications can occur in parallel along multiple branches. Branching generally implies the ability to later merge or integrate changes back onto the parent branch.&nbsp;[†](#w-branching)
 
 BREAD
-: → Browse, read, edit, add, delete
+: → Browse, Read, Edit, Add, Delete
 
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
@@ -224,7 +224,7 @@ Broken link
 Brotli
 : A data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding, and second-order context modeling.&nbsp;[†](#w-brotli) ℹ︎&nbsp;[github.com/google/brotli](https://github.com/google/brotli)
 
-Browse, read, edit, add, delete
+Browse, Read, Edit, Add, Delete
 : A variation of CRUD.&nbsp;[†](#w-crud)
 
 Browser

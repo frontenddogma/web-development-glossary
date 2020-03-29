@@ -67,7 +67,7 @@ DAU
 : → Daily Active Users
 
 DAVE
-: → Delete, add, view, edit
+: → Delete, Add, View, Edit
 
 DBC
 : → Design by Contract
@@ -120,7 +120,7 @@ Defect tracking system
 Definition of “Done”
 : A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum teams.
 
-Delete, add, view, edit
+Delete, Add, View, Edit
 : A variation of CRUD.&nbsp;[†](#w-crud)
 
 Demilitarized Zone
