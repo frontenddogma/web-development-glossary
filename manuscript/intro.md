@@ -2,7 +2,7 @@
 
 This is a glossary for web&nbsp;development.
 
-It covers almost exactly 2,000 important, useful, and historic terms and abbreviations relevant for web (and software)&nbsp;developers.
+It covers almost 2,000 important, useful, and historic terms and abbreviations relevant for web (and software)&nbsp;developers.
 
 The glossary acquaints and reunites you with HTML, CSS, JavaScript, accessibility, security, performance, code quality, internationalization, localization, editors and tooling and much more. It then goes beyond web development, touching computer science, design, typography, usability and user experience, information as well as project management, philosophy and psychology, and then other disciplines of interest and relevance to the modern developer. It goes beyond to encourage to stay curious, to learn more about the Web and ourselves, the people building&nbsp;it.
 
@@ -20,7 +20,7 @@ Some terms and abbreviations have several meanings. Only the tech-related ones a
 
 Sometimes there is imprecision: Is a home page really a special type of web page, yet a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use respective terms, it&nbsp;is.)
 
-Unfortunately, there are going to be inconsistencies, probably errors, and perhaps also controversy. Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) as well as, if applicable, Wikipedia and MDN. Giving back to the communities, work on the book led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve. Thank you for sharing your knowledge and taking the time to contribute as&nbsp;well.
+Unfortunately, there are going to be inconsistencies, probably errors, and perhaps also controversy. Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) as well as, if applicable, Wikipedia and MDN. Giving back to the communities, work on the book has led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve. Thank you for sharing your knowledge and taking the time to contribute as&nbsp;well.
 
 ### Licenses
 
