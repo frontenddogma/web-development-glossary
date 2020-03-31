@@ -919,6 +919,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
 * [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors){#m-selector}
 * [Custom properties: CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){#m-custom-property}
+* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment){#m-destructuring}
 * [Document directive](https://developer.mozilla.org/en-US/docs/Glossary/Document_directive){#m-document-directive}
 * [DOM onevent handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers){#m-event-handler}
 * [Domain sharding](https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding){#m-domain-sharding}
@@ -979,6 +980,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
 * [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}
 * [Speed index](https://developer.mozilla.org/en-US/docs/Glossary/Speed_index){#m-speed-index}
+* [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax){#m-spread}
 * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){#m-strict-mode}
 * [Synchronous](https://developer.mozilla.org/en-US/docs/Glossary/Synchronous){#m-synchronous}
 * [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context){#m-stacking-context}

@@ -172,6 +172,12 @@ Font failure period
 Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
+`for`
+: → Loop
+
+`foreach`
+: → Loop
+
 Fork
 : The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork can imply not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 

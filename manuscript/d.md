@@ -168,6 +168,9 @@ Design strategy
 Design vocabulary
 : → Design system
 
+Destructuring
+: A JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.&nbsp;[‡](#m-destructuring)
+
 Developer Experience
 : The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 

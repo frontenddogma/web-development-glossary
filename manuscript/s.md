@@ -391,6 +391,9 @@ Splash screen
 Spoofing
 : A situation in which a person or program successfully identifies as another by falsifying data, to gain an illegitimate advantage.&nbsp;[†](#w-spoofing)
 
+Spread
+: An operator that allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected, or an object expression to be expanded in places where zero or more key-value pairs (for object literals) are expected.&nbsp;[‡](#m-spread)
+
 Sprint
 : An important, overarching event in Scrum that is to result in a potentially releasable Increment of “Done” product. A Sprint is time-boxed not to be longer than one month.
 
