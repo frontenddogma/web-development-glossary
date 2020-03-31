@@ -243,6 +243,9 @@ PR
 Preact
 : A JavaScript library described as a lightweight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
 
+Predication
+: An architectural feature that provides an alternative to conditional transfer of control, implemented by machine instructions such as conditional branch, conditional call, conditional return, and branch tables. Predication works by executing instructions from both paths of the branch and only permitting those instructions from the taken path to modify architectural state. The instructions from the taken path are permitted to modify architectural state because they have been associated (predicated) with a predicate, a Boolean value used by the instruction to control whether the instruction is allowed to modify the architectural state or not.&nbsp;[†](#w-predication)
+
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)
 

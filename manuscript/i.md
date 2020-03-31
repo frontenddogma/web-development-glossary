@@ -49,6 +49,9 @@ IE
 IETF
 : → Internet Engineering Task Force
 
+`if`
+: → Conditional
+
 Iframe
 : A frame placed inside the body of an HTML document, usually via the `iframe` element.
 

@@ -139,6 +139,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Computer file](https://en.wikipedia.org/wiki/Computer_file){#w-file}
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network){#w-network}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
+* [Conditional (computer programming)](https://en.wikipedia.org/wiki/Conditional_(computer_programming)){#w-conditional}
 * [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
 * [Cone of Uncertainty](https://en.wikipedia.org/wiki/Cone_of_Uncertainty){#w-cone-of-uncertainty}
 * [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest){#w-conflict-of-interest}
@@ -587,6 +588,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Posting style](https://en.wikipedia.org/wiki/Posting_style){#w-posting-style}
 * [Postmortem documentation](https://en.wikipedia.org/wiki/Postmortem_documentation){#w-post-mortem}
 * [PowerShell](https://en.wikipedia.org/wiki/PowerShell){#w-powershell}
+* [Predication (computer architecture)](https://en.wikipedia.org/wiki/Predication_(computer_architecture)){#w-predication}
 * [Prefetching](https://en.wikipedia.org/wiki/Prefetching){#w-prefetching}
 * [Presto (browser engine)](https://en.wikipedia.org/wiki/Presto_(browser_engine)){#w-presto}
 * [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type){#w-primitive}
@@ -911,7 +913,6 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
-* [Conditional](https://developer.mozilla.org/en-US/docs/Glossary/Conditional){#m-conditional}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
 * [CSS Logical Properties and Values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties){#m-logical-properties}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}

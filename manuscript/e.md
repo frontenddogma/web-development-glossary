@@ -57,6 +57,9 @@ Electronic Frontier Foundation
 Element
 : In HTML, a part of a document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
 
+`else`
+: → Conditional
+
 Em
 : A typographic unit equal to the currently specified point size. For example, one em in a 16-point typeface is 16 points. Therefore, this unit is the same for all typefaces at a given point size. In CSS, the `em` unit is the height of the font in nominal points or inches.&nbsp;[†](#w-em)
 
