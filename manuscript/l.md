@@ -140,7 +140,7 @@ Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
 
 Literal
-: A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
+: A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for Booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
 
 Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)

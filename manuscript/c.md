@@ -319,7 +319,7 @@ Concurrent Versions System
 : A client-server version control system. CVS was developed in 1986 by Dick Grune.&nbsp;[†](#w-cvs) ℹ︎&nbsp;[savannah.nongnu.org/projects/cvs](https://savannah.nongnu.org/projects/cvs)
 
 Conditional
-: A feature of a programming language which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false. Apart from the case of branch predication, this is achieved by selectively altering the control flow based on some condition. In imperative programming languages, the term “conditional statement” is usually used, whereas in functional programming, “conditional expression” or “conditional construct” are preferred.&nbsp;[†](#w-conditional)
+: A feature of a programming language which perform different computations or actions depending on whether a programmer-specified Boolean condition evaluates to true or false. Apart from the case of branch predication, this is achieved by selectively altering the control flow based on some condition. In imperative programming languages, the term “conditional statement” is usually used, whereas in functional programming, “conditional expression” or “conditional construct” are preferred.&nbsp;[†](#w-conditional)
 
 Conditional Comments
 : Conditional statements in HTML, interpreted by Microsoft Internet Explorer 5–9. Conditional comments can be used to provide and hide code to and from Internet Explorer. Conditional comments are no longer supported in Internet Explorer 10 and 11.&nbsp;[†](#w-conditional-comments)

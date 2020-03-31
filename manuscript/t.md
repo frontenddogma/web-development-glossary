@@ -276,7 +276,7 @@ Turbo pages
 : A website publishing technology based on feed syndication, developed by Yandex. Turbo pages were introduced in 2017. ℹ︎&nbsp;[tech.yandex.com/turbo](https://tech.yandex.com/turbo/)
 
 Type
-: An attribute of data which tells the compiler or interpreter how the data is intended to be used. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters, and booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e., variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)
+: An attribute of data which tells the compiler or interpreter how the data is intended to be used. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters, and Booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e., variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)
 
 Type coercion
 : → Type conversion
