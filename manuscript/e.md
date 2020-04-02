@@ -88,7 +88,7 @@ Empty string
 : The unique string of length zero.&nbsp;[†](#w-empty-string)
 
 Encapsulation
-: The bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object’s components. Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties’ direct access to them. Publicly accessible methods are generally provided in the class (so-called “getters” and “setters”) to access the values, and other client classes call these methods to retrieve and modify the values within the object.&nbsp;[†](#w-encapsulation)
+: The bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object’s components. Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties’ direct access to them. Publicly accessible methods are generally provided in the class (so-called getters and setters) to access the values, and other client classes call these methods to retrieve and modify the values within the object.&nbsp;[†](#w-encapsulation)
 
 Encrypted Media Extensions
 : A W3C specification for providing a communication channel between web browsers and digital rights management (DRM) agent software. EME allows the use of HTML video to play back DRM-wrapped content such as streaming video services without the use of heavy third-party media plugins like Adobe Flash or Microsoft Silverlight. The use of a third-party key management system may be required, depending on whether the publisher chooses to scramble the keys. EME is based on the Media Source Extensions specification. ℹ︎&nbsp;[w3.org/TR/encrypted-media](https://www.w3.org/TR/encrypted-media/)

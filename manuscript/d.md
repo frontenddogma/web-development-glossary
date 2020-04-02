@@ -279,7 +279,7 @@ DoS
 : → Denial of Service
 
 Dot file
-: A file (or folder) that starts with a dot character (for example, /home/user/.config). It is treated as hidden, that is, the `ls` command does not display them unless the `-a` flag (`ls -a`) is used. In most command-line shells, wildcards will not match files whose names start with “.” unless the wildcard itself starts with an explicit “.”. A convention arose of using dotfiles in the user’s home directory to store per-user configuration or informational text.&nbsp;[†](#w-hidden-file-dir)
+: A file (or folder) that starts with a dot character (for example, .profile or .zshrc). It is treated as hidden, that is, the `ls` command does not display them unless the `-a` flag (`ls -a`) is used. In most command-line shells, wildcards will not match files whose names start with “.” unless the wildcard itself starts with an explicit “.”. A convention arose of using dotfiles in the user’s home directory to store per-user configuration or informational text.&nbsp;[†](#w-hidden-file-dir)
 
 Dot notation
 : One of two ways to access object properties in JavaScript (`objectName.propertyName`), the other being bracket notation.

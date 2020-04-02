@@ -4,7 +4,7 @@
 : → .NET Framework
 
 .NET Framework
-: A software framework developed by Microsoft that runs primarily on Microsoft Windows. The .NET Framework includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for the .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using the .NET Framework is called “managed code.” FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
+: A software framework developed by Microsoft that runs primarily on Microsoft Windows. The .NET Framework includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for the .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using the .NET Framework is called managed code. FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
 
 n-based indexing
 : The option to freely choose the base index of an array. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.&nbsp;[†](#w-array)
@@ -119,7 +119,7 @@ Number
 : In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
-: The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as “hashtags,” and from that, the symbol itself is sometimes called a “hashtag.”&nbsp;[†](#w-number-sign)
+: The symbol `#`, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois”, having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as hashtags, and from that, the symbol itself is sometimes called a hashtag.&nbsp;[†](#w-number-sign)
 
 Numeral
 : → Numerical digit

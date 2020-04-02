@@ -28,7 +28,7 @@ RDF
 : → Resource Description Framework
 
 RDF Site Summary
-: A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. An RSS document (called “feed,” “web feed,” or “channel”) includes full or summarized text, and metadata, like publishing date and author names.&nbsp;[†](#w-rss)
+: A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. An RSS document (called feed, web feed, or channel) includes full or summarized text, and metadata, like publishing date and author names.&nbsp;[†](#w-rss)
 
 RDSMS
 : → Relational Data Stream Management System
@@ -288,7 +288,7 @@ RPM
 : → RPM Package Manager
 
 RPM Package Manager
-: Originally called “Red Hat Package Manager”, a free and open source package management system. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
+: Originally called Red Hat Package Manager, a free and open source package management system. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
 RSS
 : → RDF Site Summary

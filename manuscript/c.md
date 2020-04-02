@@ -52,7 +52,7 @@ Case
 : In typography, as _letter_ case, the distinction between the letters that are in larger upper case (also uppercase, capital letters, capitals, caps, large letters, or more formally majuscule) and smaller lower case (also lowercase, small letters, or more formally minuscule) in the written representation of certain languages.&nbsp;[†](#w-case-typography)
 
 `catch`
-: → Try catch
+: → `try`…`catch`
 
 CBD
 : → Component-Based Development
@@ -235,7 +235,7 @@ Codeline
 : → Branch
 
 CodePen
-: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called “pens,” test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
+: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called pens, test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
 
 Coding by Convention
 : → Convention over Configuration
