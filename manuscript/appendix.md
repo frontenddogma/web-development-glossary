@@ -1,4 +1,4 @@
-{backmatter}
+{section: backmatter}
 
 # Appendix
 
