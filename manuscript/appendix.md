@@ -1,5 +1,3 @@
-{section: backmatter}
-
 # Appendix
 
 ## Wikipedia Contributions
