@@ -215,7 +215,7 @@ WHATWG
 : → Loop
 
 White-box testing
-: A method of software testing that tests internal structures or workings of an application, as opposed to its functionality (i.e., black-box testing). In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases. The tester chooses inputs to exercise paths through the code and determine the expected outputs. White-box testing can be applied at the unit, integration, and system levels of the software testing process.&nbsp;[†](#w-white-box-testing)
+: A method of software testing that tests internal structures or workings of an application, as opposed to its functionality (i.e., black-box testing). In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases. The tester chooses inputs to exercise paths through the code and to determine the expected outputs. White-box testing can be applied at the unit, integration, and system levels of the software testing process.&nbsp;[†](#w-white-box-testing)
 
 Whitelist
 : The practice of explicitly allowing identified entities access to a particular privilege, service, mobility, access, or recognition. The opposite of a whitelist is a blacklist.&nbsp;[†](#w-whitelist)
