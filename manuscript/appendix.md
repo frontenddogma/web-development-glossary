@@ -320,6 +320,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
+* [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV){#w-hsx}
 * [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -340,6 +341,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Image](https://en.wikipedia.org/wiki/Image){#w-image}
 * [Image map](https://en.wikipedia.org/wiki/Image_map){#w-image-map}
 * [Immutable object](https://en.wikipedia.org/wiki/Immutable_object){#w-immutable}
+* [Indexed color](https://en.wikipedia.org/wiki/Indexed_color){#w-indexed-color}
 * [Indexed Database API](https://en.wikipedia.org/wiki/Indexed_Database_API){#w-indexeddb}
 * [Industrial design](https://en.wikipedia.org/wiki/Industrial_design){#w-industrial-design}
 * [Information architecture](https://en.wikipedia.org/wiki/Information_architecture){#w-ia}
@@ -709,6 +711,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
 * [SQL](https://en.wikipedia.org/wiki/SQL){#w-sql}
 * [SQL injection](https://en.wikipedia.org/wiki/SQL_injection){#w-sql-injection}
+* [sRGB](https://en.wikipedia.org/wiki/SRGB){#w-srgb}
 * [SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol){#w-sftp}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
 * [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow){#w-stack-overflow}

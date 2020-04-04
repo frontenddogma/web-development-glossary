@@ -88,6 +88,9 @@ Inclusive Design
 Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. The Increment is created by members of the Development Team. It must be usable and meet the definition of “Done.”
 
+Indexed color
+: A technique to manage digital images’ colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. Indexed color is a form of vector quantization compression. When an image is encoded this way, color information is not directly carried by the image pixel data, but stored in a separate piece of data called a palette, that is, an array of color elements.&nbsp;[†](#w-indexed-color)
+
 Indexed Database
 : A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
 

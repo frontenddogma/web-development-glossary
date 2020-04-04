@@ -127,6 +127,12 @@ Houdini
 HPR
 : → Home Page Reader
 
+HSL
+: → Hue, Saturation, Lightness
+
+HSV
+: → Hue, Saturation, Value
+
 HSTS
 : → HTTP Strict Transport Security
 
@@ -174,6 +180,12 @@ HTTPS
 
 HTTPS Everywhere
 : A browser extension for Chrome, Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
+
+Hue, Saturation, Lightness
+: An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
+
+Hue, Saturation, Value
+: An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
 
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)

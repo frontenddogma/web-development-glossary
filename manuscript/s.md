@@ -412,6 +412,9 @@ SQL injection
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
+sRGB
+: → standard Red Green Blue
+
 SSG
 : → Static Site Generator
 
@@ -444,6 +447,9 @@ Standard
 
 Standard Generalized Markup Language
 : A standard for defining generalized markup languages for documents. ISO 8879 Annex A.1 states that generalized markup is based on two postulates: 1) Declarative, for markup to describe a document’s structure and other attributes rather than specify the processing that needs to be performed, because that is less likely to conflict with future developments. 2) Rigorous, in order to allow markup to take advantage of the techniques available for processing strictly defined objects like programs and databases. SGML was first defined in 1986. HTML was theoretically an example of an SGML-based language until HTML&nbsp;5, which browsers cannot parse as SGML for compatibility reasons.&nbsp;[†](#w-sgml)
+
+standard Red Green Blue
+: An RGB color space that HP and Microsoft created cooperatively in 1996 to use on monitors, printers, and the Internet. sRGB was subsequently standardized by the IEC as IEC 61966-2-1:1999. It is often the default color space for images that contain no color space information, especially if the images’ pixels are stored in 8-bit integers per color channel.&nbsp;[†](#w-srgb)
 
 Standards mode
 : → Strict mode
