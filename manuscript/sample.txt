@@ -1,10 +1,7 @@
-frontmatter.md
 acknowledgments.md
 intro.md
-mainmatter.md
 main.md
 a.md
 b.md
 c.md
-backmatter.md
 appendix.md
