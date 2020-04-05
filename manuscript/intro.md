@@ -24,7 +24,7 @@ Unfortunately, there are going to be inconsistencies, probably errors, and perha
 
 ### Licenses
 
-The Web Development Glossary is licensed under a [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
+_The Web Development Glossary_ is licensed under a [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 A great number of explanations build on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). They are marked “†” and attributed in the Appendix. The original material is licensed under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
