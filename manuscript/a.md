@@ -160,7 +160,7 @@ Anonymous inline box
 : Inline boxes that do not have an associated inline-level element.
 
 Anonymous inline element
-: Any text that is directly contained inside a block container element that’s not inside an inline element.
+: Any text that is directly contained inside a block container element that is not inside an inline element.
 
 Anonymous text
 : Any string of characters that is not contained within an inline element. 
@@ -289,7 +289,7 @@ Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
 
 Attribute minimization
-: The valid option for a Boolean attribute not to have a value if it’s set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; for example, `checked` is suggested to be written `checked="checked"`.
+: The valid option for a Boolean attribute not to have a value if it is set (and therefore true). In XML-based languages, attribute minimization is disallowed and attributes must have a value; for example, `checked` is suggested to be written `checked="checked"`.
 
 Augmented Reality
 : An interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory. AR can be defined as a system that fulfills three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.&nbsp;[†](#w-ar)
@@ -304,7 +304,7 @@ Authorization
 : The specifying of access rights and privileges to resources, which is related to information security and computer security in general, and to access control in particular. More formally, “to authorize” is to define an access policy.&nbsp;[†](#w-authorization)
 
 Automagic
-: A blend of “automatic” and “magic,” referring to an action that’s performed automatically but also in a way as to seem magical.
+: A blend of “automatic” and “magic,” referring to an action that is performed automatically but also in a way as to seem magical.
 
 Automatic Semicolon Insertion
 : An ECMAScript feature in which a semicolon is automatically inserted when two statements are separated by a line ending or a closing brace (`}`), or if a line ending follows either of `break`, `continue`, `return`, or `throw` (restricted production).

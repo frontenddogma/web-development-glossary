@@ -223,7 +223,7 @@ PostCSS
 : A software development tool that uses JavaScript-based plugins to automate routine CSS operations. PostCSS was first released in 2013.&nbsp;[†](#w-postcss) ℹ︎&nbsp;[postcss.org](https://postcss.org/)
 
 Postel’s Law
-: “Be conservative in what you send, be liberal in what you accept.” Also known as the Robustness Principle, it’s named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: Be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
+: “Be conservative in what you send, be liberal in what you accept.” Also known as the Robustness Principle, it is named after Jon Postel, who wrote in an early specification of TCP that “TCP implementations should follow a general principle of robustness: Be conservative in what you do, be liberal in what you accept from others.”&nbsp;[†](#w-postels-law)
 
 POUR
 : → Perceivable, Operable, Understandable, and Robust

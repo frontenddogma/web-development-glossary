@@ -19,7 +19,7 @@ NaN
 : → Not a Number
 
 Native
-: Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it’s using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
+: Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it is using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
 Navigation
 : A menu UI element for website navigation.

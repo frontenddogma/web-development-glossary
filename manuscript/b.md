@@ -116,7 +116,7 @@ Block container
 : → Block container element
 
 Block container box
-: A block-level box that’s not a table box or the principal box of a replaced element. It either contains only block-level boxes or, if establishing an inline formatting context, only inline-level boxes.
+: A block-level box that is not a table box or the principal box of a replaced element. It either contains only block-level boxes or, if establishing an inline formatting context, only inline-level boxes.
 
 Block container element
 : An element whose principal box is a block container box.

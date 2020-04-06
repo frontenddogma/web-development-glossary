@@ -40,7 +40,7 @@ Global
 : → Global scope
 
 Global object
-: An object that always exists in the global scope. In JavaScript, there’s always a global object defined. In a web browser, when scripts create global variables, they’re created as members of the global object (this is not the case in Node.js). The global object’s interface depends on the execution context in which the script is running.&nbsp;[‡](#m-global-object)
+: An object that always exists in the global scope. In JavaScript, there is always a global object defined. In a web browser, when scripts create global variables, they are created as members of the global object (this is not the case in Node.js). The global object’s interface depends on the execution context in which the script is running.&nbsp;[‡](#m-global-object)
 
 Global scope
 : The scope that contains, and is visible in, all other scopes. In client-side JavaScript, the global scope is generally the web page inside which all the code is being executed.&nbsp;[‡](#m-global-scope)
