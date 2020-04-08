@@ -178,6 +178,9 @@ Developer Tools
 : Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or application.&nbsp;[†](#w-developer-tools)
 : A set of web developer tools built directly into the Chrome web browser (Chrome DevTools). ℹ︎&nbsp;[is.gd/TsOXbb](https://developers.google.com/web/tools/chrome-devtools)
 
+Development and operations
+: → DevOps
+
 Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
@@ -297,7 +300,7 @@ DQL
 : → Data Query Language
 
 Dreamweaver
-: A proprietary web design and development tool. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe in 2005.&nbsp;[†](#w-dreamweaver)
+: A proprietary web design and development tool. Dreamweaver was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe in 2005.&nbsp;[†](#w-dreamweaver)
 
 Driver
 : The code-writing role in pair programming.
