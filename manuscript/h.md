@@ -130,11 +130,11 @@ HPR
 HSL
 : → Hue, Saturation, Lightness
 
-HSV
-: → Hue, Saturation, Value
-
 HSTS
 : → HTTP Strict Transport Security
+
+HSV
+: → Hue, Saturation, Value
 
 HTML
 : → HyperText Markup Language
