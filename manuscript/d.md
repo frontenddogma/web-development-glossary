@@ -230,6 +230,9 @@ DNS
 : → Domain Name Service
 : → Domain Name System
 
+DocBook
+: A semantic markup language originally created for technical documentation. As a semantic language, DocBook documents do not describe what their contents “look like,” but rather the meaning of those contents.&nbsp;[†](#w-docbook) ℹ︎&nbsp;[docbook.org](https://docbook.org/)
+
 Doctype
 : An instruction that associates a particular SGML (for example, a web page) with a document type definition (DTD) (for example, the formal definition of a particular version of HTML) or XML document. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks mode or standards mode. The `text/html` serialization of HTML, which is not SGML-based, uses the doctype only for mode selection. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will not access them even if a URL is provided. The doctype is retained in current HTML as a “mostly useless, but required“ header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
 
@@ -238,6 +241,9 @@ Document directive
 
 Document Object Model
 : A cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style, or content of a document. Nodes can have event handlers attached to them.&nbsp;[†](#w-dom) ℹ︎&nbsp;[dom.spec.whatwg.org](https://dom.spec.whatwg.org/)
+
+Document Style Semantics and Specification Language
+: An international standard developed to provide style sheets for SGML documents. DSSSL consists of two parts: a tree transformation process that can be used to manipulate the tree structure of documents prior to presentation, and a formatting process that associates the elements in the source document with specific nodes in the target representation—the flow object tree. DSSSL is compatible with any SGML-based document type, but it has been used most often with DocBook.&nbsp;[†](#w-dsssl)
 
 Document type declaration
 : → Doctype
@@ -313,6 +319,9 @@ DRY
 
 DSMS
 : → Data Stream Management System
+
+DSSSL
+: → Document Style Semantics and Specification Language
 
 DTD
 : → Document Type Definition

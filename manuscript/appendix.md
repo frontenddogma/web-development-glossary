@@ -208,7 +208,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
+* [DocBook](https://en.wikipedia.org/wiki/DocBook){#w-docbook}
 * [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model){#w-dom}
+* [Document Style Semantics and Specification Language](https://en.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language){#w-dsssl}
 * [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration){#w-doctype}
 * [Document type definition](https://en.wikipedia.org/wiki/Document_type_definition){#w-dtd}
 * [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
@@ -268,6 +270,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
+* [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
 * [Fragment identifier](https://en.wikipedia.org/wiki/Fragment_identifier){#w-fragment-identifier}
 * [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
 * [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
@@ -558,6 +561,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Parkinson’s law](https://en.wikipedia.org/wiki/Parkinson's_law){#w-parkinsons-law}
 * [Parsing](https://en.wikipedia.org/wiki/Parsing){#w-parsing}
 * [Patch (computing)](https://en.wikipedia.org/wiki/Patch_(computing)){#w-patch}
+* [Path (computing)](https://en.wikipedia.org/wiki/Path_(computing)){#w-path-computing}
+* [PATH (variable)](https://en.wikipedia.org/wiki/PATH_(variable)){#w-path-variable}
 * [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}

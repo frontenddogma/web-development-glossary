@@ -187,6 +187,12 @@ Form
 Formatting context
 : A concept that governs how boxes are laid out with CSS. There are different formatting contexts, like block formatting context, inline formatting context, and table formatting context.
 
+Formatting Output Specification Instance
+: A style sheet language for SGML and, later, XML. FOSI was developed in the 1990s by the US Department of Defense to control the pagination and layout of SGML and XML technical data. FOSI style sheets are themselves written in SGML, an approach that would later be adopted by XSL.&nbsp;[†](#w-fosi)
+
+FOSI
+: → Formatting Output Specification Instance
+
 FOSS
 : → Free and Open Source Software
 

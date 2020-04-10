@@ -67,6 +67,12 @@ Patch
 : A set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, like around functionality, performance, or usability. Patches are also called bugfixes (or bug fixes).&nbsp;[†](#w-patch)
 : → Change list
 
+Path
+: The general form of the name of a file or directory, specifying a unique location in a file system. A path points to a file system location by following the directory tree hierarchy expressed in a string of characters in which path components, separated by a delimiting character, represent each directory. The delimiting character is most commonly a slash (“/”), backslash character (“\”), or colon (“:”), though some operating systems may use a different delimiter.&nbsp;[†](#w-path-computing)
+
+`PATH`
+: An environment variable on Unix-like operating systems, OS/2, DOS, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own `PATH` setting.&nbsp;[†](#w-path-variable)
+
 Pattern
 : A design element or component, and a re-usable form of a solution to a design problem.&nbsp;[†](#w-pattern)
 

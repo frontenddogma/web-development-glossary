@@ -43,6 +43,9 @@ Cart
 Cascade
 : The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration “wins”).
 
+Cascading HTML Style Sheets
+: A style sheet language proposal drafted in 1994 by Håkon Wium Lie. ℹ︎&nbsp;[w3.org/People/howcome/p/cascade](https://www.w3.org/People/howcome/p/cascade.html)
+
 Cascading Style Sheets
 : A style sheet language that allows to manage the presentation of markup languages like HTML or XML. The first final specification of CSS was published in 1996 by Håkon Wium Lie and Bert Bos. ℹ︎&nbsp;[w3.org/Style/CSS](https://www.w3.org/Style/CSS/)
 
@@ -123,6 +126,9 @@ Chrome Custom Tabs
 
 Chromium
 : A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Edge, Opera, and Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
+
+CHSS
+: → Cascading HTML Style Sheets
 
 CI
 : → Continuous Integration
