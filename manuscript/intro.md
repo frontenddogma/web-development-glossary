@@ -1,3 +1,4 @@
+{sample: true}
 # Introduction
 
 This is a glossary for web&nbsp;development.
