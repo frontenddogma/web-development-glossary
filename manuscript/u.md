@@ -6,6 +6,9 @@ UA
 UAAG
 : → User Agent Accessibility Guidelines
 
+UAT
+: → User acceptance testing
+
 UCD
 : → User-Centered Design
 
@@ -129,6 +132,9 @@ Usenet
 
 User
 : A person who utilizes a computer or network service. Users of computer systems and software products often lack the technical expertise required to fully understand how they work. Power users use advanced features of programs, though they are not necessarily capable of computer programming and system administration. Some software products provide services to other systems and have no direct end users. End users are the ultimate human users (also referred to as operators) of a software product. The term is used to abstract and distinguish those who only use the software from the developers of the system, who enhance the software for end users. In user-centered design, it also distinguishes the software operator from the client who pays for its development and other stakeholders who may not directly use the software, but help establish its requirements.&nbsp;[†](#w-user)
+
+User acceptance testing
+: → Acceptance testing
 
 User agent
 : Software (a software agent) that is acting on behalf of a user, such as a web browser that retrieves, renders, and facilitates user interaction with web content. An email reader is a mail user agent. In many cases, a user agent acts as a client in a network protocol used in communications within a client-server distributed computing system.&nbsp;[†](#w-ua)
