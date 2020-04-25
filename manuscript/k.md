@@ -29,7 +29,7 @@ KHTML
 : A browser engine developed by the KDE project. KHTML is the engine used by the Konqueror web browser. Although it has not seen significant development since 2016, it is still actively maintained.
 
 Knowledge Graph
-: A knowledge base used by Google and its services to enhance its search engine’s results with information gathered from a variety of sources. The information is presented to users in an info box next to search results. Knowledge Graph info boxes were added to Google’s search engine in 2012, starting in the United States. The information covered by the Knowledge Graph grew significantly after launch (covering 570 million entities and 18 billion facts), answering “roughly one third” of the 100 billion monthly searches Google processed in 2016.&nbsp;[†](#w-knowledge-graph)
+: A knowledge base used by Google and its services to enhance its search engine’s results with information gathered from a variety of sources. The information is presented to users in an info box next to search results. Knowledge Graph info boxes were added to Google’s search engine in 2012, starting in the United States. The information covered by the Knowledge Graph grew significantly after launch (covering 570 million entities and 18 billion facts), answering roughly one third of the 100 billion monthly searches Google processed in 2016.&nbsp;[†](#w-knowledge-graph)
 
 Konqueror
 : A web browser and file management tool. Konqueror was first released in 1996. ℹ︎&nbsp;[konqueror.org](https://konqueror.org/)

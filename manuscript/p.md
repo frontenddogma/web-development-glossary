@@ -7,7 +7,7 @@ package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
 Packed
-: A property of an array that consists only of elements, and that can be optimized accordingly.
+: A property of an array that consists only of elements (no holes), and that can be optimized accordingly.
 
 Packet
 : A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example, source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers.&nbsp;[†](#w-packet)

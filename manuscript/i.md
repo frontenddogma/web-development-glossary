@@ -68,7 +68,7 @@ Image map
 : A list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination). Image maps can be created in different ways, from server-side image maps relying on the `ismap` attribute to client-side image maps using the `map` and `area` elements, or a combination of list markup and CSS styling.&nbsp;[†](#w-image-map)
 
 Image replacement
-: An early web design technique that uses Cascading Style Sheets to replace text on a web page with an image containing that text. Image replacement is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[is.gd/LVXQZj](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
+: An early web design technique that uses CSS to replace text on a web page with an image containing that text. Image replacement is intended to keep the page accessible to users of screen readers, text-only web browsers, or other browsers where support for images or style sheets is either disabled or non-existent, while allowing the image to differ between styles.&nbsp;[†](#w-image-replacement) ℹ︎&nbsp;[is.gd/LVXQZj](https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fmeiert.com%2Fde%2Fpublications%2Farticles%2F20050513%2F)
 
 IMAP
 : → Internet Message Access Protocol
