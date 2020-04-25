@@ -37,4 +37,4 @@ A handful of explanations build on the [HTML Living Standard](https://html.spec.
 
 Use this glossary at your own risk. Despite all passion and care that went into producing this book, I, Jens Oliver Meiert, assume no liability for errors or omissions in its contents. All information is subject to change and provided “as is,” with no guarantees of completeness, accuracy, or&nbsp;usefulness.
 
-This all being said: Enjoy. Web development is a great&nbsp;field.
+This all being said: Enjoy. Web Development is a great&nbsp;field.
