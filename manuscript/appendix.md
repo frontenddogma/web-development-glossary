@@ -40,7 +40,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ASP.NET](https://en.wikipedia.org/wiki/ASP.NET){#w-aspnet}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
 * [Assignment (computer science)](https://en.wikipedia.org/wiki/Assignment_(computer_science)){#w-assignment}
-* [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-at}
+* [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-assistive-technology}
 * [Assistive Technology Service Provider Interface](https://en.wikipedia.org/wiki/Assistive_Technology_Service_Provider_Interface){#w-at-spi}
 * [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){#w-acm}
 * [Asynchronous module definition](https://en.wikipedia.org/wiki/Asynchronous_module_definition){#w-amd}

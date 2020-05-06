@@ -248,7 +248,7 @@ Assignment
 : The setting or resetting of the value stored in the storage location(s) denoted by a variable name; in other words, an assignment statement copies a value into the variable. In most imperative programming languages, the assignment statement (or expression) is a fundamental construct. Today, the most commonly used notation for this basic operation has come to be `x = expr` (originally Superplan 1949–51, popularized by Fortran 1957 and C) followed by `x := expr` (originally ALGOL 1958, popularized by Pascal), although there are many other notations in use.&nbsp;[†](#w-assignment)
 
 Assistive technology
-: Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-at)
+: Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living.&nbsp;[†](#w-assistive-technology)
 
 Assistive Technology Service Provider Interface
 : A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. AT-SPI is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project.&nbsp;[†](#w-at-spi)
