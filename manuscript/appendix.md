@@ -10,6 +10,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing){#w-acceptance-testing}
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
+* [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
@@ -911,6 +912,7 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 This book uses material from the following articles by Mozilla&nbsp;contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
+* [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Bounding Box](https://developer.mozilla.org/en-US/docs/Glossary/bounding_box){#m-bounding-box}
