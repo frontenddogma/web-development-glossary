@@ -165,6 +165,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
 * [Control flow](https://en.wikipedia.org/wiki/Control_flow){#w-control-flow}
 * [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration){#w-convention-over-configuration}
+* [Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law){#w-conways-law}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}

@@ -425,6 +425,13 @@ Control flow
 Convention over Configuration
 : A software design paradigm used by software frameworks that attempts to decrease the number of decisions that a developer using the framework is required to make without necessarily losing flexibility. The concept was introduced by David Heinemeier Hansson to describe the philosophy of the Ruby on Rails web framework, but is related to earlier ideas like the concept of “sensible defaults” and the principle of least astonishment in user interface design. The phrase essentially means a developer only needs to specify unconventional aspects of the application.&nbsp;[†](#w-convention-over-configuration)
 
+Conversion
+: In engineering, the converting of data from one format to another.
+: In marketing, the converting of visitors to customers (or to visitors who meet another conversion goal).
+
+Conway’s Law
+: The adage that organizations design systems that mirror their own communication structure. Conway’s Law is named after computer programmer Melvin Conway, who introduced the idea in 1967. His original wording was: “Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization’s communication structure.”&nbsp;[†](#w-conways-law)
+
 Cookie
 : A small piece of data sent from a website and stored on a user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether a user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
