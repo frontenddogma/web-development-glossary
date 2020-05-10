@@ -15,6 +15,9 @@ Falsy
 Fat footer
 : A footer UI element but with a substantial amount of content and links. A “fat footer” stands in contrast to a minimal web page footer consisting only of basic navigation aids (like a home link) and meta-information (like legal notice and contact information).
 
+Favelet
+: → Bookmarklet
+
 Favicon
 : A file containing one or more small icons, associated with a particular website or web page. Browsers that provide favicon support typically display a page’s favicon in the browser’s address bar (sometimes in the history as well) and next to the page’s name in a list of bookmarks. Browsers that support a tabbed document interface typically show a page’s favicon next to the page’s title on the tab, and site-specific browsers use the favicon as a desktop icon.&nbsp;[†](#w-favicon)
 

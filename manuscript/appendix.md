@@ -56,7 +56,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
+* [Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography)){#w-baseline}
 * [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
+* [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication){#w-ba}
 * [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
@@ -72,6 +74,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Blogosphere](https://en.wikipedia.org/wiki/Blogosphere){#w-blogosphere}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
+* [Bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet){#w-bookmarklet}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem){#w-boundary-value-problem}
@@ -79,6 +82,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control)){#w-branching}
 * [Braille](https://en.wikipedia.org/wiki/Braille){#w-braille}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
+* [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint){#w-breakpoint}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browser extension](https://en.wikipedia.org/wiki/Browser_extension){#w-browser-extension}
@@ -91,7 +95,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
+* [Camel case](https://en.wikipedia.org/wiki/Camel_case){#w-camel-case}
 * [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
+* [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA){#w-captcha}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
@@ -121,6 +127,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
+* [Color scheme](https://en.wikipedia.org/wiki/Color_scheme){#w-color-scheme}
+* [Color wheel](https://en.wikipedia.org/wiki/Color_wheel){#w-color-wheel}
 * [Comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values){#w-csv}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
@@ -132,6 +140,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Community of practice](https://en.wikipedia.org/wiki/Community_of_practice){#w-cop}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
+* [Complementary colors](https://en.wikipedia.org/wiki/Complementary_colors){#w-complementary-colors}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
 * [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster){#w-cluster}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
@@ -196,6 +205,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
 * [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle){#w-dip}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
+* [Descender](https://en.wikipedia.org/wiki/Descender){#w-descender}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract){#w-dbc}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
@@ -982,6 +992,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element){#m-replaced-element}
 * [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
+* [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design){#m-breakpoint}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
 * [Scrollport](https://developer.mozilla.org/en-US/docs/Glossary/Scrollport){#m-scrollport}

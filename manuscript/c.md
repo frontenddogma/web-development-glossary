@@ -17,6 +17,9 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
+Camel case
+: The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay”. Camel case is also sometimes used in online usernames such as “johnSmith”. In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
+
 Canonical equivalence
 : The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)
 
@@ -28,6 +31,9 @@ Canonical Name
 
 Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
+
+CAPTCHA
+: A type of challenge–response test used in computing to determine whether or not the user is human. The term stands for “completely automated public Turing test to tell computers and humans apart” and was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.&nbsp;[†](#w-captcha)
 
 Card sorting
 : A method that aids the design or evaluation of the information architecture of a website. Card sorting is usually performed with groups, with attendees organizing topics into categories or folksonomies.
@@ -259,8 +265,17 @@ Collapsed margin
 Color blindness
 : The decreased ability to see color or differences in color. 8% of men and 0.5% of women have some form of color blindness. The most common forms of color blindness are deuteranomaly, deuteranopia, protanomaly, and protanopia.&nbsp;[†](#w-color-blindness)
 
+Color circle
+: → Color wheel
+
 Color management
 : The controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and corresponding media. The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD monitor, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities. Color management cannot guarantee identical color reproduction, as this is rarely possible, but it can at least give more control over any changes which may occur.&nbsp;[†](#w-color-management)
+
+Color scheme
+: The choice of colors used in design to create style and appeal. Colors that create an aesthetic feeling when used together will commonly accompany each other in color schemes.&nbsp;[†](#w-color-scheme)
+
+Color wheel
+: An abstract illustrative organization of color hues around a circle, which shows the relationships between primary colors, secondary colors, tertiary colors, etc. Some sources use the terms “color wheel” and “color circle” interchangeably; however, one term or the other may be more prevalent in certain fields.&nbsp;[†](#w-color-wheel)
 
 Comma-Separated Values
 : As a CSV file, a delimited text file that uses a comma to separate values. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format. A CSV file typically stores tabular data (numbers and text) in plain-text, in which case each line will have the same number of fields. The CSV file format is not fully standardized.&nbsp;[†](#w-csv)
@@ -306,6 +321,9 @@ Compiler
 
 Compiling
 : The translating of computer code written in one programming language into another language.&nbsp;[†](#w-compiler)
+
+Complementary colors
+: Pairs of colors which, when combined or mixed, cancel each other out (lose hue) by producing a grayscale color like white or black. When placed next to each other, they create the strongest contrast for those two colors. Complementary colors may also be called “opposite colors.” Modern color theory uses either the RGB additive color model or the CMY subtractive color model, and in these, the complementary pairs are red-cyan, green-magenta, and blue-yellow. In the traditional RYB color model, the complementary color pairs are red-green, yellow-purple, and blue-orange. Opponent process theory suggests that the most contrasting color pairs are red-green and blue-yellow.&nbsp;[†](#w-complementary-colors)
 
 Component
 : A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-cbse)

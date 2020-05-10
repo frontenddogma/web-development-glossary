@@ -150,6 +150,9 @@ Deprecated
 Deprecation
 : The discouragement of use of some terminology, feature, design, or practice, typically because it has been superseded or is no longer considered efficient or safe, without completely removing it or prohibiting its use.&nbsp;[†](#w-deprecation)
 
+Descender
+: The portion of a letter that extends below the baseline of a font.&nbsp;[†](#w-descender)
+
 Design
 : A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
 
