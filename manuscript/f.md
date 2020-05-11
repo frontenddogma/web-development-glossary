@@ -27,6 +27,9 @@ Favorite
 FCP
 : → First Contentful Paint
 
+Feature creep
+: The excessive ongoing expansion or addition of new features in a product, especially in computer software, video games, and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication rather than simple design.&nbsp;[†](#w-feature-creep)
+
 Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
 
@@ -119,6 +122,9 @@ Flash of Unstyled Text
 Flash Player
 : A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plugin or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe since Adobe acquired Macromedia in 2005. In 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML standards in place of Flash.&nbsp;[†](#w-flash-player)
 
+Flat Design
+: A minimalist design language and style that emphasizes the use of simple elements and typography as well as flat colors. The emergence and popularization of the International Typographic Style (Swiss Style) during the 1950s and 1960s is regarded as the starting point of Flat Design.&nbsp;[†](#w-flat-design)
+
 Flex
 : A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element’s children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied.&nbsp;[‡](#m-flex)
 : → Flexbox
@@ -151,6 +157,9 @@ Fluid
 FMP
 : → First Meaningful Paint
 
+FOAF
+: → Friend of a Friend
+
 FOFT
 : → Flash of Faux Text
 
@@ -174,6 +183,9 @@ Font failure period
 
 Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
+
+Foobar
+: Meta-syntactic variables and placeholder names (“foobar”, “foo”, “bar”, etc.) used in computer programming and documentation when a concept is to be demonstrated and respective variable’s, function’s, or command’s exact identity is unimportant.&nbsp;[†](#w-foobar)
 
 `for`
 : → Loop
@@ -237,6 +249,9 @@ Free Software Foundation
 
 Free variable
 : A notation (symbol) that specifies places in an expression where substitution may take place and is not a parameter of this or any container expression. Some older books use the terms real variable and apparent variable for free variable and bound variable, respectively. The idea is related to a placeholder (a symbol that will later be replaced by some literal string), or a wildcard character that stands for an unspecified symbol.&nbsp;[†](#w-free-bound-variable)
+
+Friend of a Friend
+: A machine-readable ontology describing persons, their activities, and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralized database. FOAF is a descriptive vocabulary expressed using the Resource Description Framework (RDF) and the Web Ontology Language (OWL).&nbsp;[†](#w-foaf) ℹ︎&nbsp;[foaf-project.org](http://www.foaf-project.org/)
 
 Frontend
 : The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)

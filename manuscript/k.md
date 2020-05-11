@@ -6,6 +6,9 @@ K-Meleon
 Kanban
 : A lean method to manage and improve work. Kanban aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks. Work items are visualized to give participants a view of progress and process, from start to finish, usually via a Kanban board. Work is pulled as capacity permits, rather than work being pushed into the process when requested.&nbsp;[†](#w-kanban)
 
+Kebab case
+: A case style in which punctuation is removed and spaces are replaced by single hyphens (“the-quick-brown-fox”). Usually the letters share the same case.&nbsp;[†](#w-letter-case)
+
 Kerberos
 : A network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner. The protocol was named after the character Kerberos (or Cerberus) from Greek mythology. Its designers aimed Kerberos primarily at a client-server model for which it provides mutual authentication—both the user and the server verify each other’s identity. Kerberos protocol messages are protected against eavesdropping and replay attacks.&nbsp;[†](#w-kerberos) ℹ︎&nbsp;[web.mit.edu/kerberos](http://web.mit.edu/kerberos/)
 

@@ -22,6 +22,9 @@ Bandwidth
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
+Barrierefreie-Informationstechnik-Verordnung
+: German accessibility regulations. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
+
 Base64
 : A group of binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term “Base64” originates from a specific MIME content transfer encoding. Each Base64 digit represents exactly 6 bits of data. Three 8-bit bytes (i.e., a total of 24 bits) can therefore be represented by four 6-bit Base64 digits. Common to all binary-to-text encoding schemes, Base64 is designed to carry data stored in binary formats across channels that only reliably support text content. Base64 is particularly prevalent on the World Wide Web where its uses include the ability to embed image files or other binary assets inside textual assets such as HTML and CSS files.&nbsp;[†](#w-base64)
 
@@ -93,7 +96,7 @@ Bitmap
 : → Raster image
 
 BITV
-: German accessibility regulations. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
+: → Barrierefreie-Informationstechnik-Verordnung
 
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)

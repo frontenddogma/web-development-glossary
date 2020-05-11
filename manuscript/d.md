@@ -84,6 +84,9 @@ DCL
 DCVS
 : → Distributed Concurrent Versions System
 
+DDA
+: → Disability Discrimination Act
+
 DDL
 : → Data Definition Language
 
@@ -205,6 +208,9 @@ Digital Rights Management
 Directionality
 : The direction in which a text is written.
 
+Disability Discrimination Act
+: British accessibility regulations which have been repealed and replaced by the Equality Act 2010 (except in Northern Ireland where the Act still applies).&nbsp;[†](#w-dda)
+
 Display advertising
 : Graphic advertising on Internet websites, apps, or social media through banners or other advertising formats made of text, images, Flash, video, and audio. The main purpose of display advertising is to deliver general advertisements and brand messages to site visitors.&nbsp;[†](#w-display-advertising)
 
@@ -299,11 +305,17 @@ Dot notation
 Dot-agnostic
 : A configuration aspect for email that allows dots (“.”) anywhere within the local-part of the email address, to still refer to the same address. That is, when dot-agnostic, jane.doe@example.com, janedoe@example.com, and j.a.n.e.d.o.e@example.com would all be the same address and reach the same recipient.
 
+Dots per inch
+: A measure of spatial printing, video, or image scanner dot density, in particular the number of individual dots that can be placed in a line within the span of 1 inch (2.54&nbsp;cm). Similarly, the more newly introduced dots per centimeter (d/cm or dpcm) refers to the number of individual dots that can be placed within a line of 1 centimeter (≈ 0.393&nbsp;in).&nbsp;[†](#w-dpi)
+
 Double
 : A double-precision, 64-bit floating-point data type.
 
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. Downtime is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
+
+DPI
+: → Dots per inch
 
 DQL
 : → Data Query Language

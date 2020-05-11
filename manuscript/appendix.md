@@ -105,6 +105,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
+* [Class variable](https://en.wikipedia.org/wiki/Class_variable){#w-class-variable}
 * [Clean URL](https://en.wikipedia.org/wiki/Clean_URL){#w-clean-url}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking){#w-clickjacking}
@@ -215,6 +216,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dialog box](https://en.wikipedia.org/wiki/Dialog_box){#w-dialog-box}
 * [Digital display advertising](https://en.wikipedia.org/wiki/Digital_display_advertising){#w-display-advertising}
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
+* [Disability Discrimination Act 1995](https://en.wikipedia.org/wiki/Disability_Discrimination_Act_1995){#w-dda}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
@@ -232,6 +234,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
+* [Dots per inch](https://en.wikipedia.org/wiki/Dots_per_inch){#w-dpi}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Duck typing](https://en.wikipedia.org/wiki/Duck_typing){#w-duck-typing}
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
@@ -254,6 +257,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Empty string](https://en.wikipedia.org/wiki/Empty_string){#w-empty-string}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
+* [Equality Act 2010](https://en.wikipedia.org/wiki/Equality_Act_2010){#w-equality-act}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
@@ -267,6 +271,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
+* [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
 * [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
@@ -277,10 +282,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fingerprint (computing)](https://en.wikipedia.org/wiki/Fingerprint_(computing)){#w-fingerprint}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
+* [Flat design](https://en.wikipedia.org/wiki/Flat_design){#w-flat-design}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
 * [Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System){#w-fluent-design}
+* [FOAF (ontology)](https://en.wikipedia.org/wiki/FOAF_(ontology)){#w-foaf}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
+* [Foobar](https://en.wikipedia.org/wiki/Foobar){#w-foobar}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
@@ -326,6 +334,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
 * [Helper class](https://en.wikipedia.org/wiki/Helper_class){#w-helper-class}
+* [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal){#w-hexadecimal}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
@@ -345,6 +354,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
+* [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3){#w-http3}
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
 * [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere){#w-https-everywhere}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
@@ -370,6 +380,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
+* [Instance variable](https://en.wikipedia.org/wiki/Instance_variable){#w-instance-variable}
 * [Integer](https://en.wikipedia.org/wiki/Integer){#w-integer-math}
 * [Integer (computer science)](https://en.wikipedia.org/wiki/Integer_(computer_science)){#w-integer-computer-science}
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
@@ -443,7 +454,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
 * [Let’s Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
-* [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-letter-case}
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
@@ -844,6 +855,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web application](https://en.wikipedia.org/wiki/Web_application){#w-web-app}
 * [Web beacon](https://en.wikipedia.org/wiki/Web_beacon){#w-web-beacon}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
+* [Web colors](https://en.wikipedia.org/wiki/Web_colors){#w-web-colors}
 * [Web Components](https://en.wikipedia.org/wiki/Web_Components){#w-web-component}
 * [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
 * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines){#w-wcag}
