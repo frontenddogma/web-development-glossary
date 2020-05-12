@@ -156,6 +156,9 @@ Time to Live
 Timestamp
 : A sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. The term derives from rubber stamps used in offices to stamp the current date, and sometimes time, in ink on paper documents, to record when a document was received.&nbsp;[†](#w-timestamp)
 
+tink
+: An experimental package manager for the JavaScript programming language. ℹ︎&nbsp;[github.com/npm/tink](https://github.com/npm/tink)
+
 Tiny integer
 : An integral data type of 8 bits, with a signed range from –128 to 127, and an unsigned range from 0 to 255.
 
@@ -182,6 +185,12 @@ Todo
 
 TOFU
 : → Trust on First Use
+
+Token
+: → Access token
+
+Tokenization
+: The process of substituting a sensitive data element with a non-sensitive equivalent, referred to as a token, that has no extrinsic or exploitable meaning or value. The token is a reference (i.e., identifier) that maps back to the sensitive data through a tokenization system.&nbsp;[†](#w-tokenization)
 
 Tom’s Obvious, Minimal Language
 : A configuration file format that is intended to be easy to read and write due to obvious semantics which aim to be minimal, and that is designed to map unambiguously to a dictionary. TOML was released in 2013 by Tom Preston-Werner.&nbsp;[†](#w-toml) ℹ︎&nbsp;[github.com/toml-lang/toml](https://github.com/toml-lang/toml)
@@ -239,6 +248,9 @@ Trade
 Transcompiler
 : → Transpiler
 
+Transcript
+: A text version of audio contents that is provided for and used by people who are not currently able to process audio information, are hard of hearing, or are deaf.
+
 Transmission Control Protocol
 : One of the main protocols of the Internet protocol suite. It originated in the initial network implementation where it complemented the Internet Protocol (IP), which is why the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major Internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP. SSL/TLS often runs on top of TCP. TCP is connection-oriented, and a connection between client and server is established (passive open) before data can be sent. Three-way handshake (active open), retransmission, and error detection add to its reliability, though they also lengthen latency. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that prioritizes time over reliability. TCP has its origins in 1974.&nbsp;[†](#w-tcp)
 
@@ -250,6 +262,9 @@ Transport Layer Security
 
 Tree-shaking
 : A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like JavaScript, TypeScript, or Dart into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree-shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is also described as “live code inclusion.”&nbsp;[†](#w-tree-shaking)
+
+Triadic colors
+: A color scheme that uses three colors equally spaced around the color wheel. Triadic colors tend to be quite vibrant, even when using pale or unsaturated versions of hues, offering a higher degree of contrast while at the same time retaining color harmony. The primary colors are an example of a triadic color scheme.&nbsp;[†](#w-color-scheme)
 
 Trident
 : A proprietary browser engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft. Trident was first introduced with the release of Internet Explorer version 4.0 in 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies. In the Edge browser, Trident was superseded by its fork, EdgeHTML.&nbsp;[†](#w-trident)

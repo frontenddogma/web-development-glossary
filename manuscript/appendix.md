@@ -792,6 +792,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
+* [Tokenization (data security)](https://en.wikipedia.org/wiki/Tokenization_(data_security)){#w-tokenization}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
@@ -903,6 +904,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Website](https://en.wikipedia.org/wiki/Website){#w-website}
 * [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe){#w-wireframe}
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
+* [Well-formed document](https://en.wikipedia.org/wiki/Well-formed_document){#w-well-formedness}
 * [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
 * [White-box testing](https://en.wikipedia.org/wiki/White-box_testing){#w-white-box-testing}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
@@ -913,6 +915,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol){#w-wap}
 * [Wireless Markup Language](https://en.wikipedia.org/wiki/Wireless_Markup_Language){#w-wml}
+* [WordPress](https://en.wikipedia.org/wiki/WordPress){#w-wordpress}
 * [Workaround](https://en.wikipedia.org/wiki/Workaround){#w-workaround}
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web){#w-www}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
