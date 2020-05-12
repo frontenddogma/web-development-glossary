@@ -231,6 +231,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
 * [Dojo Toolkit](https://en.wikipedia.org/wiki/Dojo_Toolkit){#w-dojo}
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
+* [Domain name registrar](https://en.wikipedia.org/wiki/Domain_name_registrar){#w-registrar}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
@@ -458,6 +459,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
+* [Link farm](https://en.wikipedia.org/wiki/Link_farm){#w-link-farm}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
 * [lint (software)](https://en.wikipedia.org/wiki/Lint_(software)){#w-lint}
@@ -471,6 +473,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
 * [Long-term support](https://en.wikipedia.org/wiki/Long-term_support){#w-lts}
+* [Look and feel](https://en.wikipedia.org/wiki/Look_and_feel){#w-look-and-feel}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
@@ -589,6 +592,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [PATH (variable)](https://en.wikipedia.org/wiki/PATH_(variable)){#w-path-variable}
 * [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
+* [Paywall](https://en.wikipedia.org/wiki/Paywall){#w-paywall}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Penetration test](https://en.wikipedia.org/wiki/Penetration_test){#w-penetration-testing}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
@@ -598,6 +602,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
 * [Persona (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)){#w-persona}
 * [PhantomJS](https://en.wikipedia.org/wiki/PhantomJS){#w-phantomjs}
+* [Phishing](https://en.wikipedia.org/wiki/Phishing){#w-phishing}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
@@ -649,6 +654,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Readability](https://en.wikipedia.org/wiki/Readability){#w-readability}
 * [README](https://en.wikipedia.org/wiki/README){#w-readme}
 * [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
+* [RealAudio](https://en.wikipedia.org/wiki/RealAudio){#w-realaudio}
+* [RealVideo](https://en.wikipedia.org/wiki/RealVideo){#w-realvideo}
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
 * [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
@@ -680,6 +687,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging){#w-rubber-ducking}
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
+* [Runbook](https://en.wikipedia.org/wiki/Runbook){#w-runbook}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
 * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)){#w-sandbox-security}
 * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
@@ -700,6 +708,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web){#w-semantic-web}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
+* [Serif](https://en.wikipedia.org/wiki/Serif){#w-serif}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
@@ -722,6 +731,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Software crisis](https://en.wikipedia.org/wiki/Software_crisis){#w-software-crisis}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software development](https://en.wikipedia.org/wiki/Software_development){#w-software-development}
+* [Software development kit](https://en.wikipedia.org/wiki/Software_development_kit){#w-sdk}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
 * [Software testing](https://en.wikipedia.org/wiki/Software_testing){#w-testing}
@@ -842,6 +852,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality){#w-vr}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
+* [Visual impairment](https://en.wikipedia.org/wiki/Visual_impairment){#w-visual-impairment}
 * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code){#w-vs-code}
 * [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP){#w-voip}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}

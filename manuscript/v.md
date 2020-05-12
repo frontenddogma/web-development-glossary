@@ -67,6 +67,9 @@ Visual Basic for Applications
 Visual formatting model
 : A model for how user agents take the document tree, and process and display it for visual media. This includes continuous media such as a computer screen, and paged media such as a book or document printed by browser print functions. In the visual formatting model, each element in the document tree generates zero or more boxes according to the box model. The layout of these boxes is governed by box dimensions and type, positioning scheme (normal flow, float, and absolute positioning), relationships between elements in the document tree, and external information (e.g., viewport size, intrinsic dimensions of images, etc.).&nbsp;[‡](#m-visual-formatting-model)
 
+Visual impairment
+: A decreased ability to see to a degree that causes problems not fixable by usual means, such as glasses. Some classifications also include those who have a decreased ability to see because they do not have access to glasses or contact lenses. Visual impairment is often defined as a best corrected visual acuity of worse than either 20/40 or 20/60. The term “blindness” is used for complete or nearly complete vision loss.&nbsp;[†](#w-visual-impairment)
+
 Visual regression testing
 : Typically, automated testing for unintended visual changes (regressions) on a website or app.
 

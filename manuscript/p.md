@@ -63,6 +63,9 @@ Parser
 Parsing
 : The process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term “parsing” comes from Latin _pars_ (_orationis_), meaning “part (of speech)”. The term has slightly different meanings in different branches of linguistics and computer science. Within computational linguistics “parsing” is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic and other information.&nbsp;[†](#w-parsing)
 
+Pascal case
+: Camel case with an initial uppercase letter (“TheQuickBrownFox”).
+
 Patch
 : A set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, like around functionality, performance, or usability. Patches are also called bugfixes (or bug fixes).&nbsp;[†](#w-patch)
 : → Change list
@@ -87,6 +90,9 @@ Pay-per-click
 
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
+
+Paywall
+: A method of restricting access to content via a purchase or paid subscription. Beginning in the mid-2010s, newspapers started implementing paywalls on their websites as a way to increase revenue after years of decline in paid print readership and advertising revenue, partly due to the use of ad blockers. Paywalls have also been used as a way of increasing the number of print subscribers.&nbsp;[†](#w-paywall)
 
 PBI
 : → Product Backlog Item
@@ -135,6 +141,9 @@ Personal Home Page
 
 PhantomJS
 : A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior, and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
+
+Phishing
+: The fraudulent attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing or instant messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site. Phishing is an example of social engineering techniques being used to deceive users.&nbsp;[†](#w-phishing)
 
 Phoenix
 : → Firefox
