@@ -724,6 +724,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Site map](https://en.wikipedia.org/wiki/Site_map){#w-site-map}
 * [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps){#w-sitemaps}
 * [Smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_(software)){#w-smoke-testing}
+* [Snake case](https://en.wikipedia.org/wiki/Snake_case){#w-snake-case}
 * [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software](https://en.wikipedia.org/wiki/Software){#w-software}
