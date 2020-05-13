@@ -65,7 +65,7 @@ Hex
 : → Hexadecimal
 
 Hex triplet
-: A six-digit, three-byte hexadecimal number used in HTML, CSS, SVG, and other computing applications to represent colors. The bytes represent the red, green, and blue components of the color. Each byte represents a number in the range 00 to FF (in hexadecimal notation), or 0 to 255 in decimal notation. This represents the least (0) to the most (255) intensity of each of the color components. Thus web colors specify colors in the 24-bit RGB color scheme. The hex triplet is formed by concatenating three bytes in hexadecimal notation, in the following order: byte 1: red value (color type red); byte 2: green value (color type green); and byte 3: blue value (color type blue).&nbsp;[†](#w-web-colors)
+: A six-digit, three-byte hexadecimal number used in HTML, CSS, SVG, and other computing applications to represent colors. The bytes represent the red, green, and blue components of the color. Each byte represents a number in the range 00 to FF (in hexadecimal notation), or 0 to 255 in decimal notation. This represents the least (0) to the most (255) intensity of each of the color components. Thus web colors specify colors in the 24-bit RGB color scheme. The hex triplet is formed by concatenating three bytes in hexadecimal notation, in the following order: byte 1—red value (color type red); byte 2—green value (color type green); and byte 3—blue value (color type blue).&nbsp;[†](#w-web-colors)
 
 Hexadecimal
 : A positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with 10 symbols, hexadecimal uses 16 distinct symbols, most often the symbols “0”–“9” to represent values 0–9, and “A”–“F” (or alternatively “a”–“f”) to represent values 10–15.&nbsp;[†](#w-hexadecimal)

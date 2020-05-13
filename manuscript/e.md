@@ -96,14 +96,14 @@ Encrypted Media Extensions
 Encryption
 : The process of converting ordinary information (called plain-text) into unintelligible form (called ciphertext).&nbsp;[†](#w-cryptography)
 
+End of file
+: A condition in a computer operating system where no more data can be read from a data source. The data source is usually called a file or stream. The actual value of EOF is implementation-dependent (but is commonly `-1`, such as in glibc) and is distinct from all valid character codes. Block-reading functions return the number of bytes read, and if this is fewer than asked for, then the end of file was reached or an error occurred (checking of `errno` or dedicated function, such as `ferror` is often required to determine which).&nbsp;[†](#w-eof)
+
 End of line
 : → Newline
 
 End tag
 : The closing tag of an HTML or another markup language’s element, like `</p>`, a paragraph’s end tag.
-
-End of file
-: A condition in a computer operating system where no more data can be read from a data source. The data source is usually called a file or stream. The actual value of EOF is implementation-dependent (but is commonly `-1`, such as in glibc) and is distinct from all valid character codes. Block-reading functions return the number of bytes read, and if this is fewer than asked for, then the end of file was reached or an error occurred (checking of `errno` or dedicated function, such as `ferror` is often required to determine which).&nbsp;[†](#w-eof)
 
 End-to-end testing
 : A software test methodology focused on testing an entire application from start to end based on conditions that are as realistic as possible, explicitly including dependencies on other software and infrastructure.
