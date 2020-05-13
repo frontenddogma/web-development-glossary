@@ -10,6 +10,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing){#w-acceptance-testing}
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
+* [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
@@ -55,7 +56,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
+* [Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography)){#w-baseline}
 * [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
+* [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication){#w-ba}
 * [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
@@ -71,6 +74,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Blogosphere](https://en.wikipedia.org/wiki/Blogosphere){#w-blogosphere}
 * [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format){#w-bitmap}
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
+* [Bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet){#w-bookmarklet}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem){#w-boundary-value-problem}
@@ -78,6 +82,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Branching (version control)](https://en.wikipedia.org/wiki/Branching_(version_control)){#w-branching}
 * [Braille](https://en.wikipedia.org/wiki/Braille){#w-braille}
 * [Breadcrumb navigation](https://en.wikipedia.org/wiki/Breadcrumb_navigation){#w-breadcrumb}
+* [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint){#w-breakpoint}
 * [Brotli](https://en.wikipedia.org/wiki/Brotli){#w-brotli}
 * [Browser engine](https://en.wikipedia.org/wiki/Browser_engine){#w-browser-engine}
 * [Browser extension](https://en.wikipedia.org/wiki/Browser_extension){#w-browser-extension}
@@ -90,7 +95,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
+* [Camel case](https://en.wikipedia.org/wiki/Camel_case){#w-camel-case}
 * [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
+* [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA){#w-captcha}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
@@ -98,6 +105,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
+* [Class variable](https://en.wikipedia.org/wiki/Class_variable){#w-class-variable}
 * [Clean URL](https://en.wikipedia.org/wiki/Clean_URL){#w-clean-url}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking){#w-clickjacking}
@@ -120,6 +128,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
+* [Color scheme](https://en.wikipedia.org/wiki/Color_scheme){#w-color-scheme}
+* [Color wheel](https://en.wikipedia.org/wiki/Color_wheel){#w-color-wheel}
 * [Comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values){#w-csv}
 * [Command (computing)](https://en.wikipedia.org/wiki/Command_(computing)){#w-command}
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface){#w-cli}
@@ -131,6 +141,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Community of practice](https://en.wikipedia.org/wiki/Community_of_practice){#w-cop}
 * [Compatibility mode](https://en.wikipedia.org/wiki/Compatibility_mode){#w-compatibility-mode}
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
+* [Complementary colors](https://en.wikipedia.org/wiki/Complementary_colors){#w-complementary-colors}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
 * [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster){#w-cluster}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
@@ -155,6 +166,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration){#w-continuous-integration}
 * [Control flow](https://en.wikipedia.org/wiki/Control_flow){#w-control-flow}
 * [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration){#w-convention-over-configuration}
+* [Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law){#w-conways-law}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
 * [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}
@@ -195,6 +207,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
 * [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle){#w-dip}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
+* [Descender](https://en.wikipedia.org/wiki/Descender){#w-descender}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
 * [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract){#w-dbc}
 * [Design pattern](https://en.wikipedia.org/wiki/Design_pattern){#w-pattern}
@@ -203,6 +216,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dialog box](https://en.wikipedia.org/wiki/Dialog_box){#w-dialog-box}
 * [Digital display advertising](https://en.wikipedia.org/wiki/Digital_display_advertising){#w-display-advertising}
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
+* [Disability Discrimination Act 1995](https://en.wikipedia.org/wiki/Disability_Discrimination_Act_1995){#w-dda}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
@@ -217,9 +231,11 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Documentation](https://en.wikipedia.org/wiki/Documentation){#w-documentation}
 * [Dojo Toolkit](https://en.wikipedia.org/wiki/Dojo_Toolkit){#w-dojo}
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
+* [Domain name registrar](https://en.wikipedia.org/wiki/Domain_name_registrar){#w-registrar}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
+* [Dots per inch](https://en.wikipedia.org/wiki/Dots_per_inch){#w-dpi}
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Duck typing](https://en.wikipedia.org/wiki/Duck_typing){#w-duck-typing}
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
@@ -242,6 +258,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Empty string](https://en.wikipedia.org/wiki/Empty_string){#w-empty-string}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
+* [Equality Act 2010](https://en.wikipedia.org/wiki/Equality_Act_2010){#w-equality-act}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
@@ -255,6 +272,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
+* [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
 * [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
@@ -265,10 +283,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fingerprint (computing)](https://en.wikipedia.org/wiki/Fingerprint_(computing)){#w-fingerprint}
 * [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
+* [Flat design](https://en.wikipedia.org/wiki/Flat_design){#w-flat-design}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}
 * [Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System){#w-fluent-design}
+* [FOAF (ontology)](https://en.wikipedia.org/wiki/FOAF_(ontology)){#w-foaf}
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
+* [Foobar](https://en.wikipedia.org/wiki/Foobar){#w-foobar}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
@@ -314,6 +335,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
 * [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
 * [Helper class](https://en.wikipedia.org/wiki/Helper_class){#w-helper-class}
+* [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal){#w-hexadecimal}
 * [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format){#w-heif}
 * [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function){#w-higher-order-function}
 * [Hick’s law](https://en.wikipedia.org/wiki/Hick%27s_law){#w-hicks-law}
@@ -333,6 +355,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
+* [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3){#w-http3}
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
 * [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere){#w-https-everywhere}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
@@ -358,6 +381,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
+* [Instance variable](https://en.wikipedia.org/wiki/Instance_variable){#w-instance-variable}
 * [Integer](https://en.wikipedia.org/wiki/Integer){#w-integer-math}
 * [Integer (computer science)](https://en.wikipedia.org/wiki/Integer_(computer_science)){#w-integer-computer-science}
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
@@ -431,10 +455,11 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Legibility](https://en.wikipedia.org/wiki/Legibility){#w-legibility}
 * [Less (stylesheet language)](https://en.wikipedia.org/wiki/Less_(stylesheet_language)){#w-less}
 * [Let’s Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
-* [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-case-typography}
+* [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-letter-case}
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
+* [Link farm](https://en.wikipedia.org/wiki/Link_farm){#w-link-farm}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
 * [lint (software)](https://en.wikipedia.org/wiki/Lint_(software)){#w-lint}
@@ -448,6 +473,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
 * [Long-term support](https://en.wikipedia.org/wiki/Long-term_support){#w-lts}
+* [Look and feel](https://en.wikipedia.org/wiki/Look_and_feel){#w-look-and-feel}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
@@ -566,6 +592,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [PATH (variable)](https://en.wikipedia.org/wiki/PATH_(variable)){#w-path-variable}
 * [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
+* [Paywall](https://en.wikipedia.org/wiki/Paywall){#w-paywall}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Penetration test](https://en.wikipedia.org/wiki/Penetration_test){#w-penetration-testing}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
@@ -575,6 +602,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
 * [Persona (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)){#w-persona}
 * [PhantomJS](https://en.wikipedia.org/wiki/PhantomJS){#w-phantomjs}
+* [Phishing](https://en.wikipedia.org/wiki/Phishing){#w-phishing}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
@@ -626,6 +654,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Readability](https://en.wikipedia.org/wiki/Readability){#w-readability}
 * [README](https://en.wikipedia.org/wiki/README){#w-readme}
 * [Real user monitoring](https://en.wikipedia.org/wiki/Real_user_monitoring){#w-rum}
+* [RealAudio](https://en.wikipedia.org/wiki/RealAudio){#w-realaudio}
+* [RealVideo](https://en.wikipedia.org/wiki/RealVideo){#w-realvideo}
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
 * [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
@@ -657,6 +687,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging){#w-rubber-ducking}
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)){#w-ruby}
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
+* [Runbook](https://en.wikipedia.org/wiki/Runbook){#w-runbook}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
 * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)){#w-sandbox-security}
 * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
@@ -677,6 +708,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web){#w-semantic-web}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
+* [Serif](https://en.wikipedia.org/wiki/Serif){#w-serif}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
@@ -692,6 +724,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Site map](https://en.wikipedia.org/wiki/Site_map){#w-site-map}
 * [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps){#w-sitemaps}
 * [Smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_(software)){#w-smoke-testing}
+* [Snake case](https://en.wikipedia.org/wiki/Snake_case){#w-snake-case}
 * [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software](https://en.wikipedia.org/wiki/Software){#w-software}
@@ -699,6 +732,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Software crisis](https://en.wikipedia.org/wiki/Software_crisis){#w-software-crisis}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
 * [Software development](https://en.wikipedia.org/wiki/Software_development){#w-software-development}
+* [Software development kit](https://en.wikipedia.org/wiki/Software_development_kit){#w-sdk}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
 * [Software testing](https://en.wikipedia.org/wiki/Software_testing){#w-testing}
@@ -758,6 +792,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
+* [Tokenization (data security)](https://en.wikipedia.org/wiki/Tokenization_(data_security)){#w-tokenization}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
@@ -819,6 +854,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality){#w-vr}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications){#w-vba}
+* [Visual impairment](https://en.wikipedia.org/wiki/Visual_impairment){#w-visual-impairment}
 * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code){#w-vs-code}
 * [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP){#w-voip}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
@@ -832,6 +868,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web application](https://en.wikipedia.org/wiki/Web_application){#w-web-app}
 * [Web beacon](https://en.wikipedia.org/wiki/Web_beacon){#w-web-beacon}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
+* [Web colors](https://en.wikipedia.org/wiki/Web_colors){#w-web-colors}
 * [Web Components](https://en.wikipedia.org/wiki/Web_Components){#w-web-component}
 * [Web content](https://en.wikipedia.org/wiki/Web_content){#w-web-content}
 * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines){#w-wcag}
@@ -867,6 +904,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Website](https://en.wikipedia.org/wiki/Website){#w-website}
 * [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe){#w-wireframe}
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
+* [Well-formed document](https://en.wikipedia.org/wiki/Well-formed_document){#w-well-formedness}
 * [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
 * [White-box testing](https://en.wikipedia.org/wiki/White-box_testing){#w-white-box-testing}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
@@ -877,6 +915,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol){#w-wap}
 * [Wireless Markup Language](https://en.wikipedia.org/wiki/Wireless_Markup_Language){#w-wml}
+* [WordPress](https://en.wikipedia.org/wiki/WordPress){#w-wordpress}
 * [Workaround](https://en.wikipedia.org/wiki/Workaround){#w-workaround}
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web){#w-www}
 * [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium){#w-w3c}
@@ -911,6 +950,7 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 This book uses material from the following articles by Mozilla&nbsp;contributors:
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
+* [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Bounding Box](https://developer.mozilla.org/en-US/docs/Glossary/bounding_box){#m-bounding-box}
@@ -980,6 +1020,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element){#m-replaced-element}
 * [Request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header){#m-request-header}
 * [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header){#m-response-header}
+* [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design){#m-breakpoint}
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
 * [Scrollport](https://developer.mozilla.org/en-US/docs/Glossary/Scrollport){#m-scrollport}

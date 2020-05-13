@@ -199,6 +199,9 @@ WebView
 Weekly Active Users
 : → Active Users
 
+Well-formedness
+: An attribute of document markup that adheres to the syntax rules specified by XML. Well-formed markup specifically refers to content being delimited by start and end tags, elements being properly nested, and void elements being closed.&nbsp;[†](#w-well-formedness)
+
 WET
 : The opposite of DRY.
 
@@ -256,8 +259,17 @@ Wireless Markup Language
 WML
 : → Wireless Markup Language
 
+Wobbly Transformation Format 8-Bit
+: An extension of UTF-8 where the encodings of unpaired surrogate halves (`U+D800` through `U+DFFF`) are allowed. This is necessary to store possibly-invalid UTF-16, such as Windows filenames. Many systems that deal with UTF-8 work this way without considering it a different encoding, as it is simpler.&nbsp;[†](#w-utf-8)
+
 WORA
 : → Write Once, Run Anywhere
+
+WordPress
+: A free and open source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
+
+WordPress Theme
+: A collection of templates and style sheets for customization of a site built with WordPress.
 
 Work in Progress
 : Work currently being done.
@@ -283,6 +295,9 @@ Wrapper
 
 Write Once, Run Anywhere
 : A slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language. Ideally, this meant that a Java program could be developed on any device, compiled into standard bytecode, and be expected to run on any device equipped with a Java virtual machine (JVM). The installation of a JVM or Java interpreter on chips, devices, or software packages became an industry standard practice.&nbsp;[†](#w-wora)
+
+WTF-8
+: → Wobbly Transformation Format 8-Bit
 
 WWW
 : → World Wide Web

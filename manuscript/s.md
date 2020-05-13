@@ -74,6 +74,12 @@ Scrum Values
 SCSS
 : → Sass
 
+SDK
+: → Software Development Kit
+
+SDLC
+: → Software Development Life Cycle
+
 SEA
 : → Search Engine Advertising
 
@@ -146,6 +152,9 @@ SEO
 
 Separation of Concerns
 : A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as “the details of the hardware for an application,” or as specific as “the name of which class to instantiate.” A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program’s design, deployment, or usage.&nbsp;[†](#w-soc)
+
+Serif
+: A small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. A typeface or font family making use of serifs is called a serif typeface (or serifed typeface), and a typeface that does not include them is a sans-serif one. Some typography sources refer to serif typefaces as “roman”, and to sans-serif typefaces as “grotesque” (German _Grotesk_) or “gothic”.&nbsp;[†](#w-serif)
 
 SERP
 : → Search Engine Results Page
@@ -301,6 +310,9 @@ SMTP
 Smoke testing
 : The preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release. Smoke tests are a subset of test cases that cover the most important functionality of a component or system, used to aid assessment of whether main functions of the software appear to work correctly. When used to determine if a computer program should be subjected to further, more fine-grained testing, a smoke test may be called an intake test. Alternately, it is a set of tests run on each new build of a product to verify that the build is testable before the build is released into the hands of the test team.&nbsp;[†](#w-smoke-testing)
 
+Snake case
+: The practice of writing compound words or phrases in which the elements are separated with one underscore character (“_”) and no spaces, with each element’s initial letter usually lowercased within the compound and the first letter either upper- or lowercase (“the_quick_brown_fox”). Snake case is commonly used in computer code for variable, function, and sometimes file names.&nbsp;[†](#w-snake-case)
+
 Snap position
 : A point that a scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
 
@@ -327,6 +339,12 @@ Software crisis
 
 Software development
 : The process of conceiving, specifying, designing, programming, documenting, testing, and bugfixing involved in creating and maintaining applications, frameworks, or other software components. Software development is a process of writing and maintaining source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process. Therefore, software development may include research, prototyping, modification, reuse, re-engineering, maintenance, and other activities that result in software products.&nbsp;[†](#w-software-development)
+
+Software Development Kit
+: A collection of software development tools in one installable package. SDKs ease creation of applications by having a compiler, a debugger, and perhaps a software framework. They are often used to create applications with advanced functionalities. SDKs are normally specific to a hardware platform and operating system combination, and some SDKs are required for developing a platform-specific app. For example, the development of an Android app on the Java platform requires a Java Development Kit, while for iOS apps, the iOS SDK is required.&nbsp;[†](#w-sdk)
+
+Software Development Life Cycle
+: The process of planning, analyzing, designing, developing, testing, deploying, and maintaining software.
 
 Software framework
 : An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications and is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate the development of software applications, products, and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable the development of a project or system.&nbsp;[†](#w-software-framework)

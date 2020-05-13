@@ -63,8 +63,14 @@ README
 Real User Monitoring
 : A passive monitoring technology that records all interaction of a user with a website, or of a client with a server or cloud-based application. Monitoring actual user interaction is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)
 
+RealAudio
+: A proprietary audio format released in 1995 by RealNetworks.&nbsp;[†](#w-realaudio)
+
 Really Simple Syndication
 : → RDF Site Summary
+
+RealVideo
+: A suite of proprietary video compression formats first released in 1997 by RealNetworks.&nbsp;[†](#w-realvideo)
 
 Recidivism
 : As an Agile metric, the total number of user stories completed in a Sprint that entered development for the second time divided by the total number of completed stories.
@@ -109,6 +115,9 @@ Reflow
 
 Regex
 : → Regular expression
+
+Registrar
+: A company that manages the reservation of Internet domain names. A domain name registrar must be accredited by and operate in accordance with the guidelines of a generic top-level domain (gTLD) registry or a country code top-level domain (ccTLD) registry.&nbsp;[†](#w-registrar)
 
 Regular expression
 : A sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for “find” or “find and replace” operations on strings, or for input validation. Regular expressions are a technique developed in theoretical computer science and formal language theory. They are used in search engines, “search and replace” dialogs of word processors and text editors, in text processing utilities such as sed and awk, and in lexical analysis. Many programming languages provide regex capabilities either built-in or via libraries.&nbsp;[†](#w-regex)
@@ -329,6 +338,9 @@ Rule set
 
 RUM
 : → Real User Monitoring
+
+Runbook
+: A compilation of routine procedures and operations that a system administrator or operator carries out. System administrators in IT departments and network operations centers (NOCs) use runbooks as a reference. Typically, a runbook contains procedures to begin, stop, supervise, and debug a system. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other operators, with prerequisite expertise, to effectively manage and troubleshoot a system.&nbsp;[†](#w-runbook)
 
 Runtime compilation
 : → Just-in-time compilation

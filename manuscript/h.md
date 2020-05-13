@@ -61,6 +61,15 @@ Helper class
 : In software development (object-oriented programming), a class that is used to assist in providing some functionality, which is not the main goal of the application or class in which it is used. An instance of a helper class is called a helper object.&nbsp;[†](#w-helper-class)
 : In web development (CSS), a class that has no functional bearing and carries no particular meaning (like `.aux` or `.alt`) but serves as an intentional hook for complementary or alternative styling.
 
+Hex
+: → Hexadecimal
+
+Hex triplet
+: A six-digit, three-byte hexadecimal number used in HTML, CSS, SVG, and other computing applications to represent colors. The bytes represent the red, green, and blue components of the color. Each byte represents a number in the range 00 to FF (in hexadecimal notation), or 0 to 255 in decimal notation. This represents the least (0) to the most (255) intensity of each of the color components. Thus web colors specify colors in the 24-bit RGB color scheme. The hex triplet is formed by concatenating three bytes in hexadecimal notation, in the following order: byte 1: red value (color type red); byte 2: green value (color type green); and byte 3: blue value (color type blue).&nbsp;[†](#w-web-colors)
+
+Hexadecimal
+: A positional system that represents numbers using a base of 16. Unlike the common way of representing numbers with 10 symbols, hexadecimal uses 16 distinct symbols, most often the symbols “0”–“9” to represent values 0–9, and “A”–“F” (or alternatively “a”–“f”) to represent values 10–15.&nbsp;[†](#w-hexadecimal)
+
 Hick’s Law
 : A model describing the time it takes for a person to make a decision as a result of the possible choices they have, asserting that increasing the number of choices will increase decision time logarithmically. Hick’s Law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick-Hyman law is known as the rate of gain of information.&nbsp;[†](#w-hicks-law)
 
@@ -171,6 +180,9 @@ HTTP Strict Transport Security
 
 HTTP/2
 : A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC&nbsp;2068. The HTTP/2 specification was published as in 2015 as RFC&nbsp;7540.&nbsp;[†](#w-http2)
+
+HTTP/3
+: The upcoming third major version of the Hypertext Transfer Protocol, succeeding HTTP/2. HTTP/3 is based on a prior RFC draft (“Hypertext Transfer Protocol (HTTP) over QUIC”).&nbsp;[†](#w-http3)
 
 httpd.conf
 : The main configuration file for the Apache HTTP Server. ℹ︎&nbsp;[is.gd/asNHfP](https://httpd.apache.org/docs/2.4/configuring.html)

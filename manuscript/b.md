@@ -1,6 +1,9 @@
 {sample: true}
 # B
 
+BA
+: → Basic access authentication
+
 Babel
 : A JavaScript transpiler that is mainly used to convert ECMAScript 2015+ (ES6+) code into a backwards-compatible version of JavaScript that can be run by older JavaScript engines.&nbsp;[†](#w-babel) ℹ︎&nbsp;[babeljs.io](https://babeljs.io/)
 
@@ -19,11 +22,20 @@ Bandwidth
 Banner
 : An online advertising format, usually a horizontal or vertical rectangle in standardized sizes.
 
+Barrierefreie-Informationstechnik-Verordnung
+: German accessibility regulations. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
+
 Base64
 : A group of binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term “Base64” originates from a specific MIME content transfer encoding. Each Base64 digit represents exactly 6 bits of data. Three 8-bit bytes (i.e., a total of 24 bits) can therefore be represented by four 6-bit Base64 digits. Common to all binary-to-text encoding schemes, Base64 is designed to carry data stored in binary formats across channels that only reliably support text content. Base64 is particularly prevalent on the World Wide Web where its uses include the ability to embed image files or other binary assets inside textual assets such as HTML and CSS files.&nbsp;[†](#w-base64)
 
+Baseline
+: In European and West Asian typography and penmanship, the line upon which most letters “sit” and below which descenders extend.&nbsp;[†](#w-baseline)
+
 Bash
 : A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, Bash has been used widely as the default login shell for most Linux distributions and Apple’s macOS Mojave and earlier versions.&nbsp;[†](#w-bash)
+
+Basic access authentication
+: A method for an HTTP user agent (e.g., a web browser) to provide a user and password when making a request. In basic HTTP authentication, a request contains a header field in the form of `Authorization: Basic <credentials>`, where “credentials” is the Base64 encoding of ID and password joined by a single colon (“:”). Basic access authentication is specified in RFC&nbsp;7617 from 2015, which obsoletes RFC&nbsp;2617 from 1999.&nbsp;[†](#w-ba)
 
 Basic Multilingual Plane
 : The first Unicode plane, plane 0, containing characters for almost all modern languages, and a large number of symbols. A primary objective for the BMP is to support the unification of prior character sets as well as characters for writing. Most of the assigned code points in the BMP are used to encode Chinese, Japanese, and Korean (CJK) characters.&nbsp;[†](#w-plane)
@@ -84,7 +96,7 @@ Bitmap
 : → Raster image
 
 BITV
-: German accessibility regulations. ℹ︎&nbsp;[www.gesetze-im-internet.de/bitv_2_0](https://www.gesetze-im-internet.de/bitv_2_0/)
+: → Barrierefreie-Informationstechnik-Verordnung
 
 Black hat
 : Someone who violates computer security or systems for personal gain or maliciousness.&nbsp;[†](#w-black-hat)
@@ -159,6 +171,9 @@ Bookmark
 Bookmark icon
 : → Favicon
 
+Bookmarklet
+: Unobtrusive JavaScript stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. Bookmarklets allow to add one-click functionality to respective browser or web page.&nbsp;[†](#w-bookmarklet)
+
 Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid-19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)
 
@@ -221,6 +236,10 @@ BREAD
 
 Breadcrumb
 : A graphical control element frequently used as a navigational aid in user interfaces and on web pages. It allows users to keep track and maintain awareness of their locations within programs, documents, or websites.&nbsp;[†](#w-breadcrumb)
+
+Breakpoint
+: In software development, an intentional stopping or pausing place in a program, put in place for debugging purposes. A breakpoint is sometimes also referred to as a pause.&nbsp;[†](#w-breakpoint)
+: In web development, any point at which a media query is introduced and the layout changed.&nbsp;[‡](#m-breakpoint)
 
 Broken link
 : A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.

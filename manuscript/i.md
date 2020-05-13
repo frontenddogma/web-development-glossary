@@ -169,8 +169,14 @@ Inline-level element
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
+Instance variable
+: A variable defined in a class for which each instantiated object of the class has a separate copy, or instance. An instance variable is declared in a class but outside a constructor, method, or block; it is created when an object is instantiated. Instance variables are accessible to all constructors, methods, and blocks in the class.&nbsp;[†](#w-instance-variable)
+
 Instant Articles
 : A feature from social networking company Facebook for use with collaborating news and content publishers, that the publisher can choose to use for articles they select. When a publisher selects an article for Instant Articles, people browsing Facebook with the Facebook mobile app can see the entire article within the app, with formatting very similar to that on the publisher’s website.&nbsp;[†](#w-instant-articles) ℹ︎&nbsp;[instantarticles.fb.com](https://instantarticles.fb.com/)
+
+Instrument flight
+: The deploying and releasing of untested code.
 
 Integer
 : In computer science, a datum of integral data type, a data type that represents some range of mathematical integers. Integral data types may be of different sizes and may or may not be allowed to contain negative values. Integers are commonly represented in a computer as a group of binary digits (bits). With 32 bits, an integer has a signed range from –2,147,483,648 to 2,147,483,647, and an unsigned range from 0 to 4,294,967,295.&nbsp;[†](#w-integer-computer-science)

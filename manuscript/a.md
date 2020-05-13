@@ -22,26 +22,20 @@ Abstract Data Type
 Abstraction
 : A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstractions hide the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
 
-ACM
-: → Association for Computing Machinery
-
-ACT
-: → Accessibility Conformance Testing
-
-Action item
-: → Todo
-
-ActiveX
-: A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
-
 Accelerated Mobile Pages
 : A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
+
+`Accept-CH`
+: An HTTP header that is used to specify which Client Hints headers a client should include in subsequent requests.&nbsp;[‡](#m-accept-ch)
 
 Acceptance testing
 : A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
 : The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
+
+Access token
+: A token that contains the security credentials for a login session and that identifies a user, a user’s groups, a user’s privileges, and, in some cases, a particular application. Typically one may be asked to enter an access token (e.g., 40 random characters) rather than the usual password (an access token should therefore be kept secret just like a password).&nbsp;[†](#w-access-token)
 
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
@@ -58,6 +52,15 @@ Accessibility tree
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. ℹ︎&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
+ACM
+: → Association for Computing Machinery
+
+ACT
+: → Accessibility Conformance Testing
+
+Action item
+: → Todo
+
 ActionScript
 : An object-oriented programming language originally developed by Macromedia (later acquired by Adobe). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
 
@@ -66,6 +69,9 @@ Active Server Pages
 
 Active Users
 : A performance metric for the success of an Internet product such as a social networking service, online game, or mobile app. It measures how many users visit or interact with the product or service over a given interval. This metric is commonly assessed per month as monthly active users (MAU), per week as weekly active users (WAU), or per day as daily active users (DAU).&nbsp;[†](#w-active-users)
+
+ActiveX
+: A software framework that allows applications to share information and functionality, based on the Component Object Model (COM) and Object Linking and Embedding (OLE). ActiveX was introduced in 1996 by Microsoft.
 
 Adaptive
 : An aspect of or synonym for agile development.
@@ -111,6 +117,9 @@ Algorithmic Language
 
 Almost strict mode
 : A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification and which has been implemented in Safari, Opera&nbsp;7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
+
+Alternate style sheet
+: A style sheet mutually exclusive to other style sheets, which can be selected for alternative styling. An alternate style sheet is indicated through the `alternate` keyword, as in `<link rel="alternate stylesheet" href=example.css title=Example>`.
 
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.

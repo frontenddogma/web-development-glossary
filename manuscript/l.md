@@ -112,6 +112,9 @@ Lines of Code
 Link
 : A reference from one web resource to another web resource, established through the use of an anchor.
 
+Link farm
+: Any group of websites that hyperlink to other sites in the group for the purpose of increasing SERP rankings. Although some link farms can be created by hand, most are created through automated programs and services. A link farm is a form of spamming the index of a web search engine (sometimes called spamdexing).&nbsp;[†](#w-link-farm)
+
 Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
 
@@ -187,6 +190,9 @@ Long task
 Long-Term Support
 : A product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition.&nbsp;[†](#w-lts)
 
+Look and feel
+: A term used with respect to a graphical user interface and comprises aspects of its design, including elements such as colors, shapes, layout, and typefaces (the “look”), as well as the behavior of dynamic elements such as buttons, boxes, and menus (the “feel”). “Look and feel” is used in reference to both software and websites.&nbsp;[†](#w-look-and-feel)
+
 Loop
 : A sequence of statements which is specified once but which may be carried out several times in succession. The code “inside” the loop (the body of the loop) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely. In functional programming languages loops can be expressed by using recursion or fixed point iteration rather than explicit looping constructs. Examples for loops include `for` loops, `while` and `do while` loops, `foreach`, and infinite loops.&nbsp;[†](#w-control-flow)
 
@@ -198,6 +204,9 @@ Lossless
 
 Lossy
 : A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
+
+Low vision
+: → Visual impairment
 
 LSB
 : → Linux Standard Base
