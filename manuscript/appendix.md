@@ -943,7 +943,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
 
-The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been modified, which in most cases means that they have been&nbsp;shortened.
+The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 
 ## Mozilla Developer Network (MDN) Contributions
 
@@ -1042,4 +1042,4 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts){#m-web-font}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 
-The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been&nbsp;modified.
+The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been&nbsp;edited.
