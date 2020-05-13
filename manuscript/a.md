@@ -1,4 +1,3 @@
-{sample: true}
 # A
 
 A List Apart

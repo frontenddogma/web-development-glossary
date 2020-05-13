@@ -1,4 +1,3 @@
-{sample: true}
 # C
 
 CA

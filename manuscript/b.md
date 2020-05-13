@@ -1,4 +1,3 @@
-{sample: true}
 # B
 
 BA

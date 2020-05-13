@@ -1,4 +1,3 @@
-{sample: true}
 # Appendix
 
 ## Wikipedia Contributions
