@@ -498,6 +498,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [MD6](https://en.wikipedia.org/wiki/MD6){#w-md6}
 * [MEAN (software bundle)](https://en.wikipedia.org/wiki/MEAN_(software_bundle)){#w-mean}
 * [Media (communication)](https://en.wikipedia.org/wiki/Media_(communication)){#w-media}
+* [Media queries](https://en.wikipedia.org/wiki/Media_queries){#w-media-query}
 * [Media type](https://en.wikipedia.org/wiki/Media_type){#w-mime-type}
 * [Memoization](https://en.wikipedia.org/wiki/Memoization){#w-memoization}
 * [Menu (computing)](https://en.wikipedia.org/wiki/Menu_(computing)){#w-menu}
@@ -808,6 +809,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Type design](https://en.wikipedia.org/wiki/Type_design){#w-type-design}
 * [Type system](https://en.wikipedia.org/wiki/Type_system){#w-type-system}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
+* [TypeScript](https://en.wikipedia.org/wiki/TypeScript){#w-typescript}
 * [Typography](https://en.wikipedia.org/wiki/Typography){#w-typography}
 * [Unicode](https://en.wikipedia.org/wiki/Unicode){#w-unicode}
 * [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
