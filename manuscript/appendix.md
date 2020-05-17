@@ -947,7 +947,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 
-## Mozilla Developer Network (MDN) Contributions
+## MDN Web Docs Contributions
 
 This book uses material from the following articles by Mozilla&nbsp;contributors:
 
