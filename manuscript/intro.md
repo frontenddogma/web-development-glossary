@@ -29,7 +29,7 @@ _The Web Development Glossary_ is licensed under a [CC BY-SA 4.0 (Attribution-Sh
 
 A great number of explanations build on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). They are marked “†” and attributed in the Appendix. The original material is licensed under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-Some explanations build on the [Mozilla Developer Network](https://developer.mozilla.org/). They are marked “‡” and likewise attributed in the Appendix. The original material is licensed under a [CC BY-SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
+Some explanations build on the [MDN Web Docs](https://developer.mozilla.org/). They are marked “‡” and likewise attributed in the Appendix. The original material is licensed under a [CC BY-SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
 
 A handful of explanations build on the [HTML Living Standard](https://html.spec.whatwg.org/). They are marked “§”. The original material is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
