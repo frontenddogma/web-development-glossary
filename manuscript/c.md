@@ -48,7 +48,7 @@ Cart
 : → Shopping cart
 
 Cascade
-: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration “wins”).
+: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
 
 Cascading HTML Style Sheets
 : A style sheet language proposal drafted in 1994 by Håkon Wium Lie. ℹ︎&nbsp;[w3.org/People/howcome/p/cascade](https://www.w3.org/People/howcome/p/cascade.html)
@@ -380,14 +380,14 @@ Container
 : An HTML element that contains other elements.
 
 Containerization
-: An operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (Solaris, Docker), Zones (Solaris), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernel (DragonFly BSD), or jails (FreeBSD jail or chroot jail) may look like actual computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container’s contents and devices assigned to the container. Containerization is used to securely allocate finite hardware resources among a large number of mutually-distrusting users, to consolidate server hardware by moving services on separate hosts into containers on the one server, or to separate several programs to separate containers for improved security, hardware independence, and added resource management features.&nbsp;[†](#w-containerization)
+: An operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (Solaris, Docker), Zones (Solaris), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernels (DragonFly BSD), or jails (FreeBSD jail or chroot jail) may look like actual computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container’s contents and devices assigned to the container. Containerization is used to securely allocate finite hardware resources among a large number of mutually-distrusting users, to consolidate server hardware by moving services on separate hosts into containers on the one server, or to separate several programs to separate containers for improved security, hardware independence, and added resource management features.&nbsp;[†](#w-containerization)
 
 Containing block
 : The block (element) in which a box resides.
 
 Content
-: → Content box
 : The information and experiences that are directed toward an end user or audience. Content is “something that is to be expressed through some medium, as speech, writing, or any of various arts.” Content can be delivered via many different media including the Internet, cinema, television, radio, smartphones, audio CDs, books, ebooks, magazines, and live events, such as speeches, conferences, and stage performances.&nbsp;[†](#w-content)
+: → Content box
 
 Content box
 : → Box
@@ -442,7 +442,7 @@ Cookie banner
 : A web page notification alerting and informing about respective site’s use of cookies. Cookie banners are common on European websites because of European regulations around the use of cookies.
 
 Cookie consent
-: The agreement to but also a term for the necessity for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
+: The agreement to but also a term for the requirement for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
 
 CoP
 : → Community of Practice

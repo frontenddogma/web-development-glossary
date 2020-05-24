@@ -145,7 +145,7 @@ Dependency Inversion Principle
 : A specific form of decoupling software modules. When following this principle, the conventional dependency relationships established from high-level policy-setting modules to low-level dependency modules are reversed, thus rendering high-level modules independent of the low-level module implementation details. The principle states 1) that high-level modules should not depend on low-level modules, but that both should depend on abstractions (e.g., interfaces), and 2) that abstractions should not depend on details, but that details (concrete implementations) should depend on abstractions.&nbsp;[†](#w-dip)
 
 Deployment
-: All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, “deployment” should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
+: All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, deployment should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
 
 Deprecated
 : → Deprecation
@@ -369,6 +369,6 @@ Dynamic typing
 : An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time.&nbsp;[‡](#m-dynamic-typing)
 
 Dyslexia
-: A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud and understanding what one reads.&nbsp;[†](#w-dyslexia)
+: A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud, and understanding what one reads.&nbsp;[†](#w-dyslexia)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
