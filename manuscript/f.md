@@ -77,7 +77,7 @@ First CPU Idle
 : The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
 
 First In, First Out
-: A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behavior: where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
+: A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behavior, where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
 
 First Input Delay
 : The time from when a user first interacts with a site (i.e., when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
