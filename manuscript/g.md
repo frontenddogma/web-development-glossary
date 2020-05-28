@@ -25,7 +25,7 @@ GIF
 : → Graphics Interchange Format
 
 GIMP
-: A raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. GIMP was first released in 1986. ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
+: A raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. GIMP was first released in 1996. ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
 
 Git
 : A distributed version control system for tracking changes in source code during software development. Git is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. As with most other distributed version control systems, and unlike most client-server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server. Git was created in 2005 by Linus Torvalds.&nbsp;[†](#w-git) ℹ︎&nbsp;[git-scm.com](https://git-scm.com/)
