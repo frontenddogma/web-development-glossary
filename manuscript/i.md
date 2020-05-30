@@ -218,7 +218,7 @@ Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
 Internal
-: Coming from within one’s organization.
+: Originating inside one’s organization.
 
 International Organization for Standardization
 : An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes world-wide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)

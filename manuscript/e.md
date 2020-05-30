@@ -188,7 +188,7 @@ Extensible Stylesheet Language Transformations
 : A declarative language used to convert XML documents into other XML documents, HTML, PDF, plain-text, and so on. XSLT has its own processor that accepts XML input, or any format convertible to an XQuery and XPath Data Model. The XSLT processor produces a new document based on the XML document and an XSLT style sheet, making no changes to the original files in the process.&nbsp;[‡](#m-xslt) ℹ︎&nbsp;[w3.org/TR/xslt](https://www.w3.org/TR/xslt/)
 
 External
-: Coming from outside one’s organization.
+: Originating outside one’s organization.
 
 Extreme Programming
 : A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent releases in short development cycles, which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. Other elements of Extreme Programming include programming in pairs or doing extensive code reviews, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer’s requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)
