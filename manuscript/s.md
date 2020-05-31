@@ -14,7 +14,7 @@ Sass
 : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called the indented syntax, uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, SCSS (Sassy CSS), uses block formatting like that of CSS, with braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
 
 SassScript
-: The scripting language used with Sass. SassScript provides the following mechanisms: variables, nesting, mixins, and selector inheritance.&nbsp;[†](#w-sass)
+: The scripting language used with Sass. SassScript provides variables, nesting, mixins, and selector inheritance.&nbsp;[†](#w-sass)
 
 SAST
 : → Static Application Security Testing
