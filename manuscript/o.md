@@ -22,7 +22,7 @@ Observer pattern
 : A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The observer pattern is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
 
 Offline
-: Being in a state of disconnection from the Internet.
+: Not being connected to the Internet.
 
 Offline First
 : The idea of not assuming permanent, fast Internet connectivity, and developing sites and apps so to also work with no or poor connectivity. ℹ︎&nbsp;[offlinefirst.org](http://offlinefirst.org/)
@@ -71,7 +71,7 @@ Optimization
 : The selection of a best element (with regard to some criterion) from some set of available alternatives. Optimization problems of sorts arise in all quantitative disciplines from computer science and engineering to operations research and economics, and the development of solution methods has been of interest in mathematics for centuries. In the simplest case, an optimization problem consists of maximizing or minimizing a real function by systematically choosing input values from within an allowed set and computing the value of the function. Casually, optimization refers to improving a product, service, or software.&nbsp;[†](#w-optimization)
 
 Optional markup
-: Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for respective document to be valid.
+: Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for a document to be functioning and valid.
 
 Orca
 : An extensible screen reader from the GNOME project for individuals who are blind or visually impaired. Using various combinations of speech synthesis and braille, Orca helps provide access to applications and toolkits that support the AT-SPI. The name Orca, which is the name of a killer whale, is a nod to the long-standing tradition of naming screen readers after aquatic creatures.&nbsp;[†](#w-orca) ℹ︎&nbsp;[wiki.gnome.org/Projects/Orca](https://wiki.gnome.org/Projects/Orca)

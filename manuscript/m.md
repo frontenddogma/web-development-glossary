@@ -40,7 +40,7 @@ Margin collapsing
 : The joining of two adjacent vertical margins in the same block formatting context. In many cases margins are adjoining and do collapse, but there are exceptions, as when margins of the root element are concerned.
 
 Markdown
-: A lightweight markup language with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain-text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown/)
+: A lightweight markup language with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain-text editor. Markdown was first released in 2004.&nbsp;[†](#w-markdown) ℹ︎&nbsp;[is.gd/bkp5lM](https://daringfireball.net/projects/markdown/)
 
 Marketing
 : The study and management of exchange relationships. Marketing is the business process of creating relationships with and satisfying customers. Because marketing is used to attract customers, it is one of the primary components of business management and commerce. Marketers can direct product to other businesses (B2B marketing) or directly to consumers (B2C marketing).&nbsp;[†](#w-marketing)
@@ -188,7 +188,7 @@ Mobile Instant Pages
 : A mobile-centered web development and publishing framework similar to Accelerated Mobile Pages (AMP). MIP was released in 2016 by Baidu. ℹ︎&nbsp;[mipengine.org](https://www.mipengine.org/)
 
 Mobilegeddon
-: A name for Google’s search engine algorithm update of April 21, 2015. The term “Mobilegeddon” was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015. The term was then adopted by webmasters and web-developers. The main effect of the update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop.&nbsp;[†](#w-mobilegeddon)
+: A name for Google’s search engine algorithm update of April 21, 2015. The term “Mobilegeddon” was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015, and then adopted by webmasters and web developers. The main effect of the update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop.&nbsp;[†](#w-mobilegeddon)
 
 Mocha
 : → JavaScript
