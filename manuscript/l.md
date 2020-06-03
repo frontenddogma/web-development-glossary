@@ -106,6 +106,9 @@ Line feed
 Line terminator
 : → Newline
 
+Line-spacing
+: → Leading
+
 Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
 

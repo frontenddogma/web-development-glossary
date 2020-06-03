@@ -249,7 +249,7 @@ Transcompiler
 : → Transpiler
 
 Transcript
-: A text version of audio contents that is provided for and used by people who are not currently able to process audio information, are hard of hearing, or are deaf.
+: A text version of audio contents that is provided for and used by people who are not currently able to process audio information, who are hard of hearing, or who are deaf.
 
 Transmission Control Protocol
 : One of the main protocols of the Internet protocol suite. It originated in the initial network implementation where it complemented the Internet Protocol (IP), which is why the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major Internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP. SSL/TLS often runs on top of TCP. TCP is connection-oriented, and a connection between client and server is established (passive open) before data can be sent. Three-way handshake (active open), retransmission, and error detection add to its reliability, though they also lengthen latency. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that prioritizes time over reliability. TCP has its origins in 1974.&nbsp;[†](#w-tcp)
