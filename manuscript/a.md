@@ -115,8 +115,11 @@ Algorithm
 Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
+Almost standards mode
+: → Almost strict mode
+
 Almost strict mode
-: A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification and which has been implemented in Safari, Opera&nbsp;7.5 (and later), all Gecko-based browsers since 1.0.1 (such as Firefox), and Internet Explorer 8.&nbsp;[†](#w-quirks-mode)
+: A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification, and which treats images like block elements.&nbsp;[†](#w-quirks-mode)
 
 Alternate style sheet
 : A style sheet mutually exclusive to other style sheets, which can be selected for alternative styling. An alternate style sheet is indicated through the `alternate` keyword, as in `<link rel="alternate stylesheet" href=example.css title=Example>`.
