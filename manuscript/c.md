@@ -18,7 +18,7 @@ Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
 Camel case
-: The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay”. Camel case is also sometimes used in online usernames such as “johnSmith”. In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
+: The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay.” Camel case is also sometimes used in online usernames such as “johnSmith.” In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
 
 Canonical equivalence
 : The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)

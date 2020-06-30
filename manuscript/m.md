@@ -70,7 +70,7 @@ MAU
 : → Monthly Active Users
 
 MD2
-: A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest”. The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
+: A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest.” The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
 MD4
 : A cryptographic hash function developed in 1990 by Ronald Rivest. The digest length is 128 bits. The algorithm has influenced later designs, such as the MD5, SHA-1, and RIPEMD algorithms. The security of MD4 has been severely compromised.&nbsp;[†](#w-md4)
@@ -273,6 +273,6 @@ MVVM
 : → Model-View-Viewmodel
 
 MySQL
-: A relational database management system (RDBMS). Its name is a combination of “My”, the name of co-founder Michael Widenius’s daughter, and “SQL”, the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
+: A relational database management system (RDBMS). Its name is a combination of “My,” the name of co-founder Michael Widenius’s daughter, and “SQL,” the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

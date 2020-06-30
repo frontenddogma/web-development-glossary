@@ -36,7 +36,7 @@ Tailoring
 : The developing and refactoring to precise dimensions and needs.
 
 tar
-: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive”, as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program.&nbsp;[†](#w-tar)
+: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive,” as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program.&nbsp;[†](#w-tar)
 
 Tarball
 : A tar archive file.
@@ -181,7 +181,7 @@ Toast
 : A pop-up notification UI element. ℹ︎&nbsp;[github.com/jackbsteinberg/std-toast](https://github.com/jackbsteinberg/std-toast)
 
 Todo
-: A task to be done. “Todo”, in various capitalizations, is also used as a keyword in code and documentation to point to work to be done or redone.
+: A task to be done. “Todo,” in various capitalizations, is also used as a keyword in code and documentation to point to work to be done or redone.
 
 TOFU
 : → Trust on First Use

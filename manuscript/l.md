@@ -86,7 +86,7 @@ LIFO
 : → Last In, First Out
 
 Ligature
-: The joining of two or more graphemes or letters as a single glyph. An example is the character “æ” as used in English, in which the letters “a” and “e” are joined. The common ampersand (“&”) developed from a ligature in which the handwritten Latin letters “e” and “t” (spelling “et”, from the Latin for “and”) were combined.&nbsp;[†](#w-ligature)
+: The joining of two or more graphemes or letters as a single glyph. An example is the character “æ” as used in English, in which the letters “a” and “e” are joined. The common ampersand (“&”) developed from a ligature in which the handwritten Latin letters “e” and “t” (spelling “et,” from the Latin for “and”) were combined.&nbsp;[†](#w-ligature)
 
 Light Mode
 : A color scheme that uses dark-colored text, icons, and interface elements on a light background. Often a display default.
