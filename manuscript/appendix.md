@@ -12,6 +12,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
+* [Acqui-hiring](https://en.wikipedia.org/wiki/Acqui-hiring){#w-acqui-hiring}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Active users](https://en.wikipedia.org/wiki/Active_users){#w-active-users}

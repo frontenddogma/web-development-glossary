@@ -55,6 +55,12 @@ Accessible Rich Internet Applications
 ACM
 : → Association for Computing Machinery
 
+Acq-hiring
+: → Acqui-hiring
+
+Acqui-hiring
+: The process of acquiring a company primarily to recruit its employees, rather than its products or services. “Acqui-hiring” is a portmanteau of “acquisition” and “hiring.” The term was first used in 2005.&nbsp;[†](#w-acqui-hiring)
+
 ACT
 : → Accessibility Conformance Testing
 
