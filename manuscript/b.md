@@ -13,6 +13,9 @@ Backend
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
+Backward compatibility
+: A property of a product, system, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Modifying a system in a way that does not allow backward compatibility is sometimes called “breaking” backward compatibility.&nbsp;[†](#w-backward-compatibility)
+
 Bad Neighborhood
 : Bad quality websites, or websites that are being penalized and downgraded by search engines. In SEO, links to and from bad neighborhood websites are recommended to be avoided.
 

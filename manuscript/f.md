@@ -205,6 +205,9 @@ Formatting context
 Formatting Output Specification Instance
 : A style sheet language for SGML and, later, XML. FOSI was developed in the 1990s by the US Department of Defense to control the pagination and layout of SGML and XML technical data. FOSI style sheets are themselves written in SGML, an approach that would later be adopted by XSL.&nbsp;[†](#w-fosi)
 
+Forward compatibility
+: A design characteristic that allows a system to accept input intended for a later version of itself. The concept can be applied to entire systems, telecommunication signals, electrical interfaces, data communication protocols, file formats, and programming languages. A standard supports forward compatibility if a product that complies with earlier versions can “gracefully” process input designed for later versions of the standard, ignoring new parts which it does not understand.&nbsp;[†](#w-forward-compatibility)
+
 FOSI
 : → Formatting Output Specification Instance
 

@@ -85,6 +85,9 @@ Adaptive
 Adaptive loading
 : The loading of web resources depending on the connection type and speed.
 
+Adaptive technology
+: Technology specifically designed for and used by people with disabilities. Adaptive technology often refers to electronic and information technology access. It is a subset of assistive technology.&nbsp;[†](#w-assistive-technology)
+
 Addon
 : → Plugin
 
@@ -120,6 +123,9 @@ Algorithm
 
 Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
+
+Aliasing
+: An effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. Aliasing also often refers to the distortion or artifact that results when a signal reconstructed from samples is different from the original continuous signal. Aliasing can occur in signals sampled in time, for instance digital audio, and is referred to as temporal aliasing. It can also occur in spatially sampled signals (e.g. moiré patterns in digital images); this type of aliasing is called spatial aliasing. Aliasing is generally avoided by applying low pass filters or anti-aliasing filters (AAF) to the input signal.&nbsp;[†](#w-aliasing)
 
 Almost standards mode
 : → Almost strict mode
@@ -315,6 +321,9 @@ Augmented Reality
 
 Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
+
+Authoring tool
+: Software that allows to create digital content.
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG&nbsp;1.0 became a W3C Recommendation in 2000, and ATAG&nbsp;2.0 in 2015. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)

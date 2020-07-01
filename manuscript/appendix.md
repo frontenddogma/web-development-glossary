@@ -26,6 +26,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
+* [Aliasing](https://en.wikipedia.org/wiki/Aliasing){#w-aliasing}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework)){#w-angular}
 * [AngularJS](https://en.wikipedia.org/wiki/AngularJS){#w-angularjs}
@@ -55,6 +56,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
 * [Babel (transpiler)](https://en.wikipedia.org/wiki/Babel_(transpiler)){#w-babel}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
+* [Backward compatibility](https://en.wikipedia.org/wiki/Backward_compatibility){#w-backward-compatibility}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
 * [Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography)){#w-baseline}
@@ -294,6 +296,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
+* [Forward compatibility](https://en.wikipedia.org/wiki/Forward_compatibility){#w-forward-compatibility}
 * [Fragment identifier](https://en.wikipedia.org/wiki/Fragment_identifier){#w-fragment-identifier}
 * [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
 * [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
