@@ -67,6 +67,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
 * [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation){#w-big-o}
+* [Binary large object](https://en.wikipedia.org/wiki/Binary_large_object){#w-blob}
 * [Binary number](https://en.wikipedia.org/wiki/Binary_number){#w-binary-number}
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm){#w-binary-search-algorithm}
 * [Black hat (computer security)](https://en.wikipedia.org/wiki/Black_hat_(computer_security)){#w-black-hat}
@@ -960,6 +961,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
+* [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob){#m-blob}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
 * [Bounding Box](https://developer.mozilla.org/en-US/docs/Glossary/bounding_box){#m-bounding-box}
 * [Browsing context](https://developer.mozilla.org/en-US/docs/Glossary/Browsing_context){#m-browsing-context}

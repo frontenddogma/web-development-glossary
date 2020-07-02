@@ -85,6 +85,9 @@ Big O notation
 Binary chop
 : → Binary search algorithm
 
+Binary large object
+: A collection of binary data stored as a single entity. Blobs are typically images, audio, or other multimedia objects, though sometimes binary executable code is stored as a blob.&nbsp;[†](#w-blob)
+
 Binary number
 : A number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically “0” (zero) and “1” (one).&nbsp;[†](#w-binary-number)
 
@@ -115,6 +118,10 @@ Blink
 
 Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
+
+Blob
+: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that isn’t necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
+: → Binary large object
 
 Block
 : In CSS, a section enclosed by an opening (`{`) and a closing curly brace (`}`).
