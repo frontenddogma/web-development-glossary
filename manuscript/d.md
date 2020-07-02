@@ -239,6 +239,9 @@ DNS
 : → Domain Name Service
 : → Domain Name System
 
+DNS spoofing
+: A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver’s cache, causing the name server to return an incorrect result record, e.g., an IP address. This results in traffic being diverted to the attacker’s computer (or any other computer).&nbsp;[†](#w-dns-spoofing)
+
 DocBook
 : A semantic markup language originally created for technical documentation. As a semantic language, DocBook documents do not describe what their contents “look like,” but rather the meaning of those contents.&nbsp;[†](#w-docbook) ℹ︎&nbsp;[docbook.org](https://docbook.org/)
 
@@ -277,6 +280,9 @@ Domain expert
 
 Domain name
 : An identification string that defines a realm of administrative autonomy, authority, or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a website, or the website itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
+
+Domain name server
+: → Name server
 
 Domain Name Service
 : → Domain Name System

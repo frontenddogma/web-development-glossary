@@ -226,6 +226,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
+* [DNS spoofing](https://en.wikipedia.org/wiki/DNS_spoofing){#w-dns-spoofing}
 * [DocBook](https://en.wikipedia.org/wiki/DocBook){#w-docbook}
 * [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model){#w-dom}
 * [Document Style Semantics and Specification Language](https://en.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language){#w-dsssl}
@@ -538,6 +539,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
+* [Name server](https://en.wikipedia.org/wiki/Name_server){#w-name-server}
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}

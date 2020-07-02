@@ -12,6 +12,9 @@ n-based indexing
 Name binding
 : → Binding
 
+Name server
+: A network service for providing responses to queries against a directory service. It translates an often humanly meaningful, text-based identifier to a system-internal, often numeric identification or addressing component. This service is performed by the server in response to a service protocol request. An example of a name server is the server component of the Domain Name System (DNS).&nbsp;[†](#w-name-server)
+
 Namespace
 : A namespace is a set of symbols that are used to organize objects of various kinds, so that these objects may be referred to by name. A namespace ensures that all the identifiers within it have unique names so that they can be easily identified. Prominent examples include file systems; programming languages that organize their variables and subroutines in namespaces; computer networks and distributed systems that assign names to resources, such as computers, printers, websites, (remote) files, etc.; and operating systems that partition kernel resources (process IDs, users, network sockets) by isolated namespaces to support virtualization containers.&nbsp;[†](#w-namespace)
 

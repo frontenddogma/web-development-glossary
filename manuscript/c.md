@@ -8,6 +8,9 @@ CA
 Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
+Cache poisoning
+: → DNS spoofing
+
 Call stack
 : A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc.&nbsp;[‡](#m-call-stack)
 
@@ -300,6 +303,9 @@ Common Gateway Interface
 
 CommonJS
 : A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. Work on CommonJS started in 2009, and ended in 2014.&nbsp;[†](#w-commonjs)
+
+CommonMark
+: A plain-text format compatible with Markdown. CommonMark was started as a standardization effort in 2012. ℹ︎&nbsp;[commonmark.org](https://commonmark.org/)
 
 Community of Practice
 : A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members’ common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunchroom at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
