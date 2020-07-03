@@ -73,6 +73,9 @@ CBD
 CBSE
 : → Component-Based Software Engineering
 
+CC/PP
+: → Composite Capability/Preference Profiles
+
 CCT
 : → Chrome Custom Tabs
 
@@ -133,6 +136,12 @@ Chrome
 
 Chrome Custom Tabs
 : A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
+
+Chrome OS
+: A Linux kernel-based operating system designed by Google. Chrome OS is derived from the free software Chromium OS and uses the Google Chrome web browser as its principal user interface. Google announced Chrome OS in 2009, conceiving it as an operating system in which both applications and user data reside in the cloud—hence Chrome OS primarily runs web applications. Chrome OS is only available pre-installed on hardware from Google manufacturing partners, but there are unofficial methods that allow it to be installed in other equipment.&nbsp;[†](#w-chrome-os) ℹ︎&nbsp;[google.com/chromebook/chrome-os](https://www.google.com/chromebook/chrome-os/)
+
+ChromeVox
+: A screen reader for Chrome OS as well as the Chrome web browser developed by Google. ℹ︎&nbsp;[chromevox.com](https://www.chromevox.com/)
 
 Chromium
 : A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Edge, Opera, and Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
@@ -345,6 +354,9 @@ Component-Based Development
 
 Component-Based Software Engineering
 : A branch of software engineering that emphasizes the separation of concerns with respect to the wide-ranging functionality available throughout a given software system. It is a reuse-based approach to defining, implementing, and composing loosely coupled independent components into systems.&nbsp;[†](#w-cbse)
+
+Composite Capability/Preference Profiles
+: A specification for defining capabilities and preferences of user agents, establishing a delivery context that can be used to guide the process of tailoring content. CC/PP is a vocabulary extension of the Resource Description Framework (RDF).&nbsp;[†](#w-cc-pp) ℹ︎&nbsp;[w3.org/TR/CCPP-struct-vocab2](https://www.w3.org/TR/CCPP-struct-vocab2/)
 
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)

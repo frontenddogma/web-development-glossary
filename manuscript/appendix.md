@@ -106,6 +106,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering){#w-chaos-engineering}
+* [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS){#w-chrome-os}
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
@@ -147,6 +148,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Compiler](https://en.wikipedia.org/wiki/Compiler){#w-compiler}
 * [Complementary colors](https://en.wikipedia.org/wiki/Complementary_colors){#w-complementary-colors}
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering){#w-cbse}
+* [Composite Capability/Preference Profiles](https://en.wikipedia.org/wiki/Composite_Capability/Preference_Profiles){#w-cc-pp}
 * [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster){#w-cluster}
 * [Computer code](https://en.wikipedia.org/wiki/Computer_code){#w-code}
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
