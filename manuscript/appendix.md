@@ -16,6 +16,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Active users](https://en.wikipedia.org/wiki/Active_users){#w-active-users}
+* [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion){#w-coldfusion}
 * [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
 * [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash){#w-flash}
 * [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
@@ -131,6 +132,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
 * [CodePen](https://en.wikipedia.org/wiki/CodePen){#w-codepen}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
+* [ColdFusion Markup Language](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language){#w-cfml}
 * [Color blindness](https://en.wikipedia.org/wiki/Color_blindness){#w-color-blindness}
 * [Color management](https://en.wikipedia.org/wiki/Color_management){#w-color-management}
 * [Color scheme](https://en.wikipedia.org/wiki/Color_scheme){#w-color-scheme}
@@ -222,6 +224,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dialog box](https://en.wikipedia.org/wiki/Dialog_box){#w-dialog-box}
 * [Digital display advertising](https://en.wikipedia.org/wiki/Digital_display_advertising){#w-display-advertising}
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
+* [Disabilities affecting intellectual abilities](https://en.wikipedia.org/wiki/Disabilities_affecting_intellectual_abilities){#w-cognitive-disability}
 * [Disability Discrimination Act 1995](https://en.wikipedia.org/wiki/Disability_Discrimination_Act_1995){#w-dda}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
@@ -423,7 +426,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Jasmine (JavaScript testing framework)](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)){#w-jasmine}
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java Database Connectivity](https://en.wikipedia.org/wiki/Java_Database_Connectivity){#w-jdbc}
+* [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){#w-jdk}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
+* [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine){#w-jvm}
 * [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}

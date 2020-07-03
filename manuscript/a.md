@@ -91,8 +91,17 @@ Adaptive technology
 Addon
 : → Plugin
 
+Adobe ColdFusion
+: → ColdFusion
+
+Adobe Dreamweaver
+: → Dreamweaver
+
 Adobe Flash
 : → Flash
+
+Adobe Photoshop
+: → Photoshop
 
 ads.txt
 : An initiative from the IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of Internet fraud prevention.&nbsp;[†](#w-adstxt)

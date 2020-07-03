@@ -93,6 +93,9 @@ Certificate
 Certificate Authority
 : An entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party, trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 standard. One particularly common use for certificate authorities is to sign certificates used in HTTPS, the secure browsing protocol for the World Wide Web.&nbsp;[†](#w-ca)
 
+CFML
+: → ColdFusion Markup Language
+
 CGI
 : → Common Gateway Interface
 
@@ -165,6 +168,9 @@ Class
 
 Class variable
 : Any variable declared with the `static` modifier of which a single copy exists, regardless of how many instances of the class there are.&nbsp;[†](#w-class-variable)
+
+Clearfix
+: A name for a variety of float-clearing techniques that may (when CSS only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
 
 CLI
 : → Command-Line Interface
@@ -273,6 +279,15 @@ Coding guidelines
 
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
+
+Cognitive disability
+: As disabilities affecting cognitive ability, a concept encompassing various intellectual or cognitive deficits, including intellectual disability (formerly called mental retardation), deficits too mild to properly qualify as intellectual disability, various specific conditions (such as specific learning disability), and problems acquired later in life through acquired brain injuries or neurodegenerative diseases like dementia. Many of these disabilities have an effect on memory, which is the ability to recall what has been learned over time.&nbsp;[†](#w-cognitive-disability)
+
+ColdFusion
+: A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language.&nbsp;[†](#w-coldfusion) ℹ︎&nbsp;[is.gd/r6E53v](https://www.adobe.com/products/coldfusion-family.html)
+
+ColdFusion Markup Language
+: A scripting language for web development that runs on the Java virtual machine, the .NET framework, and Google App Engine. Multiple commercial and open source implementations of CFML engines are available, including Adobe ColdFusion, Lucee, New Atlanta BlueDragon, Railo, and Open BlueDragon.&nbsp;[†](#w-cfml)
 
 Collapsed margin
 : → Margin collapsing

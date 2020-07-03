@@ -27,8 +27,14 @@ Java archive
 Java Database Connectivity
 : An application programming interface (API) for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 
+Java Development Kit
+: An implementation of either of the Java Platform editions released by Oracle in the form of a binary product aimed at Java developers on Linux, macOS, or Windows. The JDK includes a private JVM and other resources to complete the development of a Java application. Since the introduction of the Java platform, it has been by far the most widely used Software Development Kit (SDK).&nbsp;[†](#w-jdk) ℹ︎&nbsp;[is.gd/dZipm6](https://www.oracle.com/java/technologies/javase-downloads.html)
+
 Java servlet
 : A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-java-servlet)
+
+Java virtual machine
+: A virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. The JVM is detailed by a specification that formally describes what is required in a JVM implementation. Having a specification ensures interoperability of Java programs across different implementations so that program authors using the Java Development Kit (JDK) need not worry about idiosyncrasies of the underlying hardware platform.&nbsp;[†](#w-jvm)
 
 JavaScript
 : → ECMAScript
@@ -56,6 +62,9 @@ JAWS
 
 JDBC
 : → Java Database Connectivity
+
+JDK
+: → Java Development Kit
 
 Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
@@ -126,6 +135,9 @@ Just in Time
 
 Just-in-time compilation
 : A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyzes the code being executed and identifies parts of the code where the speed-up gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
+
+JVM
+: → Java virtual machine
 
 JWS
 : → JSON Web Signature
