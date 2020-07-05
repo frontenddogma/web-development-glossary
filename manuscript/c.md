@@ -434,6 +434,9 @@ Content Management System
 Content network
 : A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through respective ad platform.
 
+Content optimization
+: The process of improving content, making it as interesting as possible for users and search engines, and increasing its reach.
+
 Content Security Policy
 : A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
 
@@ -543,6 +546,9 @@ Cross-Site Request Forgery
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
 
+Cross-Site WebSocket Hijacking
+: An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
+
 CRUD
 : → Create, Read, Update, Delete
 
@@ -581,6 +587,9 @@ CSSOM
 
 CSV
 : → Comma-Separated Values
+
+CSWSH
+: → Cross-Site WebSocket Hijacking
 
 CTA
 : → Call to Action

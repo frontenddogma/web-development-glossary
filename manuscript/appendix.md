@@ -250,6 +250,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Duck typing](https://en.wikipedia.org/wiki/Duck_typing){#w-duck-typing}
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
+* [Dynamic Language Runtime](https://en.wikipedia.org/wiki/Dynamic_Language_Runtime){#w-dlr}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
 * [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia){#w-dyslexia}
 * [E-commerce](https://en.wikipedia.org/wiki/E-commerce){#w-e-commerce}

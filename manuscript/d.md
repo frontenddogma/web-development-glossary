@@ -114,6 +114,9 @@ Decryption
 Deep Web
 : Parts of the World Wide Web whose contents are not indexed by standard web search engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video-on-demand as well as online magazines and newspapers. The term “Deep Web” has first been used in 2001 by Michael K. Bergman.&nbsp;[†](#w-deep-web)
 
+Deep-linking
+: The linking of a specific web resource or piece of web content rather than respective website’s home page.
+
 Defect
 : → Bug
 
@@ -228,6 +231,9 @@ Dither
 
 Divitis
 : Excessive use of `div` elements, an HTML anti-pattern.
+
+DLR
+: → Dynamic Language Runtime
 
 DML
 : → Data Manipulation Language
@@ -370,6 +376,9 @@ Dynamic
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)
+
+Dynamic Language Runtime
+: A number of computer language services for dynamic languages. These services include a dynamic type system, dynamic method dispatch, dynamic code generation, and a hosting API. The DLR is used to implement dynamic languages on the .NET Framework, including the IronPython and IronRuby projects. It was first released in 2010 by Microsoft.&nbsp;[†](#w-dlr) ℹ︎&nbsp;[github.com/IronLanguages/dlr](https://github.com/IronLanguages/dlr)
 
 Dynamic password
 : → One-Time Password
