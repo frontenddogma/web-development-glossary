@@ -190,6 +190,9 @@ Service Level Expectation
 Service worker
 : A JavaScript file that operates as a type of web worker. Service workers work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates, and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of registration, installation, and activation.&nbsp;[†](#w-pwa)
 
+Session hijacking
+: The exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system. In particular, session hijacking is used to refer to the theft of a cookie used to authenticate a user to a remote server. It has particular relevance to web developers, as the HTTP cookies used to maintain a session on many websites can be easily stolen by an attacker using an intermediary computer or with access to the saved cookies on the victim’s computer. After successfully stealing appropriate session cookies, an adversary might use the Pass the Cookie technique to hijack the session.&nbsp;[†](#w-session-hijacking)
+
 Set
 : An abstract data type that can store unique values, without any particular order. A set is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.&nbsp;[†](#w-set)
 

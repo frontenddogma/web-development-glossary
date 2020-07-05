@@ -477,6 +477,9 @@ Cookie banner
 Cookie consent
 : The agreement to but also a term for the requirement for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
 
+Cookie hijacking
+: → Session hijacking
+
 CoP
 : → Community of Practice
 

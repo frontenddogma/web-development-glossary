@@ -728,6 +728,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
+* [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking){#w-session-hijacking}
 * [Set (abstract data type)](https://en.wikipedia.org/wiki/Set_(abstract_data_type)){#w-set}
 * [SGML entity](https://en.wikipedia.org/wiki/SGML_entity){#w-entity}
 * [Shebang (Unix)](https://en.wikipedia.org/wiki/Shebang_(Unix)){#w-shebang}
