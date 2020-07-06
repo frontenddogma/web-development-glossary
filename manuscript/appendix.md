@@ -234,6 +234,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
 * [DNS spoofing](https://en.wikipedia.org/wiki/DNS_spoofing){#w-dns-spoofing}
 * [DocBook](https://en.wikipedia.org/wiki/DocBook){#w-docbook}
+* [Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)){#w-docker}
 * [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model){#w-dom}
 * [Document Style Semantics and Specification Language](https://en.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language){#w-dsssl}
 * [Document type declaration](https://en.wikipedia.org/wiki/Document_type_declaration){#w-doctype}

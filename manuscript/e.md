@@ -6,6 +6,9 @@ E-commerce
 E2E
 : → End-to-end (testing)
 
+EAT
+: → Expertise, Authoritativeness, Trustworthiness
+
 EBCDIC
 : → Extended Binary Coded Decimal Interchange Code
 
@@ -74,6 +77,9 @@ Email address
 
 Embedded content
 : Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, MathML `math`, `object`, `picture`, SVG `svg`, and `video` elements.&nbsp;§
+
+Embedded style sheet
+: A style sheet embedded via the `style` element.
 
 EME
 : → Encrypted Media Extensions
@@ -168,6 +174,9 @@ Exit code
 
 Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
+
+Expertise, Authoritativeness, Trustworthiness
+: A concept from Google’s _Search Quality Evaluator Guidelines_ to help assess the quality of websites and apps.
 
 Express
 : A web application framework for Node.js. Express is designed for building web applications and APIs. It has been called the _de facto_ standard server framework for Node.js. Express was first released in 2010.&nbsp;[†](#w-express) ℹ︎&nbsp;[expressjs.com](https://expressjs.com/)

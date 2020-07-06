@@ -19,6 +19,12 @@ yarn.lock
 Yet Another Multicolumn Layout
 : A modular HTML/CSS framework. YAML was first released in 2005. ℹ︎&nbsp;[yaml.de](http://www.yaml.de/)
 
+YMYL
+: → Your Money or Your Life
+
+Your Money or Your Life
+: A category from Google’s _Search Quality Evaluator Guidelines_ that covers websites and apps that may impact “a person’s future happiness, health, financial stability, or safety” and for which result quality is particularly important.
+
 YUI
 : → Yahoo User Interface Library
 
