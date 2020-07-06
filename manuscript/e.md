@@ -43,7 +43,7 @@ EFF
 : → Electronic Frontier Foundation
 
 Effective Connection Type
-: The measured network performance, returning a cellular connection type, like 3G, even if the actual connection is tethered broadband or WiFi, based on the time between the browser requesting a page and effective type of the connection. ECT’s values of `slow-2g`, `2g`, `3g`, and `4g` are determined using observed round-trip times and downlink values.&nbsp;[‡](#m-ect) ℹ︎&nbsp;[wicg.github.io/netinfo](https://wicg.github.io/netinfo/)
+: The measured network performance, returning a cellular connection type, like 3G, even if the actual connection is tethered broadband or Wi-Fi, based on the time between the browser requesting a page and effective type of the connection. ECT’s values of `slow-2g`, `2g`, `3g`, and `4g` are determined using observed round-trip times and downlink values.&nbsp;[‡](#m-ect) ℹ︎&nbsp;[wicg.github.io/netinfo](https://wicg.github.io/netinfo/)
 
 Effectiveness
 : The capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression. Not to be confused with efficiency.&nbsp;[†](#w-effectiveness)

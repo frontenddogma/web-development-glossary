@@ -881,6 +881,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
 * [VoiceXML](https://en.wikipedia.org/wiki/VoiceXML){#w-voicexml}
 * [Vue.js](https://en.wikipedia.org/wiki/Vue.js){#w-vuejs}
+* [W3C Geolocation API](https://en.wikipedia.org/wiki/W3C_Geolocation_API){#w-geolocation-api}
 * [WAR (file format)](https://en.wikipedia.org/wiki/WAR_(file_format)){#w-war}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
