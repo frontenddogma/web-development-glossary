@@ -395,6 +395,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
+* [Inline linking](https://en.wikipedia.org/wiki/Inline_linking){#w-inline-linking}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
 * [Instance variable](https://en.wikipedia.org/wiki/Instance_variable){#w-instance-variable}
 * [Integer](https://en.wikipedia.org/wiki/Integer){#w-integer-math}
@@ -440,6 +441,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
 * [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
 * [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
+* [Joomla](https://en.wikipedia.org/wiki/Joomla){#w-joomla}
 * [JPEG](https://en.wikipedia.org/wiki/JPEG){#w-jpeg}
 * [jQuery](https://en.wikipedia.org/wiki/JQuery){#w-jquery}
 * [JScript](https://en.wikipedia.org/wiki/JScript){#w-jscript}

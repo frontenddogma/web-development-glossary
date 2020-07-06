@@ -35,7 +35,11 @@ Icon font
 : A fonts that contains symbols and glyphs rather than letters or numbers.
 
 ID
+: → ID selector
 : → Identifier
+
+ID selector
+: A selector that matches an HTML element based on the value of the element’s `id` attribute. The selector is based on a “#” followed by the `id` attribute’s value. ID selectors have a higher specificity than attribute selectors.
 
 IDE
 : → Integrated Development Environment
@@ -157,6 +161,9 @@ Inline element
 Inline formatting context
 : A formatting context in which boxes are laid out horizontally. Horizontal padding, borders, and margins are respected.
 
+Inline linking
+: The use (embedding) of a linked object, often an image, on one website by a web page belonging to a second site. One website is said to have an inline link to the other site where the object is located.&nbsp;[†](#w-inline-linking)
+
 Inline replying
 : → Interleaved posting
 
@@ -165,6 +172,9 @@ Inline-level box
 
 Inline-level element
 : An element that does not form new blocks of content and whose content is distributed in lines.
+
+`innerHTML`
+: An ECMAScript property that can be used to get and set the markup within respective element. Use of the property is considered bad practice because of possible security and performance issues.
 
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
