@@ -111,11 +111,11 @@ Decoration
 Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plain-text.&nbsp;[†](#w-cryptography)
 
+Deep linking
+: The linking of a specific web resource or piece of web content rather than respective website’s home page.
+
 Deep Web
 : Parts of the World Wide Web whose contents are not indexed by standard web search engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video-on-demand as well as online magazines and newspapers. The term “Deep Web” has first been used in 2001 by Michael K. Bergman.&nbsp;[†](#w-deep-web)
-
-Deep-linking
-: The linking of a specific web resource or piece of web content rather than respective website’s home page.
 
 Defect
 : → Bug

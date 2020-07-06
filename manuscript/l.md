@@ -76,8 +76,8 @@ Less/LESS
 Let’s Encrypt
 : A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
-Letter-spacing
-: An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter-spacing should not be confused with kerning. Letter-spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
+Letter spacing
+: An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter spacing should not be confused with kerning. Letter spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
 
 Library
 : Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
@@ -103,11 +103,11 @@ Line ending
 Line feed
 : → Newline
 
+Line spacing
+: → Leading
+
 Line terminator
 : → Newline
-
-Line-spacing
-: → Leading
 
 Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
@@ -176,7 +176,7 @@ Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
 
 Lock file
-: → File-locking
+: → File locking
 
 Log file
 : A file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. In the simplest case, messages are written to a single log file. A transaction log is a file (i.e., log) of the communications between a system and the users of that system, or a data collection method that automatically captures the type, content, or time of transactions made by a person from a terminal with that system. Many operating systems, software frameworks and programs include a logging system. A widely used logging standard is syslog.&nbsp;[†](#w-log-file)

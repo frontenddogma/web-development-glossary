@@ -320,7 +320,7 @@ RTL
 RTT
 : → Round-Trip Time
 
-Rubber-ducking
+Rubber ducking
 : A method of debugging code. The name is a reference to a story in the book _The Pragmatic Programmer_ in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving inanimate objects.&nbsp;[†](#w-rubber-ducking)
 
 Ruby

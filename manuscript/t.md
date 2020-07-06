@@ -204,11 +204,11 @@ TOML
 Tooling
 : All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of a workflow are being supported or automated.
 
+Top posting
+: A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
+
 Top-Level Domain
 : One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
-
-Top-posting
-: A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
 
 Tor
 : A project, software, and network for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Router.” Tor directs Internet traffic through a free, world-wide, volunteer overlay network consisting of more than 7,000 relays to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. Tor’s intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored. Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user’s privacy, but does not hide the fact that someone is using Tor. Tor was first released in 2002.&nbsp;[†](#w-tor) ℹ︎&nbsp;[torproject.org](https://www.torproject.org/)
@@ -236,7 +236,7 @@ Tracing
 : A specialized use of logging to record information about a program’s execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term “tracing” is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
 
 Tracking
-: → Letter-spacing
+: → Letter spacing
 : → Web tracking
 
 Tracking pixel
@@ -327,6 +327,6 @@ TypeScript
 : A programming language developed and maintained by Microsoft. TypeScript is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client- and server-side execution (as with Node.js or Deno). The TypeScript compiler is itself written in TypeScript and compiled to JavaScript. TypeScript was first released in 2012.&nbsp;[†](#w-typescript) ℹ︎&nbsp;[typescriptlang.org](https://www.typescriptlang.org/)
 
 Typography
-: The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
+: The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line spacing (leading), and letter spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

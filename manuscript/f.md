@@ -51,6 +51,9 @@ FIFO
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
+File locking
+: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of a race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
+
 File manager
 : A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g., viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
 
@@ -59,9 +62,6 @@ File system
 
 File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
-
-File-locking
-: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of a race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
 
 Fingerprinting
 : In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
@@ -232,11 +232,11 @@ Fragment identifier
 Frame
 : A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different website as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
 
+Frame busting
+: → Framekiller
+
 Frame rate
 : The frequency (rate) at which consecutive images called frames appear on a display. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in Hertz.&nbsp;[†](#w-frame-rate)
-
-Frame-busting
-: → Framekiller
 
 Framekiller
 : A technique used by websites and applications to prevent their web pages from being displayed within a frame, to avoid being displayed without permission or for malicious purposes, like as part of a clickjacking attack.&nbsp;[†](#w-framekiller)

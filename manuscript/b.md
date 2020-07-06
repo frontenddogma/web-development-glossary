@@ -193,7 +193,7 @@ Bootstrap
 Border
 : Per the CSS box model, any kind of line (solid, dotted, dashed, etc.) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
 
-Bottom-posting
+Bottom posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
 Bounce rate
