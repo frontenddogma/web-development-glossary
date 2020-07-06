@@ -279,6 +279,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
+* [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking){#w-eye-tracking}
 * [Facebook Instant Articles](https://en.wikipedia.org/wiki/Facebook_Instant_Articles){#w-instant-articles}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
@@ -309,6 +310,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fragment identifier](https://en.wikipedia.org/wiki/Fragment_identifier){#w-fragment-identifier}
 * [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
 * [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
+* [Framekiller](https://en.wikipedia.org/wiki/Framekiller){#w-framekiller}
 * [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software){#w-foss}
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation){#w-fsf}
 * [Free variables and bound variables](https://en.wikipedia.org/wiki/Free_variables_and_bound_variables){#w-free-bound-variable}
@@ -995,6 +997,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Empty element](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element){#m-void-element}
 * [Exception](https://developer.mozilla.org/en-US/docs/Glossary/Exception){#m-exception}
 * [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy){#m-falsy}
+* [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API){#m-fetch-api}
 * [First contentful paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint){#m-fcp}
 * [First CPU idle](https://developer.mozilla.org/en-US/docs/Glossary/First_CPU_idle){#m-first-cpu-idle}
 * [First input delay](https://developer.mozilla.org/en-US/docs/Glossary/First_input_delay){#m-fid}

@@ -39,6 +39,9 @@ Feed
 Feed reader
 : → News aggregator
 
+Fetch API
+: An interface for fetching resources (including across the network). The Fetch API is comparable to XMLHttpRequest, but provides a more powerful and flexible feature set building on a generic definition of `Request` and `Response` objects.&nbsp;[‡](#m-fetch-api) ℹ︎&nbsp;[fetch.spec.whatwg.org](https://fetch.spec.whatwg.org/)
+
 FID
 : → First Input Delay
 
@@ -231,6 +234,12 @@ Frame
 
 Frame rate
 : The frequency (rate) at which consecutive images called frames appear on a display. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in Hertz.&nbsp;[†](#w-frame-rate)
+
+Frame-busting
+: → Framekiller
+
+Framekiller
+: A technique used by websites and applications to prevent their web pages from being displayed within a frame, to avoid being displayed without permission or for malicious purposes, like as part of a clickjacking attack.&nbsp;[†](#w-framekiller)
 
 Frames per Second
 : → Frame rate

@@ -202,4 +202,7 @@ External
 Extreme Programming
 : A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent releases in short development cycles, which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. Other elements of Extreme Programming include programming in pairs or doing extensive code reviews, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer’s requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)
 
+Eye tracking
+: The process of measuring either the point of gaze (where one is looking) or the motion of an eye relative to the head. An eye tracker is a device for measuring eye positions and eye movement. Eye trackers are used in research on the visual system, in psychology, in psycholinguistics, marketing, as an input device for human-computer interaction, and in product design.&nbsp;[†](#w-eye-tracking)
+
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
