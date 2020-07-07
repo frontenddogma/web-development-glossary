@@ -266,7 +266,7 @@ WORA
 : → Write Once, Run Anywhere
 
 WordPress
-: A free and open source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
+: A content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
 
 WordPress Theme
 : A collection of templates and style sheets for customization of a site built with WordPress.

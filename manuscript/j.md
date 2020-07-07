@@ -88,7 +88,7 @@ Joint Photographic Experts Group
 : A joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)
 
 Joomla
-: A free and open source content management system (CMS) for publishing web content. Joomla is built on a model-view-controller web application framework that can be used independently of the CMS. It was first released in 2005.&nbsp;[†](#w-joomla) ℹ︎&nbsp;[joomla.org](https://www.joomla.org/)
+: A content management system (CMS) for publishing web content. Joomla is built on a model-view-controller web application framework that can be used independently of the CMS. It was first released in 2005.&nbsp;[†](#w-joomla) ℹ︎&nbsp;[joomla.org](https://www.joomla.org/)
 
 JPEG
 : A commonly used method of lossy compression and a file format for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality. Since its introduction in 1992, JPEG has been the most widely used image compression standard in the world, and the most widely used digital image format, with several billion JPEG images produced every day as of 2015.&nbsp;[†](#w-jpeg)

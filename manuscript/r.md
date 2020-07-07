@@ -298,7 +298,7 @@ RPM
 : → RPM Package Manager
 
 RPM Package Manager
-: Originally called Red Hat Package Manager, a free and open source package management system. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
+: A package management system originally called Red Hat Package Manager. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
 RSS
 : → RDF Site Summary

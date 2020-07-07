@@ -44,6 +44,6 @@ KPI
 : → Key Performance Indicator
 
 Kubernetes
-: An open source container orchestration system for automating computer application deployment, scaling, and management. Kubernetes was originally designed by Google, first released in 2014, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.&nbsp;[†](#w-k8s) ℹ︎&nbsp;[kubernetes.io](https://kubernetes.io/)
+: An container orchestration system for automating computer application deployment, scaling, and management. Kubernetes was originally designed by Google, first released in 2014, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.&nbsp;[†](#w-k8s) ℹ︎&nbsp;[kubernetes.io](https://kubernetes.io/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
