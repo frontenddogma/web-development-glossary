@@ -174,7 +174,7 @@ Inline-level element
 : An element that does not form new blocks of content and whose content is distributed in lines.
 
 `innerHTML`
-: An ECMAScript property that can be used to get and set the markup within respective element. Use of the property is considered bad practice because of possible security and performance issues.
+: A DOM attribute that can be used to get and set the markup within respective element. Use of the property is considered bad practice because of possible security and performance issues.
 
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
