@@ -91,8 +91,14 @@ Ligature
 Light Mode
 : A color scheme that uses dark-colored text, icons, and interface elements on a light background. Often a display default.
 
+Lighthouse
+: An automated tool for measuring the quality of web pages. Lighthouse audits performance, accessibility, development best practices, and search engine optimization, and it includes the ability to test progressive web apps (PWAs) for PWA compliance. Lighthouse is developed by Google.&nbsp;[†](#w-lighthouse) ℹ︎&nbsp;[is.gd/cMiBtJ](https://developers.google.com/web/tools/lighthouse)
+
 Lightweight Directory Access Protocol
 : An industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. A common use of LDAP is to provide a central place to store usernames and passwords. This allows many different applications and services to connect to the LDAP server to validate users.&nbsp;[†](#w-ldap)
+
+Likert scale
+: A psychometric scale, typically ranging from “strongly disagree” to “strongly agree,” that is commonly involved in research that employs questionnaires. A Likert scale is the most widely used approach to scaling responses in survey research, such that the term is often used interchangeably with “rating scale.” The Likert scale is named after its inventor, psychologist Rensis Likert.&nbsp;[†](#w-likert-scale)
 
 Line box
 : A line (rectangular area) formed by inline boxes.
@@ -142,6 +148,9 @@ Linux, Apache, MySQL, PHP/Perl/Python
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
 
+LIS
+: → Location information server
+
 Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
 
@@ -166,6 +175,9 @@ Local-part
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)
 
+Local storage
+: Web storage data that is per-origin and available to all scripts loaded from pages from the same origin, and that persists after the browser is closed.&nbsp;[†](#w-web-storage)
+
 Local variable
 : A variable that is given local scope. Local variable references in the function or block in which it is declared override the same variable name in the larger scope. In programming languages with only two levels of visibility, local variables are contrasted with global variables. On the other hand, many ALGOL-derived languages allow any number of nested levels of visibility, with private variables, functions, constants, and types hidden within them, either by nested blocks or nested functions. Local variables are fundamental to procedural programming, and more generally modular programming. Variables of local scope are used to avoid issues with side-effects that can occur with global variables.&nbsp;[†](#w-local-variable)
 
@@ -174,6 +186,9 @@ Locale
 
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
+
+Location information server
+: A network node originally defined in the U.S. National Emergency Number Association’s i2 network architecture that addresses the intermediate solution for providing e911 emergency service for users of VoIP telephony. The LIS is the node that determines the location of the VoIP terminal. Beyond the NENA architecture and VoIP, the LIS is capable of providing location information to any IP device within its served access network.&nbsp;[†](#w-lis)
 
 Lock file
 : → File locking

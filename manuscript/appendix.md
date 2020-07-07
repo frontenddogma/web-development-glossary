@@ -329,6 +329,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project){#w-gnu-project}
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
+* [Google Lighthouse](https://en.wikipedia.org/wiki/Google_Lighthouse){#w-lighthouse}
 * [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}
 * [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
 * [Gopher (protocol)](https://en.wikipedia.org/wiki/Gopher_(protocol)){#w-gopher}
@@ -480,6 +481,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
+* [Likert scale](https://en.wikipedia.org/wiki/Likert_scale){#w-likert-scale}
 * [Link farm](https://en.wikipedia.org/wiki/Link_farm){#w-link-farm}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
 * [Linked data](https://en.wikipedia.org/wiki/Linked_data){#w-ld}
@@ -492,6 +494,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
+* [Location information server](https://en.wikipedia.org/wiki/Location_information_server){#w-lis}
 * [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
 * [Long-term support](https://en.wikipedia.org/wiki/Long-term_support){#w-lts}
 * [Look and feel](https://en.wikipedia.org/wiki/Look_and_feel){#w-look-and-feel}
