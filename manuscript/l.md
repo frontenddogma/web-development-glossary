@@ -208,6 +208,9 @@ Long task
 Long-Term Support
 : A product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition.&nbsp;[†](#w-lts)
 
+`longdesc`
+: An obsolete HTML attribute that allowed to add a URL to a long description of an image (as defined by the `img` element). It is instead recommended to use a standard `a` element to link to respective description.
+
 Look and feel
 : A term used with respect to a graphical user interface and comprises aspects of its design, including elements such as colors, shapes, layout, and typefaces (the “look”), as well as the behavior of dynamic elements such as buttons, boxes, and menus (the “feel”). “Look and feel” is used in reference to both software and websites.&nbsp;[†](#w-look-and-feel)
 
