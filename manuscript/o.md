@@ -51,6 +51,9 @@ Open Graph Protocol
 Open Source
 : Products that include permission to use the source code, design documents, or content of the product. Open Source most commonly refers to the open source model, in which software or other products are released under a permissive open source license. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.&nbsp;[†](#w-open-source) ℹ︎&nbsp;[opensource.org](https://opensource.org/)
 
+Open Systems Interconnection model
+: → OSI model
+
 Open Web Application Security Project
 : An online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. OWASP was founded in 2001.&nbsp;[†](#w-owasp) ℹ︎&nbsp;[owasp.org](https://www.owasp.org/)
 
@@ -88,8 +91,8 @@ Orthogonality
 OS
 : → Operating System
 
-OSI Model
-: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI Model was first defined in 1978.&nbsp;[†](#w-osi-model)
+OSI model
+: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI model was first defined in 1978.&nbsp;[†](#w-osi-model)
 
 OTA
 : → Over the Air

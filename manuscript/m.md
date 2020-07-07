@@ -1,5 +1,8 @@
 # M
 
+MAC address
+: A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
+
 Mac OS
 : → macOS
 
@@ -14,6 +17,9 @@ macOS, Apache, MySQL, PHP/Perl/Python
 
 Macromedia Flash
 : → Flash
+
+Magic cookie
+: → Cookie
 
 Mail
 : → Email
@@ -90,6 +96,9 @@ MEAN
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
+Media access control address
+: → MAC address
+
 Media query
 : A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
@@ -143,6 +152,9 @@ Microformat
 
 Microsite
 : An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
+
+Microsoft Active Accessibility
+: An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows 95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
 
 Microsoft Design Language
 : A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
@@ -244,6 +256,9 @@ MPEG
 
 MR
 : → Merge request
+
+MSAA
+: → Microsoft Active Accessibility
 
 MSHTML
 : → Trident

@@ -130,6 +130,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct){#w-coc}
 * [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring){#w-refactoring}
 * [Code review](https://en.wikipedia.org/wiki/Code_review){#w-code-review}
+* [Code smell](https://en.wikipedia.org/wiki/Code_smell){#w-code-smell}
 * [CodePen](https://en.wikipedia.org/wiki/CodePen){#w-codepen}
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript){#w-coffeescript}
 * [ColdFusion Markup Language](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language){#w-cfml}
@@ -400,6 +401,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Inline linking](https://en.wikipedia.org/wiki/Inline_linking){#w-inline-linking}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
 * [Instance variable](https://en.wikipedia.org/wiki/Instance_variable){#w-instance-variable}
+* [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers){#w-ieee}
 * [Integer](https://en.wikipedia.org/wiki/Integer){#w-integer-math}
 * [Integer (computer science)](https://en.wikipedia.org/wiki/Integer_(computer_science)){#w-integer-computer-science}
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment){#w-ide}
@@ -501,6 +503,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
+* [MAC address](https://en.wikipedia.org/wiki/MAC_address){#w-mac-address}
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
@@ -534,6 +537,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Metro (design language)](https://en.wikipedia.org/wiki/Metro_(design_language)){#w-mdl}
 * [Microformat](https://en.wikipedia.org/wiki/Microformat){#w-microformat}
 * [Microsite](https://en.wikipedia.org/wiki/Microsite){#w-microsite}
+* [Microsoft Active Accessibility](https://en.wikipedia.org/wiki/Microsoft_Active_Accessibility){#w-msaa}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
 * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows){#w-windows}
@@ -562,6 +566,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
+* [Negative space](https://en.wikipedia.org/wiki/Negative_space){#w-negative-space}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
 * [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}

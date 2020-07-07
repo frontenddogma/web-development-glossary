@@ -50,6 +50,9 @@ Identifier
 IE
 : → Internet Explorer
 
+IEEE
+: → Institute of Electrical and Electronics Engineers
+
 IETF
 : → Internet Engineering Task Force
 
@@ -96,7 +99,7 @@ Indexed color
 : A technique to manage digital images’ colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. Indexed color is a form of vector quantization compression. When an image is encoded this way, color information is not directly carried by the image pixel data, but stored in a separate piece of data called a palette, that is, an array of color elements.&nbsp;[†](#w-indexed-color)
 
 Indexed Database
-: A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
+: A JavaScript API provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
 
 IndexedDB
 : → Indexed Database
@@ -184,6 +187,9 @@ Instance variable
 
 Instant Articles
 : A feature from social networking company Facebook for use with collaborating news and content publishers, that the publisher can choose to use for articles they select. When a publisher selects an article for Instant Articles, people browsing Facebook with the Facebook mobile app can see the entire article within the app, with formatting very similar to that on the publisher’s website.&nbsp;[†](#w-instant-articles) ℹ︎&nbsp;[instantarticles.fb.com](https://instantarticles.fb.com/)
+
+Institute of Electrical and Electronics Engineers
+: A professional association that was formed in 1963 from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers. The IEEE’s objectives are the educational and technical advancement of electrical and electronic engineering, telecommunications, computer engineering, and associated disciplines.&nbsp;[†](#w-ieee) ℹ︎&nbsp;[ieee.org](https://www.ieee.org/)
 
 Instrument flight
 : The deploying and releasing of untested code.

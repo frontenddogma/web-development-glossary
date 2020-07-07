@@ -25,7 +25,7 @@ Java archive
 : A package file format typically used to aggregate Java class files and associated metadata and resources (text, images, etc.) into one file for distribution. JAR files are archive files that include a Java-specific manifest file. They build on the ZIP format and typically have a .jar file extension.&nbsp;[†](#w-jar)
 
 Java Database Connectivity
-: An application programming interface (API) for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+: An API for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 
 Java Development Kit
 : An implementation of either of the Java Platform editions released by Oracle in the form of a binary product aimed at Java developers on Linux, macOS, or Windows. The JDK includes a private JVM and other resources to complete the development of a Java application. Since the introduction of the Java platform, it has been by far the most widely used Software Development Kit (SDK).&nbsp;[†](#w-jdk) ℹ︎&nbsp;[is.gd/dZipm6](https://www.oracle.com/java/technologies/javase-downloads.html)

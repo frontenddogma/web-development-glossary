@@ -262,6 +262,9 @@ Code refactoring
 Code review
 : A software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation. At least one of the persons must not be the code’s author. The persons performing the checking, excluding the author, are called reviewers.&nbsp;[†](#w-code-review)
 
+Code smell
+: Any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, development methodology, and developer. The term “code smell” was popularized in the late 1990s by Kent Beck.&nbsp;[†](#w-code-smell)
+
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a little larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 

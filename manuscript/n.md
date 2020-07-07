@@ -35,6 +35,9 @@ Navigator
 NDA
 : → Non-Disclosure Agreement
 
+Negative space
+: The space around and between the subject(s) of an image (or a design). Negative space may be most evident when the space around a subject, and not the subject itself, forms an interesting or artistically relevant shape, and when such space is used to artistic effect as the “real” subject of an image.&nbsp;[†](#w-negative-space)
+
 Nesting
 : The organizing of information in layers, or the containing of objects in other objects. Nesting almost always refers to self-similar or recursive structures in some sense.&nbsp;[†](#w-nesting)
 
