@@ -374,6 +374,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [HTTPS](https://en.wikipedia.org/wiki/HTTPS){#w-https}
 * [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere){#w-https-everywhere}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
+* [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation){#w-hungarian-notation}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
 * [IBM Home Page Reader](https://en.wikipedia.org/wiki/IBM_Home_Page_Reader){#w-hpr}
@@ -461,6 +462,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph){#w-knowledge-graph}
+* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes){#w-k8s}
 * [LAMP (software bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle)){#w-lamp}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
