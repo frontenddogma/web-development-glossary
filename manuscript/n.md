@@ -88,6 +88,9 @@ Node.js
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
+NonVisual Desktop Access
+: A screen reader for Microsoft Windows. Work on NonVisual Desktop Access was started in 2006 by Michael Curran.&nbsp;[†](#w-nvda) ℹ︎&nbsp;[nvaccess.org](https://www.nvaccess.org/)
+
 Noob
 : → Newbie
 
@@ -138,5 +141,8 @@ Numerical digit
 
 Nuxt.js
 : A web application framework based on Vue.js, Node.js, Webpack, and Babel. The framework is advertised as a “meta-framework for universal applications.” The term “universal” refers to the goal of the framework to enable users to create web views in JavaScript via the familiar Vue.js single file component system. These views function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, Nuxt.js enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
+
+NVDA
+: → NonVisual Desktop Access
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

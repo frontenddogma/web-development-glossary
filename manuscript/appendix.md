@@ -580,6 +580,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement){#w-nda}
+* [NonVisual Desktop Access](https://en.wikipedia.org/wiki/NonVisual_Desktop_Access){#w-nvda}
 * [Normative](https://en.wikipedia.org/wiki/Normative){#w-normative}
 * [NoSQL](https://en.wikipedia.org/wiki/NoSQL){#w-nosql}
 * [npm (software)](https://en.wikipedia.org/wiki/Npm_(software)){#w-npm}
@@ -593,10 +594,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
 * [Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern){#w-observer-pattern}
+* [OCSP stapling](https://en.wikipedia.org/wiki/OCSP_stapling){#w-ocsp-stapling}
 * [OKR](https://en.wikipedia.org/wiki/OKR){#w-okr}
 * [One-time password](https://en.wikipedia.org/wiki/One-time_password){#w-otp}
+* [Online Certificate Status Protocol](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol){#w-ocsp}
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
 * [Open source](https://en.wikipedia.org/wiki/Open_source){#w-open-source}
+* [OpenType](https://en.wikipedia.org/wiki/OpenType){#w-opentype}
 * [Operand](https://en.wikipedia.org/wiki/Operand){#w-operand}
 * [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
 * [Operator (computer programming)](https://en.wikipedia.org/wiki/Operator_(computer_programming)){#w-operator-computer-science}

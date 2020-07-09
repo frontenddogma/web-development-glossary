@@ -171,6 +171,9 @@ TLD
 TLS
 : → Transport Layer Security
 
+TLS Certificate Status Request extension
+: → OCSP stapling
+
 TMS
 : → Tag Management System
 

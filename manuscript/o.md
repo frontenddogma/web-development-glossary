@@ -21,6 +21,12 @@ Observer
 Observer pattern
 : A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The observer pattern is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
 
+OCSP
+: → Online Certificate Status Protocol
+
+OCSP stapling
+: A standard for checking the revocation status of X.509 digital certificates. OCSP stapling allows the presenter of a certificate to bear the resource cost involved in providing Online Certificate Status Protocol (OCSP) responses by appending (“stapling”) a time-stamped OCSP response signed by the CA to the initial TLS handshake, eliminating the need for clients to contact the CA, with the aim of improving both security and performance.&nbsp;[†](#w-ocsp-stapling)
+
 Offline
 : Not being connected to the Internet.
 
@@ -39,6 +45,9 @@ One-based indexing
 One-Time Password
 : A password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid a number of shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartphone with an OTP app) as well as something a person knows (such as a PIN). The most important advantage that is addressed by OTPs is that, in contrast to static passwords, they are not vulnerable to replay attacks.&nbsp;[†](#w-otp)
 
+Online Certificate Status Protocol
+: An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. OCSP is described in RFC&nbsp;6960 and is on the Internet standards track. It was created as an alternative to certificate revocation lists (CRL). Some web browsers use OCSP to validate HTTPS certificates.&nbsp;[†](#w-ocsp)
+
 OOCSS
 : → Object-Oriented CSS
 
@@ -56,6 +65,9 @@ Open Systems Interconnection model
 
 Open Web Application Security Project
 : An online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. OWASP was founded in 2001.&nbsp;[†](#w-owasp) ℹ︎&nbsp;[owasp.org](https://www.owasp.org/)
+
+OpenType
+: A format for scalable computer fonts. OpenType was built on its predecessor TrueType, retaining TrueType’s basic structure and adding many intricate data structures for prescribing typographic behavior. The specification was developed at Microsoft, with Adobe Systems contributing by the time of public announcement in 1996.&nbsp;[†](#w-opentype)
 
 Opera
 : A cross-platform web browser. Opera was first released in 1995. ℹ︎&nbsp;[opera.com](https://www.opera.com/)
