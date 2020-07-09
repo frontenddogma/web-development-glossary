@@ -42,6 +42,9 @@ Pair programming
 Palpable content
 : Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
 
+Paper prototyping
+: A method of the user-centered design process for designing and testing user interfaces. Paper prototyping is throwaway prototyping that involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this usability testing method can provide useful feedback to aid the design of easier to use products.&nbsp;[†](#w-paper-prototyping)
+
 Paradigm
 : A distinct set of concepts or thought patterns, including theories, research methods, postulates, and standards for what constitutes legitimate contributions to a field. According to Thomas Kuhn (1962), scientific paradigms are “universally recognized scientific achievements that, for a time, provide model problems and solutions for a community of practitioners.”&nbsp;[†](#w-paradigm)
 
@@ -50,6 +53,9 @@ Parallax scrolling
 
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
+
+Paraphrase testing
+: A method to test the effectiveness of content in which test participants paraphrase and explain sections that they were asked to read. Notes on the responses can be analyzed and used for follow-up questions.
 
 Pareto Principle
 : The observation that for many events, roughly 80% of the effects come from 20% of the causes. It is named after Italian economist Vilfredo Pareto, who noted the 80/20 connection in 1896, as published in his first work, _Cours d’économie politique_. In it, Pareto showed that approximately 80% of the land in Italy was owned by 20% of the population. It is a similar axiom of business management that “80% of sales come from 20% of clients.”&nbsp;[†](#w-pareto-principle)

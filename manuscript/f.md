@@ -152,7 +152,7 @@ Flow of control
 : → Control flow
 
 Fluent Design System
-: A design language developed in 2017 by Microsoft. Fluent Design is a revamp of Microsoft Design Language 2 that includes guidelines for the designs and interactions used within software designed for all Windows 10 devices and platforms. The system is based on five key components: Light, Depth, Motion, Material, and Scale. The new design language includes more prominent use of motion, depth, and translucency effects.&nbsp;[†](#w-fluent-design)
+: A design language developed in 2017 by Microsoft. Fluent Design is a revamp of Microsoft Design Language 2 that includes guidelines for the designs and interactions used within software designed for all Windows&nbsp;10 devices and platforms. The system is based on five key components: Light, Depth, Motion, Material, and Scale. The new design language includes more prominent use of motion, depth, and translucency effects.&nbsp;[†](#w-fluent-design)
 
 Fluid
 : → Liquid

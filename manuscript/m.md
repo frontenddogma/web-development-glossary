@@ -39,6 +39,9 @@ Makefile
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
+Man-in-the-middle attack
+: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm) 
+
 Margin
 : Per the CSS box model, the margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
 
@@ -147,6 +150,9 @@ Method stub
 Metro
 : → Microsoft Design Language
 
+MFA
+: → Multi-factor authentication
+
 Microformat
 : An approach to semantic markup which uses HTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
@@ -154,10 +160,10 @@ Microsite
 : An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
 
 Microsoft Active Accessibility
-: An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows 95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
+: An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows&nbsp;95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
 
 Microsoft Design Language
-: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
+: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
 
 Microsoft Edge
 : → Edge
@@ -188,6 +194,9 @@ Minimum Viable Product
 
 MIP
 : → Mobile Instant Pages
+
+MITM
+: → Man-in-the-middle attack
 
 Mixin
 : A class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin’s methods depends on the language. Mixins are sometimes described as being “included” rather than “inherited.” Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause, or to work around lack of support for multiple inheritance in a language. A mixin can also be viewed as an interface with implemented methods. This pattern is an example of enforcing the Dependency Inversion Principle.&nbsp;[†](#w-mixin)
@@ -265,6 +274,9 @@ MSHTML
 
 MSIE
 : → Internet Explorer
+
+Multi-factor authentication
+: An authentication method in which a computer user is granted access only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows), possession (something the user and only the user has), and inherence (something the user and only the user is).&nbsp;[†](#w-mfa)
 
 Multimedia
 : Content that uses a combination of different content forms such as text, audio, images, animations, video, and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)

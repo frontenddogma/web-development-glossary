@@ -511,6 +511,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Maintenance (technical)](https://en.wikipedia.org/wiki/Maintenance_(technical)){#w-maintenance}
 * [Makefile](https://en.wikipedia.org/wiki/Makefile){#w-makefile}
 * [MAMP](https://en.wikipedia.org/wiki/MAMP){#w-mamp}
+* [Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack){#w-mitm}
 * [Markdown](https://en.wikipedia.org/wiki/Markdown){#w-markdown}
 * [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
 * [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
@@ -557,6 +558,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Monorepo](https://en.wikipedia.org/wiki/Monorepo){#w-monorepo}
 * [Mosaic (web browser)](https://en.wikipedia.org/wiki/Mosaic_(web_browser)){#w-mosaic}
 * [Moving Picture Experts Group](https://en.wikipedia.org/wiki/Moving_Picture_Experts_Group){#w-moving-picture-experts-group}
+* [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication){#w-mfa}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
 * [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
@@ -610,12 +612,14 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Orthographic ligature](https://en.wikipedia.org/wiki/Orthographic_ligature){#w-ligature}
 * [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization){#w-containerization}
 * [OSI model](https://en.wikipedia.org/wiki/OSI_model){#w-osi-model}
+* [Out of memory](https://en.wikipedia.org/wiki/Out_of_memory){#w-oom}
 * [Over-the-air programming](https://en.wikipedia.org/wiki/Over-the-air_programming){#w-ota}
 * [OWASP](https://en.wikipedia.org/wiki/OWASP){#w-owasp}
 * [Page layout](https://en.wikipedia.org/wiki/Page_layout){#w-layout}
 * [PageRank](https://en.wikipedia.org/wiki/PageRank){#w-pagerank}
 * [Pageview](https://en.wikipedia.org/wiki/Pageview){#w-page-view}
 * [Pair programming](https://en.wikipedia.org/wiki/Pair_programming){#w-pair-programming}
+* [Paper prototyping](https://en.wikipedia.org/wiki/Paper_prototyping){#w-paper-prototyping}
 * [Paradigm](https://en.wikipedia.org/wiki/Paradigm){#w-paradigm}
 * [Parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling){#w-parallax-scrolling}
 * [Parameter (computer programming)](https://en.wikipedia.org/wiki/Parameter_(computer_programming)){#w-parameter-argument}
@@ -980,6 +984,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
+* [8.3 filename](https://en.wikipedia.org/wiki/8.3_filename){#w-83}
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 

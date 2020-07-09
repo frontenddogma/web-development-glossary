@@ -29,5 +29,6 @@ w.md
 x.md
 y.md
 z.md
+0-9.md
 backmatter.md
 appendix.md

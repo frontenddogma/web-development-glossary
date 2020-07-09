@@ -31,7 +31,7 @@ ECT
 : → Effective Connection Type
 
 Edge
-: A cross-platform web browser. Edge was released by Microsoft, first for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
+: A cross-platform web browser. Edge was released by Microsoft, first for Windows&nbsp;10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
 
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. An editor may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are a fundamental programming tool.&nbsp;[†](#w-editor)

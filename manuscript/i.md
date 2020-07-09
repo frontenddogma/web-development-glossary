@@ -258,7 +258,7 @@ Internet Engineering Task Force
 : An open standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986.&nbsp;[†](#w-ietf) ℹ︎&nbsp;[ietf.org](https://ietf.org/)
 
 Internet Explorer
-: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows&nbsp;95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows&nbsp;95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 
 Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995.&nbsp;[†](#w-iis) ℹ︎&nbsp;[iis.net](https://www.iis.net/)

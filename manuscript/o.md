@@ -51,6 +51,9 @@ Online Certificate Status Protocol
 OOCSS
 : → Object-Oriented CSS
 
+OOM
+: → Out of memory
+
 OOP
 : → Object-Oriented Programming
 
@@ -94,6 +97,9 @@ Orca
 Origin
 : A concept defined by the scheme (protocol), host (domain), and port of the URL used to access it. Two objects have the same origin only when the scheme, host, and port all match. Some operations are restricted to same-origin content, and this restriction can be lifted using cross-origin resource sharing (CORS).&nbsp;[‡](#m-origin)
 
+Origin trials
+: An approach to enable manageable experimentation with web platform features involving explicit developer opt-in, feature trial validation, and feedback collection. ℹ︎&nbsp;[is.gd/6gJDY4](https://github.com/GoogleChrome/OriginTrials)
+
 Orphan
 : A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. Mnemonically, an orphan is “alone at the bottom.”&nbsp;[†](#w-widows-orphans)
 
@@ -109,8 +115,14 @@ OSI model
 OTA
 : → Over the Air
 
+OTF
+: → OpenType
+
 OTP
 : → One-Time Password
+
+Out of memory
+: An often undesired state of computer operation where no additional memory can be allocated for use by programs or the operating system. Such a system will be unable to load any additional programs, and since many programs may load additional data into memory during execution, these will cease to function correctly.&nbsp;[†](#w-oom)
 
 Outline
 : A CSS feature managed with special `outline` properties that allows to draw lines around elements. A CSS outline is different from a border in that it does not take up space, and that it may be non-rectangular.
