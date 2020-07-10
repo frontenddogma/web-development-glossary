@@ -5,6 +5,10 @@
 
 This book uses material from the following Wikipedia&nbsp;articles:
 
+* [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
+* [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
+* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
+* [8.3 filename](https://en.wikipedia.org/wiki/8.3_filename){#w-83}
 * [A/B testing](https://en.wikipedia.org/wiki/A/B_testing){#w-a-b-testing}
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
 * [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
@@ -364,11 +368,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
 * [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV){#w-hsx}
-* [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
-* [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
@@ -570,7 +572,6 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [Negative space](https://en.wikipedia.org/wiki/Negative_space){#w-negative-space}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
-* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework){#w-net}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
 * [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator){#w-netscape-navigator}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
@@ -984,7 +985,6 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
-* [8.3 filename](https://en.wikipedia.org/wiki/8.3_filename){#w-83}
 
 The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 

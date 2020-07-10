@@ -1,8 +1,5 @@
 # D
 
-/dev/null
-: → Null device
-
 D3.js
 : A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HyperText Markup Language (HTML), and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
 

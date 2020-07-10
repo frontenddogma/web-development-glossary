@@ -3,6 +3,8 @@ acknowledgments.md
 intro.md
 mainmatter.md
 main.md
+symbols.md
+0-9.md
 a.md
 b.md
 c.md
@@ -29,6 +31,5 @@ w.md
 x.md
 y.md
 z.md
-0-9.md
 backmatter.md
 appendix.md

@@ -1,8 +1,5 @@
 # I
 
-`!important`
-: An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
-
 I/O
 : → Input/Output
 
