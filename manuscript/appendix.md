@@ -16,6 +16,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
+* [ACID](https://en.wikipedia.org/wiki/ACID){#w-acid}
 * [Acqui-hiring](https://en.wikipedia.org/wiki/Acqui-hiring){#w-acqui-hiring}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
@@ -279,6 +280,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
+* [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture){#w-eda}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exception handling syntax](https://en.wikipedia.org/wiki/Exception_handling_syntax){#w-exception-handling-syntax}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
@@ -642,11 +644,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Perl](https://en.wikipedia.org/wiki/Perl){#w-perl}
 * [Permalink](https://en.wikipedia.org/wiki/Permalink){#w-permalink}
 * [Persona (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)){#w-persona}
+* [Personal data](https://en.wikipedia.org/wiki/Personal_data){#w-pii}
 * [PhantomJS](https://en.wikipedia.org/wiki/PhantomJS){#w-phantomjs}
 * [Phishing](https://en.wikipedia.org/wiki/Phishing){#w-phishing}
 * [PHP](https://en.wikipedia.org/wiki/PHP){#w-php}
 * [PhpStorm](https://en.wikipedia.org/wiki/PhpStorm){#w-phpstorm}
 * [ping (networking utility)](https://en.wikipedia.org/wiki/Ping_(networking_utility)){#w-ping}
+* [pip (package manager)](https://en.wikipedia.org/wiki/Pip_(package_manager)){#w-pip}
 * [Pixel](https://en.wikipedia.org/wiki/Pixel){#w-pixel}
 * [Plain text](https://en.wikipedia.org/wiki/Plain_text){#w-plain-text}
 * [Plane (Unicode)](https://en.wikipedia.org/wiki/Plane_(Unicode)){#w-plane}

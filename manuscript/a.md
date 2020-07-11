@@ -52,6 +52,12 @@ Accessibility tree
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. ℹ︎&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
+ACID
+: → Atomicity, Consistency, Isolation, Durability
+
+Acid tests
+: A range of web standards compliance tests that were set up in 1999 (Acid1), 2005 (Acid2), and 2008 (Acid3). ℹ︎&nbsp;[acidtests.org](https://www.acidtests.org/)
+
 ACM
 : → Association for Computing Machinery
 
@@ -318,6 +324,9 @@ Atom
 
 Atomic CSS
 : A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
+
+Atomicity, Consistency, Isolation, Durability
+: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid) 
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)

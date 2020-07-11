@@ -142,8 +142,14 @@ Permalink
 Persona
 : A fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers may use personas together with market segmentation, where the qualitative personas are constructed to be representative of specific segments. The term “persona” is used widely in online and technology applications as well as in advertising, where other terms such as “pen portraits” may also be used. Personas are useful in considering the goals, desires, and limitations of brand buyers and users in order to help to guide decisions about a product, service, or interaction space such as features, interactions, and visual design of a website. Personas may also be used as part of a user-centered design process for designing software.&nbsp;[†](#w-persona)
 
+Personal data
+: Any information relating to an identifiable person. The concept of personal data has become prevalent as information technology and the Internet have made it easier to collect personally identifiable information (PII) leading to a profitable market in collecting and reselling personal data. PII can also be exploited by criminals to stalk or steal the identity of a person, or to aid in the planning of criminal acts. As a response to these threats, many website privacy policies specifically address the gathering of personal data, and lawmakers such as the European Parliament have enacted a series of legislation such as the General Data Protection Regulation (GDPR) to limit the distribution and accessibility of personal data.&nbsp;[†](#w-pii)
+
 Personal Home Page
 : → PHP
+
+Personally identifiable information
+: → Personal data
 
 PhantomJS
 : A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior, and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
@@ -166,11 +172,20 @@ PhpStorm
 Phrasing content
 : The text of an HTML document, as well as elements that mark up that text at the intra-paragraph level. Runs of phrasing content form paragraphs.&nbsp;§
 
+PII
+: → Personally identifiable information
+
+Pinball pattern
+: A pattern of user behavior in which the gaze of a user, as determined by eye tracking, “bounces around” a page, resembling how a ball moves within a pinball machine.
+
 Ping
 : A computer network administration software utility used to test the reachability of a host on an Internet Protocol (IP) network. It is available for virtually all operating systems that have networking capability, including most embedded network administration software. Ping measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source.&nbsp;[†](#w-ping)
 
 Pinging
 : A colloquial expression for contacting or notifying another person.
+
+pip
+: The _de facto_ standard package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip)
 
 Pixel
 : A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)

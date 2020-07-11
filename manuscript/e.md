@@ -157,6 +157,9 @@ Event
 Event handler
 : A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
 
+Event-driven architecture
+: A software architecture paradigm promoting the production, detection, consumption of, and reaction to events. This architectural pattern may be applied by the design and implementation of applications and systems that transmit events among loosely coupled software components and services. An event-driven system typically consists of event emitters (or agents), event consumers (or sinks), and event channels. Building systems around an event-driven architecture simplifies horizontal scalability in distributed computing models and makes them more resilient to failure.&nbsp;[†](#w-eda)
+
 Evidence-Based Management
 : An empirical framework that documents means by which value can be delivered to customers, measures the value delivered, and uses those measures to guide improvements. ℹ︎&nbsp;[is.gd/yeRUyR](https://www.scrum.org/resources/evidence-based-management)
 
