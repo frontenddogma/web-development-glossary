@@ -342,6 +342,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
 * [GraphQL](https://en.wikipedia.org/wiki/GraphQL){#w-graphql}
+* [Greenfield project](https://en.wikipedia.org/wiki/Greenfield_project){#w-greenfield}
 * [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
 * [Grid computing](https://en.wikipedia.org/wiki/Grid_computing){#w-grid-computing}
 * [Guetzli](https://en.wikipedia.org/wiki/Guetzli){#w-guetzli}

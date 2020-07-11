@@ -112,6 +112,9 @@ GraphQL
 Greeking
 : → Placeholder text
 
+Greenfield project
+: A project that lacks constraints imposed by prior work. The analogy is to that of construction on greenfield land where there is no need to work within the constraints of existing buildings or infrastructure.&nbsp;[†](#w-greenfield)
+
 Grid
 : In design, a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. The grid serves as an armature or framework on which a designer can organize graphic elements (images, glyphs, paragraphs, etc.) in a rational, easy-to-absorb manner. A grid can be used to organize graphic elements in relation to a page, to other graphic elements on the page, or to other parts of the same graphic element or shape.&nbsp;[†](#w-grid)
 : In CSS, an element defined using the `grid` value of the `display` property, for which columns and rows can be specified through the `grid-template-rows` and `grid-template-columns` properties. The grid defined this way is described as an explicit grid. If content is placed outside of this explicit grid, or if auto-placement and the grid algorithm are being relied on, then extra tracks will be created in the implicit grid. The implicit grid is the grid created automatically due to content being added outside of the tracks defined.&nbsp;[‡](#m-grid) ℹ︎&nbsp;[w3.org/TR/css-grid-1](https://www.w3.org/TR/css-grid-1/)
