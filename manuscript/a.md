@@ -16,6 +16,9 @@ AAA
 Above the fold
 : The part of a web page that is visible without scrolling.
 
+Absolute domain name
+: → Fully qualified domain name
+
 Abstract Data Type
 : A mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.&nbsp;[†](#w-adt)
 

@@ -124,6 +124,9 @@ Hop limit
 Host
 : A computer or other device connected to a computer network. A host may work as a server offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one network address. Network hosts that participate in applications that use the client-server model of computing are classified as server or client systems. Network hosts may also function as nodes in peer-to-peer applications, in which all nodes share and consume resources in an equipotent manner.&nbsp;[†](#w-host)
 
+Hostname
+: A label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication, such as the World Wide Web. Hostnames may be simple names consisting of a single word or phrase, or they may be structured. Internet hostnames may have appended the name of a Domain Name System (DNS) domain, separated from the host-specific label by a period (“dot”). In the latter form, a hostname is also called a domain name. If the domain name is completely specified, including a top-level domain of the Internet, then the hostname is said to be a fully qualified domain name (FQDN).&nbsp;[†](#w-hostname)
+
 Hot linking
 : → Inline linking
 

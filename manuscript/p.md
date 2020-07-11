@@ -1,5 +1,8 @@
 # P
 
+PaaS
+: → Platform as a Service
+
 package.json
 : A file containing dependencies, scripts, and metadata for npm (Node Package Manager) or Yarn packages.
 
@@ -209,6 +212,9 @@ Plain-text
 Plane
 : In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called supplementary planes. The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
 
+Platform as a Service
+: A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.&nbsp;[†](#w-paas)
+
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
 
@@ -284,6 +290,9 @@ Predication
 
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)
+
+Preferred style sheet
+: The preferred style sheet when no alternate style sheet is being selected. A style sheet can be marked as preferred by setting the `link` element’s `rel` attribute to “stylesheet” and naming the style sheet with the `title` attribute, as well as by using a `meta` element or setting a particular HTTP header.
 
 Premature optimization
 : A situation where a programmer lets performance considerations affect the design of a piece of code. This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing.&nbsp;[†](#w-premature-optimization)
@@ -362,6 +371,9 @@ Pseudo-element
 
 Pull request
 : → Merge request
+
+Punycode
+: A representation of Unicode with the limited ASCII character subset used for Internet hostnames. Using Punycode, host names containing Unicode characters are transcoded to a subset of ASCII consisting of letters, digits, and hyphens, which is called the Letter-Digit-Hyphen (LDH) subset. For example, “München” (Munich) is encoded as `Mnchen-3ya`.&nbsp;[†](#w-punycode)
 
 Push notification
 : Small messages that can reach audiences anywhere and anytime. While pop-ups appear only when audiences are on the site they belong to, push messages are independent of sites. They are associated with web browsers and apps.&nbsp;[†](#w-push-technology)

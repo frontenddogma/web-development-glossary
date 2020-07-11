@@ -238,6 +238,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
+* [DNS root zone](https://en.wikipedia.org/wiki/DNS_root_zone){#w-root-zone}
 * [DNS spoofing](https://en.wikipedia.org/wiki/DNS_spoofing){#w-dns-spoofing}
 * [DocBook](https://en.wikipedia.org/wiki/DocBook){#w-docbook}
 * [Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)){#w-docker}
@@ -322,6 +323,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation){#w-fsf}
 * [Free variables and bound variables](https://en.wikipedia.org/wiki/Free_variables_and_bound_variables){#w-free-bound-variable}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-frontend-backend}
+* [Fully qualified domain name](https://en.wikipedia.org/wiki/Fully_qualified_domain_name){#w-fqdn}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
@@ -370,6 +372,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
+* [Hostname](https://en.wikipedia.org/wiki/Hostname){#w-hostname}
 * [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV){#w-hsx}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
@@ -654,6 +657,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Pixel](https://en.wikipedia.org/wiki/Pixel){#w-pixel}
 * [Plain text](https://en.wikipedia.org/wiki/Plain_text){#w-plain-text}
 * [Plane (Unicode)](https://en.wikipedia.org/wiki/Plane_(Unicode)){#w-plane}
+* [Platform as a service](https://en.wikipedia.org/wiki/Platform_as_a_service){#w-paas}
 * [Plug-in (computing)](https://en.wikipedia.org/wiki/Plug-in_(computing)){#w-plugin}
 * [Pointer (computer programming)](https://en.wikipedia.org/wiki/Pointer_(computer_programming)){#w-pointer}
 * [Pointing device](https://en.wikipedia.org/wiki/Pointing_device){#w-pointing-device}
@@ -678,6 +682,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Progressive web application](https://en.wikipedia.org/wiki/Progressive_web_application){#w-pwa}
 * [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
+* [Punycode](https://en.wikipedia.org/wiki/Punycode){#w-punycode}
 * [Push technology](https://en.wikipedia.org/wiki/Push_technology){#w-push-technology}
 * [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language)){#w-python}
 * [qooxdoo](https://en.wikipedia.org/wiki/Qooxdoo){#w-qooxdoo}

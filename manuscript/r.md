@@ -269,6 +269,9 @@ Root em
 Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
 
+Root zone
+: The top-level DNS zone in the hierarchical namespace of the Domain Name System (DNS) of the Internet. Since 2016, the root zone has been overseen by the Internet Corporation for Assigned Names and Numbers (ICANN), which delegates the management to a subsidiary acting as the Internet Assigned Numbers Authority (IANA). Distribution services are provided by Verisign.&nbsp;[†](#w-root-zone)
+
 Rooting
 : The process of allowing users of smartphones, tablets, and other devices running the Android mobile operating system to attain privileged control (known as root access) over various subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative (superuser) permissions as on Linux or any other Unix-like operating system.&nbsp;[†](#w-rooting)
 

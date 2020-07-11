@@ -226,6 +226,9 @@ FOUT
 FPS
 : → Frames per Second
 
+FQDN
+: → Fully qualified domain name
+
 Fragment identifier
 : A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
 
@@ -292,6 +295,9 @@ Full Stack
 Full stack developer
 : A developer who can handle all aspects of website or app development, that is, including both frontend and backend development.
 : A developer who masters a particular solution stack.
+
+Fully qualified domain name
+: A domain name that specifies its exact location in the tree hierarchy of the Domain Name System (DNS). A fully qualified domain name specifies all domain levels, including the top-level domain and the root zone. A fully qualified domain name is distinguished by its lack of ambiguity, because it can be interpreted only in one way. It usually consists of a host name and at least one higher-level domain (label) separated by the symbol “.”, and always ends in the top-level domain.&nbsp;[†](#w-fqdn)
 
 Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
