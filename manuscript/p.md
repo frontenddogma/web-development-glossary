@@ -185,7 +185,7 @@ Pinging
 : A colloquial expression for contacting or notifying another person.
 
 pip
-: The _de facto_ standard package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip)
+: The _de facto_ standard package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip) ℹ︎&nbsp;[pypi.org/project/pip](https://pypi.org/project/pip/)
 
 Pixel
 : A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
