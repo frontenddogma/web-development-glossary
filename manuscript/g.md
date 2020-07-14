@@ -70,6 +70,15 @@ Goanna
 Golang
 : → Go
 
+Golden mean
+: → Golden ratio
+
+Golden ratio
+: A concept from mathematics, two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. The golden ratio is an irrational number that is a solution to the quadratic equation x^2^ – x – 1 = 0, with a value of 1.6180339887… Some artists and architects, including Le Corbusier and Salvador Dalí, have proportioned their works to approximate the golden ratio, believing this proportion to be aesthetically pleasing.&nbsp;[†](#w-golden-ratio)
+
+Golden section
+: → Golden ratio
+
 Google Chrome
 : → Chrome
 

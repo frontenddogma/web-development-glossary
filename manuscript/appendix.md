@@ -338,6 +338,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project){#w-gnu-project}
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
+* [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio){#w-golden-ratio}
 * [Google Lighthouse](https://en.wikipedia.org/wiki/Google_Lighthouse){#w-lighthouse}
 * [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}
 * [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
@@ -385,6 +386,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere){#w-https-everywhere}
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){#w-hci}
 * [Hungarian notation](https://en.wikipedia.org/wiki/Hungarian_notation){#w-hungarian-notation}
+* [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle){#w-hype-cycle}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
 * [IBM Home Page Reader](https://en.wikipedia.org/wiki/IBM_Home_Page_Reader){#w-hpr}

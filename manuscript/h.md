@@ -208,6 +208,9 @@ Hungarian notation
 Hydration
 : Client-side DOM extension and manipulation of server-rendered static HTML.
 
+Hype cycle
+: A branded graphical presentation developed and used by the research, advisory, and information technology firm Gartner to represent the maturity, adoption, and social application of specific technologies. The hype cycle claims to provide a graphical and conceptual presentation of the maturity of emerging technologies through five phases.&nbsp;[†](#w-hype-cycle)
+
 Hyperlink
 : → Link
 
