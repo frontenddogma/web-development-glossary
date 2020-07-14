@@ -547,6 +547,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Method stub](https://en.wikipedia.org/wiki/Method_stub){#w-stub}
 * [Metro (design language)](https://en.wikipedia.org/wiki/Metro_(design_language)){#w-mdl}
 * [Microformat](https://en.wikipedia.org/wiki/Microformat){#w-microformat}
+* [Microservices](https://en.wikipedia.org/wiki/Microservices){#w-msa}
 * [Microsite](https://en.wikipedia.org/wiki/Microsite){#w-microsite}
 * [Microsoft Active Accessibility](https://en.wikipedia.org/wiki/Microsoft_Active_Accessibility){#w-msaa}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}

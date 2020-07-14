@@ -156,6 +156,12 @@ MFA
 Microformat
 : An approach to semantic markup which uses HTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
 
+Microservice architecture
+: A variant of the service-oriented architecture (SOA) structural style that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.&nbsp;[†](#w-msa)
+
+Microservice
+: A service that is small in size, messaging-enabled, bounded by contexts, autonomously developed, independently deployable, decentralized, and built and released with automated processes.&nbsp;[†](#w-msa)
+
 Microsite
 : An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
 
@@ -265,6 +271,9 @@ MPEG
 
 MR
 : → Merge request
+
+MSA
+: → Microservice architecture
 
 MSAA
 : → Microsoft Active Accessibility
