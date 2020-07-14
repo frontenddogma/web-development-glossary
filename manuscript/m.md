@@ -177,6 +177,9 @@ Microsoft Edge
 Microsoft FrontPage
 : → FrontPage
 
+Microsoft Silverlight
+: → Silverlight
+
 Microsoft Windows
 : → Windows
 

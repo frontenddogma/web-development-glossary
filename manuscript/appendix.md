@@ -448,6 +448,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){#w-jdk}
 * [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
 * [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine){#w-jvm}
+* [JavaFX](https://en.wikipedia.org/wiki/JavaFX){#w-javafx}
 * [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
@@ -552,6 +553,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Microsoft Active Accessibility](https://en.wikipedia.org/wiki/Microsoft_Active_Accessibility){#w-msaa}
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge){#w-edge}
 * [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage){#w-frontpage}
+* [Microsoft Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight){#w-silverlight}
 * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows){#w-windows}
 * [Middleware](https://en.wikipedia.org/wiki/Middleware){#w-middleware}
 * [MIME](https://en.wikipedia.org/wiki/MIME){#w-mime}
@@ -724,6 +726,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Revision tag](https://en.wikipedia.org/wiki/Revision_tag){#w-tag}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format){#w-rtf}
+* [Rich web application](https://en.wikipedia.org/wiki/Rich_web_application){#w-rwa}
 * [Right-to-left](https://en.wikipedia.org/wiki/Right-to-left){#w-rtl}
 * [Robots exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard){#w-robotstxt}
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle){#w-postels-law}

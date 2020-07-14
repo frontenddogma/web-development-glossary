@@ -137,6 +137,9 @@ Relational Database Management System
 Relational model
 : An approach to database management using a structure and language consistent with first-order predicate logic, first described in 1969 by Edgar F. Codd, where all data is represented in terms of tuples, grouped into relations. A database organized in terms of the relational model is a relational database. The purpose of the relational model is to provide a declarative method for specifying data and queries: Users directly state what information the database contains and what information they want from it, and let the database management system software take care of describing data structures for storing the data and retrieval procedures for answering queries.&nbsp;[†](#w-relational-model)
 
+Relative sizing
+: In CSS, the using of units relative to something else, like a parent element’s font size or width.
+
 Relaunch
 : The (usually public) release of a significantly revised software product.
 
@@ -227,14 +230,23 @@ RFC
 RGB
 : → Red, Green, and Blue
 
+RIA
+: → Rich Internet Application
+
 RIB
 : → Routing Information Base
+
+Rich Internet Application
+: → Rich Web Application
 
 Rich Site Summary
 : → RDF Site Summary
 
 Rich Text Format
 : A proprietary document file format with published specification developed by Microsoft from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
+
+Rich Web Application
+: A web application that has many of the characteristics of desktop application software. The concept is closely related to a single-page application, and may allow the user interactive features such as drag and drop, context menus, WYSIWYG editing, etc. Prior to HTML&nbsp;5, approaches to RWAs were based on Adobe Flash, Java applets, JavaFX, or Microsoft Silverlight.&nbsp;[†](#w-rwa)
 
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)

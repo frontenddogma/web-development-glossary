@@ -36,6 +36,9 @@ Java servlet
 Java virtual machine
 : A virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. The JVM is detailed by a specification that formally describes what is required in a JVM implementation. Having a specification ensures interoperability of Java programs across different implementations so that program authors using the Java Development Kit (JDK) need not worry about idiosyncrasies of the underlying hardware platform.&nbsp;[†](#w-jvm)
 
+JavaFX
+: A software platform for creating and delivering desktop applications, as well as rich Internet applications (RIAs) that can run across a wide variety of devices. JavaFX is intended to replace Swing as the standard GUI library for Java&nbsp;SE, but both will be included for the foreseeable future. JavaFX has support for desktop computers and web browsers on Microsoft Windows, macOS, and Linux. JavaFX was first released in 2008.&nbsp;[†](#w-javafx) ℹ︎&nbsp;[openjfx.io](https://openjfx.io/)
+
 JavaScript
 : → ECMAScript
 

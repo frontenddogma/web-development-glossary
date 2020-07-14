@@ -179,7 +179,7 @@ Server side
 : Operations on the server as opposed to the client side in a client-server relationship.&nbsp;[†](#w-server-side)
 
 Server-Side Rendering
-: A technique for rendering client-side Single-Page Applications (SPA) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
+: A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
 
 Service Level Agreement
 : A commitment between a service provider and a client. Particular aspects of the service—quality, availability, responsibilities—are agreed between the service provider and the service user. The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract. As an example, Internet service providers and telcos will commonly include service level agreements within the terms of their contracts with customers to define the level(s) of service being sold in plain language terms. In this case the SLA will typically have a technical definition in mean time between failures (MTBF), mean time to repair or mean time to recovery (MTTR); identifying which party is responsible for reporting faults or paying fees; responsibility for various data rates; throughput; jitter; or similar measurable details.&nbsp;[†](#w-sla)
@@ -243,6 +243,9 @@ Signed HTTP Exchanges
 
 Silk
 : A web browser for Fire OS. Silk was released in 2011 by Amazon. ℹ︎&nbsp;[amazon.com/dp/B01M35MQV4](https://www.amazon.com/dp/B01M35MQV4)
+
+Silverlight
+: A deprecated application framework for writing and running rich Internet applications, similar to Adobe Flash. Silverlight was released in 2007.&nbsp;[†](#w-silverlight) ℹ︎&nbsp;[microsoft.com/silverlight](https://www.microsoft.com/silverlight/)
 
 Simple Mail Transfer Protocol
 : A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail, and Yahoo Mail may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol (TCP) on port number 25.&nbsp;[†](#w-smtp)
