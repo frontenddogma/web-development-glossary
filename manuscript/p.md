@@ -375,6 +375,9 @@ Pull request
 Punycode
 : A representation of Unicode with the limited ASCII character subset used for Internet hostnames. Using Punycode, host names containing Unicode characters are transcoded to a subset of ASCII consisting of letters, digits, and hyphens, which is called the Letter-Digit-Hyphen (LDH) subset. For example, “München” (Munich) is encoded as `Mnchen-3ya`.&nbsp;[†](#w-punycode)
 
+Puppeteer
+: A Node.js library that provides an API to control Chrome and Chromium over the Chrome DevTools Protocol. Puppeteer offers both headless and non-headless operation. ℹ︎&nbsp;[pptr.dev](https://pptr.dev/)
+
 Push notification
 : Small messages that can reach audiences anywhere and anytime. While pop-ups appear only when audiences are on the site they belong to, push messages are independent of sites. They are associated with web browsers and apps.&nbsp;[†](#w-push-technology)
 

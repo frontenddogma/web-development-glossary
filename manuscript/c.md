@@ -87,6 +87,9 @@ CD
 CDN
 : → Content Delivery Network
 
+CDP
+: → Chrome DevTools Protocol
+
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
 
@@ -139,6 +142,9 @@ Chrome
 
 Chrome Custom Tabs
 : A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
+
+Chrome DevTools Protocol
+: A protocol to “instrument, inspect, debug, and profile” Chromium, Chrome, and other Blink-based browsers. ℹ︎&nbsp;[is.gd/a55qQ3](https://chromedevtools.github.io/devtools-protocol/)
 
 Chrome OS
 : A Linux kernel-based operating system designed by Google. Chrome OS is derived from the free software Chromium OS and uses the Google Chrome web browser as its principal user interface. Google announced Chrome OS in 2009, conceiving it as an operating system in which both applications and user data reside in the cloud—hence Chrome OS primarily runs web applications. Chrome OS is only available pre-installed on hardware from Google manufacturing partners, but there are unofficial methods that allow it to be installed in other equipment.&nbsp;[†](#w-chrome-os) ℹ︎&nbsp;[google.com/chromebook/chrome-os](https://www.google.com/chromebook/chrome-os/)

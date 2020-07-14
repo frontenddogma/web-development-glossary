@@ -226,6 +226,9 @@ Lossless
 Lossy
 : A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
 
+Love-at-first-sight pattern
+: A pattern of user behavior in which the gaze of a user, as determined by eye tracking, predominantly fixates on one item, like a search engine result.
+
 Low vision
 : → Visual impairment
 
