@@ -251,6 +251,9 @@ Breakpoint
 : In software development, an intentional stopping or pausing place in a program, put in place for debugging purposes. A breakpoint is sometimes also referred to as a pause.&nbsp;[†](#w-breakpoint)
 : In web development, any point at which a media query is introduced and the layout changed.&nbsp;[‡](#m-breakpoint)
 
+Brewer’s Theorem
+: → CAP Theorem
+
 Broken link
 : A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.
 

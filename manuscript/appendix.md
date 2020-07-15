@@ -107,6 +107,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
 * [Camel case](https://en.wikipedia.org/wiki/Camel_case){#w-camel-case}
 * [Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element){#w-canonical-link}
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem){#w-cap-theorem}
 * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA){#w-captcha}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}

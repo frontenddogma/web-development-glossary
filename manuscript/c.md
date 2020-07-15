@@ -35,6 +35,9 @@ Canonical Name
 Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
 
+CAP Theorem
+: A theoretical computer science theorem that states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: 1) Consistency: Every read receives the most recent write or an error; 2) Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write; and 3) Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes. The CAP Theorem implies that in the presence of a network partition, one has to choose between consistency and availability.&nbsp;[†](#w-cap-theorem)
+
 CAPTCHA
 : A type of challenge–response test used in computing to determine whether or not the user is human. The term stands for “completely automated public Turing test to tell computers and humans apart” and was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.&nbsp;[†](#w-captcha)
 
