@@ -277,6 +277,9 @@ Work in Progress
 Workaround
 : A bypass of a recognized problem or limitation in a system or policy. A workaround is typically a temporary fix that implies that a genuine solution to the problem is needed. Workarounds are frequently as creative as true solutions, involving outside the box thinking in their creation. Typically they are considered brittle in that they will not respond well to further pressure from a system beyond the original design. In implementing a workaround it is important to flag the change so as to later implement a proper solution. A “workaround” can also be a euphemism for a “hack.”&nbsp;[†](#w-workaround)
 
+Workbox
+: A Google-maintained set of libraries and Node modules to assist the building of progressive web apps (PWAs). Workbox was first released in 2017. ℹ︎&nbsp;[is.gd/GFKM3p](https://developers.google.com/web/tools/workbox)
+
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)
 

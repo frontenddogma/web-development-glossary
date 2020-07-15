@@ -289,6 +289,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking){#w-eye-tracking}
+* [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern){#w-facade-pattern}
 * [Facebook Instant Articles](https://en.wikipedia.org/wiki/Facebook_Instant_Articles){#w-instant-articles}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}

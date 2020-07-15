@@ -229,6 +229,9 @@ Apache Tomcat
 API
 : → Application Programming Interface
 
+API gateway
+: An entry point for a system of application programming interfaces (APIs) that takes care of request routing as well as protocol translation. An API gateway also helps mitigate backend issues, for example by offering fallback or cached data.
+
 App
 : → Application
 
