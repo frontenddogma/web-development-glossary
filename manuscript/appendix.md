@@ -33,6 +33,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Aliasing](https://en.wikipedia.org/wiki/Aliasing){#w-aliasing}
+* [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3){#w-amazon-s3}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework)){#w-angular}
 * [AngularJS](https://en.wikipedia.org/wiki/AngularJS){#w-angularjs}
@@ -751,6 +752,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
 * [Sass (stylesheet language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)){#w-sass}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
+* [Screen magnifier](https://en.wikipedia.org/wiki/Screen_magnifier){#w-screen-magnifier}
 * [Screen reader](https://en.wikipedia.org/wiki/Screen_reader){#w-screen-reader}
 * [Scripting language](https://en.wikipedia.org/wiki/Scripting_language){#w-scripting-language}
 * [Scrolling](https://en.wikipedia.org/wiki/Scrolling){#w-scrolling}
@@ -766,6 +768,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web){#w-semantic-web}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
+* [Serialization](https://en.wikipedia.org/wiki/Serialization){#w-serialization}
 * [Serif](https://en.wikipedia.org/wiki/Serif){#w-serif}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
@@ -1087,6 +1090,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [REST](https://developer.mozilla.org/en-US/docs/Glossary/REST){#m-rest}
 * [Routers](https://developer.mozilla.org/en-US/docs/Glossary/routers){#m-router}
 * [Scrollport](https://developer.mozilla.org/en-US/docs/Glossary/Scrollport){#m-scrollport}
+* [Secure contexts](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts){#m-secure-context}
 * [Shadow tree](https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree){#m-shadow-tree}
 * [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
 * [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}

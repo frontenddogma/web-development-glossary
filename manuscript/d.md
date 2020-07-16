@@ -156,6 +156,9 @@ Deprecation
 Descender
 : The portion of a letter that extends below the baseline of a font.&nbsp;[†](#w-descender)
 
+Deserialization
+: The opposite of serialization, extracting a data structure or object state from a series of bytes.&nbsp;[†](#w-serialization)
+
 Design
 : A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
 

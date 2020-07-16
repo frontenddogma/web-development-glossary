@@ -1,5 +1,8 @@
 # S
 
+S3
+: → Amazon S3
+
 Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
@@ -40,6 +43,9 @@ Scope
 
 Scoped styles
 : A concept to limit otherwise broad styles to a certain element and its children (as opposed to having them affect many other elements of a document as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like web components. Frameworks like Vue support both concept and attribute.
+
+Screen magnifier
+: Software that interfaces with a computer’s graphical output to present enlarged screen content. By enlarging part (or all) of a screen, people with visual impairments can better see words and images. This type of assistive technology is useful for people with some functional vision; people with visual impairments and little or no functional vision usually use a screen reader.&nbsp;[†](#w-screen-magnifier)
 
 Screen reader
 : A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include interacting with dedicated Accessibility APIs, using various operating system features (like inter-process communication and querying user interface properties), and employing hooking techniques.&nbsp;[†](#w-screen-reader)
@@ -110,6 +116,9 @@ Section 508
 Sectioning content
 : Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
 
+Secure context
+: A `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met. Many Web APIs and features are accessible only in a secure context. The primary goal of secure contexts is to prevent MITM attackers from accessing APIs that could further compromise the victim of an attack.&nbsp;[‡](#m-secure-context)
+
 Secure Shell
 : A cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote login and command execution, but any network service can be secured with SSH. SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. The protocol specification distinguishes between two major versions, referred to as SSH-1 and SSH-2. The standard TCP port for SSH is 22.&nbsp;[†](#w-ssh)
 
@@ -152,6 +161,9 @@ SEO
 
 Separation of Concerns
 : A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as “the details of the hardware for an application,” or as specific as “the name of which class to instantiate.” A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program’s design, deployment, or usage.&nbsp;[†](#w-soc)
+
+Serialization
+: The process of translating data structures or object state into a format that can be stored (for example, in a file or memory buffer) or transmitted (for example, across a network connection link) and reconstructed later (possibly in a different computer environment). When the resulting series of bits is re-read according to the serialization format, it can be used to create a semantically identical clone of the original object. This process of serializing an object is in some situations also called marshalling an object.&nbsp;[†](#w-serialization)
 
 Serif
 : A small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. A typeface or font family making use of serifs is called a serif typeface (or serifed typeface), and a typeface that does not include them is a sans-serif one. Some typography sources refer to serif typefaces as “roman,” and to sans-serif typefaces as “grotesque” (German _Grotesk_) or “gothic.”&nbsp;[†](#w-serif)

@@ -157,8 +157,14 @@ Alternate style sheet
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
+Amazon S3
+: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. Amazon S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
+
 Amazon Silk
 : → Silk
+
+Amazon Simple Storage Service
+: → Amazon S3
 
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
