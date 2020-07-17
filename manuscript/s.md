@@ -86,6 +86,9 @@ SDK
 SDLC
 : → Software Development Life Cycle
 
+SDP
+: → Service discovery protocol
+
 SEA
 : → Search Engine Advertising
 
@@ -193,6 +196,12 @@ Server side
 Server-Side Rendering
 : A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
 
+Service discovery
+: The automatic detection of devices and services offered on a computer network. Service discovery aims to reduce the configuration efforts from users.&nbsp;[†](#w-service-discovery)
+
+Service discovery protocol
+: A network protocol that helps accomplish service discovery. Examples for SDPs include the Bluetooth Service Discovery Protocol (SDP), DNS Service Discovery (DNS-SD), and the Dynamic Host Configuration Protocol (DHCP).&nbsp;[†](#w-service-discovery)
+
 Service Level Agreement
 : A commitment between a service provider and a client. Particular aspects of the service—quality, availability, responsibilities—are agreed between the service provider and the service user. The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract. As an example, Internet service providers and telcos will commonly include service level agreements within the terms of their contracts with customers to define the level(s) of service being sold in plain language terms. In this case the SLA will typically have a technical definition in mean time between failures (MTBF), mean time to repair or mean time to recovery (MTTR); identifying which party is responsible for reporting faults or paying fees; responsibility for various data rates; throughput; jitter; or similar measurable details.&nbsp;[†](#w-sla)
 
@@ -201,6 +210,9 @@ Service Level Expectation
 
 Service worker
 : A JavaScript file that operates as a type of web worker. Service workers work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates, and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of registration, installation, and activation.&nbsp;[†](#w-pwa)
+
+Session
+: A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)
 
 Session hijacking
 : The exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system. In particular, session hijacking is used to refer to the theft of a cookie used to authenticate a user to a remote server. It has particular relevance to web developers, as the HTTP cookies used to maintain a session on many websites can be easily stolen by an attacker using an intermediary computer or with access to the saved cookies on the victim’s computer. After successfully stealing appropriate session cookies, an adversary might use the Pass the Cookie technique to hijack the session.&nbsp;[†](#w-session-hijacking)
