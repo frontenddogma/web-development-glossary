@@ -69,6 +69,9 @@ NGINX
 Night Mode
 : → Dark Mode
 
+Ninety-Ninety Rule
+: A humorous aphorism attributed to Tom Cargill that states: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” This adds up to 180%, making an allusion to the notoriety of software development projects significantly over-running their schedules.&nbsp;[†](#w-ninety-ninety-rule)
+
 Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
 : → Node.js

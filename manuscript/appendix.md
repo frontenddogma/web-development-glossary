@@ -594,6 +594,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [News aggregator](https://en.wikipedia.org/wiki/News_aggregator){#w-news-aggregator}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
+* [Ninety-ninety rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule){#w-ninety-ninety-rule}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement){#w-nda}
