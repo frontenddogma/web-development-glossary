@@ -185,6 +185,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law){#w-conways-law}
 * [Corporate design](https://en.wikipedia.org/wiki/Corporate_design){#w-corporate-design}
 * [Corporate identity](https://en.wikipedia.org/wiki/Corporate_identity){#w-corporate-identity}
+* [Country code top-level domain](https://en.wikipedia.org/wiki/Country_code_top-level_domain){#w-cctld}
 * [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
 * [Create, read, update and delete](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete){#w-crud}
@@ -332,6 +333,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
 * [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation){#w-gdpr}
+* [Generic top-level domain](https://en.wikipedia.org/wiki/Generic_top-level_domain){#w-gtld}
 * [GIF](https://en.wikipedia.org/wiki/GIF){#w-gif}
 * [Git](https://en.wikipedia.org/wiki/Git){#w-git}
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}

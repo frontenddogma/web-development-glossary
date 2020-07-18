@@ -18,6 +18,9 @@ General Data Protection Regulation
 General Image Manipulation Program
 : → GIMP
 
+Generic top-level domain
+: One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
+
 Geolocation API
 : An effort by the World Wide Web Consortium (W3C) to standardize an interface to retrieve the location information for a client-side device. The Geolocation API defines an ECMAScript-compliant set of objects that give the client’s device location through the consulting of location information servers. The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, Wi-Fi connection location, radio-frequency identification (RFID), and device Global Positioning System (GPS) or GSM/CDMA cell IDs.&nbsp;[†](#w-geolocation-api) ℹ︎&nbsp;[w3.org/TR/geolocation-API](https://www.w3.org/TR/geolocation-API/)
 
@@ -133,6 +136,9 @@ Grid computing
 
 Grid track
 : The space between two grid lines. They are defined in the explicit grid by using the `grid-template-columns` and `grid-template-rows` properties or the shorthand `grid` or `grid-template` properties. Tracks are also created in the implicit grid by positioning a grid item outside of the tracks created in the explicit grid.&nbsp;[‡](#m-grid-track)
+
+gTLD
+: → Generic top-level domain
 
 Guetzli
 : A JPEG encoder developed by Jyrki Alakujala, Robert Obryk, and Zoltán Szabadka, and released by Google in 2017. Guetzli specializes in high-end image quality where it is claimed to produce significantly smaller files than prior encoders at equivalent quality, albeit at very low speed. It is named after the Swiss German expression for biscuits, in line with the names of other compression technology from Google.&nbsp;[†](#w-guetzli) ℹ︎&nbsp;[github.com/google/guetzli](https://github.com/google/guetzli)

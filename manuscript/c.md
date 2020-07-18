@@ -82,6 +82,9 @@ CC/PP
 CCT
 : → Chrome Custom Tabs
 
+ccTLD
+: → Country code top-level domain
+
 CD
 : → Corporate Design
 : → Continuous Delivery
@@ -509,6 +512,9 @@ CORS
 
 Cost-per-click
 : → Pay-per-click
+
+Country code top-level domain
+: An Internet top-level domain generally used or reserved for a country, sovereign state, or dependent territory identified with a country code. All ASCII ccTLD identifiers are two letters long, and all two-letter top-level domains are ccTLDs. There are 312 ccTLDs in active use totally. .cn, .tk, .de and .uk contain the highest number of domains.&nbsp;[†](#w-cctld)
 
 Coupling
 : A state in which one object uses a function of another object. Coupling also describes the degree of interdependence between software modules, as a measure of how closely connected two routines or modules are, and the strength of the relationships between modules. Coupling is usually contrasted with cohesion. Low coupling often correlates with high cohesion, and vice versa. Low coupling is often a sign of a well-structured computer system and a good design, and when combined with high cohesion, supports the general goals of high readability and maintainability.&nbsp;[†](#w-coupling)
