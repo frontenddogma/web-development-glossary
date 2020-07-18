@@ -34,6 +34,9 @@ UI framework
 UI redressing
 : → Clickjacking
 
+UUID
+: → Universally unique identifier
+
 UMD
 : → Universal Module Definition
 
@@ -81,6 +84,9 @@ Universal Design
 
 Universal Module Definition
 : A collection of patterns and scripts to help use and compatibility of different JavaScript module loaders. ℹ︎&nbsp;[github.com/umdjs/umd](https://github.com/umdjs/umd)
+
+Universally unique identifier
+: A 128-bit number used to identify information in computer systems. The term globally unique identifier (GUID) is also used, typically in software created by Microsoft. When generated according to the standard methods, UUIDs are for practical purposes unique. Their uniqueness does not depend on a central registration authority or coordination between the parties generating them, unlike most other numbering schemes. While the probability that a UUID will be duplicated is not zero, it is close enough to zero to be negligible. Thus, anyone can create a UUID and use it to identify something with near certainty that the identifier does not duplicate one that has already been, or will be, created to identify something else.&nbsp;[†](#w-uuid)
 
 Unix/UNIX
 : A family of multi-tasking, multi-user computer operating systems that derive from the original AT&T Unix, with development starting in the 1970s at Bell Labs. Initially intended for use inside the Bell System, AT&T licensed Unix to outside parties in the late 1970s, leading to a variety of both academic and commercial Unix variants. Unix systems are characterized by a modular design that is sometimes called the Unix philosophy. Unix distinguishes itself from its predecessors as the first portable operating system: Almost the entire operating system is written in the C programming language, thus allowing Unix to reach numerous platforms.&nbsp;[†](#w-unix)

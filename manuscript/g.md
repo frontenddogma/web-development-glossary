@@ -51,6 +51,9 @@ Global scope
 Global variable
 : A variable that is declared in the global scope; in other words, one that is visible from all other scopes. In JavaScript it is a property of the global object.&nbsp;[‡](#m-global-variable)
 
+Globally unique identifier
+: → Universally unique identifier
+
 Glyph
 : A readable mark of a particular meaning.
 
@@ -154,6 +157,9 @@ Gutter
 
 GUI
 : → Graphical User Interface
+
+GUID
+: → Globally unique identifier
 
 GWS
 : → Google Web Server

@@ -888,6 +888,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
+* [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier){#w-uuid}
 * [Unix](https://en.wikipedia.org/wiki/Unix){#w-unix}
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy){#w-unix-philosophy}
 * [URL](https://en.wikipedia.org/wiki/URL){#w-url}
