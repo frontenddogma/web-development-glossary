@@ -215,6 +215,9 @@ Plane
 Platform as a Service
 : A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.&nbsp;[†](#w-paas)
 
+Platform modernization
+: → Software modernization
+
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
 

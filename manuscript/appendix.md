@@ -798,6 +798,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Software development](https://en.wikipedia.org/wiki/Software_development){#w-software-development}
 * [Software development kit](https://en.wikipedia.org/wiki/Software_development_kit){#w-sdk}
 * [Software framework](https://en.wikipedia.org/wiki/Software_framework){#w-software-framework}
+* [Software modernization](https://en.wikipedia.org/wiki/Software_modernization){#w-software-modernization}
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
 * [Software testing](https://en.wikipedia.org/wiki/Software_testing){#w-testing}
 * [Software versioning](https://en.wikipedia.org/wiki/Software_versioning){#w-versioning}

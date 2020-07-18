@@ -382,6 +382,9 @@ Software Development Life Cycle
 Software framework
 : An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications and is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate the development of software applications, products, and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable the development of a project or system.&nbsp;[†](#w-software-framework)
 
+Software modernization
+: The converting, rewriting, or porting of a legacy system to a modern computer programming language, software libraries, protocols, or hardware platform. This transformation aims to retain and extend the value of the legacy investment.&nbsp;[†](#w-software-modernization)
+
 Software stack
 : → Solution stack
 
