@@ -143,7 +143,7 @@ Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
 Aliasing
-: An effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. Aliasing also often refers to the distortion or artifact that results when a signal reconstructed from samples is different from the original continuous signal. Aliasing can occur in signals sampled in time, for instance digital audio, and is referred to as temporal aliasing. It can also occur in spatially sampled signals (e.g. moiré patterns in digital images); this type of aliasing is called spatial aliasing. Aliasing is generally avoided by applying low pass filters or anti-aliasing filters (AAF) to the input signal.&nbsp;[†](#w-aliasing)
+: An effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. Aliasing also often refers to the distortion or artifact that results when a signal reconstructed from samples is different from the original continuous signal. Aliasing can occur in signals sampled in time, for instance digital audio, and is referred to as temporal aliasing. It can also occur in spatially sampled signals (e.g., moiré patterns in digital images); this type of aliasing is called spatial aliasing. Aliasing is generally avoided by applying low pass filters or anti-aliasing filters (AAF) to the input signal.&nbsp;[†](#w-aliasing)
 
 Almost standards mode
 : → Almost strict mode

@@ -7,7 +7,7 @@ I18N
 : → Internationalization
 
 IA
-: → Information Architecture
+: → Information architecture
 
 IaaS
 : → Infrastructure as a Service
@@ -114,7 +114,7 @@ Industrial Design
 Infinite scrolling
 : The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if they could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
 
-Information Architecture
+Information architecture
 : The structural design of shared information environments; the art and science of organizing and labeling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
 Information Design
@@ -227,6 +227,9 @@ Interface
 : → Graphical User Interface
 : → User Interface
 
+Interface Segregation Principle
+: The principle that no client should be forced to depend on methods it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.&nbsp;[†](#w-interface-segregation)
+
 Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
@@ -337,6 +340,7 @@ ISOC
 : → Internet Society
 
 ISP
+: → Interface Segregation Principle
 : → Internet Service Provider
 
 ITCSS

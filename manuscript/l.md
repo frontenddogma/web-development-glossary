@@ -151,6 +151,9 @@ Liquid
 LIS
 : → Location information server
 
+Liskov Substitution Principle
+: A particular definition of a subtyping relation, called (strong) behavioral subtyping, that was initially introduced in 1987 by Barbara Liskov. The Liskov Substitution Principle is a semantic rather than merely syntactic relation, because it intends to guarantee semantic interoperability of types in a hierarchy, particularly of object types. Liskov’s notion of a behavioral subtype defines a notion of substitutability for objects; that is, if S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (e.g., correctness).&nbsp;[†](#w-liskov-substitution)
+
 Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
 

@@ -3,6 +3,9 @@
 S3
 : → Amazon S3
 
+SaaS
+: → Software as a Service
+
 Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
@@ -211,6 +214,9 @@ Service Level Expectation
 Service worker
 : A JavaScript file that operates as a type of web worker. Service workers work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates, and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of registration, installation, and activation.&nbsp;[†](#w-pwa)
 
+Service-oriented architecture
+: A style of software design where services are provided to the other components by application components, through a communication protocol over a network. A SOA service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently, such as retrieving a credit card statement online. SOA is also intended to be independent of vendors, products, and technologies. A service has four properties according to one of many definitions of SOA: 1) It logically represents a business activity with a specified outcome; 2) it is self-contained; 3) it is a black box for its consumers, meaning the consumer does not have to be aware of the service’s inner workings; and 4) it may consist of other underlying services.&nbsp;[†](#w-soa)
+
 Session
 : A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)
 
@@ -298,6 +304,9 @@ Sketch
 Skin
 : → Theme
 
+Skip navigation
+: An accessibility technique that consists of placing one or more visually hidden hyperlinks at the beginning of a document to allow users of assistive technology to directly access main or other content sections, thereby bypassing (“skipping”) navigation blocks.
+
 SLA
 : → Service Level Agreement
 
@@ -349,6 +358,9 @@ Snake case
 Snap position
 : A point that a scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
 
+SOA
+: → Service-oriented architecture
+
 SOAP
 : → Simple Object Access Protocol
 
@@ -366,6 +378,9 @@ Soft opening
 
 Software
 : A collection of instructions and data that tell a computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs, and data. Computer software includes computer programs, libraries, and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.&nbsp;[†](#w-software)
+
+Software as a Service
+: A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is sometimes referred to as “on-demand software,” and was formerly referred to as “software plus services” by Microsoft. SaaS applications are also known as web-based software, on-demand software, and hosted software. The term “Software as a Service” (SaaS) is considered to be part of the nomenclature of cloud computing, along with Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Desktop as a Service (DaaS), Managed Software as a Service (MSaaS), Mobile Backend as a Service (MBaaS), Data Center as a Service (DCaaS), and Information Technology Management as a Service (ITMaaS). SaaS apps are typically accessed by users using a thin client, e.g., via a web browser.&nbsp;[†](#w-saas)
 
 Software crisis
 : A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany.&nbsp;[†](#w-software-crisis)
@@ -390,6 +405,9 @@ Software stack
 
 Software testing
 : → Testing
+
+SOLID
+: A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. SOLID refers to 1) the Single Responsibility Principle, 2) the Open-Closed Principle, 3) the Liskov Substitution Principle, 4) the Interface Segregation Principle, and 5) the Dependency Inversion Principle. SOLID represents a subset of many principles promoted by Robert C. Martin.&nbsp;[†](#w-solid)
 
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)

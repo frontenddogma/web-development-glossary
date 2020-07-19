@@ -54,7 +54,7 @@ Cart
 : → Shopping cart
 
 Cascade
-: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
+: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; and 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
 
 Cascading HTML Style Sheets
 : A style sheet language proposal drafted in 1994 by Håkon Wium Lie. ℹ︎&nbsp;[w3.org/People/howcome/p/cascade](https://www.w3.org/People/howcome/p/cascade.html)

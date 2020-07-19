@@ -352,6 +352,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface){#w-gui}
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
 * [GraphQL](https://en.wikipedia.org/wiki/GraphQL){#w-graphql}
+* [GRASP (object-oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)){#w-grasp}
 * [Greenfield project](https://en.wikipedia.org/wiki/Greenfield_project){#w-greenfield}
 * [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
 * [Grid computing](https://en.wikipedia.org/wiki/Grid_computing){#w-grid-computing}
@@ -425,6 +426,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Interaction design](https://en.wikipedia.org/wiki/Interaction_design){#w-ixd}
 * [Interactive Advertising Bureau](https://en.wikipedia.org/wiki/Interactive_Advertising_Bureau){#w-iab}
 * [Interface (computing)](https://en.wikipedia.org/wiki/Interface_(computing)){#w-interface}
+* [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle){#w-interface-segregation}
 * [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization){#w-iso}
 * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization){#w-i18n-l10n}
 * [Internationalized Resource Identifier](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier){#w-iri}
@@ -506,6 +508,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [lint (software)](https://en.wikipedia.org/wiki/Lint_(software)){#w-lint}
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base){#w-lsb}
+* [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle){#w-liskov-substitution}
 * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
@@ -620,6 +623,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Online Certificate Status Protocol](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol){#w-ocsp}
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
 * [Open source](https://en.wikipedia.org/wiki/Open_source){#w-open-source}
+* [Open-closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle){#w-open-closed}
 * [OpenType](https://en.wikipedia.org/wiki/OpenType){#w-opentype}
 * [Operand](https://en.wikipedia.org/wiki/Operand){#w-operand}
 * [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
@@ -777,6 +781,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Service discovery](https://en.wikipedia.org/wiki/Service_discovery){#w-service-discovery}
+* [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture){#w-soa}
 * [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
 * [Session (computer science)](https://en.wikipedia.org/wiki/Session_(computer_science)){#w-session}
 * [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking){#w-session-hijacking}
@@ -795,6 +800,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software](https://en.wikipedia.org/wiki/Software){#w-software}
+* [Software as a service](https://en.wikipedia.org/wiki/Software_as_a_service){#w-saas}
 * [Software bug](https://en.wikipedia.org/wiki/Software_bug){#w-bug}
 * [Software crisis](https://en.wikipedia.org/wiki/Software_crisis){#w-software-crisis}
 * [Software deployment](https://en.wikipedia.org/wiki/Software_deployment){#w-deployment}
@@ -805,6 +811,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping){#w-prototyping}
 * [Software testing](https://en.wikipedia.org/wiki/Software_testing){#w-testing}
 * [Software versioning](https://en.wikipedia.org/wiki/Software_versioning){#w-versioning}
+* [SOLID](https://en.wikipedia.org/wiki/SOLID){#w-solid}
 * [Solution stack](https://en.wikipedia.org/wiki/Solution_stack){#w-solution-stack}
 * [Source lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code){#w-loc}
 * [Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor){#w-editor}

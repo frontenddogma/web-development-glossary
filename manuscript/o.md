@@ -69,6 +69,9 @@ Open Systems Interconnection model
 Open Web Application Security Project
 : An online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. OWASP was founded in 2001.&nbsp;[†](#w-owasp) ℹ︎&nbsp;[owasp.org](https://www.owasp.org/)
 
+Open-Closed Principle
+: The idea that “software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification,” that is, that such an entity can allow its behavior to be extended without modifying its source code.&nbsp;[†](#w-open-closed)
+
 OpenType
 : A format for scalable computer fonts. OpenType was built on its predecessor TrueType, retaining TrueType’s basic structure and adding many intricate data structures for prescribing typographic behavior. The specification was developed at Microsoft, with Adobe Systems contributing by the time of public announcement in 1996.&nbsp;[†](#w-opentype)
 

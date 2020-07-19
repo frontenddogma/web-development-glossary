@@ -18,6 +18,9 @@ General Data Protection Regulation
 General Image Manipulation Program
 : → GIMP
 
+General Responsibility Assignment Software Patterns
+: Guidelines for assigning responsibility to classes and objects in object-oriented design. The different patterns and principles used in GRASP are controller, creator, indirection, information expert, low coupling, high cohesion, polymorphism, protected variations, and pure fabrication.&nbsp;[†](#w-grasp)
+
 Generic top-level domain
 : One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
 
@@ -123,6 +126,9 @@ Graphics Processing Unit
 
 GraphQL
 : A data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides an approach to developing web APIs, and has been compared and contrasted with REST and other web service architectures. It allows clients to define the structure of the data required, and the same structure of the data is returned from the server, therefore preventing excessively large amounts of data from being returned. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015.&nbsp;[†](#w-graphql) ℹ︎&nbsp;[graphql.org](https://graphql.org/)
+
+GRASP
+: → General Responsibility Assignment Software Patterns
 
 Greeking
 : → Placeholder text
