@@ -123,7 +123,7 @@ Sectioning content
 : Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
 
 Secure context
-: A `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met. Many Web APIs and features are accessible only in a secure context. The primary goal of secure contexts is to prevent MITM attackers from accessing APIs that could further compromise the victim of an attack.&nbsp;[‡](#m-secure-context)
+: A `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met. Many web APIs and features are accessible only in a secure context. The primary goal of secure contexts is to prevent MITM attackers from accessing APIs that could further compromise the victim of an attack.&nbsp;[‡](#m-secure-context)
 
 Secure Shell
 : A cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote login and command execution, but any network service can be secured with SSH. SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. The protocol specification distinguishes between two major versions, referred to as SSH-1 and SSH-2. The standard TCP port for SSH is 22.&nbsp;[†](#w-ssh)
@@ -216,6 +216,9 @@ Service worker
 
 Service-oriented architecture
 : A style of software design where services are provided to the other components by application components, through a communication protocol over a network. A SOA service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently, such as retrieving a credit card statement online. SOA is also intended to be independent of vendors, products, and technologies. A service has four properties according to one of many definitions of SOA: 1) It logically represents a business activity with a specified outcome; 2) it is self-contained; 3) it is a black box for its consumers, meaning the consumer does not have to be aware of the service’s inner workings; and 4) it may consist of other underlying services.&nbsp;[†](#w-soa)
+
+Servlet
+: A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-servlet)
 
 Session
 : A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)

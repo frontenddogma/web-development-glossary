@@ -31,7 +31,7 @@ Java Development Kit
 : An implementation of either of the Java Platform editions released by Oracle in the form of a binary product aimed at Java developers on Linux, macOS, or Windows. The JDK includes a private JVM and other resources to complete the development of a Java application. Since the introduction of the Java platform, it has been by far the most widely used Software Development Kit (SDK).&nbsp;[†](#w-jdk) ℹ︎&nbsp;[is.gd/dZipm6](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 Java servlet
-: A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-java-servlet)
+: → Servlet
 
 Java virtual machine
 : A virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. The JVM is detailed by a specification that formally describes what is required in a JVM implementation. Having a specification ensures interoperability of Java programs across different implementations so that program authors using the Java Development Kit (JDK) need not worry about idiosyncrasies of the underlying hardware platform.&nbsp;[†](#w-jvm)
@@ -73,7 +73,7 @@ Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
 
 Jetty
-: A Java HTTP (Web) server and Java Servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+: A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jira
 : A proprietary issue tracking product by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)

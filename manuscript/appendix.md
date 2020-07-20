@@ -453,7 +453,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Java (programming language)](https://en.wikipedia.org/wiki/Java_(programming_language)){#w-java}
 * [Java Database Connectivity](https://en.wikipedia.org/wiki/Java_Database_Connectivity){#w-jdbc}
 * [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){#w-jdk}
-* [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-java-servlet}
+* [Java servlet](https://en.wikipedia.org/wiki/Java_servlet){#w-servlet}
 * [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine){#w-jvm}
 * [JavaFX](https://en.wikipedia.org/wiki/JavaFX){#w-javafx}
 * [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
