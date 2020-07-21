@@ -1015,6 +1015,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
 * [XUL](https://en.wikipedia.org/wiki/XUL){#w-xul}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
+* [You aren’t gonna need it](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it){#w-yagni}
 * [YUI Library](https://en.wikipedia.org/wiki/YUI_Library){#w-yui}
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
 * [Zero-based numbering](https://en.wikipedia.org/wiki/Zero-based_numbering){#w-zero-based-indexing}
