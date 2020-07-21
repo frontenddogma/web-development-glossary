@@ -223,6 +223,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Deno (software)](https://en.wikipedia.org/wiki/Deno_(software)){#w-deno}
 * [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){#w-dependency-injection}
 * [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle){#w-dip}
+* [Deployment environment](https://en.wikipedia.org/wiki/Deployment_environment){#w-deployment-env}
 * [Deprecation](https://en.wikipedia.org/wiki/Deprecation){#w-deprecation}
 * [Descender](https://en.wikipedia.org/wiki/Descender){#w-descender}
 * [Design](https://en.wikipedia.org/wiki/Design){#w-design}
@@ -280,6 +281,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Empty string](https://en.wikipedia.org/wiki/Empty_string){#w-empty-string}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
 * [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
+* [Environment variable](https://en.wikipedia.org/wiki/Environment_variable){#w-env-variable}
 * [Equality Act 2010](https://en.wikipedia.org/wiki/Equality_Act_2010){#w-equality-act}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}

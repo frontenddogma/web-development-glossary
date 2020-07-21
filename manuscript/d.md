@@ -147,6 +147,9 @@ Dependency Inversion Principle
 Deployment
 : All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, deployment should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
 
+Deployment environment
+: A computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the development environment (where changes are originally made) and production environment (what end users use) are separated; often with several stages in between. This structured release management process allows phased deployment (rollout), testing, and rollback in case of problems.&nbsp;[†](#w-deployment-env)
+
 Deprecated
 : → Deprecation
 

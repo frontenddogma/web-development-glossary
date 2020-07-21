@@ -514,6 +514,12 @@ Stack Overflow
 Stacking context
 : A three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the user, who is assumed to be facing the viewport or web page. For CSS, each box belongs to one stacking context. The `z-index` property establishes whether a box establishes a stacking context, and the level of a box in its stacking context.&nbsp;[‡](#m-stacking-context)
 
+Staging
+: → Staging environment
+
+Staging environment
+: A deployment environment that reflects the production environment.
+
 Stand-up
 : A meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. Stand-ups are sometimes confused with Daily Scrums.&nbsp;[†](#w-stand-up)
 
