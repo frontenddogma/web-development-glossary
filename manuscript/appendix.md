@@ -198,6 +198,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [CSS Zen Garden](https://en.wikipedia.org/wiki/CSS_Zen_Garden){#w-css-zen-garden}
+* [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS){#w-css-in-js}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [D3.js](https://en.wikipedia.org/wiki/D3.js){#w-d3js}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
@@ -460,6 +461,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [JavaFX](https://en.wikipedia.org/wiki/JavaFX){#w-javafx}
 * [JavaScript framework](https://en.wikipedia.org/wiki/JavaScript_framework){#w-javascript-framework}
 * [JavaScript library](https://en.wikipedia.org/wiki/JavaScript_library){#w-library}
+* [JavaScript Style Sheets](https://en.wikipedia.org/wiki/JavaScript_Style_Sheets){#w-jsss}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [JAWS (screen reader)](https://en.wikipedia.org/wiki/JAWS_(screen_reader)){#w-jaws}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
@@ -836,6 +838,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Stand-up meeting](https://en.wikipedia.org/wiki/Stand-up_meeting){#w-stand-up}
 * [Standard Generalized Markup Language](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language){#w-sgml}
 * [State (computer science)](https://en.wikipedia.org/wiki/State_(computer_science)){#w-state}
+* [Statement (computer science)](https://en.wikipedia.org/wiki/Statement_(computer_science)){#w-statement}
 * [Static web page](https://en.wikipedia.org/wiki/Static_web_page){#w-static}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Stream (computing)](https://en.wikipedia.org/wiki/Stream_(computing)){#w-stream}

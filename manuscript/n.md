@@ -38,8 +38,11 @@ Nesting
 Net Promoter Score
 : A management tool that can be used to gauge the loyalty of a firm’s customer relationships. NPS serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company, product, or service to a friend or colleague?”&nbsp;[†](#w-nps)
 
-Netscape 4
-: A version of Netscape Navigator memorable for web developers because of its particular support (or lack of support) of web standards.
+Netscape&nbsp;4
+: → Netscape Communicator
+
+Netscape Communicator
+: The 4.0-4.8 versions of the Netscape browser memorable for web developers because of their particular support (or lack of support) of web standards.
 
 Netscape Navigator
 : A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of Netscape and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994.&nbsp;[†](#w-netscape-navigator)

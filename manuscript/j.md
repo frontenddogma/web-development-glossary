@@ -54,6 +54,9 @@ JavaScript Object Notation
 JavaScript Object Notation for Linked Data
 : A method of encoding Linked Data using JSON. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group.&nbsp;[†](#w-json-ld) ℹ︎&nbsp;[json-ld.org](https://json-ld.org/)
 
+JavaScript Style Sheets
+: A style sheet language technology proposed in 1996 by Netscape to provide facilities for defining the presentation of web pages. JSSS was an alternative to the Cascading Style Sheets (CSS) language that was never accepted as a formal standard and never gained acceptance in the web browser market. Only Netscape Communicator 4 implemented JSSS, and soon after Netscape Communicator’s release in 1997, Netscape stopped promoting JSSS, instead focusing on the rival CSS standard.&nbsp;[†](#w-jsss)
+
 JavaScript XML
 : An extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers. React components are typically written using JSX, although they do not have to be (components may also be written in pure JavaScript).&nbsp;[†](#w-react)
 
@@ -132,6 +135,12 @@ JSON-LD
 
 JSP
 : → JavaServer Pages
+
+JSS
+: → CSS-in-JS
+
+JSSS
+: → JavaScript Style Sheets
 
 JSX
 : → JavaScript XML

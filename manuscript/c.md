@@ -597,6 +597,9 @@ CSS Object Model
 CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
+CSS-in-JS
+: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
+
 CSS-Tricks
 : A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
 
