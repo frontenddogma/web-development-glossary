@@ -460,6 +460,9 @@ Speed Index
 Spider
 : → Crawler
 
+Spike
+: A product-testing method originating from Extreme Programming that is used to determine how much work will be required to solve or work around a software issue. Typically, a “spike test” involves gathering additional information or testing for easily reproduced edge cases.&nbsp;[†](#w-spike)
+
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
 

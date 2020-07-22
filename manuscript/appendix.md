@@ -824,6 +824,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Spamming](https://en.wikipedia.org/wiki/Spamming){#w-spamming}
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
 * [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
+* [Spike (software development)](https://en.wikipedia.org/wiki/Spike_(software_development)){#w-spike}
 * [Splash screen](https://en.wikipedia.org/wiki/Splash_screen){#w-splash-screen}
 * [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
 * [SQL](https://en.wikipedia.org/wiki/SQL){#w-sql}
