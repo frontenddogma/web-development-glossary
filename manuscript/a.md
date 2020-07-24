@@ -37,6 +37,9 @@ Acceptance testing
 Access control
 : The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
 
+Access logs
+: → Server logs
+
 Access token
 : A token that contains the security credentials for a login session and that identifies a user, a user’s groups, a user’s privileges, and, in some cases, a particular application. Typically one may be asked to enter an access token (e.g., 40 random characters) rather than the usual password (an access token should therefore be kept secret just like a password).&nbsp;[†](#w-access-token)
 
