@@ -67,7 +67,7 @@ Nexus
 : → WorldWideWeb
 
 NGINX
-: A web server which can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated Nginx to serve 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
+: A web server which can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated NGINX to serve 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
 
 Night Mode
 : → Dark Mode

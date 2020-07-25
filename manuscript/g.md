@@ -94,6 +94,9 @@ Google Chrome
 Google Lighthouse
 : → Lighthouse
 
+Google TalkBack
+: → TalkBack
+
 Google Web Server
 : A proprietary web server software that Google uses for its web infrastructure. GWS is used exclusively inside Google’s ecosystem for website hosting.&nbsp;[†](#w-gws)
 

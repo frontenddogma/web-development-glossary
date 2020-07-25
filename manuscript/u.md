@@ -34,8 +34,8 @@ UI framework
 UI redressing
 : → Clickjacking
 
-UUID
-: → Universally unique identifier
+UIML
+: → User interface markup language
 
 UMD
 : → Universal Module Definition
@@ -160,6 +160,9 @@ User Experience Professionals Association
 User Interface
 : The space of interaction between humans and machines. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators’ decision-making process. Examples of this broad concept of user interfaces include the interactive aspects of computer operating systems, hand tools, heavy machinery operator controls, and process controls. The design considerations applicable when creating user interfaces are related to or involve such disciplines as ergonomics and psychology. Generally, the goal of user interface design is to produce a user interface which makes it easy, efficient, and enjoyable (user-friendly) to operate a machine in the way which produces the desired result.&nbsp;[†](#w-ui)
 
+User interface markup language
+: A markup language that renders and describes graphical user interfaces and controls. Many of these markup languages are dialects of XML and are dependent upon a pre-existing scripting language engine, usually a JavaScript engine, for rendering of controls and extra scriptability. The concept of user interface markup languages is primarily based upon the desire to prevent the “re-invention of the wheel” in the design, development, and function of a user interface; such re-invention comes in the form of coding a script for the entire user interface. The typical user interface markup language solidifies often re-used program or script code in the form of markup, making it easier to focus upon design of a user interface in an understandable dialect as opposed to focus on function. Examples for UIMLs include XUL and SVG.&nbsp;[†](#w-uiml)
+
 User story
 : An informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members.&nbsp;[†](#w-user-story)
 
@@ -187,6 +190,9 @@ UTF-32
 Utility class
 : In software development, a special case of a helper class in which the methods are all static.&nbsp;[†](#w-helper-class)
 : → Helper class
+
+UUID
+: → Universally unique identifier
 
 UX
 : → User Experience

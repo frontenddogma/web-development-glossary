@@ -349,6 +349,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio){#w-golden-ratio}
 * [Google Lighthouse](https://en.wikipedia.org/wiki/Google_Lighthouse){#w-lighthouse}
 * [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}
+* [Google TalkBack](https://en.wikipedia.org/wiki/Google_TalkBack){#w-talkback}
 * [Google Web Server](https://en.wikipedia.org/wiki/Google_Web_Server){#w-gws}
 * [Gopher (protocol)](https://en.wikipedia.org/wiki/Gopher_(protocol)){#w-gopher}
 * [Grapheme](https://en.wikipedia.org/wiki/Grapheme){#w-grapheme}
@@ -854,6 +855,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Synchronized Multimedia Integration Language](https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language){#w-smil}
 * [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
+* [Tabnabbing](https://en.wikipedia.org/wiki/Tabnabbing){#w-tabnabbing}
 * [Tag management system](https://en.wikipedia.org/wiki/Tag_management_system){#w-tms}
 * [Tag soup](https://en.wikipedia.org/wiki/Tag_soup){#w-tag-soup}
 * [tar (computing)](https://en.wikipedia.org/wiki/Tar_(computing)){#w-tar}
@@ -878,18 +880,22 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
 * [Tracing (software)](https://en.wikipedia.org/wiki/Tracing_(software)){#w-tracing}
+* [Transcreation](https://en.wikipedia.org/wiki/Transcreation){#w-transcreation}
 * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol){#w-tcp}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking){#w-tree-shaking}
 * [Trident (software)](https://en.wikipedia.org/wiki/Trident_(software)){#w-trident}
+* [TrueType](https://en.wikipedia.org/wiki/TrueType){#w-truetype}
 * [Trust on first use](https://en.wikipedia.org/wiki/Trust_on_first_use){#w-tofu}
 * [TrustRank](https://en.wikipedia.org/wiki/TrustRank){#w-trustrank}
+* [Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness){#w-turing-completeness}
 * [Type conversion](https://en.wikipedia.org/wiki/Type_conversion){#w-type-conversion}
 * [Type design](https://en.wikipedia.org/wiki/Type_design){#w-type-design}
 * [Type system](https://en.wikipedia.org/wiki/Type_system){#w-type-system}
 * [Typeface](https://en.wikipedia.org/wiki/Typeface){#w-typeface}
 * [TypeScript](https://en.wikipedia.org/wiki/TypeScript){#w-typescript}
+* [TYPO3](https://en.wikipedia.org/wiki/TYPO3){#w-typo3}
 * [Typography](https://en.wikipedia.org/wiki/Typography){#w-typography}
 * [Unicode](https://en.wikipedia.org/wiki/Unicode){#w-unicode}
 * [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
@@ -916,6 +922,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol){#w-udp}
 * [User experience](https://en.wikipedia.org/wiki/User_experience){#w-ux}
 * [User interface](https://en.wikipedia.org/wiki/User_interface){#w-ui}
+* [User interface markup language](https://en.wikipedia.org/wiki/User_interface_markup_language){#w-uiml}
 * [User story](https://en.wikipedia.org/wiki/User_story){#w-user-story}
 * [User-centered design](https://en.wikipedia.org/wiki/User-centered_design){#w-ucd}
 * [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}

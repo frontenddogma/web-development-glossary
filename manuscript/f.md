@@ -187,6 +187,9 @@ Font block period
 Font failure period
 : A part of the font display timeline that governs that if a particular font face is not loaded, the user agent treats it as a failed load causing normal font fallback.&nbsp;[‡](#m-font-display-timeline)
 
+Font subsetting
+: The using of only the glyphs and features needed from a given font.
+
 Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
