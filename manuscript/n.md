@@ -1,16 +1,13 @@
 # N
 
-.NET
-: → .NET Framework
-
-.NET Framework
-: A software framework developed by Microsoft that runs primarily on Microsoft Windows. The .NET Framework includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for the .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using the .NET Framework is called managed code. FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
-
 n-based indexing
 : The option to freely choose the base index of an array. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.&nbsp;[†](#w-array)
 
 Name binding
 : → Binding
+
+Name server
+: A network service for providing responses to queries against a directory service. It translates an often humanly meaningful, text-based identifier to a system-internal, often numeric identification or addressing component. This service is performed by the server in response to a service protocol request. An example of a name server is the server component of the Domain Name System (DNS).&nbsp;[†](#w-name-server)
 
 Namespace
 : A namespace is a set of symbols that are used to organize objects of various kinds, so that these objects may be referred to by name. A namespace ensures that all the identifiers within it have unique names so that they can be easily identified. Prominent examples include file systems; programming languages that organize their variables and subroutines in namespaces; computer networks and distributed systems that assign names to resources, such as computers, printers, websites, (remote) files, etc.; and operating systems that partition kernel resources (process IDs, users, network sockets) by isolated namespaces to support virtualization containers.&nbsp;[†](#w-namespace)
@@ -32,14 +29,20 @@ Navigator
 NDA
 : → Non-Disclosure Agreement
 
+Negative space
+: The space around and between the subject(s) of an image (or a design). Negative space may be most evident when the space around a subject, and not the subject itself, forms an interesting or artistically relevant shape, and when such space is used to artistic effect as the “real” subject of an image.&nbsp;[†](#w-negative-space)
+
 Nesting
 : The organizing of information in layers, or the containing of objects in other objects. Nesting almost always refers to self-similar or recursive structures in some sense.&nbsp;[†](#w-nesting)
 
 Net Promoter Score
 : A management tool that can be used to gauge the loyalty of a firm’s customer relationships. NPS serves as an alternative to traditional customer satisfaction research and is claimed to be correlated with revenue growth. The Net Promoter Score is calculated based on responses to a single question: “How likely is it that you would recommend our company, product, or service to a friend or colleague?”&nbsp;[†](#w-nps)
 
-Netscape 4
-: A version of Netscape Navigator memorable for web developers because of its particular support (or lack of support) of web standards.
+Netscape&nbsp;4
+: → Netscape Communicator
+
+Netscape Communicator
+: The 4.0-4.8 versions of the Netscape browser memorable for web developers because of their particular support (or lack of support) of web standards.
 
 Netscape Navigator
 : A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of Netscape and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994.&nbsp;[†](#w-netscape-navigator)
@@ -64,10 +67,13 @@ Nexus
 : → WorldWideWeb
 
 NGINX
-: A web server which can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated Nginx to serve 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
+: A web server which can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NGINX was first released in 2004 by Igor Sysoev. As of August 2019, Netcraft estimated NGINX to serve 32% of all active websites ranked, ranking it first just above Apache at 29%.&nbsp;[†](#w-nginx) ℹ︎&nbsp;[nginx.com](https://www.nginx.com/)
 
 Night Mode
 : → Dark Mode
+
+Ninety-Ninety Rule
+: A humorous aphorism attributed to Tom Cargill that states: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” This adds up to 180%, making an allusion to the notoriety of software development projects significantly over-running their schedules.&nbsp;[†](#w-ninety-ninety-rule)
 
 Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
@@ -81,6 +87,9 @@ Node.js
 
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
+
+NonVisual Desktop Access
+: A screen reader for Microsoft Windows. Work on NonVisual Desktop Access was started in 2006 by Michael Curran.&nbsp;[†](#w-nvda) ℹ︎&nbsp;[nvaccess.org](https://www.nvaccess.org/)
 
 Noob
 : → Newbie
@@ -132,5 +141,8 @@ Numerical digit
 
 Nuxt.js
 : A web application framework based on Vue.js, Node.js, Webpack, and Babel. The framework is advertised as a “meta-framework for universal applications.” The term “universal” refers to the goal of the framework to enable users to create web views in JavaScript via the familiar Vue.js single file component system. These views function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) “rehydrated” to full SPA functionality. Additionally, Nuxt.js enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.&nbsp;[†](#w-nuxtjs) ℹ︎&nbsp;[nuxtjs.org](https://nuxtjs.org/)
+
+NVDA
+: → NonVisual Desktop Access
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

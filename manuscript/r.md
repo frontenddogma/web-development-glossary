@@ -137,6 +137,9 @@ Relational Database Management System
 Relational model
 : An approach to database management using a structure and language consistent with first-order predicate logic, first described in 1969 by Edgar F. Codd, where all data is represented in terms of tuples, grouped into relations. A database organized in terms of the relational model is a relational database. The purpose of the relational model is to provide a declarative method for specifying data and queries: Users directly state what information the database contains and what information they want from it, and let the database management system software take care of describing data structures for storing the data and retrieval procedures for answering queries.&nbsp;[†](#w-relational-model)
 
+Relative sizing
+: In CSS, the using of units relative to something else, like a parent element’s font size or width.
+
 Relaunch
 : The (usually public) release of a significantly revised software product.
 
@@ -227,14 +230,23 @@ RFC
 RGB
 : → Red, Green, and Blue
 
+RIA
+: → Rich Internet Application
+
 RIB
 : → Routing Information Base
+
+Rich Internet Application
+: → Rich Web Application
 
 Rich Site Summary
 : → RDF Site Summary
 
 Rich Text Format
 : A proprietary document file format with published specification developed by Microsoft from 1987 until 2008 for cross-platform document interchange with Microsoft products. Prior to 2008, Microsoft published updated specifications for RTF with major revisions of Microsoft Word and Office versions. Most word processors are able to read and write some versions of RTF. There are several different revisions of RTF specification and portability of files depends on what version of RTF is being used.&nbsp;[†](#w-rtf)
+
+Rich Web Application
+: A web application that has many of the characteristics of desktop application software. The concept is closely related to a single-page application, and may allow the user interactive features such as drag and drop, context menus, WYSIWYG editing, etc. Prior to HTML&nbsp;5, approaches to RWAs were based on Adobe Flash, Java applets, JavaFX, or Microsoft Silverlight.&nbsp;[†](#w-rwa)
 
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
@@ -269,6 +281,9 @@ Root em
 Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
 
+Root zone
+: The top-level DNS zone in the hierarchical namespace of the Domain Name System (DNS) of the Internet. Since 2016, the root zone has been overseen by the Internet Corporation for Assigned Names and Numbers (ICANN), which delegates the management to a subsidiary acting as the Internet Assigned Numbers Authority (IANA). Distribution services are provided by Verisign.&nbsp;[†](#w-root-zone)
+
 Rooting
 : The process of allowing users of smartphones, tablets, and other devices running the Android mobile operating system to attain privileged control (known as root access) over various subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative (superuser) permissions as on Linux or any other Unix-like operating system.&nbsp;[†](#w-rooting)
 
@@ -298,7 +313,7 @@ RPM
 : → RPM Package Manager
 
 RPM Package Manager
-: Originally called Red Hat Package Manager, a free and open source package management system. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
+: A package management system originally called Red Hat Package Manager. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
 RSS
 : → RDF Site Summary
@@ -320,7 +335,7 @@ RTL
 RTT
 : → Round-Trip Time
 
-Rubber-ducking
+Rubber ducking
 : A method of debugging code. The name is a reference to a story in the book _The Pragmatic Programmer_ in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving inanimate objects.&nbsp;[†](#w-rubber-ducking)
 
 Ruby

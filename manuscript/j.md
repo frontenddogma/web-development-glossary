@@ -25,10 +25,19 @@ Java archive
 : A package file format typically used to aggregate Java class files and associated metadata and resources (text, images, etc.) into one file for distribution. JAR files are archive files that include a Java-specific manifest file. They build on the ZIP format and typically have a .jar file extension.&nbsp;[†](#w-jar)
 
 Java Database Connectivity
-: An application programming interface (API) for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+: An API for the programming language Java, which defines how a client may access a database. JDBC is part of the Java Standard Edition platform from Oracle. It provides methods to query and update data in a database, and is oriented towards relational databases. JDBC was first released in 1997.&nbsp;[†](#w-jdbc) ℹ︎&nbsp;[is.gd/CWA3VV](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+
+Java Development Kit
+: An implementation of either of the Java Platform editions released by Oracle in the form of a binary product aimed at Java developers on Linux, macOS, or Windows. The JDK includes a private JVM and other resources to complete the development of a Java application. Since the introduction of the Java platform, it has been by far the most widely used Software Development Kit (SDK).&nbsp;[†](#w-jdk) ℹ︎&nbsp;[is.gd/dZipm6](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 Java servlet
-: A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-java-servlet)
+: → Servlet
+
+Java virtual machine
+: A virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. The JVM is detailed by a specification that formally describes what is required in a JVM implementation. Having a specification ensures interoperability of Java programs across different implementations so that program authors using the Java Development Kit (JDK) need not worry about idiosyncrasies of the underlying hardware platform.&nbsp;[†](#w-jvm)
+
+JavaFX
+: A software platform for creating and delivering desktop applications, as well as rich Internet applications (RIAs) that can run across a wide variety of devices. JavaFX is intended to replace Swing as the standard GUI library for Java&nbsp;SE, but both will be included for the foreseeable future. JavaFX has support for desktop computers and web browsers on Microsoft Windows, macOS, and Linux. JavaFX was first released in 2008.&nbsp;[†](#w-javafx) ℹ︎&nbsp;[openjfx.io](https://openjfx.io/)
 
 JavaScript
 : → ECMAScript
@@ -45,6 +54,9 @@ JavaScript Object Notation
 JavaScript Object Notation for Linked Data
 : A method of encoding Linked Data using JSON. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group.&nbsp;[†](#w-json-ld) ℹ︎&nbsp;[json-ld.org](https://json-ld.org/)
 
+JavaScript Style Sheets
+: A style sheet language technology proposed in 1996 by Netscape to provide facilities for defining the presentation of web pages. JSSS was an alternative to the Cascading Style Sheets (CSS) language that was never accepted as a formal standard and never gained acceptance in the web browser market. Only Netscape Communicator 4 implemented JSSS, and soon after Netscape Communicator’s release in 1997, Netscape stopped promoting JSSS, instead focusing on the rival CSS standard.&nbsp;[†](#w-jsss)
+
 JavaScript XML
 : An extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers. React components are typically written using JSX, although they do not have to be (components may also be written in pure JavaScript).&nbsp;[†](#w-react)
 
@@ -57,11 +69,14 @@ JAWS
 JDBC
 : → Java Database Connectivity
 
+JDK
+: → Java Development Kit
+
 Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
 
 Jetty
-: A Java HTTP (Web) server and Java Servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+: A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jira
 : A proprietary issue tracking product by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
@@ -77,6 +92,9 @@ Job Access With Speech
 
 Joint Photographic Experts Group
 : A joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards.&nbsp;[†](#w-joint-photographic-experts-group) ℹ︎&nbsp;[jpeg.org](https://jpeg.org/)
+
+Joomla
+: A content management system (CMS) for publishing web content. Joomla is built on a model-view-controller web application framework that can be used independently of the CMS. It was first released in 2005.&nbsp;[†](#w-joomla) ℹ︎&nbsp;[joomla.org](https://www.joomla.org/)
 
 JPEG
 : A commonly used method of lossy compression and a file format for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality. Since its introduction in 1992, JPEG has been the most widely used image compression standard in the world, and the most widely used digital image format, with several billion JPEG images produced every day as of 2015.&nbsp;[†](#w-jpeg)
@@ -118,6 +136,12 @@ JSON-LD
 JSP
 : → JavaServer Pages
 
+JSS
+: → CSS-in-JS
+
+JSSS
+: → JavaScript Style Sheets
+
 JSX
 : → JavaScript XML
 
@@ -126,6 +150,9 @@ Just in Time
 
 Just-in-time compilation
 : A way of executing computer code that involves compilation during execution of a program—at runtime—rather than before execution. Most often, this consists of source code or more commonly bytecode translation to machine code, which is then executed directly. A system implementing a JIT compiler typically continuously analyzes the code being executed and identifies parts of the code where the speed-up gained from compilation or recompilation would outweigh the overhead of compiling that code.&nbsp;[†](#w-jit-compilation)
+
+JVM
+: → Java virtual machine
 
 JWS
 : → JSON Web Signature

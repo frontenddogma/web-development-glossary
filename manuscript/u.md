@@ -34,6 +34,9 @@ UI framework
 UI redressing
 : → Clickjacking
 
+UIML
+: → User interface markup language
+
 UMD
 : → Universal Module Definition
 
@@ -76,11 +79,20 @@ Uninitialized variable
 Unit testing
 : A software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run to ensure that a section of an application (known as the “unit”) meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure. In object-oriented programming, a unit is often an entire interface, such as a class, but could be an individual method.&nbsp;[†](#w-unit-testing)
 
+Universal Access
+: A component of the Mac OS X operating system, later called Accessibility, that provides computing abilities to people with visual impairment, hearing impairment, or physical disability.&nbsp;[†](#w-universal-access) ℹ︎&nbsp;[apple.com/accessibility/mac](https://www.apple.com/accessibility/mac/)
+
 Universal Design
 : The design of buildings, products, or environments to make them accessible to all people, regardless of age, disability or other factors. The term “universal design” was coined by the architect Ronald Mace to describe the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life. However, it was the work of Selwyn Goldsmith, author of _Designing for the Disabled_ (1963), who really pioneered the concept of free access for people with disabilities. Goldsmith’s most significant achievement was the creation of the dropped curb—now a standard feature of the built environment.&nbsp;[†](#w-universal-design)
 
 Universal Module Definition
 : A collection of patterns and scripts to help use and compatibility of different JavaScript module loaders. ℹ︎&nbsp;[github.com/umdjs/umd](https://github.com/umdjs/umd)
+
+Universal selector
+: A CSS selector (`*`, which can in certain cases be omitted) that matches any element.
+
+Universally unique identifier
+: A 128-bit number used to identify information in computer systems. The term globally unique identifier (GUID) is also used, typically in software created by Microsoft. When generated according to the standard methods, UUIDs are for practical purposes unique. Their uniqueness does not depend on a central registration authority or coordination between the parties generating them, unlike most other numbering schemes. While the probability that a UUID will be duplicated is not zero, it is close enough to zero to be negligible. Thus, anyone can create a UUID and use it to identify something with near certainty that the identifier does not duplicate one that has already been, or will be, created to identify something else.&nbsp;[†](#w-uuid)
 
 Unix/UNIX
 : A family of multi-tasking, multi-user computer operating systems that derive from the original AT&T Unix, with development starting in the 1970s at Bell Labs. Initially intended for use inside the Bell System, AT&T licensed Unix to outside parties in the late 1970s, leading to a variety of both academic and commercial Unix variants. Unix systems are characterized by a modular design that is sometimes called the Unix philosophy. Unix distinguishes itself from its predecessors as the first portable operating system: Almost the entire operating system is written in the C programming language, thus allowing Unix to reach numerous platforms.&nbsp;[†](#w-unix)
@@ -93,6 +105,9 @@ UPA
 
 URC
 : → Uniform Resource Characteristic
+
+Urchin Tracking Module
+: A set of URL parameters used by marketers to track the effectiveness of online marketing campaigns across traffic sources and publishing media. The UTM parameters were introduced by Google Analytics’ predecessor Urchin and, consequently, are supported out-of-the-box by Google Analytics. The UTM parameters include `utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, and `utm_content`.&nbsp;[†](#w-utm)
 
 URI
 : → Uniform Resource Identifier
@@ -154,6 +169,9 @@ User Experience Professionals Association
 User Interface
 : The space of interaction between humans and machines. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators’ decision-making process. Examples of this broad concept of user interfaces include the interactive aspects of computer operating systems, hand tools, heavy machinery operator controls, and process controls. The design considerations applicable when creating user interfaces are related to or involve such disciplines as ergonomics and psychology. Generally, the goal of user interface design is to produce a user interface which makes it easy, efficient, and enjoyable (user-friendly) to operate a machine in the way which produces the desired result.&nbsp;[†](#w-ui)
 
+User interface markup language
+: A markup language that renders and describes graphical user interfaces and controls. Many of these markup languages are dialects of XML and are dependent upon a pre-existing scripting language engine, usually a JavaScript engine, for rendering of controls and extra scriptability. The concept of user interface markup languages is primarily based upon the desire to prevent the “re-invention of the wheel” in the design, development, and function of a user interface; such re-invention comes in the form of coding a script for the entire user interface. The typical user interface markup language solidifies often re-used program or script code in the form of markup, making it easier to focus upon design of a user interface in an understandable dialect as opposed to focus on function. Examples for UIMLs include XAML, XUL, and SVG.&nbsp;[†](#w-uiml)
+
 User story
 : An informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members.&nbsp;[†](#w-user-story)
 
@@ -173,7 +191,7 @@ UTF-8
 : A variable-width character encoding capable of encoding all 1,112,064 valid code points in Unicode using one to four 8-bit bytes. The encoding is defined by the Unicode Standard, and was originally designed by Ken Thompson and Rob Pike. The name is derived from Unicode (or Universal Coded Character Set) Transformation Format 8-Bit. UTF-8 was designed for backward-compatibility with ASCII. Since 2009, UTF-8 has been the dominant encoding (of any kind, not just of Unicode encodings) for the World Wide Web (and declared mandatory “for all things” by WHATWG) and as of January 2020 accounts for 94.8% of all web pages (some of which are simply ASCII, as it is a subset of UTF-8) and 96% of the top 1,000 highest ranked web pages.&nbsp;[†](#w-utf-8)
 
 UTF-16
-: A character encoding capable of encoding all valid code points of Unicode. The encoding is variable-length, as code points are encoded with one or two 16-bit code units. UTF-16 arose from an earlier fixed-width 16-bit encoding known as UCS-2 (for 2-byte Universal Character Set) once it became clear that more than 216 code points were needed. UTF-16 is used internally by systems such as Windows, Java, and JavaScript. It is also often used for plain-text as well as for word-processing data files on Windows. It is rarely used for files on Unix/Linux or macOS. It never gained popularity on the Web, where UTF-8 is dominant.&nbsp;[†](#w-utf-16)
+: A character encoding capable of encoding all valid code points of Unicode. The encoding is variable-length, as code points are encoded with one or two 16-bit code units. UTF-16 arose from an earlier fixed-width 16-bit encoding known as UCS-2 (for 2-byte Universal Character Set) once it became clear that more than 216 code points were needed. UTF-16 is used internally by systems such as Microsoft Windows, Java, and JavaScript. It is also often used for plain-text as well as for word-processing data files on Windows. It is rarely used for files on Unix/Linux or macOS. It never gained popularity on the Web, where UTF-8 is dominant.&nbsp;[†](#w-utf-16)
 
 UTF-32
 : A fixed-length encoding used to encode Unicode code points that uses exactly 32 bits (4 bytes) per code point. UTF-32 is a fixed-length encoding, in contrast to all other Unicode transformation formats, which are variable-length encodings. Each 32-bit value in UTF-32 represents one Unicode code point and is exactly equal to that code point’s numerical value. The main advantage of UTF-32 is that the Unicode code points are directly indexed. Finding the nth code point in a sequence of code points is a constant time operation. In contrast, a variable-length code requires sequential access to find the nth code point in a sequence. The main disadvantage of UTF-32 is that it is space-inefficient, using 4 bytes per code point, including 11 bits that are always zero.&nbsp;[†](#w-utf-32)
@@ -181,6 +199,12 @@ UTF-32
 Utility class
 : In software development, a special case of a helper class in which the methods are all static.&nbsp;[†](#w-helper-class)
 : → Helper class
+
+UTM
+: → Urchin Tracking Module
+
+UUID
+: → Universally unique identifier
 
 UX
 : → User Experience

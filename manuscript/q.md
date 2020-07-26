@@ -1,6 +1,7 @@
 # Q
 
 QA
+: → Quality Assistance
 : → Quality Assurance
 
 QC
@@ -11,6 +12,9 @@ qooxdoo
 
 Quality
 : The non-inferiority or superiority of something, and also its being suitable for the intended purpose (fitness for purpose) while satisfying customer expectations. Quality is a perceptual, conditional, and somewhat subjective attribute and may be understood differently by different people. Consumers may focus on the specification quality of a product or service, or how it compares to competitors in the marketplace. Producers might measure the conformance quality, or degree to which the product or service was produced correctly. Support personnel may measure quality in the degree that a product is reliable, maintainable, or sustainable.&nbsp;[†](#w-quality)
+
+Quality Assistance
+: An Agile model in which not testers or other experts dedicated to software quality are responsible for testing, but the developers themselves. With the Quality Assistance approach, testers support developers with guidance and coaching.
 
 Quality Assurance
 : A way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers; which ISO 9000 defines as “part of quality management focused on providing confidence that quality requirements will be fulfilled.” This defect prevention in quality assurance differs subtly from defect detection and rejection in quality control and has been referred to as a shift left since it focuses on quality earlier in the process (i.e., to the left of a linear process diagram reading left to right).&nbsp;[†](#w-qa)

@@ -15,6 +15,12 @@ Table box
 Table formatting context
 : A formatting context which is used to lay out table elements.
 
+Tabnabbing
+: A computer exploit and phishing attack, which persuades users to submit their login details and passwords to popular websites by impersonating those sites and convincing the user that the site is genuine. The attack takes advantage of user trust and inattention to detail in regard to tabs, and the ability of browsers to navigate across a page’s origin in inactive tabs a long time after the page is loaded. The attack’s name was coined in 2010 by Aza Raskin.&nbsp;[†](#w-tabnabbing)
+
+Tabular data
+: Data that is structured into rows and columns.
+
 Tachyons
 : A presentational HTML/CSS framework. ℹ︎&nbsp;[tachyons.io](https://tachyons.io/)
 
@@ -34,6 +40,9 @@ Tagging
 
 Tailoring
 : The developing and refactoring to precise dimensions and needs.
+
+TalkBack
+: An accessibility service for Android that helped blind and visually impaired users to interact with their devices. TalkBack used spoken words, vibration, and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device. In 2017, it was replaced by Google with the Android Accessibility Suite.&nbsp;[†](#w-talkback)
 
 tar
 : A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive,” as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program.&nbsp;[†](#w-tar)
@@ -166,10 +175,13 @@ TL
 : → Technical Lead
 
 TLD
-: → Top-Level Domain
+: → Top-level domain
 
 TLS
 : → Transport Layer Security
+
+TLS Certificate Status Request extension
+: → OCSP stapling
 
 TMS
 : → Tag Management System
@@ -204,11 +216,11 @@ TOML
 Tooling
 : All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of a workflow are being supported or automated.
 
-Top-Level Domain
-: One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
-
-Top-posting
+Top posting
 : A posting style in which the reply precedes the quoted original message.&nbsp;[†](#w-posting-style)
+
+Top-level domain
+: One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
 
 Tor
 : A project, software, and network for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Router.” Tor directs Internet traffic through a free, world-wide, volunteer overlay network consisting of more than 7,000 relays to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. Tor’s intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored. Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user’s privacy, but does not hide the fact that someone is using Tor. Tor was first released in 2002.&nbsp;[†](#w-tor) ℹ︎&nbsp;[torproject.org](https://www.torproject.org/)
@@ -236,7 +248,7 @@ Tracing
 : A specialized use of logging to record information about a program’s execution. This information is typically used by programmers for debugging purposes, and additionally, depending on the type and detail of information contained in a trace log, by experienced system administrators or technical support personnel and by software monitoring tools to diagnose common problems with software. Tracing is a cross-cutting concern. There is not always a clear distinction between tracing and other forms of logging, except that the term “tracing” is almost never applied to logging that is a functional requirement of a program.&nbsp;[†](#w-tracing)
 
 Tracking
-: → Letter-spacing
+: → Letter spacing
 : → Web tracking
 
 Tracking pixel
@@ -247,6 +259,9 @@ Trade
 
 Transcompiler
 : → Transpiler
+
+Transcreation
+: A concept used in the field of translation studies to describe the process of adapting a message from one language to another, while maintaining its intent, style, tone, and context. A successfully transcreated message evokes the same emotions and carries the same implications in the target language as it does in the source language. Transcreation is related to the concept of localization, which similarly involves comprehensively adapting a translated text for the target audience. Transcreation highlights the translator’s creative role.&nbsp;[†](#w-transcreation)
 
 Transcript
 : A text version of audio contents that is provided for and used by people who are not currently able to process audio information, who are hard of hearing, or who are deaf.
@@ -269,11 +284,17 @@ Triadic colors
 Trident
 : A proprietary browser engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft. Trident was first introduced with the release of Internet Explorer version 4.0 in 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies. In the Edge browser, Trident was superseded by its fork, EdgeHTML.&nbsp;[†](#w-trident)
 
+TrueType
+: An outline font standard developed by Apple in the late 1980s as a competitor to Adobe’s Type 1 fonts used in PostScript. TrueType has become the most common format for fonts on the classic Mac OS, macOS, and Microsoft Windows operating systems. The primary strength of TrueType was originally that it offered font developers a high degree of control over precisely how their fonts are displayed, right down to particular pixels, at various font sizes.&nbsp;[†](#w-truetype)
+
 Trust on First Use
 : A security model used by client software which needs to establish a trust relationship with an unknown or not-yet-trusted endpoint. In a TOFU model, the client will try to look up the endpoint’s identifier, usually some kind of public key, in its local trust database. If no identifier exists yet for the endpoint, the client software will either prompt the user to determine if the client should trust the identifier or it will simply trust the identifier which was given and record the trust relationship into its trust database. If a different identifier is received in subsequent connections to the endpoint the client software will consider it to be untrusted. The TOFU approach can be used when connecting to arbitrary or unknown endpoints which do not have a trusted third party, such as a certificate authority.&nbsp;[†](#w-tofu)
 
 Trust Upon First Use
 : → Trust on First Use
+
+Trusted Types
+: A method to protect against cross-site scripting (XSS) attacks. Trusted Types allow to set certain policies for a browser to enforce, thereby avoiding known DOM XSS sinks. ℹ︎&nbsp;[is.gd/FjarXK](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 
 TrustRank
 : An algorithm that conducts link analysis to separate useful web pages from spam and helps search engine rank pages in SERPs (Search Engine Results Pages). It is a semi-automated process which means that it needs some human assistance in order to function properly. Search engines have many different algorithms and ranking factors that they use when measuring the quality of web pages, including TrustRank.&nbsp;[†](#w-trustrank)
@@ -283,6 +304,9 @@ TrustRank
 
 `try`…`catch`
 : A particular exception handling statement that marks a block of statements to try and specifies a response should an exception be thrown. `try` can also be accompanied by a `finally` statement.&nbsp;[‡](#m-try-catch)
+
+TTF
+: → TrueType
 
 TTFB
 : → Time to First Byte
@@ -298,6 +322,12 @@ TUFU
 
 Turbo pages
 : A website publishing technology based on feed syndication, developed by Yandex. Turbo pages were introduced in 2017. ℹ︎&nbsp;[tech.yandex.com/turbo](https://tech.yandex.com/turbo/)
+
+Turing completeness
+: A system of data-manipulation rules (such as a computer’s instruction set, a programming language, or a cellular automaton) that can be used to simulate any Turing machine. This means that this system is able to recognize or decide other data-manipulation rule sets. Turing completeness is used as a way to express the power of such a data-manipulation rule set. Virtually all programming languages today are Turing-complete. The concept is named after English mathematician and computer scientist Alan Turing.&nbsp;[†](#w-turing-completeness)
+
+Two-factor authentication
+: A type, or subset, of multi-factor authentication. Two-factor authentication is a method of confirming users’ claimed identities by using a combination of two different factors: 1) something they know, 2) something they have, or 3) something they are. An example is the withdrawing of money from an ATM; only the correct combination of a bank card (something the user possesses) and a PIN (something the user knows) allows the transaction to be carried out.&nbsp;[†](#w-mfa)
 
 Type
 : An attribute of data which tells the compiler or interpreter how the data is intended to be used. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters, and Booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e., variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)
@@ -326,7 +356,10 @@ Typeface
 TypeScript
 : A programming language developed and maintained by Microsoft. TypeScript is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client- and server-side execution (as with Node.js or Deno). The TypeScript compiler is itself written in TypeScript and compiled to JavaScript. TypeScript was first released in 2012.&nbsp;[†](#w-typescript) ℹ︎&nbsp;[typescriptlang.org](https://www.typescriptlang.org/)
 
+TYPO3
+: A web content management system written in PHP. TYPO3 can run on several web servers, such as Apache, NGINX, or IIS, on top of many operating systems, among them Linux, Microsoft Windows, FreeBSD, macOS, and OS/2. TYPO3 is, along with WordPress, Drupal, and Joomla, one of the most popular content management systems worldwide. It was first released in 1998.&nbsp;[†](#w-typo3) ℹ︎&nbsp;[typo3.org](https://typo3.org/)
+
 Typography
-: The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
+: The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line spacing (leading), and letter spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

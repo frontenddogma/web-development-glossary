@@ -21,6 +21,12 @@ Observer
 Observer pattern
 : A software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The observer pattern is mainly used to implement distributed event handling systems.&nbsp;[†](#w-observer-pattern)
 
+OCSP
+: → Online Certificate Status Protocol
+
+OCSP stapling
+: A standard for checking the revocation status of X.509 digital certificates. OCSP stapling allows the presenter of a certificate to bear the resource cost involved in providing Online Certificate Status Protocol (OCSP) responses by appending (“stapling”) a time-stamped OCSP response signed by the CA to the initial TLS handshake, eliminating the need for clients to contact the CA, with the aim of improving both security and performance.&nbsp;[†](#w-ocsp-stapling)
+
 Offline
 : Not being connected to the Internet.
 
@@ -39,8 +45,14 @@ One-based indexing
 One-Time Password
 : A password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid a number of shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartphone with an OTP app) as well as something a person knows (such as a PIN). The most important advantage that is addressed by OTPs is that, in contrast to static passwords, they are not vulnerable to replay attacks.&nbsp;[†](#w-otp)
 
+Online Certificate Status Protocol
+: An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. OCSP is described in RFC&nbsp;6960 and is on the Internet standards track. It was created as an alternative to certificate revocation lists (CRL). Some web browsers use OCSP to validate HTTPS certificates.&nbsp;[†](#w-ocsp)
+
 OOCSS
 : → Object-Oriented CSS
+
+OOM
+: → Out of memory
 
 OOP
 : → Object-Oriented Programming
@@ -51,8 +63,17 @@ Open Graph Protocol
 Open Source
 : Products that include permission to use the source code, design documents, or content of the product. Open Source most commonly refers to the open source model, in which software or other products are released under a permissive open source license. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.&nbsp;[†](#w-open-source) ℹ︎&nbsp;[opensource.org](https://opensource.org/)
 
+Open Systems Interconnection model
+: → OSI model
+
 Open Web Application Security Project
 : An online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. OWASP was founded in 2001.&nbsp;[†](#w-owasp) ℹ︎&nbsp;[owasp.org](https://www.owasp.org/)
+
+Open-Closed Principle
+: The idea that “software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification,” that is, that such an entity can allow its behavior to be extended without modifying its source code.&nbsp;[†](#w-open-closed)
+
+OpenType
+: A format for scalable computer fonts. OpenType was built on its predecessor TrueType, retaining TrueType’s basic structure and adding many intricate data structures for prescribing typographic behavior. The specification was developed at Microsoft, with Adobe Systems contributing by the time of public announcement in 1996.&nbsp;[†](#w-opentype)
 
 Opera
 : A cross-platform web browser. Opera was first released in 1995. ℹ︎&nbsp;[opera.com](https://www.opera.com/)
@@ -79,6 +100,9 @@ Orca
 Origin
 : A concept defined by the scheme (protocol), host (domain), and port of the URL used to access it. Two objects have the same origin only when the scheme, host, and port all match. Some operations are restricted to same-origin content, and this restriction can be lifted using cross-origin resource sharing (CORS).&nbsp;[‡](#m-origin)
 
+Origin trials
+: An approach to enable manageable experimentation with web platform features involving explicit developer opt-in, feature trial validation, and feedback collection. ℹ︎&nbsp;[is.gd/6gJDY4](https://github.com/GoogleChrome/OriginTrials)
+
 Orphan
 : A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. Mnemonically, an orphan is “alone at the bottom.”&nbsp;[†](#w-widows-orphans)
 
@@ -88,14 +112,20 @@ Orthogonality
 OS
 : → Operating System
 
-OSI Model
-: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI Model was first defined in 1978.&nbsp;[†](#w-osi-model)
+OSI model
+: A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers, namely the physical, data link, network, transport, session, presentation, and application layers. The OSI model was first defined in 1978.&nbsp;[†](#w-osi-model)
 
 OTA
 : → Over the Air
 
+OTF
+: → OpenType
+
 OTP
 : → One-Time Password
+
+Out of memory
+: An often undesired state of computer operation where no additional memory can be allocated for use by programs or the operating system. Such a system will be unable to load any additional programs, and since many programs may load additional data into memory during execution, these will cease to function correctly.&nbsp;[†](#w-oom)
 
 Outline
 : A CSS feature managed with special `outline` properties that allows to draw lines around elements. A CSS outline is different from a border in that it does not take up space, and that it may be non-rectangular.

@@ -1,8 +1,5 @@
 # I
 
-`!important`
-: An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
-
 I/O
 : → Input/Output
 
@@ -10,7 +7,7 @@ I18N
 : → Internationalization
 
 IA
-: → Information Architecture
+: → Information architecture
 
 IaaS
 : → Infrastructure as a Service
@@ -35,7 +32,11 @@ Icon font
 : A fonts that contains symbols and glyphs rather than letters or numbers.
 
 ID
+: → ID selector
 : → Identifier
+
+ID selector
+: A selector that matches an HTML element based on the value of the element’s `id` attribute. The selector is based on a “#” followed by the `id` attribute’s value. ID selectors have a higher specificity than attribute selectors.
 
 IDE
 : → Integrated Development Environment
@@ -45,6 +46,9 @@ Identifier
 
 IE
 : → Internet Explorer
+
+IEEE
+: → Institute of Electrical and Electronics Engineers
 
 IETF
 : → Internet Engineering Task Force
@@ -92,7 +96,7 @@ Indexed color
 : A technique to manage digital images’ colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. Indexed color is a form of vector quantization compression. When an image is encoded this way, color information is not directly carried by the image pixel data, but stored in a separate piece of data called a palette, that is, an array of color elements.&nbsp;[†](#w-indexed-color)
 
 Indexed Database
-: A JavaScript application programming interface (API) provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
+: A JavaScript API provided by web browsers for managing a NoSQL database of JSON objects. As an alternative to the web storage standard, IndexedDB can provide more storage capacity. Use cases for IndexedDB include caching web application data for offline availability.&nbsp;[†](#w-indexeddb) ℹ︎&nbsp;[w3.org/TR/IndexedDB](https://www.w3.org/TR/IndexedDB/)
 
 IndexedDB
 : → Indexed Database
@@ -104,13 +108,16 @@ Indexing
 : → Web indexing
 : → Zero-based indexing
 
+IndieWeb
+: A community of individual personal websites, connected by simple standards, based on the principles of owning your domain, using it as your primary identity, to publish on your own site (optionally syndicate elsewhere), and own your data. ℹ︎&nbsp;[indieweb.org](https://indieweb.org/)
+
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: The creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
 Infinite scrolling
 : The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if they could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
 
-Information Architecture
+Information architecture
 : The structural design of shared information environments; the art and science of organizing and labeling websites, intranets, online communities, and software to support usability and findability; and an emerging community of practice focused on bringing principles of design, architecture, and information science to the digital landscape. Typically, IA involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems and database development.&nbsp;[†](#w-ia)
 
 Information Design
@@ -157,6 +164,9 @@ Inline element
 Inline formatting context
 : A formatting context in which boxes are laid out horizontally. Horizontal padding, borders, and margins are respected.
 
+Inline linking
+: The use (embedding) of a linked object, often an image, on one website by a web page belonging to a second site. One website is said to have an inline link to the other site where the object is located.&nbsp;[†](#w-inline-linking)
+
 Inline replying
 : → Interleaved posting
 
@@ -166,6 +176,9 @@ Inline-level box
 Inline-level element
 : An element that does not form new blocks of content and whose content is distributed in lines.
 
+`innerHTML`
+: A DOM attribute that can be used to get and set the markup within respective element. Use of the property is considered bad practice because of possible security and performance issues.
+
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
@@ -174,6 +187,9 @@ Instance variable
 
 Instant Articles
 : A feature from social networking company Facebook for use with collaborating news and content publishers, that the publisher can choose to use for articles they select. When a publisher selects an article for Instant Articles, people browsing Facebook with the Facebook mobile app can see the entire article within the app, with formatting very similar to that on the publisher’s website.&nbsp;[†](#w-instant-articles) ℹ︎&nbsp;[instantarticles.fb.com](https://instantarticles.fb.com/)
+
+Institute of Electrical and Electronics Engineers
+: A professional association that was formed in 1963 from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers. The IEEE’s objectives are the educational and technical advancement of electrical and electronic engineering, telecommunications, computer engineering, and associated disciplines.&nbsp;[†](#w-ieee) ℹ︎&nbsp;[ieee.org](https://www.ieee.org/)
 
 Instrument flight
 : The deploying and releasing of untested code.
@@ -214,6 +230,9 @@ Interface
 : → Graphical User Interface
 : → User Interface
 
+Interface Segregation Principle
+: The principle that no client should be forced to depend on methods it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.&nbsp;[†](#w-interface-segregation)
+
 Interleaved posting
 : A posting style in which the different parts of the reply follow the relevant parts of the original post.&nbsp;[†](#w-posting-style)
 
@@ -233,7 +252,7 @@ Internet
 : The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices world-wide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
 
 Internet Assigned Numbers Authority
-: A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet Protocol Suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
+: A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet protocol suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
 
 Internet Corporation for Assigned Names and Numbers
 : A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network’s stable and secure operation. ICANN performs the actual technical maintenance work of central Internet address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998.&nbsp;[†](#w-icann) ℹ︎&nbsp;[icann.org](https://www.icann.org/)
@@ -242,7 +261,7 @@ Internet Engineering Task Force
 : An open standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986.&nbsp;[†](#w-ietf) ℹ︎&nbsp;[ietf.org](https://ietf.org/)
 
 Internet Explorer
-: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows&nbsp;95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows&nbsp;95 and later versions of Windows. The browser is discontinued, but still maintained.&nbsp;[†](#w-ie) ℹ︎&nbsp;[is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 
 Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995.&nbsp;[†](#w-iis) ℹ︎&nbsp;[iis.net](https://www.iis.net/)
@@ -324,6 +343,7 @@ ISOC
 : → Internet Society
 
 ISP
+: → Interface Segregation Principle
 : → Internet Service Provider
 
 ITCSS

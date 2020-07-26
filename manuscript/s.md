@@ -1,5 +1,11 @@
 # S
 
+S3
+: → Amazon S3
+
+SaaS
+: → Software as a Service
+
 Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
@@ -41,6 +47,9 @@ Scope
 Scoped styles
 : A concept to limit otherwise broad styles to a certain element and its children (as opposed to having them affect many other elements of a document as well). The corresponding `scoped` attribute was specified but not standardized in favor of other approaches like web components. Frameworks like Vue support both concept and attribute.
 
+Screen magnifier
+: Software that interfaces with a computer’s graphical output to present enlarged screen content. By enlarging part (or all) of a screen, people with visual impairments can better see words and images. This type of assistive technology is useful for people with some functional vision; people with visual impairments and little or no functional vision usually use a screen reader.&nbsp;[†](#w-screen-magnifier)
+
 Screen reader
 : A form of assistive technology that is essential to people who are blind, as well as useful to people who are visually impaired, illiterate, or have a learning disability. Screen readers are software applications that attempt to convey what people with normal eyesight see on a display to their users via non-visual means, like text-to-speech, sound icons, or a Braille device. They do this by applying a wide variety of techniques that include interacting with dedicated Accessibility APIs, using various operating system features (like inter-process communication and querying user interface properties), and employing hooking techniques.&nbsp;[†](#w-screen-reader)
 
@@ -80,6 +89,9 @@ SDK
 SDLC
 : → Software Development Life Cycle
 
+SDP
+: → Service discovery protocol
+
 SEA
 : → Search Engine Advertising
 
@@ -109,6 +121,9 @@ Section 508
 
 Sectioning content
 : Content that defines the scope of headings and footers, marked up through the `article`, `aside`, `nav`, and `section` elements. Each sectioning content element potentially has a heading and an outline.&nbsp;§
+
+Secure context
+: A `Window` or `Worker` for which certain minimum standards of authentication and confidentiality are met. Many web APIs and features are accessible only in a secure context. The primary goal of secure contexts is to prevent MITM attackers from accessing APIs that could further compromise the victim of an attack.&nbsp;[‡](#m-secure-context)
 
 Secure Shell
 : A cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote login and command execution, but any network service can be secured with SSH. SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. The protocol specification distinguishes between two major versions, referred to as SSH-1 and SSH-2. The standard TCP port for SSH is 22.&nbsp;[†](#w-ssh)
@@ -153,6 +168,9 @@ SEO
 Separation of Concerns
 : A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as “the details of the hardware for an application,” or as specific as “the name of which class to instantiate.” A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program’s design, deployment, or usage.&nbsp;[†](#w-soc)
 
+Serialization
+: The process of translating data structures or object state into a format that can be stored (for example, in a file or memory buffer) or transmitted (for example, across a network connection link) and reconstructed later (possibly in a different computer environment). When the resulting series of bits is re-read according to the serialization format, it can be used to create a semantically identical clone of the original object. This process of serializing an object is in some situations also called marshalling an object.&nbsp;[†](#w-serialization)
+
 Serif
 : A small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. A typeface or font family making use of serifs is called a serif typeface (or serifed typeface), and a typeface that does not include them is a sans-serif one. Some typography sources refer to serif typefaces as “roman,” and to sans-serif typefaces as “grotesque” (German _Grotesk_) or “gothic.”&nbsp;[†](#w-serif)
 
@@ -179,7 +197,13 @@ Server side
 : Operations on the server as opposed to the client side in a client-server relationship.&nbsp;[†](#w-server-side)
 
 Server-Side Rendering
-: A technique for rendering client-side Single-Page Applications (SPA) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
+: A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
+
+Service discovery
+: The automatic detection of devices and services offered on a computer network. Service discovery aims to reduce the configuration efforts from users.&nbsp;[†](#w-service-discovery)
+
+Service discovery protocol
+: A network protocol that helps accomplish service discovery. Examples for SDPs include the Bluetooth Service Discovery Protocol (SDP), DNS Service Discovery (DNS-SD), and the Dynamic Host Configuration Protocol (DHCP).&nbsp;[†](#w-service-discovery)
 
 Service Level Agreement
 : A commitment between a service provider and a client. Particular aspects of the service—quality, availability, responsibilities—are agreed between the service provider and the service user. The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract. As an example, Internet service providers and telcos will commonly include service level agreements within the terms of their contracts with customers to define the level(s) of service being sold in plain language terms. In this case the SLA will typically have a technical definition in mean time between failures (MTBF), mean time to repair or mean time to recovery (MTTR); identifying which party is responsible for reporting faults or paying fees; responsibility for various data rates; throughput; jitter; or similar measurable details.&nbsp;[†](#w-sla)
@@ -189,6 +213,21 @@ Service Level Expectation
 
 Service worker
 : A JavaScript file that operates as a type of web worker. Service workers work separately from the main browser thread to handle push notifications, synchronize data in the background, cache or retrieve resource requests, intercept network requests, and receive centralized updates. Service workers are used in an attempt to give progressive web apps the ability to provide the high performance and rich experience of native mobile apps, with the low storage space, real-time updates, and improved search engine visibility of traditional web apps. Service workers go through a three-step lifecycle of registration, installation, and activation.&nbsp;[†](#w-pwa)
+
+Service-oriented architecture
+: A style of software design where services are provided to the other components by application components, through a communication protocol over a network. A SOA service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently, such as retrieving a credit card statement online. SOA is also intended to be independent of vendors, products, and technologies. A service has four properties according to one of many definitions of SOA: 1) It logically represents a business activity with a specified outcome; 2) it is self-contained; 3) it is a black box for its consumers, meaning the consumer does not have to be aware of the service’s inner workings; and 4) it may consist of other underlying services.&nbsp;[†](#w-soa)
+
+Servlet
+: A Java software component that extends the capabilities of a server. Although servlets can respond to many types of requests, they most commonly implement web containers for hosting web applications on web servers and thus qualify as a server-side servlet web API.&nbsp;[†](#w-servlet)
+
+Session
+: A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)
+
+Session hijacking
+: The exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system. In particular, session hijacking is used to refer to the theft of a cookie used to authenticate a user to a remote server. It has particular relevance to web developers, as the HTTP cookies used to maintain a session on many websites can be easily stolen by an attacker using an intermediary computer or with access to the saved cookies on the victim’s computer. After successfully stealing appropriate session cookies, an adversary might use the Pass the Cookie technique to hijack the session.&nbsp;[†](#w-session-hijacking)
+
+Session storage
+: Web storage that is both per-origin and per-instance (per-window or per-tab) and that is limited to the lifetime of the instance. Session storage is intended to allow separate instances of the same web app to run in different windows without interfering with each other, a use case that’s not well supported by cookies.&nbsp;[†](#w-web-storage)
 
 Set
 : An abstract data type that can store unique values, without any particular order. A set is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.&nbsp;[†](#w-set)
@@ -238,6 +277,9 @@ Signed HTTP Exchanges
 Silk
 : A web browser for Fire OS. Silk was released in 2011 by Amazon. ℹ︎&nbsp;[amazon.com/dp/B01M35MQV4](https://www.amazon.com/dp/B01M35MQV4)
 
+Silverlight
+: A deprecated application framework for writing and running rich Internet applications, similar to Adobe Flash. Silverlight was released in 2007.&nbsp;[†](#w-silverlight) ℹ︎&nbsp;[microsoft.com/silverlight](https://www.microsoft.com/silverlight/)
+
 Simple Mail Transfer Protocol
 : A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail, and Yahoo Mail may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol (TCP) on port number 25.&nbsp;[†](#w-smtp)
 
@@ -264,6 +306,9 @@ Sketch
 
 Skin
 : → Theme
+
+Skip navigation
+: An accessibility technique that consists of placing one or more visually hidden hyperlinks at the beginning of a document to allow users of assistive technology to directly access main or other content sections, thereby bypassing (“skipping”) navigation blocks.
 
 SLA
 : → Service Level Agreement
@@ -316,6 +361,9 @@ Snake case
 Snap position
 : A point that a scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
 
+SOA
+: → Service-oriented architecture
+
 SOAP
 : → Simple Object Access Protocol
 
@@ -334,6 +382,9 @@ Soft opening
 Software
 : A collection of instructions and data that tell a computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work. In computer science and software engineering, computer software is all information processed by computer systems, programs, and data. Computer software includes computer programs, libraries, and related non-executable data, such as online documentation or digital media. Computer hardware and software require each other and neither can be realistically used on its own.&nbsp;[†](#w-software)
 
+Software as a Service
+: A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is sometimes referred to as “on-demand software,” and was formerly referred to as “software plus services” by Microsoft. SaaS applications are also known as web-based software, on-demand software, and hosted software. The term “Software as a Service” (SaaS) is considered to be part of the nomenclature of cloud computing, along with Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Desktop as a Service (DaaS), Managed Software as a Service (MSaaS), Mobile Backend as a Service (MBaaS), Data Center as a Service (DCaaS), and Information Technology Management as a Service (ITMaaS). SaaS apps are typically accessed by users using a thin client, e.g., via a web browser.&nbsp;[†](#w-saas)
+
 Software crisis
 : A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany.&nbsp;[†](#w-software-crisis)
 
@@ -349,11 +400,17 @@ Software Development Life Cycle
 Software framework
 : An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications and is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate the development of software applications, products, and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable the development of a project or system.&nbsp;[†](#w-software-framework)
 
+Software modernization
+: The converting, rewriting, or porting of a legacy system to a modern computer programming language, software libraries, protocols, or hardware platform. This transformation aims to retain and extend the value of the legacy investment.&nbsp;[†](#w-software-modernization)
+
 Software stack
 : → Solution stack
 
 Software testing
 : → Testing
+
+SOLID
+: A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. SOLID refers to 1) the Single Responsibility Principle, 2) the Open-Closed Principle, 3) the Liskov Substitution Principle, 4) the Interface Segregation Principle, and 5) the Dependency Inversion Principle. SOLID represents a subset of many principles promoted by Robert C. Martin.&nbsp;[†](#w-solid)
 
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
@@ -402,6 +459,9 @@ Speed Index
 
 Spider
 : → Crawler
+
+Spike
+: A product-testing method originating from Extreme Programming that is used to determine how much work will be required to solve or work around a software issue. Typically, a “spike test” involves gathering additional information or testing for easily reproduced edge cases.&nbsp;[†](#w-spike)
 
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
@@ -457,6 +517,12 @@ Stack Overflow
 Stacking context
 : A three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the user, who is assumed to be facing the viewport or web page. For CSS, each box belongs to one stacking context. The `z-index` property establishes whether a box establishes a stacking context, and the level of a box in its stacking context.&nbsp;[‡](#m-stacking-context)
 
+Staging
+: → Staging environment
+
+Staging environment
+: A deployment environment that reflects the production environment.
+
 Stand-up
 : A meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. Stand-ups are sometimes confused with Daily Scrums.&nbsp;[†](#w-stand-up)
 
@@ -473,7 +539,7 @@ Standards mode
 : → Strict mode
 
 Star
-: A UI pattern for the (visual) marking of a favorite, like a location (Google Maps), or an open source project (GitHub).
+: A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).
 
 Star hack
 : A once-popular CSS hack allowing to apply declarations only to Internet Explorer 7 and below. The hack consisted of adding an asterisk (`*`) right in front of the property of a declaration so to apply it in IE, while a declaration using the same—but “unprefixed”—property held for other browsers. The star hack is one of a class of similar hacks for Internet Explorer, as other characters, like an underscore (`_`), would have the same effect and would be used as well (underscore hack). ℹ︎&nbsp;[browserhacks.com/#ie](http://browserhacks.com/#ie)
@@ -486,6 +552,9 @@ Start tag
 
 State
 : The “remembering” of preceding events or user interactions, where the remembered information is called the state of the system. The set of states a system can occupy is known as its state space. In a discrete system, the state space is countable and often finite. The system’s internal behavior or interaction with its environment consists of separately occurring individual actions or events, such as accepting input or producing output, that may or may not cause the system to change its state. Examples of such systems are digital logic circuits and components, automata and formal language, computer programs, and computers.&nbsp;[†](#w-state)
+
+Statement
+: A syntactic unit of an imperative programming language that expresses some action to be carried out. A program written in such a language is formed by a sequence of one or more statements. A statement may have internal components (e.g., expressions).&nbsp;[†](#w-statement)
 
 Static
 : A type of web page that is delivered to the user’s web browser exactly as stored, in contrast to dynamic web pages which are generated by a web application. Consequently, a static web page displays the same information for all users, from all contexts, subject to modern capabilities of a web server to negotiate content type or language of the document where such versions are available and the server is configured to do so.&nbsp;[†](#w-static)
@@ -527,8 +596,11 @@ Style guide
 Style sheet
 : A file or code snippet containing styling instructions. A style sheet represents a form of separation of presentation and content for web design in which the markup of a web page (usually HTML) contains the page’s semantic content and structure, but does not define its visual layout (styling). Instead, that styling is defined in an external style sheet file using a style sheet language such as CSS or XSLT. This design approach is identified as a “separation” because it largely supersedes the antecedent methodology in which a page’s markup defined both style and structure.&nbsp;[†](#w-style-sheet)
 
+Styled component
+: A case of CSS-in-JS in which CSS code is embedded (and scoped) within JavaScript components via tagged template literals. ℹ︎&nbsp;[styled-components.com](https://styled-components.com/)
+
 stylelint
-: A CSS linter. ℹ︎&nbsp;[stylelint.io](https://stylelint.io/)
+: A CSS linter with support for CSS-like syntaxes like SCSS, Sass, Less and SugarSS, and capable of automatically fixing issues. ℹ︎&nbsp;[stylelint.io](https://stylelint.io/)
 
 Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
@@ -544,6 +616,9 @@ Subnavigation
 
 Subroutine
 : → Routine
+
+Subsetting
+: → Font subsetting
 
 Subversion
 : A software versioning and version control system. Software developers use Subversion to maintain current and historical versions of files such as source code and documentation. The goal of Subversion is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Subversion was created in 2000 by CollabNet, and is now a top-level Apache project being built and used by a global community of contributors.&nbsp;[†](#w-subversion) ℹ︎&nbsp;[subversion.apache.org](https://subversion.apache.org/)

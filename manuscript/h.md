@@ -1,11 +1,5 @@
 # H
 
-.htaccess
-: A directory-level configuration file supported by several web servers, used for the configuration of website access issues, such as URL redirection, URL shortening, access control, and more. A site could have more than one .htaccess file, and the files are placed inside the web tree (i.e., inside directories and their subdirectories). .htaccess files act as a subset of the server’s global configuration file (like httpd.conf) for the directory that they are in, or all subdirectories. The original purpose of .htaccess—reflected in its name—was to allow per-directory access control by, for example, requiring a password to access web content. More commonly, however, the .htaccess files define or override many other configuration settings such as content type, character set, CGI handlers, etc.&nbsp;[†](#w-htaccess)
-
-.htpasswd
-: A flat file used to store usernames and password for basic authentication on an Apache HTTP Server. The name of the file is given in the .htaccess configuration, and can be anything although “.htpasswd” is the canonical name. .htpasswd is often maintained with the shell command “htpasswd” which can add, delete, and update users, and will properly encode the password for use (so that it is easily checked, but not reversed back to the original password). The file consists of rows, each row corresponding to a username, followed by a colon, followed by a string containing the hashed password optionally prepended by an algorithm specifier (`$2y$`, `$apr1$`, or `{SHA}`) or salt. The hash historically used “Unix crypt” style with MD5 or SHA1 as common alternatives, although as of version 2.2.18 a variant of MD5 is now the default.&nbsp;[†](#w-htpasswd)
-
 Hackathon
 : A Sprint-like event, and often one in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects. The goal of a hackathon is to create functioning software or hardware by the end of the event.&nbsp;[†](#w-hackathon)
 
@@ -130,6 +124,12 @@ Hop limit
 Host
 : A computer or other device connected to a computer network. A host may work as a server offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one network address. Network hosts that participate in applications that use the client-server model of computing are classified as server or client systems. Network hosts may also function as nodes in peer-to-peer applications, in which all nodes share and consume resources in an equipotent manner.&nbsp;[†](#w-host)
 
+Hostname
+: A label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication, such as the World Wide Web. Hostnames may be simple names consisting of a single word or phrase, or they may be structured. Internet hostnames may have appended the name of a Domain Name System (DNS) domain, separated from the host-specific label by a period (“dot”). In the latter form, a hostname is also called a domain name. If the domain name is completely specified, including a top-level domain of the Internet, then the hostname is said to be a fully qualified domain name (FQDN).&nbsp;[†](#w-hostname)
+
+Hot linking
+: → Inline linking
+
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
 
@@ -202,8 +202,14 @@ Hue, Saturation, Value
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 
+Hungarian notation
+: An identifier naming convention in computer programming, in which the name of a variable or function indicates its intention or kind, and in some dialects its type (like “bBusy”, “cApples”, or “rgStudents”). The original Hungarian notation uses intention or kind in its naming convention and is sometimes called “Apps Hungarian” as it became popular in the Microsoft Apps division in the development of Word, Excel, and other apps.&nbsp;[†](#w-hungarian-notation)
+
 Hydration
 : Client-side DOM extension and manipulation of server-rendered static HTML.
+
+Hype cycle
+: A branded graphical presentation developed and used by the research, advisory, and information technology firm Gartner to represent the maturity, adoption, and social application of specific technologies. The hype cycle claims to provide a graphical and conceptual presentation of the maturity of emerging technologies through five phases (Technology Trigger, Peak of Inflated Expectations, Trough of Disillusionment, Slope of Enlightenment, and Plateau of Productivity).&nbsp;[†](#w-hype-cycle)
 
 Hyperlink
 : → Link

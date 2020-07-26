@@ -9,6 +9,9 @@ WAF
 WAI
 : → Web Accessibility Initiative
 
+WAI-ARIA
+: → ARIA
+
 WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
 
@@ -103,13 +106,16 @@ Web Graphics Library
 : A JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plugins. WebGL is fully integrated with other web standards, allowing GPU-accelerated usage of physics and image processing and effects as part of the web page canvas. WebGL elements can be mixed with other HTML elements and composited with other parts of a page or page background.&nbsp;[†](#w-webgl) ℹ︎&nbsp;[khronos.org/webgl](https://www.khronos.org/webgl/)
 
 Web Hypertext Application Technology Working Group
-: A community of people interested in evolving HTML and related technologies. The WHATWG was founded by individuals from Apple, the Mozilla Foundation, and Opera, leading web browser vendors, in 2004. Google subsequently joined the WHATWG with the move of the then-editor of the WHATWG specifications, Ian Hickson, from Opera to Google. The central organizational membership and control of WHATWG today—its “Steering Group”—consists of Apple, Mozilla, Google, and Microsoft. WHATWG has a small, invitation-only oversight committee called “Members,” which has the power to impeach the editor of the specifications.&nbsp;[†](#w-whatwg) ℹ︎&nbsp;[whatwg.org](https://whatwg.org/)
+: A community of people interested in evolving HTML and related technologies. The WHATWG was founded by individuals from Apple, the Mozilla Foundation, and Opera, leading web browser vendors, in 2004. Google subsequently joined the WHATWG with the move of the then-editor of the WHATWG specifications, Ian Hickson, from Opera to Google. The central organizational membership and control of WHATWG today—its “Steering Group”—consists of Apple, Mozilla, Google, and Microsoft. WHATWG has a small, invitation-only oversight committee, “Members,” which has the power to impeach the editor of the specifications.&nbsp;[†](#w-whatwg) ℹ︎&nbsp;[whatwg.org](https://whatwg.org/)
 
 Web IDL
-: An interface description language (IDL) format for describing application programming interfaces (APIs) that are intended to be implemented in web browsers. Web IDL is an IDL variant with a number of features that allow to more easily describe the behavior of common script objects in a web context, and a mapping of how interfaces described with Web IDL correspond to language constructs within an ECMAScript execution environment.&nbsp;[†](#w-web-idl)
+: An interface description language (IDL) format for describing application programming interfaces (APIs) that are intended to be implemented in web browsers. Web IDL is an IDL variant with a number of features that allow to more easily describe the behavior of common script objects in a web context, and a mapping of how interfaces described with Web IDL correspond to language constructs within an ECMAScript execution environment.&nbsp;[†](#w-web-idl) ℹ︎&nbsp;[w3.org/TR/WebIDL](https://www.w3.org/TR/WebIDL/)
 
 Web indexing
 : The indexing of contents of a website or of the Internet—the Surface Web—as a whole. Individual websites or intranets may use a back-of-the-book index, while search engines usually use keywords and metadata to provide a more useful vocabulary for Internet or on-site searching.&nbsp;[†](#w-web-indexing)
+
+Web Open Font Format
+: A font format for use in web pages. WOFF files are OpenType or TrueType fonts, with additional XML metadata added and format-specific compression applied. The two primary goals are to first distinguish font files intended for use as web fonts from fonts files intended for use in desktop applications via local installation, and second to reduce web font latency when fonts are transferred from a server to a client over a network connection. The first draft of WOFF&nbsp;1 was published in 2009.&nbsp;[†](#w-woff) ℹ︎&nbsp;[w3.org/TR/WOFF2](https://www.w3.org/TR/WOFF2/)
 
 Web Packaging
 : A set of draft standards for packaging websites, developed by Google. Web Packaging focuses on bundling website resources with provisions for authentication and offline sharing. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
@@ -151,6 +157,9 @@ Web tracking
 Web typography
 : The use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual web pages to control font display until Netscape introduced the `font` element in 1995, which was then standardized in HTML&nbsp;3.2. However, the font specified had to be installed on the user’s computer or a fallback font, such as a browser’s default sans-serif or monospace font, would be used. The CSS&nbsp;2 specification attempted to improve the font selection process by adding font matching, synthesis, and download. These techniques did not gain much use, and were removed in CSS&nbsp;2.1. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997, which was later included in the CSS&nbsp;3 fonts module, and has since been implemented in Safari&nbsp;3.1, Opera&nbsp;10, and Firefox 3.5. This has subsequently increased interest in web typography, as well as the usage of web fonts.&nbsp;[†](#w-web-typography)
 
+Web Vitals
+: A set of metrics suggested important for a great user experience on the Web. The Web Vitals initiative was started in 2020 by Google. The “Core Web Vitals” include Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). ℹ︎&nbsp;[web.dev/vitals](https://web.dev/vitals/)
+
 Web worker
 : A JavaScript script executed from an HTML page that runs in the background, independently of scripts that may also have been executed from the same HTML page. The World Wide Web Consortium (W3C) and the WHATWG envision web workers as long-running scripts that are not interrupted by scripts that respond to clicks or other user interactions. Keeping such workers from being interrupted by user activities allows web pages to remain responsive at the same time as they are running long tasks in the background.&nbsp;[†](#w-web-worker) ℹ︎&nbsp;[is.gd/A546Cx](https://html.spec.whatwg.org/multipage/workers.html)
 
@@ -164,7 +173,7 @@ WebGL
 : → Web Graphics Library
 
 WebKit
-: A browser engine developed by Apple and primarily used in its Safari web browser, as well as all the iOS web browsers. WebKit’s C++ application programming interface (API) provides a set of classes to display web content. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others. WebKit was first released in 1998.&nbsp;[†](#w-webkit) ℹ︎&nbsp;[webkit.org](https://webkit.org/)
+: A browser engine developed by Apple and primarily used in its Safari web browser, as well as all the iOS web browsers. WebKit’s C++ API provides a set of classes to display web content. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others. WebKit was first released in 1998.&nbsp;[†](#w-webkit) ℹ︎&nbsp;[webkit.org](https://webkit.org/)
 
 Webkrauts
 : A coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎&nbsp;[webkrauts.de](http://webkrauts.de/)
@@ -174,6 +183,12 @@ Weblog
 
 WebM
 : An audiovisual media file format. WebM is primarily intended to offer a royalty-free alternative to use in the HTML video and audio elements. It has a sister project WebP for images. WebM was first released in 2010.&nbsp;[†](#w-webm) ℹ︎&nbsp;[webmproject.org](https://www.webmproject.org/)
+
+Webmaster
+: A person responsible for maintaining one or more websites. The title may refer to web architects, web developers, site authors, website administrators, website owners, website coordinators, or website publishers.&nbsp;[†](#w-webmaster)
+
+Webmention
+: A W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
 
 WebP
 : An image format employing both lossy and lossless compression. WebP was first released in 2010.&nbsp;[†](#w-webp) ℹ︎&nbsp;[developers.google.com/speed/webp](https://developers.google.com/speed/webp)
@@ -232,14 +247,17 @@ WHOIS
 Widow
 : A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.”&nbsp;[†](#w-widows-orphans)
 
+Wiki
+: A hypertext publication collaboratively edited and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its internal knowledge base.&nbsp;[†](#w-wiki)
+
 Window-Eyes
 : A screen reader for the Microsoft Windows operating system, developed by GW Micro. Window-Eyes was first released in 1995.&nbsp;[†](#w-window-eyes)
 
 Windows
-: A group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g., Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows 9x, Windows Mobile, and Windows Phone. Microsoft introduced an operating environment named Windows in 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).&nbsp;[†](#w-windows) ℹ︎&nbsp;[microsoft.com/windows](https://www.microsoft.com/windows)
+: A group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g., Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows&nbsp;9x, Windows Mobile, and Windows Phone. Microsoft introduced an operating environment named Windows in 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).&nbsp;[†](#w-windows) ℹ︎&nbsp;[microsoft.com/windows](https://www.microsoft.com/windows)
 
 Windows Aero
-: A design language introduced in the Windows Vista operating system. “Aero” is a backronym for “Authentic, Energetic, Reflective, and Open.” Windows Aero was in force during the development of Windows Vista and Windows 7. In 2012, with the development of Windows 8 and Windows Server 2012, Microsoft moved on to a design language codenamed “Metro.”&nbsp;[†](#w-windows-aero)
+: A design language introduced in the Windows Vista operating system. “Aero” is a backronym for “Authentic, Energetic, Reflective, and Open.” Windows Aero was in force during the development of Windows Vista and Windows&nbsp;7. In 2012, with the development of Windows&nbsp;8 and Windows Server 2012, Microsoft moved on to a design language codenamed “Metro.”&nbsp;[†](#w-windows-aero)
 
 Windows, Apache, MySQL, PHP/Perl/Python
 : The equivalent of the LAMP or MAMP solution stack but with the Windows operating system.
@@ -262,11 +280,14 @@ WML
 Wobbly Transformation Format 8-Bit
 : An extension of UTF-8 where the encodings of unpaired surrogate halves (`U+D800` through `U+DFFF`) are allowed. This is necessary to store possibly-invalid UTF-16, such as Windows filenames. Many systems that deal with UTF-8 work this way without considering it a different encoding, as it is simpler.&nbsp;[†](#w-utf-8)
 
+WOFF
+: → Web Open Font Format
+
 WORA
 : → Write Once, Run Anywhere
 
 WordPress
-: A free and open source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
+: A content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
 
 WordPress Theme
 : A collection of templates and style sheets for customization of a site built with WordPress.
@@ -276,6 +297,9 @@ Work in Progress
 
 Workaround
 : A bypass of a recognized problem or limitation in a system or policy. A workaround is typically a temporary fix that implies that a genuine solution to the problem is needed. Workarounds are frequently as creative as true solutions, involving outside the box thinking in their creation. Typically they are considered brittle in that they will not respond well to further pressure from a system beyond the original design. In implementing a workaround it is important to flag the change so as to later implement a proper solution. A “workaround” can also be a euphemism for a “hack.”&nbsp;[†](#w-workaround)
+
+Workbox
+: A Google-maintained set of libraries and Node modules to assist the building of progressive web apps (PWAs). Workbox was first released in 2017. ℹ︎&nbsp;[is.gd/GFKM3p](https://developers.google.com/web/tools/workbox)
 
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)

@@ -13,6 +13,9 @@ Backend
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
+Backward compatibility
+: A property of a product, system, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Modifying a system in a way that does not allow backward compatibility is sometimes called breaking backward compatibility.&nbsp;[†](#w-backward-compatibility)
+
 Bad Neighborhood
 : Bad quality websites, or websites that are being penalized and downgraded by search engines. In SEO, links to and from bad neighborhood websites are recommended to be avoided.
 
@@ -82,6 +85,9 @@ Big O notation
 Binary chop
 : → Binary search algorithm
 
+Binary large object
+: A collection of binary data stored as a single entity. Blobs are typically images, audio, or other multimedia objects, though sometimes binary executable code is stored as a blob.&nbsp;[†](#w-blob)
+
 Binary number
 : A number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically “0” (zero) and “1” (one).&nbsp;[†](#w-binary-number)
 
@@ -112,6 +118,10 @@ Blink
 
 Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
+
+Blob
+: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that isn’t necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
+: → Binary large object
 
 Block
 : In CSS, a section enclosed by an opening (`{`) and a closing curly brace (`}`).
@@ -183,7 +193,7 @@ Bootstrap
 Border
 : Per the CSS box model, any kind of line (solid, dotted, dashed, etc.) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
 
-Bottom-posting
+Bottom posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
 Bounce rate
@@ -241,6 +251,9 @@ Breakpoint
 : In software development, an intentional stopping or pausing place in a program, put in place for debugging purposes. A breakpoint is sometimes also referred to as a pause.&nbsp;[†](#w-breakpoint)
 : In web development, any point at which a media query is introduced and the layout changed.&nbsp;[‡](#m-breakpoint)
 
+Brewer’s Theorem
+: → CAP Theorem
+
 Broken link
 : A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.
 
@@ -263,7 +276,7 @@ Browser extension
 : A small software module for customizing a web browser. Browsers typically allow a variety of extensions, including user interface modifications, ad blocking, and cookie management. Browser plugins are a separate type of module. The main difference is that extensions are usually just source code, but plugins are always executables (i.e., object code). As of 2019, plugins have been deprecated by most browsers, while extensions are widely used.&nbsp;[†](#w-browser-extension)
 
 Browser Helper Object
-: A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of Internet Explorer 4. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows 10, through Internet Explorer 11, while BHOs are not supported in Edge.&nbsp;[†](#w-bho)
+: A DLL module designed as a plugin for Microsoft’s Internet Explorer web browser to provide added functionality. BHOs were introduced in 1997 with the release of Internet Explorer 4. Most BHOs are loaded once by each new instance of Internet Explorer. BHOs are still supported as of Windows&nbsp;10, through Internet Explorer 11, while BHOs are not supported in Edge.&nbsp;[†](#w-bho)
 
 Browser sniffing
 : A set of techniques used in websites and web applications in order to determine the web browser a visitor is using, and to serve browser-appropriate content to the visitor. This practice is sometimes used to circumvent incompatibilities between browsers due to misinterpretation of HTML, Cascading Style Sheets (CSS), or the Document Object Model (DOM). While the World Wide Web Consortium (W3C) maintains up-to-date central versions of some of the most important Web standards in the form of recommendations, in practice no vendor has developed a browser which adheres exactly to these standards. As a result, different browsers may display the same page differently, and browser sniffing was developed to detect the web browser in order to help ensure consistent display of content.&nbsp;[†](#w-browser-sniffing)

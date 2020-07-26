@@ -6,6 +6,9 @@ E-commerce
 E2E
 : → End-to-end (testing)
 
+EAT
+: → Expertise, Authoritativeness, Trustworthiness
+
 EBCDIC
 : → Extended Binary Coded Decimal Interchange Code
 
@@ -28,7 +31,7 @@ ECT
 : → Effective Connection Type
 
 Edge
-: A cross-platform web browser. Edge was released by Microsoft, first for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
+: A cross-platform web browser. Edge was released by Microsoft, first for Windows&nbsp;10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
 
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. An editor may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are a fundamental programming tool.&nbsp;[†](#w-editor)
@@ -40,7 +43,7 @@ EFF
 : → Electronic Frontier Foundation
 
 Effective Connection Type
-: The measured network performance, returning a cellular connection type, like 3G, even if the actual connection is tethered broadband or WiFi, based on the time between the browser requesting a page and effective type of the connection. ECT’s values of `slow-2g`, `2g`, `3g`, and `4g` are determined using observed round-trip times and downlink values.&nbsp;[‡](#m-ect) ℹ︎&nbsp;[wicg.github.io/netinfo](https://wicg.github.io/netinfo/)
+: The measured network performance, returning a cellular connection type, like 3G, even if the actual connection is tethered broadband or Wi-Fi, based on the time between the browser requesting a page and effective type of the connection. ECT’s values of `slow-2g`, `2g`, `3g`, and `4g` are determined using observed round-trip times and downlink values.&nbsp;[‡](#m-ect) ℹ︎&nbsp;[wicg.github.io/netinfo](https://wicg.github.io/netinfo/)
 
 Effectiveness
 : The capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression. Not to be confused with efficiency.&nbsp;[†](#w-effectiveness)
@@ -74,6 +77,9 @@ Email address
 
 Embedded content
 : Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, MathML `math`, `object`, `picture`, SVG `svg`, and `video` elements.&nbsp;§
+
+Embedded style sheet
+: A style sheet embedded via the `style` element.
 
 EME
 : → Encrypted Media Extensions
@@ -118,6 +124,9 @@ Entity reference
 : → Character entity reference
 : → Numeric character reference
 
+Environment variable
+: A dynamic-named value that can affect the way running processes will behave on a computer. Environment variables are part of the environment in which a process runs. For example, a running process can query the value of the `TEMP` environment variable to discover a suitable location to store temporary files, or the `HOME` or `USERPROFILE` variable to find the directory structure owned by the user running the process. Environment variables were introduced in their modern form in 1979 with Version 7 Unix.&nbsp;[†](#w-env-variable)
+
 EOF
 : → End of file
 
@@ -137,7 +146,7 @@ ES
 : → ECMAScript
 
 Ethics
-: A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
+: A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; and 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
 
 Etiquette
 : The set of conventional rules of personal behavior in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
@@ -150,6 +159,9 @@ Event
 
 Event handler
 : A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
+
+Event-driven architecture
+: A software architecture paradigm promoting the production, detection, consumption of, and reaction to events. This architectural pattern may be applied by the design and implementation of applications and systems that transmit events among loosely coupled software components and services. An event-driven system typically consists of event emitters (or agents), event consumers (or sinks), and event channels. Building systems around an event-driven architecture simplifies horizontal scalability in distributed computing models and makes them more resilient to failure.&nbsp;[†](#w-eda)
 
 Evidence-Based Management
 : An empirical framework that documents means by which value can be delivered to customers, measures the value delivered, and uses those measures to guide improvements. ℹ︎&nbsp;[is.gd/yeRUyR](https://www.scrum.org/resources/evidence-based-management)
@@ -169,11 +181,17 @@ Exit code
 Exit status
 : A small number passed from a child process (or callee) to a parent process (or caller) when it has finished executing a specific procedure or delegated task.&nbsp;[†](#w-exit-status)
 
+Expertise, Authoritativeness, Trustworthiness
+: A concept from Google’s _Search Quality Evaluator Guidelines_ to help assess the quality of websites and apps.
+
 Express
 : A web application framework for Node.js. Express is designed for building web applications and APIs. It has been called the _de facto_ standard server framework for Node.js. Express was first released in 2010.&nbsp;[†](#w-express) ℹ︎&nbsp;[expressjs.com](https://expressjs.com/)
 
 Extended Binary Coded Decimal Interchange Code
 : An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. EBCDIC descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM’s computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
+
+Extensible Application Markup Language
+: A declarative XML-based language developed by Microsoft that is used for initializing structured values and objects. The acronym “XAML” originally stood for “Extensible Avalon Markup Language,” “Avalon” being the codename for Windows Presentation Foundation (WPF). XAML was first released in 2008.&nbsp;[†](#w-xaml) ℹ︎&nbsp;[is.gd/K0EzBE](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/xaml-in-wpf)
 
 Extensible HyperText Markup Language
 : A part of the family of XML markup languages. XHTML mirrors or extends versions of the widely used HyperText Markup Language (HTML), the language in which web pages are formulated. While HTML, prior to HTML&nbsp;5, was defined as an application of Standard Generalized Markup Language (SGML), a flexible markup language framework, XHTML is an application of XML, a more restrictive subset of SGML. XHTML documents are well-formed and may therefore be parsed using standard XML parsers, unlike HTML, which requires a lenient HTML-specific parser.&nbsp;[†](#w-xhtml) ℹ︎&nbsp;[w3.org/TR/xhtml11](https://www.w3.org/TR/xhtml11/)
@@ -192,5 +210,8 @@ External
 
 Extreme Programming
 : A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent releases in short development cycles, which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. Other elements of Extreme Programming include programming in pairs or doing extensive code reviews, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer’s requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)
+
+Eye tracking
+: The process of measuring either the point of gaze (where one is looking) or the motion of an eye relative to the head. An eye tracker is a device for measuring eye positions and eye movement. Eye trackers are used in research on the visual system, in psychology, in psycholinguistics, marketing, as an input device for human-computer interaction, and in product design.&nbsp;[†](#w-eye-tracking)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

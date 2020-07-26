@@ -1,5 +1,8 @@
 # M
 
+MAC address
+: A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
+
 Mac OS
 : → macOS
 
@@ -10,10 +13,13 @@ macOS
 : A series of proprietary graphical operating systems developed and marketed by Apple since 2001. macOS is the primary operating system for Apple’s Mac computers. Within the market of desktop, laptop, and home computers, and by web usage, it is the second most widely used desktop OS after Microsoft Windows. macOS is the second major series of Macintosh operating systems. The first is colloquially called the classic Mac OS, which was introduced in 1984, and the final release of which was Mac OS 9 in 1999. The first desktop version, Mac OS X 10.0, was released in March 2001, with its first update, 10.1, arriving later that year. macOS is based on the Unix operating system.&nbsp;[†](#w-macos) ℹ︎&nbsp;[apple.com/macos](https://www.apple.com/macos/)
 
 macOS, Apache, MySQL, PHP/Perl/Python
-: A solution stack composed of free and open source software running with proprietary commercial software, to serve dynamic websites on computers running macOS. MAMP can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name “MAMP” is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; Nginx can be used in place of Apache, for example.&nbsp;[†](#w-mamp)
+: A solution stack composed of free and open source software running with proprietary commercial software, to serve dynamic websites on computers running macOS. MAMP can be used to develop websites that use popular current technologies, on a stand-alone desktop or laptop computer without the need for a separate web server. The name “MAMP” is an acronym representing the original components of the system: macOS, the operating system; Apache, the web server; MySQL, the database management system; and PHP, Perl, or Python, programming languages used for web development. MAMP is not limited to these choices of components, however; NGINX can be used in place of Apache, for example.&nbsp;[†](#w-mamp)
 
 Macromedia Flash
 : → Flash
+
+Magic cookie
+: → Cookie
 
 Mail
 : → Email
@@ -32,6 +38,9 @@ Makefile
 
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
+
+Man-in-the-middle attack
+: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm) 
 
 Margin
 : Per the CSS box model, the margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
@@ -90,6 +99,9 @@ MEAN
 Media
 : The communication outlets or tools used to store and deliver information or data. The term refers to components of the mass media communications industry, such as print media, publishing, the news media, photography, cinema, broadcasting (radio and television), and advertising.&nbsp;[†](#w-media)
 
+Media access control address
+: → MAC address
+
 Media query
 : A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
@@ -138,17 +150,38 @@ Method stub
 Metro
 : → Microsoft Design Language
 
+MFA
+: → Multi-factor authentication
+
 Microformat
 : An approach to semantic markup which uses HTML elements supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support HTML, such as RSS. The approach allows software to process information intended for end users (such as contact information, geographic coordinates, calendar events, and similar information) automatically. Although the content of web pages has been capable of some “automated processing” since the inception of the Web, such processing is difficult because the markup elements used to display information on the Web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping.&nbsp;[†](#w-microformat) ℹ︎&nbsp;[microformats.org](http://microformats.org/)
+
+Microservice architecture
+: A variant of the service-oriented architecture (SOA) structural style that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.&nbsp;[†](#w-msa)
+
+Microservice
+: A service that is small in size, messaging-enabled, bounded by contexts, autonomously developed, independently deployable, decentralized, and built and released with automated processes.&nbsp;[†](#w-msa)
 
 Microsite
 : An individual web page or a small cluster of pages which are meant to function as a discrete entity within an existing website, or to complement an offline activity. The microsite’s main page can have its own domain or subdomain.&nbsp;[†](#w-microsite)
 
+Microsoft Active Accessibility
+: An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows&nbsp;95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
+
 Microsoft Design Language
-: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows 8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
+: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
 
 Microsoft Edge
 : → Edge
+
+Microsoft FrontPage
+: → FrontPage
+
+Microsoft Silverlight
+: → Silverlight
+
+Microsoft Windows
+: → Windows
 
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
@@ -170,6 +203,9 @@ Minimum Viable Product
 
 MIP
 : → Mobile Instant Pages
+
+MITM
+: → Man-in-the-middle attack
 
 Mixin
 : A class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin’s methods depends on the language. Mixins are sometimes described as being “included” rather than “inherited.” Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause, or to work around lack of support for multiple inheritance in a language. A mixin can also be viewed as an interface with implemented methods. This pattern is an example of enforcing the Dependency Inversion Principle.&nbsp;[†](#w-mixin)
@@ -239,11 +275,20 @@ MPEG
 MR
 : → Merge request
 
+MSA
+: → Microservice architecture
+
+MSAA
+: → Microsoft Active Accessibility
+
 MSHTML
 : → Trident
 
 MSIE
 : → Internet Explorer
+
+Multi-factor authentication
+: An authentication method in which a computer user is granted access only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows), possession (something the user and only the user has), and inherence (something the user and only the user is).&nbsp;[†](#w-mfa)
 
 Multimedia
 : Content that uses a combination of different content forms such as text, audio, images, animations, video, and interactive content. Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia can be recorded and played, displayed, interacted with or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance.&nbsp;[†](#w-multimedia)

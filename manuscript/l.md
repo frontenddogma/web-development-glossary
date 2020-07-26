@@ -76,8 +76,8 @@ Less/LESS
 Let’s Encrypt
 : A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
-Letter-spacing
-: An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter-spacing should not be confused with kerning. Letter-spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
+Letter spacing
+: An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter spacing should not be confused with kerning. Letter spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
 
 Library
 : Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
@@ -91,8 +91,14 @@ Ligature
 Light Mode
 : A color scheme that uses dark-colored text, icons, and interface elements on a light background. Often a display default.
 
+Lighthouse
+: An automated tool for measuring the quality of web pages. Lighthouse audits performance, accessibility, development best practices, and search engine optimization, and it includes the ability to test progressive web apps (PWAs) for PWA compliance. Lighthouse is developed by Google.&nbsp;[†](#w-lighthouse) ℹ︎&nbsp;[is.gd/cMiBtJ](https://developers.google.com/web/tools/lighthouse)
+
 Lightweight Directory Access Protocol
 : An industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. A common use of LDAP is to provide a central place to store usernames and passwords. This allows many different applications and services to connect to the LDAP server to validate users.&nbsp;[†](#w-ldap)
+
+Likert scale
+: A psychometric scale, typically ranging from “strongly disagree” to “strongly agree,” that is commonly involved in research that employs questionnaires. A Likert scale is the most widely used approach to scaling responses in survey research, such that the term is often used interchangeably with “rating scale.” The Likert scale is named after its inventor, psychologist Rensis Likert.&nbsp;[†](#w-likert-scale)
 
 Line box
 : A line (rectangular area) formed by inline boxes.
@@ -103,11 +109,11 @@ Line ending
 Line feed
 : → Newline
 
+Line spacing
+: → Leading
+
 Line terminator
 : → Newline
-
-Line-spacing
-: → Leading
 
 Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
@@ -131,7 +137,7 @@ Linting
 : The processing of source code through a linter.
 
 Linux
-: A family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open source software collaboration.&nbsp;[†](#w-linux)
+: A family of Unix-like operating systems based on the Linux kernel, an operating system kernel first released in 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Popular Linux distributions include Debian, Fedora, and Ubuntu. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system. Linux is the leading operating system on servers and other big iron systems such as mainframe computers, and the only OS used on TOP500 supercomputers. Linux is one of the most prominent examples of free and open source software collaboration.&nbsp;[†](#w-linux)
 
 Linux Standard Base
 : A joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the Filesystem Hierarchy Standard used in the Linux kernel. The LSB is based on the POSIX specification, the Single UNIX Specification (SUS), and several other open standards, but extends them in certain areas.&nbsp;[†](#w-lsb)
@@ -141,6 +147,12 @@ Linux, Apache, MySQL, PHP/Perl/Python
 
 Liquid
 : A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
+
+LIS
+: → Location information server
+
+Liskov Substitution Principle
+: A particular definition of a subtyping relation, called (strong) behavioral subtyping, that was initially introduced in 1987 by Barbara Liskov. The Liskov Substitution Principle is a semantic rather than merely syntactic relation, because it intends to guarantee semantic interoperability of types in a hierarchy, particularly of object types. Liskov’s notion of a behavioral subtype defines a notion of substitutability for objects; that is, if S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (e.g., correctness).&nbsp;[†](#w-liskov-substitution)
 
 Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
@@ -166,6 +178,9 @@ Local-part
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)
 
+Local storage
+: Web storage data that is per-origin and available to all scripts loaded from pages from the same origin, and that persists after the browser is closed.&nbsp;[†](#w-web-storage)
+
 Local variable
 : A variable that is given local scope. Local variable references in the function or block in which it is declared override the same variable name in the larger scope. In programming languages with only two levels of visibility, local variables are contrasted with global variables. On the other hand, many ALGOL-derived languages allow any number of nested levels of visibility, with private variables, functions, constants, and types hidden within them, either by nested blocks or nested functions. Local variables are fundamental to procedural programming, and more generally modular programming. Variables of local scope are used to avoid issues with side-effects that can occur with global variables.&nbsp;[†](#w-local-variable)
 
@@ -175,8 +190,11 @@ Locale
 Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development).&nbsp;[†](#w-i18n-l10n)
 
+Location information server
+: A network node originally defined in the U.S. National Emergency Number Association’s i2 network architecture that addresses the intermediate solution for providing e911 emergency service for users of VoIP telephony. The LIS is the node that determines the location of the VoIP terminal. Beyond the NENA architecture and VoIP, the LIS is capable of providing location information to any IP device within its served access network.&nbsp;[†](#w-lis)
+
 Lock file
-: → File-locking
+: → File locking
 
 Log file
 : A file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. In the simplest case, messages are written to a single log file. A transaction log is a file (i.e., log) of the communications between a system and the users of that system, or a data collection method that automatically captures the type, content, or time of transactions made by a person from a terminal with that system. Many operating systems, software frameworks and programs include a logging system. A widely used logging standard is syslog.&nbsp;[†](#w-log-file)
@@ -193,6 +211,9 @@ Long task
 Long-Term Support
 : A product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition.&nbsp;[†](#w-lts)
 
+`longdesc`
+: An obsolete HTML attribute that allowed to add a URL to a long description of an image (as defined by the `img` element). It is instead recommended to use a standard `a` element to link to respective description.
+
 Look and feel
 : A term used with respect to a graphical user interface and comprises aspects of its design, including elements such as colors, shapes, layout, and typefaces (the “look”), as well as the behavior of dynamic elements such as buttons, boxes, and menus (the “feel”). “Look and feel” is used in reference to both software and websites.&nbsp;[†](#w-look-and-feel)
 
@@ -207,6 +228,9 @@ Lossless
 
 Lossy
 : A class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. Well-designed lossy compression technology often reduces file sizes significantly before degradation is noticed by the end user. Even when noticeable by the user, further data reduction may be desirable (e.g., for real-time communication, to reduce transmission times, or to reduce storage needs). Lossy compression is most commonly used to compress multimedia data (audio, video, and images), especially in applications such as streaming media and Internet telephony.&nbsp;[†](#w-lossy)
+
+Love-at-first-sight pattern
+: A pattern of user behavior in which the gaze of a user, as determined by eye tracking, predominantly fixates on one item, like a search engine result.
 
 Low vision
 : → Visual impairment

@@ -6,8 +6,14 @@ Z shell
 Zero-based indexing
 : A way of numbering in which the initial element of a sequence is assigned the index 0, rather than the index 1 as is typical in everyday non-mathematical or non-programming circumstances. Under zero-indexed or zero-based numbering, the initial element is sometimes termed the “zeroth” element, rather than the first element; “zeroth” is a coined ordinal number corresponding to the number zero.&nbsp;[†](#w-zero-based-indexing)
 
+Zero-configuration networking
+: A set of technologies that automatically creates a usable computer network based on the Internet protocol suite (TCP/IP) when computers or network peripherals are interconnected. Zeroconf does not require manual operator intervention or special configuration servers. Without it, a network administrator must set up network services, such as Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS), or configure each computer’s network settings manually. Zeroconf is built on three core technologies: automatic assignment of numeric network addresses for networked devices, automatic distribution and resolution of computer hostnames, and automatic location of network services, such as printing devices.&nbsp;[†](#w-zeroconf)
+
 Zero-indexed
 : → Zero-based indexing
+
+Zeroconf
+: → Zero-configuration networking
 
 ZIP
 : An archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed. The ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. ZIP was released in 1989 by Phil Katz.&nbsp;[†](#w-zip)

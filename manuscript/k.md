@@ -3,6 +3,9 @@
 K-Meleon
 : A web browser for Microsoft Windows based on the Gecko layout engine. K-Meleon was first released in 2000.&nbsp;[†](#w-k-meleon) ℹ︎&nbsp;[kmeleonbrowser.org](http://kmeleonbrowser.org/)
 
+K8S
+: → Kubernetes
+
 Kanban
 : A lean method to manage and improve work. Kanban aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks. Work items are visualized to give participants a view of progress and process, from start to finish, usually via a Kanban board. Work is pulled as capacity permits, rather than work being pushed into the process when requested.&nbsp;[†](#w-kanban)
 
@@ -13,7 +16,7 @@ Kerberos
 : A network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner. The protocol was named after the character Kerberos (or Cerberus) from Greek mythology. Its designers aimed Kerberos primarily at a client-server model for which it provides mutual authentication—both the user and the server verify each other’s identity. Kerberos protocol messages are protected against eavesdropping and replay attacks.&nbsp;[†](#w-kerberos) ℹ︎&nbsp;[web.mit.edu/kerberos](http://web.mit.edu/kerberos/)
 
 Kerning
-: The process of adjusting the spacing between characters in a proportional font, usually to achieve a visually pleasing result. Kerning adjusts the space between individual letter forms, while tracking (letter-spacing) adjusts spacing uniformly over a range of characters. In a well-kerned font, the two-dimensional blank spaces between each pair of characters all have a visually similar area. The related term “kern” denotes a part of a type letter that overhangs the edge of the type block.&nbsp;[†](#w-kerning)
+: The process of adjusting the spacing between characters in a proportional font, usually to achieve a visually pleasing result. Kerning adjusts the space between individual letter forms, while tracking (letter spacing) adjusts spacing uniformly over a range of characters. In a well-kerned font, the two-dimensional blank spaces between each pair of characters all have a visually similar area. The related term “kern” denotes a part of a type letter that overhangs the edge of the type block.&nbsp;[†](#w-kerning)
 
 Key
 : In cryptography, a piece of information (a parameter) that determines the functional output of a cryptographic algorithm. For encryption algorithms, a key specifies the transformation of plain-text into ciphertext, and vice versa for decryption algorithms.&nbsp;[†](#w-key-cryptography)
@@ -39,5 +42,8 @@ Konqueror
 
 KPI
 : → Key Performance Indicator
+
+Kubernetes
+: An container orchestration system for automating computer application deployment, scaling, and management. Kubernetes was originally designed by Google, first released in 2014, and is now maintained by the Cloud Native Computing Foundation. It aims to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.&nbsp;[†](#w-k8s) ℹ︎&nbsp;[kubernetes.io](https://kubernetes.io/)
 
 T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

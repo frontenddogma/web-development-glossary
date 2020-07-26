@@ -16,6 +16,9 @@ AAA
 Above the fold
 : The part of a web page that is visible without scrolling.
 
+Absolute domain name
+: → Fully qualified domain name
+
 Abstract Data Type
 : A mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.&nbsp;[†](#w-adt)
 
@@ -28,11 +31,17 @@ Accelerated Mobile Pages
 `Accept-CH`
 : An HTTP header that is used to specify which Client Hints headers a client should include in subsequent requests.&nbsp;[‡](#m-accept-ch)
 
+Acceptance Test-Driven Development
+: A development methodology based on communication between the business customers, the developers, and the testers. ATDD aids developers and testers in understanding the customer’s needs prior to implementation, and allow customers to be able to converse in their own domain language.&nbsp;[†](#w-atdd)
+
 Acceptance testing
-: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
+: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance test-driven development (ATDD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
 : The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
+
+Access logs
+: → Server logs
 
 Access token
 : A token that contains the security credentials for a login session and that identifies a user, a user’s groups, a user’s privileges, and, in some cases, a particular application. Typically one may be asked to enter an access token (e.g., 40 random characters) rather than the usual password (an access token should therefore be kept secret just like a password).&nbsp;[†](#w-access-token)
@@ -52,8 +61,20 @@ Accessibility tree
 Accessible Rich Internet Applications
 : A collection of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. ℹ︎&nbsp;[w3.org/TR/wai-aria](https://www.w3.org/TR/wai-aria/)
 
+ACID
+: → Atomicity, Consistency, Isolation, Durability
+
+Acid tests
+: A range of web standards compliance tests that were set up in 1999 (Acid1), 2005 (Acid2), and 2008 (Acid3). ℹ︎&nbsp;[acidtests.org](https://www.acidtests.org/)
+
 ACM
 : → Association for Computing Machinery
+
+Acq-hiring
+: → Acqui-hiring
+
+Acqui-hiring
+: The process of acquiring a company primarily to recruit its employees, rather than its products or services. “Acqui-hiring” is a portmanteau of “acquisition” and “hiring.” The term was first used in 2005.&nbsp;[†](#w-acqui-hiring)
 
 ACT
 : → Accessibility Conformance Testing
@@ -79,11 +100,23 @@ Adaptive
 Adaptive loading
 : The loading of web resources depending on the connection type and speed.
 
+Adaptive technology
+: Technology specifically designed for and used by people with disabilities. Adaptive technology often refers to electronic and information technology access. It is a subset of assistive technology.&nbsp;[†](#w-assistive-technology)
+
 Addon
 : → Plugin
 
+Adobe ColdFusion
+: → ColdFusion
+
+Adobe Dreamweaver
+: → Dreamweaver
+
 Adobe Flash
 : → Flash
+
+Adobe Photoshop
+: → Photoshop
 
 ads.txt
 : An initiative from the IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of Internet fraud prevention.&nbsp;[†](#w-adstxt)
@@ -115,6 +148,9 @@ Algorithm
 Algorithmic Language
 : A family of imperative computer programming languages, originally developed in the mid-1950s, which greatly influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than 30 years.&nbsp;[†](#w-algol)
 
+Aliasing
+: An effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. Aliasing also often refers to the distortion or artifact that results when a signal reconstructed from samples is different from the original continuous signal. Aliasing can occur in signals sampled in time, for instance digital audio, and is referred to as temporal aliasing. It can also occur in spatially sampled signals (e.g., moiré patterns in digital images); this type of aliasing is called spatial aliasing. Aliasing is generally avoided by applying low pass filters or anti-aliasing filters (AAF) to the input signal.&nbsp;[†](#w-aliasing)
+
 Almost standards mode
 : → Almost strict mode
 
@@ -127,8 +163,14 @@ Alternate style sheet
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
+Amazon S3
+: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. Amazon S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
+
 Amazon Silk
 : → Silk
+
+Amazon Simple Storage Service
+: → Amazon S3
 
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
@@ -194,10 +236,13 @@ Apache HTTP Server
 : A cross-platform web server. The Apache server was first released in 1995. ℹ︎&nbsp;[httpd.apache.org](https://httpd.apache.org/)
 
 Apache Tomcat
-: An implementation of Java Servlet, JavaServer Pages, Java Expression Language, and WebSocket technologies. Tomcat provides a “pure Java” HTTP web server environment in which Java code can run. It was first released in 1999.&nbsp;[†](#w-tomcat) ℹ︎&nbsp;[tomcat.apache.org](https://tomcat.apache.org/)
+: An implementation of Java servlets, JavaServer Pages, Java Expression Language, and WebSocket technologies. Tomcat provides a “pure Java” HTTP web server environment in which Java code can run. It was first released in 1999.&nbsp;[†](#w-tomcat) ℹ︎&nbsp;[tomcat.apache.org](https://tomcat.apache.org/)
 
 API
 : → Application Programming Interface
+
+API gateway
+: An entry point for a system of application programming interfaces (APIs) that takes care of request routing as well as protocol translation. An API gateway also helps mitigate backend issues, for example by offering fallback or cached data.
 
 App
 : → Application
@@ -207,6 +252,9 @@ App shell
 
 Apple Safari
 : → Safari
+
+Apple Universal Access
+: → Universal Access
 
 Applet
 : Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plugin. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
@@ -272,7 +320,7 @@ Asynchronous
 : The occurrence of events independent of the main program flow. A common way for dealing with asynchrony in is to provide subroutines that return to their caller an object, sometimes called a future or promise, that represents the ongoing events.&nbsp;[†](#w-asynchronous)
 
 Asynchronous Module Definition
-: A specification for the JavaScript programming language. AMD defines an application programming interface (API) that defines code modules and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed. AMD implementations also suggest fewer page errors, because developers can define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
+: A specification for the JavaScript programming language. AMD defines an API that defines code modules and their dependencies, and loads them asynchronously if desired. Implementations of AMD promise website performance improvements, because AMD implementations load smaller JavaScript files, and then only when they are needed. AMD implementations also suggest fewer page errors, because developers can define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.&nbsp;[†](#w-amd) ℹ︎&nbsp;[github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api)
 
 Asynchronous JavaScript and XML
 : A set of web development techniques using web technologies on the client side to create asynchronous web applications. With AJAX, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, AJAX allows web pages and applications to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.&nbsp;[†](#w-ajax)
@@ -292,11 +340,17 @@ AT-SPI
 ATAG
 : → Authoring Tool Accessibility Guidelines
 
+ATDD
+: → Acceptance Test-Driven Development
+
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
 Atomic CSS
 : A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
+
+Atomicity, Consistency, Isolation, Durability
+: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid) 
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
@@ -309,6 +363,9 @@ Augmented Reality
 
 Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
+
+Authoring tool
+: Software that allows to create digital content.
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG&nbsp;1.0 became a W3C Recommendation in 2000, and ATAG&nbsp;2.0 in 2015. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)

@@ -1,5 +1,8 @@
 # F
 
+Facade pattern
+: A software-design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
+
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
@@ -31,13 +34,16 @@ Feature creep
 : The excessive ongoing expansion or addition of new features in a product, especially in computer software, video games, and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication rather than simple design.&nbsp;[†](#w-feature-creep)
 
 Feature phone
-: A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called “dumbphones” in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
+: A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called dumbphones in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
 
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
 Feed reader
 : → News aggregator
+
+Fetch API
+: An interface for fetching resources (including across the network). The Fetch API is comparable to XMLHttpRequest, but provides a more powerful and flexible feature set building on a generic definition of `Request` and `Response` objects.&nbsp;[‡](#m-fetch-api) ℹ︎&nbsp;[fetch.spec.whatwg.org](https://fetch.spec.whatwg.org/)
 
 FID
 : → First Input Delay
@@ -48,6 +54,9 @@ FIFO
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
 
+File locking
+: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of a race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
+
 File manager
 : A computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g., viewing, playing, editing, or printing), renaming, moving or copying, deleting and searching for files, as well as modifying file attributes, properties, and file permissions.&nbsp;[†](#w-file-manager)
 
@@ -56,9 +65,6 @@ File system
 
 File Transfer Protocol
 : A standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. FTP was not designed to be a secure protocol, and has many security weaknesses.&nbsp;[†](#w-ftp)
-
-File-locking
-: A mechanism that restricts access to a computer file by allowing only one user or process to access it in a specific time. Systems implement locking to prevent the classic interceding update scenario, which is a typical example of a race condition, by enforcing the serialization of update processes to any given file.&nbsp;[†](#w-file-locking)
 
 Fingerprinting
 : In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
@@ -149,7 +155,7 @@ Flow of control
 : → Control flow
 
 Fluent Design System
-: A design language developed in 2017 by Microsoft. Fluent Design is a revamp of Microsoft Design Language 2 that includes guidelines for the designs and interactions used within software designed for all Windows 10 devices and platforms. The system is based on five key components: Light, Depth, Motion, Material, and Scale. The new design language includes more prominent use of motion, depth, and translucency effects.&nbsp;[†](#w-fluent-design)
+: A design language developed in 2017 by Microsoft. Fluent Design is a revamp of Microsoft Design Language 2 that includes guidelines for the designs and interactions used within software designed for all Windows&nbsp;10 devices and platforms. The system is based on five key components: Light, Depth, Motion, Material, and Scale. The new design language includes more prominent use of motion, depth, and translucency effects.&nbsp;[†](#w-fluent-design)
 
 Fluid
 : → Liquid
@@ -181,6 +187,9 @@ Font block period
 Font failure period
 : A part of the font display timeline that governs that if a particular font face is not loaded, the user agent treats it as a failed load causing normal font fallback.&nbsp;[‡](#m-font-display-timeline)
 
+Font subsetting
+: The using of only the glyphs and features needed from a given font.
+
 Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
@@ -205,6 +214,9 @@ Formatting context
 Formatting Output Specification Instance
 : A style sheet language for SGML and, later, XML. FOSI was developed in the 1990s by the US Department of Defense to control the pagination and layout of SGML and XML technical data. FOSI style sheets are themselves written in SGML, an approach that would later be adopted by XSL.&nbsp;[†](#w-fosi)
 
+Forward compatibility
+: A design characteristic that allows a system to accept input intended for a later version of itself. The concept can be applied to entire systems, telecommunication signals, electrical interfaces, data communication protocols, file formats, and programming languages. A standard supports forward compatibility if a product that complies with earlier versions can “gracefully” process input designed for later versions of the standard, ignoring new parts which it does not understand.&nbsp;[†](#w-forward-compatibility)
+
 FOSI
 : → Formatting Output Specification Instance
 
@@ -220,14 +232,23 @@ FOUT
 FPS
 : → Frames per Second
 
+FQDN
+: → Fully qualified domain name
+
 Fragment identifier
 : A string of characters that refers to a resource that is subordinate to another, primary resource. The primary resource is identified by a Uniform Resource Identifier (URI), and the fragment identifier points to the subordinate resource. The fragment identifier introduced by a hash mark (`#`) is the optional last part of a URL for a document. It is typically used to identify a portion of that document. The hash mark separator is not part of the fragment identifier.&nbsp;[†](#w-fragment-identifier)
 
 Frame
 : A part of a web page or browser window which displays content independent of its container, with the ability to load content independently. The HTML or media elements shown in a frame may come from a different website as the other elements of content on display, although this practice, known as framing, is today often regarded as a violation of same-origin policy and has been considered a form of copyright infringement.&nbsp;[†](#w-frame)
 
+Frame busting
+: → Framekiller
+
 Frame rate
 : The frequency (rate) at which consecutive images called frames appear on a display. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in Hertz.&nbsp;[†](#w-frame-rate)
+
+Framekiller
+: A technique used by websites and applications to prevent their web pages from being displayed within a frame, to avoid being displayed without permission or for malicious purposes, like as part of a clickjacking attack.&nbsp;[†](#w-framekiller)
 
 Frames per Second
 : → Frame rate
@@ -280,6 +301,9 @@ Full Stack
 Full stack developer
 : A developer who can handle all aspects of website or app development, that is, including both frontend and backend development.
 : A developer who masters a particular solution stack.
+
+Fully qualified domain name
+: A domain name that specifies its exact location in the tree hierarchy of the Domain Name System (DNS). A fully qualified domain name specifies all domain levels, including the top-level domain and the root zone. A fully qualified domain name is distinguished by its lack of ambiguity, because it can be interpreted only in one way. It usually consists of a hostname and at least one higher-level domain (label) separated by the symbol “.”, and always ends in the top-level domain.&nbsp;[†](#w-fqdn)
 
 Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)

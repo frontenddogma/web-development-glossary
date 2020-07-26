@@ -1,5 +1,8 @@
 # P
 
+PaaS
+: → Platform as a Service
+
 package.json
 : A file containing dependencies, scripts, and metadata for npm (Node Package Manager) or Yarn packages.
 
@@ -42,6 +45,9 @@ Pair programming
 Palpable content
 : Content that makes an element non-empty by providing either some descendant non-empty text, or else something users can hear (`audio` elements) or view (`video`, `img`, or `canvas` elements), or otherwise interact with (for example, interactive form controls). That elements whose content model allows flow content or phrasing content should have at least one node in its contents that is palpable (and that does not have the `hidden` attribute specified) is not a hard requirement.&nbsp;§
 
+Paper prototyping
+: A method of the user-centered design process for designing and testing user interfaces. Paper prototyping is throwaway prototyping that involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this usability testing method can provide useful feedback to aid the design of easier to use products.&nbsp;[†](#w-paper-prototyping)
+
 Paradigm
 : A distinct set of concepts or thought patterns, including theories, research methods, postulates, and standards for what constitutes legitimate contributions to a field. According to Thomas Kuhn (1962), scientific paradigms are “universally recognized scientific achievements that, for a time, provide model problems and solutions for a community of practitioners.”&nbsp;[†](#w-paradigm)
 
@@ -50,6 +56,9 @@ Parallax scrolling
 
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
+
+Paraphrase testing
+: A method to test the effectiveness of content in which test participants paraphrase and explain sections that they were asked to read. Notes on the responses can be analyzed and used for follow-up questions.
 
 Pareto Principle
 : The observation that for many events, roughly 80% of the effects come from 20% of the causes. It is named after Italian economist Vilfredo Pareto, who noted the 80/20 connection in 1896, as published in his first work, _Cours d’économie politique_. In it, Pareto showed that approximately 80% of the land in Italy was owned by 20% of the population. It is a similar axiom of business management that “80% of sales come from 20% of clients.”&nbsp;[†](#w-pareto-principle)
@@ -136,8 +145,14 @@ Permalink
 Persona
 : A fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers may use personas together with market segmentation, where the qualitative personas are constructed to be representative of specific segments. The term “persona” is used widely in online and technology applications as well as in advertising, where other terms such as “pen portraits” may also be used. Personas are useful in considering the goals, desires, and limitations of brand buyers and users in order to help to guide decisions about a product, service, or interaction space such as features, interactions, and visual design of a website. Personas may also be used as part of a user-centered design process for designing software.&nbsp;[†](#w-persona)
 
+Personal data
+: Any information relating to an identifiable person. The concept of personal data has become prevalent as information technology and the Internet have made it easier to collect personally identifiable information (PII) leading to a profitable market in collecting and reselling personal data. PII can also be exploited by criminals to stalk or steal the identity of a person, or to aid in the planning of criminal acts. As a response to these threats, many website privacy policies specifically address the gathering of personal data, and lawmakers such as the European Parliament have enacted a series of legislation such as the General Data Protection Regulation (GDPR) to limit the distribution and accessibility of personal data.&nbsp;[†](#w-pii)
+
 Personal Home Page
 : → PHP
+
+Personally identifiable information
+: → Personal data
 
 PhantomJS
 : A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior, and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
@@ -160,11 +175,20 @@ PhpStorm
 Phrasing content
 : The text of an HTML document, as well as elements that mark up that text at the intra-paragraph level. Runs of phrasing content form paragraphs.&nbsp;§
 
+PII
+: → Personally identifiable information
+
+Pinball pattern
+: A pattern of user behavior in which the gaze of a user, as determined by eye tracking, “bounces around” a page, resembling how a ball moves within a pinball machine.
+
 Ping
 : A computer network administration software utility used to test the reachability of a host on an Internet Protocol (IP) network. It is available for virtually all operating systems that have networking capability, including most embedded network administration software. Ping measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source.&nbsp;[†](#w-ping)
 
 Pinging
 : A colloquial expression for contacting or notifying another person.
+
+pip
+: The _de facto_ standard package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip) ℹ︎&nbsp;[pypi.org/project/pip](https://pypi.org/project/pip/)
 
 Pixel
 : A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
@@ -187,6 +211,12 @@ Plain-text
 
 Plane
 : In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called supplementary planes. The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
+
+Platform as a Service
+: A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.&nbsp;[†](#w-paas)
+
+Platform modernization
+: → Software modernization
 
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
@@ -217,6 +247,9 @@ Pop-up
 
 Port
 : A communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). A port number is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Specific port numbers are commonly reserved to identify specific services.&nbsp;[†](#w-port)
+
+Port number
+: → Port
 
 Portable Document Format
 : A file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images, and other information needed to display it. PDF was standardized as ISO 32000 in 2008.&nbsp;[†](#w-pdf)
@@ -255,6 +288,9 @@ PQ
 PR
 : → Pull request
 
+Pre-production environment
+: → Staging environment
+
 Preact
 : A JavaScript library described as a lightweight alternative to React, using the same ES6 API. ℹ︎&nbsp;[preactjs.com](https://preactjs.com/)
 
@@ -263,6 +299,9 @@ Predication
 
 Prefetching
 : A technique for speeding up fetch operations by beginning a fetch operation whose result is expected to be needed soon. Usually this is before it is known to be needed, so there is a risk of wasting time by prefetching data that will not be used.&nbsp;[†](#w-prefetching)
+
+Preferred style sheet
+: The preferred style sheet when no alternate style sheet is being selected. A style sheet can be marked as preferred by setting the `link` element’s `rel` attribute to “stylesheet” and naming the style sheet with the `title` attribute, as well as by using a `meta` element or setting a particular HTTP header.
 
 Premature optimization
 : A situation where a programmer lets performance considerations affect the design of a piece of code. This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing.&nbsp;[†](#w-premature-optimization)
@@ -296,6 +335,12 @@ Product Backlog Item
 
 Product Owner
 : A Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for respective product.
+
+Production
+: → Production environment
+
+Production environment
+: A deployment environment that is “live,” that is, that users directly interact with. When deploying a new release to production, rather than immediately deploying to all instances or users, it may be deployed to a single instance or fraction of users first, and then either deployed to all or gradually deployed in phases, in order to catch any last-minute problems. This is similar to staging, except actually done in production, and is referred to as a canary release, by analogy with coal mining.&nbsp;[†](#w-deployment-env)
 
 Programming language
 : A formal language which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms. Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning). Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference.&nbsp;[†](#w-programming-language)
@@ -341,6 +386,12 @@ Pseudo-element
 
 Pull request
 : → Merge request
+
+Punycode
+: A representation of Unicode with the limited ASCII character subset used for Internet hostnames. Using Punycode, hostnames containing Unicode characters are transcoded to a subset of ASCII consisting of letters, digits, and hyphens, which is called the Letter-Digit-Hyphen (LDH) subset. For example, “München” (Munich) is encoded as `Mnchen-3ya`.&nbsp;[†](#w-punycode)
+
+Puppeteer
+: A Node.js library that provides an API to control Chrome and Chromium over the Chrome DevTools Protocol. Puppeteer offers both headless and non-headless operation. ℹ︎&nbsp;[pptr.dev](https://pptr.dev/)
 
 Push notification
 : Small messages that can reach audiences anywhere and anytime. While pop-ups appear only when audiences are on the site they belong to, push messages are independent of sites. They are associated with web browsers and apps.&nbsp;[†](#w-push-technology)

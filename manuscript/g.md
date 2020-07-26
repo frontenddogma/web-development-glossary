@@ -1,8 +1,5 @@
 # G
 
-.gitignore
-: A plain-text file that, one per line, contains pattern for files and directories to be ignored by Git version control.
-
 Gamma
 : A non-linear operation used to encode and decode luminance or tristimulus values in video or still image systems. Gamma encoding of images is used to optimize the usage of bits when encoding an image, or bandwidth used to transport an image, by taking advantage of the non-linear manner in which humans perceive light and color.&nbsp;[†](#w-gamma)
 
@@ -20,6 +17,15 @@ General Data Protection Regulation
 
 General Image Manipulation Program
 : → GIMP
+
+General Responsibility Assignment Software Patterns
+: Guidelines for assigning responsibility to classes and objects in object-oriented design. The different patterns and principles used in GRASP are controller, creator, indirection, information expert, low coupling, high cohesion, polymorphism, protected variations, and pure fabrication.&nbsp;[†](#w-grasp)
+
+Generic top-level domain
+: One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
+
+Geolocation API
+: An effort by the World Wide Web Consortium (W3C) to standardize an interface to retrieve the location information for a client-side device. The Geolocation API defines an ECMAScript-compliant set of objects that give the client’s device location through the consulting of location information servers. The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, Wi-Fi connection location, radio-frequency identification (RFID), and device Global Positioning System (GPS) or GSM/CDMA cell IDs.&nbsp;[†](#w-geolocation-api) ℹ︎&nbsp;[w3.org/TR/geolocation-API](https://www.w3.org/TR/geolocation-API/)
 
 GIF
 : → Graphics Interchange Format
@@ -48,6 +54,9 @@ Global scope
 Global variable
 : A variable that is declared in the global scope; in other words, one that is visible from all other scopes. In JavaScript it is a property of the global object.&nbsp;[‡](#m-global-variable)
 
+Globally unique identifier
+: → Universally unique identifier
+
 Glyph
 : A readable mark of a particular meaning.
 
@@ -70,8 +79,23 @@ Goanna
 Golang
 : → Go
 
+Golden mean
+: → Golden ratio
+
+Golden ratio
+: A concept from mathematics, two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. The golden ratio is an irrational number that is a solution to the quadratic equation x^2^ – x – 1 = 0, with a value of 1.6180339887… Some artists and architects, including Le Corbusier and Salvador Dalí, have proportioned their works to approximate the golden ratio, believing this proportion to be aesthetically pleasing.&nbsp;[†](#w-golden-ratio)
+
+Golden section
+: → Golden ratio
+
 Google Chrome
 : → Chrome
+
+Google Lighthouse
+: → Lighthouse
+
+Google TalkBack
+: → TalkBack
 
 Google Web Server
 : A proprietary web server software that Google uses for its web infrastructure. GWS is used exclusively inside Google’s ecosystem for website hosting.&nbsp;[†](#w-gws)
@@ -106,8 +130,14 @@ Graphics Processing Unit
 GraphQL
 : A data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL provides an approach to developing web APIs, and has been compared and contrasted with REST and other web service architectures. It allows clients to define the structure of the data required, and the same structure of the data is returned from the server, therefore preventing excessively large amounts of data from being returned. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015.&nbsp;[†](#w-graphql) ℹ︎&nbsp;[graphql.org](https://graphql.org/)
 
+GRASP
+: → General Responsibility Assignment Software Patterns
+
 Greeking
 : → Placeholder text
+
+Greenfield project
+: A project that lacks constraints imposed by prior work. The analogy is to that of construction on greenfield land where there is no need to work within the constraints of existing buildings or infrastructure.&nbsp;[†](#w-greenfield)
 
 Grid
 : In design, a structure (usually two-dimensional) made up of a series of intersecting straight (vertical, horizontal, and angular) or curved lines (grid lines) used to structure content. The grid serves as an armature or framework on which a designer can organize graphic elements (images, glyphs, paragraphs, etc.) in a rational, easy-to-absorb manner. A grid can be used to organize graphic elements in relation to a page, to other graphic elements on the page, or to other parts of the same graphic element or shape.&nbsp;[†](#w-grid)
@@ -118,6 +148,9 @@ Grid computing
 
 Grid track
 : The space between two grid lines. They are defined in the explicit grid by using the `grid-template-columns` and `grid-template-rows` properties or the shorthand `grid` or `grid-template` properties. Tracks are also created in the implicit grid by positioning a grid item outside of the tracks created in the explicit grid.&nbsp;[‡](#m-grid-track)
+
+gTLD
+: → Generic top-level domain
 
 Guetzli
 : A JPEG encoder developed by Jyrki Alakujala, Robert Obryk, and Zoltán Szabadka, and released by Google in 2017. Guetzli specializes in high-end image quality where it is claimed to produce significantly smaller files than prior encoders at equivalent quality, albeit at very low speed. It is named after the Swiss German expression for biscuits, in line with the names of other compression technology from Google.&nbsp;[†](#w-guetzli) ℹ︎&nbsp;[github.com/google/guetzli](https://github.com/google/guetzli)
@@ -133,6 +166,9 @@ Gutter
 
 GUI
 : → Graphical User Interface
+
+GUID
+: → Globally unique identifier
 
 GWS
 : → Google Web Server

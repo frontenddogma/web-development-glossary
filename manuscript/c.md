@@ -8,6 +8,9 @@ CA
 Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
+Cache poisoning
+: → DNS spoofing
+
 Call stack
 : A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc.&nbsp;[‡](#m-call-stack)
 
@@ -32,8 +35,11 @@ Canonical Name
 Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
 
+CAP Theorem
+: A theoretical computer science theorem that states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: 1) Consistency: Every read receives the most recent write or an error; 2) Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write; and 3) Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes. The CAP Theorem implies that in the presence of a network partition, one has to choose between consistency and availability.&nbsp;[†](#w-cap-theorem)
+
 CAPTCHA
-: A type of challenge–response test used in computing to determine whether or not the user is human. The term stands for “completely automated public Turing test to tell computers and humans apart” and was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.&nbsp;[†](#w-captcha)
+: A type of challenge-response test used in computing to determine whether or not the user is human. The term stands for “completely automated public Turing test to tell computers and humans apart” and was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.&nbsp;[†](#w-captcha)
 
 Card sorting
 : A method that aids the design or evaluation of the information architecture of a website. Card sorting is usually performed with groups, with attendees organizing topics into categories or folksonomies.
@@ -48,7 +54,7 @@ Cart
 : → Shopping cart
 
 Cascade
-: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
+: The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; and 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
 
 Cascading HTML Style Sheets
 : A style sheet language proposal drafted in 1994 by Håkon Wium Lie. ℹ︎&nbsp;[w3.org/People/howcome/p/cascade](https://www.w3.org/People/howcome/p/cascade.html)
@@ -70,8 +76,14 @@ CBD
 CBSE
 : → Component-Based Software Engineering
 
+CC/PP
+: → Composite Capability/Preference Profiles
+
 CCT
 : → Chrome Custom Tabs
+
+ccTLD
+: → Country code top-level domain
 
 CD
 : → Corporate Design
@@ -81,11 +93,17 @@ CD
 CDN
 : → Content Delivery Network
 
+CDP
+: → Chrome DevTools Protocol
+
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
 
 Certificate Authority
 : An entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party, trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 standard. One particularly common use for certificate authorities is to sign certificates used in HTTPS, the secure browsing protocol for the World Wide Web.&nbsp;[†](#w-ca)
+
+CFML
+: → ColdFusion Markup Language
 
 CGI
 : → Common Gateway Interface
@@ -131,6 +149,15 @@ Chrome
 Chrome Custom Tabs
 : A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
 
+Chrome DevTools Protocol
+: A protocol to “instrument, inspect, debug, and profile” Chromium, Chrome, and other Blink-based browsers. ℹ︎&nbsp;[is.gd/a55qQ3](https://chromedevtools.github.io/devtools-protocol/)
+
+Chrome OS
+: A Linux kernel-based operating system designed by Google. Chrome OS is derived from the free software Chromium OS and uses the Google Chrome web browser as its principal user interface. Google announced Chrome OS in 2009, conceiving it as an operating system in which both applications and user data reside in the cloud—hence Chrome OS primarily runs web applications. Chrome OS is only available pre-installed on hardware from Google manufacturing partners, but there are unofficial methods that allow it to be installed in other equipment.&nbsp;[†](#w-chrome-os) ℹ︎&nbsp;[google.com/chromebook/chrome-os](https://www.google.com/chromebook/chrome-os/)
+
+ChromeVox
+: A screen reader for Chrome OS as well as the Chrome web browser developed by Google. ℹ︎&nbsp;[chromevox.com](https://www.chromevox.com/)
+
 Chromium
 : A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Edge, Opera, and Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name.&nbsp;[†](#w-chromium) ℹ︎&nbsp;[chromium.org](https://www.chromium.org/)
 
@@ -153,6 +180,9 @@ Class
 
 Class variable
 : Any variable declared with the `static` modifier of which a single copy exists, regardless of how many instances of the class there are.&nbsp;[†](#w-class-variable)
+
+Clearfix
+: A name for a variety of float-clearing techniques that may (when CSS only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
 
 CLI
 : → Command-Line Interface
@@ -244,6 +274,9 @@ Code refactoring
 Code review
 : A software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation. At least one of the persons must not be the code’s author. The persons performing the checking, excluding the author, are called reviewers.&nbsp;[†](#w-code-review)
 
+Code smell
+: Any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, development methodology, and developer. The term “code smell” was popularized in the late 1990s by Kent Beck.&nbsp;[†](#w-code-smell)
+
 Code splitting
 : The splitting of code into various bundles or components which can then be loaded on demand or in parallel. While the total amount of code is the same (and perhaps even a little larger), the amount of code needed during initial load can be reduced.&nbsp;[‡](#m-code-splitting)
 
@@ -261,6 +294,15 @@ Coding guidelines
 
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
+
+Cognitive disability
+: As disabilities affecting cognitive ability, a concept encompassing various intellectual or cognitive deficits, including intellectual disability (formerly called mental retardation), deficits too mild to properly qualify as intellectual disability, various specific conditions (such as specific learning disability), and problems acquired later in life through acquired brain injuries or neurodegenerative diseases like dementia. Many of these disabilities have an effect on memory, which is the ability to recall what has been learned over time.&nbsp;[†](#w-cognitive-disability)
+
+ColdFusion
+: A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language.&nbsp;[†](#w-coldfusion) ℹ︎&nbsp;[is.gd/r6E53v](https://www.adobe.com/products/coldfusion-family.html)
+
+ColdFusion Markup Language
+: A scripting language for web development that runs on the Java virtual machine, the .NET framework, and Google App Engine. Multiple implementations of CFML engines are available, including Adobe ColdFusion, Lucee, New Atlanta BlueDragon, Railo, and Open BlueDragon.&nbsp;[†](#w-cfml)
 
 Collapsed margin
 : → Margin collapsing
@@ -301,6 +343,9 @@ Common Gateway Interface
 CommonJS
 : A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. Work on CommonJS started in 2009, and ended in 2014.&nbsp;[†](#w-commonjs)
 
+CommonMark
+: A plain-text format compatible with Markdown. CommonMark was started as a standardization effort in 2012. ℹ︎&nbsp;[commonmark.org](https://commonmark.org/)
+
 Community of Practice
 : A group of people who share a craft or a profession. The concept was first proposed in 1991 by Jean Lave and Etienne Wenger. A CoP can evolve naturally because of the members’ common interest in a particular domain or area, or it can be created deliberately with the goal of gaining knowledge related to a specific field. It is through the process of sharing information and experiences with the group that members learn from each other, and have an opportunity to develop personally and professionally. CoPs can exist in physical settings, for example, a lunchroom at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located.&nbsp;[†](#w-cop)
 
@@ -326,7 +371,7 @@ Compiling
 : The translating of computer code written in one programming language into another language.&nbsp;[†](#w-compiler)
 
 Complementary colors
-: Pairs of colors which, when combined or mixed, cancel each other out (lose hue) by producing a grayscale color like white or black. When placed next to each other, they create the strongest contrast for those two colors. Complementary colors may also be called “opposite colors.” Modern color theory uses either the RGB additive color model or the CMY subtractive color model, and in these, the complementary pairs are red-cyan, green-magenta, and blue-yellow. In the traditional RYB color model, the complementary color pairs are red-green, yellow-purple, and blue-orange. Opponent process theory suggests that the most contrasting color pairs are red-green and blue-yellow.&nbsp;[†](#w-complementary-colors)
+: Pairs of colors which, when combined or mixed, cancel each other out (lose hue) by producing a grayscale color like white or black. When placed next to each other, they create the strongest contrast for those two colors. Complementary colors may also be called opposite colors. Modern color theory uses either the RGB additive color model or the CMY subtractive color model, and in these, the complementary pairs are red-cyan, green-magenta, and blue-yellow. In the traditional RYB color model, the complementary color pairs are red-green, yellow-purple, and blue-orange. Opponent process theory suggests that the most contrasting color pairs are red-green and blue-yellow.&nbsp;[†](#w-complementary-colors)
 
 Component
 : A software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive.&nbsp;[†](#w-cbse)
@@ -339,6 +384,9 @@ Component-Based Development
 
 Component-Based Software Engineering
 : A branch of software engineering that emphasizes the separation of concerns with respect to the wide-ranging functionality available throughout a given software system. It is a reuse-based approach to defining, implementing, and composing loosely coupled independent components into systems.&nbsp;[†](#w-cbse)
+
+Composite Capability/Preference Profiles
+: A specification for defining capabilities and preferences of user agents, establishing a delivery context that can be used to guide the process of tailoring content. CC/PP is a vocabulary extension of the Resource Description Framework (RDF).&nbsp;[†](#w-cc-pp) ℹ︎&nbsp;[w3.org/TR/CCPP-struct-vocab2](https://www.w3.org/TR/CCPP-struct-vocab2/)
 
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
@@ -401,6 +449,9 @@ Content Management System
 Content network
 : A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through respective ad platform.
 
+Content optimization
+: The process of improving content, making it as interesting as possible for users and search engines, and increasing its reach.
+
 Content Security Policy
 : A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
 
@@ -444,8 +495,14 @@ Cookie banner
 Cookie consent
 : The agreement to but also a term for the requirement for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
 
+Cookie hijacking
+: → Session hijacking
+
 CoP
 : → Community of Practice
+
+Core Web Vitals
+: → Web Vitals
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
@@ -458,6 +515,9 @@ CORS
 
 Cost-per-click
 : → Pay-per-click
+
+Country code top-level domain
+: An Internet top-level domain generally used or reserved for a country, sovereign state, or dependent territory identified with a country code. All ASCII ccTLD identifiers are two letters long, and all two-letter top-level domains are ccTLDs. There are 312 ccTLDs in active use totally. .cn, .tk, .de and .uk contain the highest number of domains.&nbsp;[†](#w-cctld)
 
 Coupling
 : A state in which one object uses a function of another object. Coupling also describes the degree of interdependence between software modules, as a measure of how closely connected two routines or modules are, and the strength of the relationships between modules. Coupling is usually contrasted with cohesion. Low coupling often correlates with high cohesion, and vice versa. Low coupling is often a sign of a well-structured computer system and a good design, and when combined with high cohesion, supports the general goals of high readability and maintainability.&nbsp;[†](#w-coupling)
@@ -507,6 +567,9 @@ Cross-Site Request Forgery
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
 
+Cross-Site WebSocket Hijacking
+: An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
+
 CRUD
 : → Create, Read, Update, Delete
 
@@ -537,6 +600,9 @@ CSS Object Model
 CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
+CSS-in-JS
+: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
+
 CSS-Tricks
 : A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
 
@@ -545,6 +611,9 @@ CSSOM
 
 CSV
 : → Comma-Separated Values
+
+CSWSH
+: → Cross-Site WebSocket Hijacking
 
 CTA
 : → Call to Action

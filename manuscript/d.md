@@ -1,8 +1,5 @@
 # D
 
-/dev/null
-: → Null device
-
 D3.js
 : A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HyperText Markup Language (HTML), and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
 
@@ -111,6 +108,9 @@ Decoration
 Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plain-text.&nbsp;[†](#w-cryptography)
 
+Deep linking
+: The linking of a specific web resource or piece of web content rather than respective website’s home page.
+
 Deep Web
 : Parts of the World Wide Web whose contents are not indexed by standard web search engines. The opposite term to the deep web is the “Surface Web,” which is accessible to everyone using the Internet. The content of the Deep Web is hidden behind HTTP forms and includes many very common uses such as web mail, online banking, private or otherwise restricted access social media pages and profiles, some web forums that require registration for viewing content, and services that users must pay for, and which are protected by paywalls, such as video-on-demand as well as online magazines and newspapers. The term “Deep Web” has first been used in 2001 by Michael K. Bergman.&nbsp;[†](#w-deep-web)
 
@@ -147,6 +147,9 @@ Dependency Inversion Principle
 Deployment
 : All of the activities that make a software system available for use. The general deployment process consists of several interrelated activities with possible transitions between them. Because every software system is unique, the precise processes or procedures within each activity are difficult to define. Therefore, deployment should be interpreted as a general process that has to be customized according to specific requirements or characteristics.&nbsp;[†](#w-deployment)
 
+Deployment environment
+: A computer system in which a computer program or software component is deployed and executed. In simple cases, such as developing and immediately executing a program on the same machine, there may be a single environment, but in industrial use the development environment (where changes are originally made) and production environment (what end users use) are separated; often with several stages in between. This structured release management process allows phased deployment (rollout), testing, and rollback in case of problems.&nbsp;[†](#w-deployment-env)
+
 Deprecated
 : → Deprecation
 
@@ -155,6 +158,9 @@ Deprecation
 
 Descender
 : The portion of a letter that extends below the baseline of a font.&nbsp;[†](#w-descender)
+
+Deserialization
+: The opposite of serialization, extracting a data structure or object state from a series of bytes.&nbsp;[†](#w-serialization)
 
 Design
 : A plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product, or process. The design usually has to satisfy certain goals and constraints, may take into account aesthetic, functional, economic, or socio-political considerations, and is expected to interact with a certain environment.&nbsp;[†](#w-design)
@@ -229,6 +235,9 @@ Dither
 Divitis
 : Excessive use of `div` elements, an HTML anti-pattern.
 
+DLR
+: → Dynamic Language Runtime
+
 DML
 : → Data Manipulation Language
 
@@ -239,8 +248,17 @@ DNS
 : → Domain Name Service
 : → Domain Name System
 
+DNS root zone
+: → Root zone
+
+DNS spoofing
+: A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver’s cache, causing the name server to return an incorrect result record, e.g., an IP address. This results in traffic being diverted to the attacker’s computer (or any other computer).&nbsp;[†](#w-dns-spoofing)
+
 DocBook
 : A semantic markup language originally created for technical documentation. As a semantic language, DocBook documents do not describe what their contents “look like,” but rather the meaning of those contents.&nbsp;[†](#w-docbook) ℹ︎&nbsp;[docbook.org](https://docbook.org/)
+
+Docker
+: A set of Platform as a Service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries, and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines. The Docker software was first released in 2013 by Docker, the company.&nbsp;[†](#w-docker) ℹ︎&nbsp;[docker.com](https://www.docker.com/)
 
 Doctype
 : An instruction that associates a particular SGML (for example, a web page) with a document type definition (DTD) (for example, the formal definition of a particular version of HTML) or XML document. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks mode or standards mode. The `text/html` serialization of HTML, which is not SGML-based, uses the doctype only for mode selection. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will not access them even if a URL is provided. The doctype is retained in current HTML as a “mostly useless, but required“ header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
@@ -278,6 +296,9 @@ Domain expert
 Domain name
 : An identification string that defines a realm of administrative autonomy, authority, or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a website, or the website itself or any other service communicated via the Internet.&nbsp;[†](#w-domain-name)
 
+Domain name server
+: → Name server
+
 Domain Name Service
 : → Domain Name System
 
@@ -313,6 +334,9 @@ Double
 
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. Downtime is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
+
+Downward compatibility
+: → Backward compatibility
 
 DPI
 : → Dots per inch
@@ -361,6 +385,9 @@ Dynamic
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)
+
+Dynamic Language Runtime
+: A number of computer language services for dynamic languages. These services include a dynamic type system, dynamic method dispatch, dynamic code generation, and a hosting API. The DLR is used to implement dynamic languages on the .NET Framework, including the IronPython and IronRuby projects. It was first released in 2010 by Microsoft.&nbsp;[†](#w-dlr) ℹ︎&nbsp;[github.com/IronLanguages/dlr](https://github.com/IronLanguages/dlr)
 
 Dynamic password
 : → One-Time Password
