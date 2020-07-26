@@ -12,6 +12,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [A/B testing](https://en.wikipedia.org/wiki/A/B_testing){#w-a-b-testing}
 * [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type){#w-adt}
 * [Accelerated Mobile Pages](https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages){#w-amp}
+* [Acceptance test-driven development](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development){#w-atdd}
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing){#w-acceptance-testing}
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
@@ -292,6 +293,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Exception handling syntax](https://en.wikipedia.org/wiki/Exception_handling_syntax){#w-exception-handling-syntax}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
+* [Extensible Application Markup Language](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language){#w-xaml}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking){#w-eye-tracking}
 * [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern){#w-facade-pattern}
@@ -928,9 +930,11 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}
 * [UTF-16](https://en.wikipedia.org/wiki/UTF-16){#w-utf-16}
 * [UTF-32](https://en.wikipedia.org/wiki/UTF-32){#w-utf-32}
+* [UTM parameters](https://en.wikipedia.org/wiki/UTM_parameters){#w-utm}
 * [Validator](https://en.wikipedia.org/wiki/Validator){#w-validator}
 * [Value (computer science)](https://en.wikipedia.org/wiki/Value_(computer_science)){#w-value}
 * [Variable (computer science)](https://en.wikipedia.org/wiki/Variable_(computer_science)){#w-variable}
+* [Variable fonts](https://en.wikipedia.org/wiki/Variable_fonts){#w-variable-font}
 * [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics){#w-vector-image}
 * [Velocity (software development)](https://en.wikipedia.org/wiki/Velocity_(software_development)){#w-velocity}
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation){#w-verification}
@@ -972,6 +976,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web IDL](https://en.wikipedia.org/wiki/Web_IDL){#w-web-idl}
 * [Web indexing](https://en.wikipedia.org/wiki/Web_indexing){#w-web-indexing}
 * [Web navigation](https://en.wikipedia.org/wiki/Web_navigation){#w-navigation}
+* [Web Open Font Format](https://en.wikipedia.org/wiki/Web_Open_Font_Format){#w-woff}
 * [Web page](https://en.wikipedia.org/wiki/Web_page){#w-web-page}
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
@@ -990,6 +995,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [WebGL](https://en.wikipedia.org/wiki/WebGL){#w-webgl}
 * [WebKit](https://en.wikipedia.org/wiki/WebKit){#w-webkit}
 * [WebM](https://en.wikipedia.org/wiki/WebM){#w-webm}
+* [Webmaster](https://en.wikipedia.org/wiki/Webmaster){#w-webmaster}
+* [Webmention](https://en.wikipedia.org/wiki/Webmention){#w-webmention}
 * [WebP](https://en.wikipedia.org/wiki/WebP){#w-webp}
 * [Webpack](https://en.wikipedia.org/wiki/Webpack){#w-webpack}
 * [Website](https://en.wikipedia.org/wiki/Website){#w-website}
@@ -1002,6 +1009,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character){#w-whitespace}
 * [WHOIS](https://en.wikipedia.org/wiki/WHOIS){#w-whois}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
+* [Wiki](https://en.wikipedia.org/wiki/Wiki){#w-wiki}
 * [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol){#w-wap}

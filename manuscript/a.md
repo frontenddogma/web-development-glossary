@@ -31,8 +31,11 @@ Accelerated Mobile Pages
 `Accept-CH`
 : An HTTP header that is used to specify which Client Hints headers a client should include in subsequent requests.&nbsp;[‡](#m-accept-ch)
 
+Acceptance Test-Driven Development
+: A development methodology based on communication between the business customers, the developers, and the testers. ATDD aids developers and testers in understanding the customer’s needs prior to implementation, and allow customers to be able to converse in their own domain language.&nbsp;[†](#w-atdd)
+
 Acceptance testing
-: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
+: A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance test-driven development (ATDD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
 : The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
@@ -250,6 +253,9 @@ App shell
 Apple Safari
 : → Safari
 
+Apple Universal Access
+: → Universal Access
+
 Applet
 : Any small application that performs a specific task that runs within the scope of a dedicated widget engine or a larger program, often as a plugin. Usually referring to a Java applet, a program written in the Java programming language that is designed to be placed on a web page. An applet is not a full-featured application program but intended to be easily accessible.&nbsp;[†](#w-applet)
 
@@ -333,6 +339,9 @@ AT-SPI
 
 ATAG
 : → Authoring Tool Accessibility Guidelines
+
+ATDD
+: → Acceptance Test-Driven Development
 
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).

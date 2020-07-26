@@ -79,11 +79,17 @@ Uninitialized variable
 Unit testing
 : A software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run to ensure that a section of an application (known as the “unit”) meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure. In object-oriented programming, a unit is often an entire interface, such as a class, but could be an individual method.&nbsp;[†](#w-unit-testing)
 
+Universal Access
+: A component of the Mac OS X operating system, later called Accessibility, that provides computing abilities to people with visual impairment, hearing impairment, or physical disability.&nbsp;[†](#w-universal-access) ℹ︎&nbsp;[apple.com/accessibility/mac](https://www.apple.com/accessibility/mac/)
+
 Universal Design
 : The design of buildings, products, or environments to make them accessible to all people, regardless of age, disability or other factors. The term “universal design” was coined by the architect Ronald Mace to describe the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life. However, it was the work of Selwyn Goldsmith, author of _Designing for the Disabled_ (1963), who really pioneered the concept of free access for people with disabilities. Goldsmith’s most significant achievement was the creation of the dropped curb—now a standard feature of the built environment.&nbsp;[†](#w-universal-design)
 
 Universal Module Definition
 : A collection of patterns and scripts to help use and compatibility of different JavaScript module loaders. ℹ︎&nbsp;[github.com/umdjs/umd](https://github.com/umdjs/umd)
+
+Universal selector
+: A CSS selector (`*`, which can in certain cases be omitted) that matches any element.
 
 Universally unique identifier
 : A 128-bit number used to identify information in computer systems. The term globally unique identifier (GUID) is also used, typically in software created by Microsoft. When generated according to the standard methods, UUIDs are for practical purposes unique. Their uniqueness does not depend on a central registration authority or coordination between the parties generating them, unlike most other numbering schemes. While the probability that a UUID will be duplicated is not zero, it is close enough to zero to be negligible. Thus, anyone can create a UUID and use it to identify something with near certainty that the identifier does not duplicate one that has already been, or will be, created to identify something else.&nbsp;[†](#w-uuid)
@@ -99,6 +105,9 @@ UPA
 
 URC
 : → Uniform Resource Characteristic
+
+Urchin Tracking Module
+: A set of URL parameters used by marketers to track the effectiveness of online marketing campaigns across traffic sources and publishing media. The UTM parameters were introduced by Google Analytics’ predecessor Urchin and, consequently, are supported out-of-the-box by Google Analytics. The UTM parameters include `utm_source`, `utm_medium`, `utm_campaign`, `utm_term`, and `utm_content`.&nbsp;[†](#w-utm)
 
 URI
 : → Uniform Resource Identifier
@@ -161,7 +170,7 @@ User Interface
 : The space of interaction between humans and machines. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators’ decision-making process. Examples of this broad concept of user interfaces include the interactive aspects of computer operating systems, hand tools, heavy machinery operator controls, and process controls. The design considerations applicable when creating user interfaces are related to or involve such disciplines as ergonomics and psychology. Generally, the goal of user interface design is to produce a user interface which makes it easy, efficient, and enjoyable (user-friendly) to operate a machine in the way which produces the desired result.&nbsp;[†](#w-ui)
 
 User interface markup language
-: A markup language that renders and describes graphical user interfaces and controls. Many of these markup languages are dialects of XML and are dependent upon a pre-existing scripting language engine, usually a JavaScript engine, for rendering of controls and extra scriptability. The concept of user interface markup languages is primarily based upon the desire to prevent the “re-invention of the wheel” in the design, development, and function of a user interface; such re-invention comes in the form of coding a script for the entire user interface. The typical user interface markup language solidifies often re-used program or script code in the form of markup, making it easier to focus upon design of a user interface in an understandable dialect as opposed to focus on function. Examples for UIMLs include XUL and SVG.&nbsp;[†](#w-uiml)
+: A markup language that renders and describes graphical user interfaces and controls. Many of these markup languages are dialects of XML and are dependent upon a pre-existing scripting language engine, usually a JavaScript engine, for rendering of controls and extra scriptability. The concept of user interface markup languages is primarily based upon the desire to prevent the “re-invention of the wheel” in the design, development, and function of a user interface; such re-invention comes in the form of coding a script for the entire user interface. The typical user interface markup language solidifies often re-used program or script code in the form of markup, making it easier to focus upon design of a user interface in an understandable dialect as opposed to focus on function. Examples for UIMLs include XAML, XUL, and SVG.&nbsp;[†](#w-uiml)
 
 User story
 : An informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members.&nbsp;[†](#w-user-story)
@@ -190,6 +199,9 @@ UTF-32
 Utility class
 : In software development, a special case of a helper class in which the methods are all static.&nbsp;[†](#w-helper-class)
 : → Helper class
+
+UTM
+: → Urchin Tracking Module
 
 UUID
 : → Universally unique identifier

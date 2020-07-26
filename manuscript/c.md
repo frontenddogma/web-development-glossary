@@ -501,6 +501,9 @@ Cookie hijacking
 CoP
 : → Community of Practice
 
+Core Web Vitals
+: → Web Vitals
+
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
 

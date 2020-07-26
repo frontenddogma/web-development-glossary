@@ -13,6 +13,9 @@ Variable
 : A storage address (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value. The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during runtime, and the value of the variable may thus change during the course of program execution.&nbsp;[†](#w-variable)
 : → Custom property
 
+Variable font
+: As OpenType variable fonts, an extension to the OpenType specification introduced in OpenType 1.8. In 2016, Adobe, Apple, Google, and Microsoft announced the technology, which allows a single font file to store a continuous range of design variants. One of the key benefits of variable fonts is that they can significantly reduce the combined size of font data whenever multiple styles are in use.&nbsp;[†](#w-variable-font) ℹ︎&nbsp;[v-fonts.com](https://v-fonts.com/)
+
 Variable scope
 : → Scope
 

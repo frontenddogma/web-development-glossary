@@ -9,6 +9,9 @@ WAF
 WAI
 : → Web Accessibility Initiative
 
+WAI-ARIA
+: → ARIA
+
 WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
 
@@ -111,6 +114,9 @@ Web IDL
 Web indexing
 : The indexing of contents of a website or of the Internet—the Surface Web—as a whole. Individual websites or intranets may use a back-of-the-book index, while search engines usually use keywords and metadata to provide a more useful vocabulary for Internet or on-site searching.&nbsp;[†](#w-web-indexing)
 
+Web Open Font Format
+: A font format for use in web pages. WOFF files are OpenType or TrueType fonts, with additional XML metadata added and format-specific compression applied. The two primary goals are to first distinguish font files intended for use as web fonts from fonts files intended for use in desktop applications via local installation, and second to reduce web font latency when fonts are transferred from a server to a client over a network connection. The first draft of WOFF&nbsp;1 was published in 2009.&nbsp;[†](#w-woff) ℹ︎&nbsp;[w3.org/TR/WOFF2](https://www.w3.org/TR/WOFF2/)
+
 Web Packaging
 : A set of draft standards for packaging websites, developed by Google. Web Packaging focuses on bundling website resources with provisions for authentication and offline sharing. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
@@ -151,6 +157,9 @@ Web tracking
 Web typography
 : The use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual web pages to control font display until Netscape introduced the `font` element in 1995, which was then standardized in HTML&nbsp;3.2. However, the font specified had to be installed on the user’s computer or a fallback font, such as a browser’s default sans-serif or monospace font, would be used. The CSS&nbsp;2 specification attempted to improve the font selection process by adding font matching, synthesis, and download. These techniques did not gain much use, and were removed in CSS&nbsp;2.1. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997, which was later included in the CSS&nbsp;3 fonts module, and has since been implemented in Safari&nbsp;3.1, Opera&nbsp;10, and Firefox 3.5. This has subsequently increased interest in web typography, as well as the usage of web fonts.&nbsp;[†](#w-web-typography)
 
+Web Vitals
+: A set of metrics suggested important for a great user experience on the Web. The Web Vitals initiative was started in 2020 by Google. The “Core Web Vitals” include Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). ℹ︎&nbsp;[web.dev/vitals](https://web.dev/vitals/)
+
 Web worker
 : A JavaScript script executed from an HTML page that runs in the background, independently of scripts that may also have been executed from the same HTML page. The World Wide Web Consortium (W3C) and the WHATWG envision web workers as long-running scripts that are not interrupted by scripts that respond to clicks or other user interactions. Keeping such workers from being interrupted by user activities allows web pages to remain responsive at the same time as they are running long tasks in the background.&nbsp;[†](#w-web-worker) ℹ︎&nbsp;[is.gd/A546Cx](https://html.spec.whatwg.org/multipage/workers.html)
 
@@ -174,6 +183,12 @@ Weblog
 
 WebM
 : An audiovisual media file format. WebM is primarily intended to offer a royalty-free alternative to use in the HTML video and audio elements. It has a sister project WebP for images. WebM was first released in 2010.&nbsp;[†](#w-webm) ℹ︎&nbsp;[webmproject.org](https://www.webmproject.org/)
+
+Webmaster
+: A person responsible for maintaining one or more websites. The title may refer to web architects, web developers, site authors, website administrators, website owners, website coordinators, or website publishers.&nbsp;[†](#w-webmaster)
+
+Webmention
+: A W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
 
 WebP
 : An image format employing both lossy and lossless compression. WebP was first released in 2010.&nbsp;[†](#w-webp) ℹ︎&nbsp;[developers.google.com/speed/webp](https://developers.google.com/speed/webp)
@@ -232,6 +247,9 @@ WHOIS
 Widow
 : A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.”&nbsp;[†](#w-widows-orphans)
 
+Wiki
+: A hypertext publication collaboratively edited and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its internal knowledge base.&nbsp;[†](#w-wiki)
+
 Window-Eyes
 : A screen reader for the Microsoft Windows operating system, developed by GW Micro. Window-Eyes was first released in 1995.&nbsp;[†](#w-window-eyes)
 
@@ -261,6 +279,9 @@ WML
 
 Wobbly Transformation Format 8-Bit
 : An extension of UTF-8 where the encodings of unpaired surrogate halves (`U+D800` through `U+DFFF`) are allowed. This is necessary to store possibly-invalid UTF-16, such as Windows filenames. Many systems that deal with UTF-8 work this way without considering it a different encoding, as it is simpler.&nbsp;[†](#w-utf-8)
+
+WOFF
+: → Web Open Font Format
 
 WORA
 : → Write Once, Run Anywhere
