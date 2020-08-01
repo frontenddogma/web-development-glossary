@@ -3,7 +3,7 @@
 
 This is a glossary for web&nbsp;development.
 
-It covers about 2,000 important, useful, and historic terms and abbreviations relevant for web (and software)&nbsp;developers.
+It covers more than 2,000 important, useful, and historic terms and abbreviations relevant for web (and software)&nbsp;developers.
 
 The glossary acquaints and reunites you with HTML, CSS, JavaScript, accessibility, security, performance, code quality, internationalization, localization, editors and tooling and more. It goes a little beyond web development, touching computer science, design, typography, usability and user experience, information as well as project management, other disciplines with concepts of interest and relevance to the modern developer. It goes beyond to encourage to stay curious, to learn more about the Web and the people building&nbsp;it.
 

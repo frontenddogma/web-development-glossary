@@ -189,7 +189,7 @@ Reset
 : → Reset style sheet
 
 Reset style sheet
-: A set of CSS rules used to “clear” the formatting of HTML elements, or to make respective formatting consistent in major web browsers. The usefulness of reset style sheets is disputed because they do not technically “reset” styling, and because in practice, their use is often unnecessary, only increasing the payload of respective sites or apps.
+: A set of CSS rules used to “clear” the formatting of HTML elements, or to make respective formatting consistent in major web browsers. The usefulness of reset style sheets is disputed because they do not technically “reset” styling, and because in practice, their use is often unnecessary, only increasing the payload of respective site or app.
 
 Resolution
 : → Display resolution

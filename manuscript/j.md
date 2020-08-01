@@ -13,7 +13,7 @@ JAR
 : → Java archive
 
 Jasmine
-: A testing framework for JavaScript. Jasmine aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax.&nbsp;[†](#w-jasmine) ℹ︎&nbsp;[jasmine.github.io](https://jasmine.github.io/)
+: A testing framework for JavaScript. Jasmine aims to run on any JavaScript-enabled platform, not to intrude on the application nor the IDE, and to have easy-to-read syntax.&nbsp;[†](#w-jasmine) ℹ︎&nbsp;[jasmine.github.io](https://jasmine.github.io/)
 
 Java
 : A general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. Java was first released in 1995.&nbsp;[†](#w-java) ℹ︎&nbsp;[java.com](https://www.java.com/)

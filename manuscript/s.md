@@ -114,7 +114,7 @@ Search Engine Results Page
 : The results web page(s) of a search engine, in response to a search query.
 
 Searching
-: A research and navigation strategy. The other of the two major ways of interacting with the Web, the other one being browsing or surfing.
+: A research and navigation strategy. One of the two major ways of interacting with the Web, the other one being browsing or surfing.
 
 Section 508
 : United States accessibility regulations. ℹ︎&nbsp;[section508.gov](https://www.section508.gov/)
@@ -156,7 +156,7 @@ Semantic Web
 : An extension of the World Wide Web through standards set by the World Wide Web Consortium (W3C). The goal of the Semantic Web is to make Internet data machine-readable. To enable the encoding of semantics with the data, technologies such as Resource Description Framework (RDF) and Web Ontology Language (OWL) are used. These technologies allow to formally represent metadata. For example, ontology can describe concepts, relationships between entities, and categories of things. These embedded semantics offer significant advantages such as reasoning over data and operating with heterogeneous data sources.&nbsp;[†](#w-semantic-web)
 
 Semantics
-: For markup languages, the meaning of elements, element groups, and microformats.
+: For markup languages, the meaning and purpose of elements, element groups, and microformats.
 : For programming languages, the field concerned with the mathematical study of the meaning of programming languages. It does so by evaluating the meaning of syntactically valid strings defined by a specific programming language, showing the computation involved. In such a case that the evaluation would be of syntactically invalid strings, the result would be non-computation. Semantics describes the processes a computer follows when executing a program in that specific language. This can be shown by describing the relationship between the input and output of a program, or an explanation of how the program will be executed on a certain platform, hence creating a model of computation.&nbsp;[†](#w-semantics)
 
 SemVer
@@ -452,7 +452,7 @@ Specification
 : A set of documented requirements to be satisfied by a material, design, product, or service. A specification is often a type of technical standard. There are different types of technical or engineering specifications (specs), and the term is used differently in different technical contexts. They often refer to particular documents or particular information within them. The word “specification” is broadly defined as “to state explicitly or in detail” or “to be specific.”&nbsp;[†](#w-specification)
 
 Specificity
-: A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector’s specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have final say.)
+: A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector’s specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have the final say.)
 
 Speed Index
 : A page load performance metric that shows how quickly the contents of a page are visibly populated. Speed Index is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on the size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)

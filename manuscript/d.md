@@ -197,7 +197,7 @@ Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
 Device pixel
-: The physical pixels of a device.
+: A reference to the physical pixels of a device.
 
 DevOps
 : A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.&nbsp;[†](#w-devops)
