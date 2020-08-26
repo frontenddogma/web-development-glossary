@@ -8,7 +8,7 @@ QC
 : → Quality Control
 
 qooxdoo
-: An AJAX web application framework. qooxdoo provides support for professional JavaScript development with a graphical user interface (GUI) toolkit and high-level client-server communication. It was first released in 2005.&nbsp;[†](#w-qooxdoo) ℹ︎&nbsp;[qooxdoo.org](http://www.qooxdoo.org/)
+: An AJAX web application framework. qooxdoo provides support for professional JavaScript development with a graphical user interface (GUI) toolkit and high-level client-server communication. It was first released in 2005.&nbsp;[†](#w-qooxdoo) ℹ︎&nbsp;[qooxdoo.org](https://qooxdoo.org/)
 
 Quality
 : The non-inferiority or superiority of something, and also its being suitable for the intended purpose (fitness for purpose) while satisfying customer expectations. Quality is a perceptual, conditional, and somewhat subjective attribute and may be understood differently by different people. Consumers may focus on the specification quality of a product or service, or how it compares to competitors in the marketplace. Producers might measure the conformance quality, or degree to which the product or service was produced correctly. Support personnel may measure quality in the degree that a product is reliable, maintainable, or sustainable.&nbsp;[†](#w-quality)
