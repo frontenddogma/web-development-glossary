@@ -239,7 +239,7 @@ Whitelist
 : The practice of explicitly allowing identified entities access to a particular privilege, service, mobility, access, or recognition. The opposite of a whitelist is a blacklist.&nbsp;[†](#w-whitelist)
 
 Whitespace
-: Any character or series of characters that represent horizontal or vertical space in typography. When rendered, a whitespace character does not correspond to a visible mark, but typically does occupy an area on a page. For example, the common whitespace symbol `U+0020 SPACE` (also ASCII 32) represents a blank space punctuation character in text, used as a word divider in Western scripts.&nbsp;[†](#w-whitespace)
+: Any character or series of characters that represent horizontal or vertical space in typography. When rendered, a whitespace character does not correspond to a visible mark, but typically does occupy an area on a page. For example, the common whitespace symbol `U+0020 SPACE` (also ASCII 32) represents a blank space punctuation character in text, used as a word divider in western scripts.&nbsp;[†](#w-whitespace)
 
 WHOIS
 : A query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC&nbsp;3912. The first WHOIS directory was created in the 1970s.&nbsp;[†](#w-whois)
