@@ -1149,4 +1149,4 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 
 The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been&nbsp;edited.
 
-[1.2.5]
+[1.2.6]

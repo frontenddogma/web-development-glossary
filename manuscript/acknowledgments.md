@@ -1,3 +1,3 @@
 _The Web Development Glossary_ would not have been possible without help. I thank Gabriele Kretzschmar for review of the manuscript, and Ganesh Subramanian and Yaroslav Kiyenko for advice on book details. I am also grateful to Wikipedia, the MDN Web Docs, and all their contributors for their own work mapping the web development landscape, and allowing others to build on that work. Thank&nbsp;you.
 
-I also thank Lucas Frank Weatherhog and Dan Shappir, who contributed with suggestions and corrections to the glossary, as well as [Red Onion](https://redonion.se/) for their friendly&nbsp;support.
+I also thank Lucas Frank Weatherhog, Dan Shappir, [Shaun O’Connell](https://tactile.co.za/), [Moritz Gießmann](https://moritzgiessmann.de/), and [J. Albert Bowden II](https://bowdenweb.com/) who contributed with corrections and suggestions to the glossary, as well as [Red Onion](https://redonion.se/) for their friendly&nbsp;support.
