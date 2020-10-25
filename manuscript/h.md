@@ -235,4 +235,4 @@ Hypertext Transfer Protocol Secure
 Hypothesis-Driven Development
 : A product development approach based on continuously running experiments to test hypotheses about a product, its users, and the market.
 
-T> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
