@@ -334,7 +334,7 @@ Product Backlog Item
 : An element from a Product Backlog. PBIs can include research tasks, specifications, requirements, use cases, user stories, epics, bugs, and refactoring tasks.
 
 Product Owner
-: A Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for respective product.
+: A Scrum role that is responsible for maximizing the value of a product as well as for managing requirements and expectations for the respective product.
 
 Production
 : → Production environment

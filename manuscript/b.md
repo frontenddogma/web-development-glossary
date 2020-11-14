@@ -182,7 +182,7 @@ Bookmark icon
 : → Favicon
 
 Bookmarklet
-: Unobtrusive JavaScript stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. Bookmarklets allow to add one-click functionality to respective browser or web page.&nbsp;[†](#w-bookmarklet)
+: Unobtrusive JavaScript stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. Bookmarklets allow to add one-click functionality to the respective browser or web page.&nbsp;[†](#w-bookmarklet)
 
 Boolean
 : A data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid-19th century. The Boolean data type is primarily associated with conditional statements.&nbsp;[†](#w-boolean)

@@ -58,7 +58,7 @@ OOP
 : → Object-Oriented Programming
 
 Open Graph Protocol
-: A microformat that enables developers to integrate their pages into Facebook’s Social Graph, a global mapping and tracking tool. Respective pages gain the functionality of other graph objects including profile links and stream updates for connected users. OGP was created in 2010 by Facebook.&nbsp;[†](#w-facebook-platform) ℹ︎&nbsp;[ogp.me](https://ogp.me/)
+: A microformat that enables developers to integrate their pages into Facebook’s Social Graph, a global mapping and tracking tool. The respective pages gain the functionality of other graph objects including profile links and stream updates for connected users. OGP was created in 2010 by Facebook.&nbsp;[†](#w-facebook-platform) ℹ︎&nbsp;[ogp.me](https://ogp.me/)
 
 Open Source
 : Products that include permission to use the source code, design documents, or content of the product. Open Source most commonly refers to the open source model, in which software or other products are released under a permissive open source license. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.&nbsp;[†](#w-open-source) ℹ︎&nbsp;[opensource.org](https://opensource.org/)

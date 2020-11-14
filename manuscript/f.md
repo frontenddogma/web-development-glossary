@@ -98,7 +98,7 @@ First Paint
 : The time between navigation and when the browser renders the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “Is it happening?”&nbsp;[‡](#m-first-paint)
 
 First-class function
-: A function that is treated like any other variable in respective language.&nbsp;[‡](#m-first-class-function)
+: A function that is treated like any other variable in the respective language.&nbsp;[‡](#m-first-class-function)
 
 First-order function
 : → First-class function
@@ -117,7 +117,7 @@ Flash of Faux Text
 : The effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
 
 Flash of Invisible Text
-: The effect when a browser hides text until respective web font is loaded, possibly leading to invisible content.
+: The effect when a browser hides text until the respective web font is loaded, possibly leading to invisible content.
 
 Flash of Unstyled Content
 : → Flash of Unstyled Text
@@ -194,7 +194,7 @@ Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
 Foobar
-: Meta-syntactic variables and placeholder names (“foobar”, “foo”, “bar”, etc.) used in computer programming and documentation when a concept is to be demonstrated and respective variable’s, function’s, or command’s exact identity is unimportant.&nbsp;[†](#w-foobar)
+: Meta-syntactic variables and placeholder names (“foobar”, “foo”, “bar”, etc.) used in computer programming and documentation when a concept is to be demonstrated and the respective variable’s, function’s, or command’s exact identity is unimportant.&nbsp;[†](#w-foobar)
 
 `for`
 : → Loop

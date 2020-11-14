@@ -188,7 +188,7 @@ Server farm
 : A collection of computer servers, usually maintained by an organization to supply server functionality far beyond the capability of a single machine. Server farms often consist of thousands of computers which require a large amount of power to run and to keep cool. At the optimum performance level, a server farm has enormous costs (both financial and environmental) associated with it. Server farms often have backup servers, which can take over the function of primary servers in the event of a primary-server failure. Server farms are typically collocated with the network switches or routers which enable communication between the different parts of the cluster and the users of the cluster.&nbsp;[†](#w-server-farm)
 
 Server logs
-: Log files related to server events. Server logs may be generated and stored on respective servers.
+: Log files related to server events. Server logs may be generated and stored on the respective servers.
 
 Server push
 : → Push technology
@@ -326,7 +326,7 @@ Sloppy mode
 : The colloquial label for the opposite of JavaScript’s strict mode.
 
 Slot
-: The HTML `slot` element and respective use with web components.
+: The HTML `slot` element and the respective use with web components.
 
 Slug
 : The part of a URL that identifies a page in human-readable keywords. A slug is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word “slug” in the news media to indicate a short name given to an article for internal use.&nbsp;[†](#w-clean-url)

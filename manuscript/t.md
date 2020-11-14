@@ -94,7 +94,7 @@ Telnet
 
 Template
 : A static or dynamic file used to create or duplicate other files.
-: The HTML `template` element and respective use with web components.
+: The HTML `template` element and the respective use with web components.
 
 Template language
 : The syntax used by a template processor.

@@ -447,7 +447,7 @@ Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for Enterprise Content Management (ECM) and Web Content Management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)
 
 Content network
-: A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through respective ad platform.
+: A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through the respective ad platform.
 
 Content optimization
 : The process of improving content, making it as interesting as possible for users and search engines, and increasing its reach.
@@ -490,7 +490,7 @@ Cookie
 : A small piece of data sent from a website and stored on a user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether a user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
 Cookie banner
-: A web page notification alerting and informing about respective site’s use of cookies. Cookie banners are common on European websites because of European regulations around the use of cookies.
+: A web page notification alerting and informing about the respective site’s use of cookies. Cookie banners are common on European websites because of European regulations around the use of cookies.
 
 Cookie consent
 : The agreement to but also a term for the requirement for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
@@ -568,7 +568,7 @@ Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
 
 Cross-Site WebSocket Hijacking
-: An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
+: An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on the respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
 
 CRUD
 : → Create, Read, Update, Delete
