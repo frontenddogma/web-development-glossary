@@ -16,10 +16,12 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing){#w-acceptance-testing}
 * [Access control](https://en.wikipedia.org/wiki/Access_control){#w-ac}
 * [Access token](https://en.wikipedia.org/wiki/Access_token){#w-access-token}
+* [Access-control list](https://en.wikipedia.org/wiki/Access-control_list){#w-acl}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ACID](https://en.wikipedia.org/wiki/ACID){#w-acid}
 * [Acqui-hiring](https://en.wikipedia.org/wiki/Acqui-hiring){#w-acqui-hiring}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
+* [Active redundancy](https://en.wikipedia.org/wiki/Active_redundancy){#w-active-redundancy}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Active users](https://en.wikipedia.org/wiki/Active_users){#w-active-users}
 * [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion){#w-coldfusion}
@@ -62,6 +64,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Authentication](https://en.wikipedia.org/wiki/Authentication){#w-authentication}
 * [Authorization](https://en.wikipedia.org/wiki/Authorization){#w-authorization}
 * [Automation](https://en.wikipedia.org/wiki/Automation){#w-automation}
+* [AV1](https://en.wikipedia.org/wiki/AV1){#w-av1}
 * [Babel (transpiler)](https://en.wikipedia.org/wiki/Babel_(transpiler)){#w-babel}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Backward compatibility](https://en.wikipedia.org/wiki/Backward_compatibility){#w-backward-compatibility}
@@ -1053,6 +1056,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
+* [ALPN](https://developer.mozilla.org/en-US/docs/Glossary/alpn){#m-alpn}
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
 * [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob){#m-blob}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}
