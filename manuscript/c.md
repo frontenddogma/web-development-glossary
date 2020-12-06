@@ -102,6 +102,9 @@ Certificate
 Certificate Authority
 : An entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party, trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 standard. One particularly common use for certificate authorities is to sign certificates used in HTTPS, the secure browsing protocol for the World Wide Web.&nbsp;[†](#w-ca)
 
+CES
+: → Customer Effort Score
+
 CFML
 : → ColdFusion Markup Language
 
@@ -630,6 +633,9 @@ Custom element
 
 Custom property
 : A CSS property that is prefixed with `--`, like `--example-name`, and whose value can be used in other declarations using the `var()` function. Custom properties are scoped to the element(s) they are declared on, and participate in the cascade: The value of a custom property is that from the declaration decided by the cascading algorithm. Custom properties are also known as CSS variables.&nbsp;[‡](#m-custom-property) ℹ︎&nbsp;[w3.org/TR/css-variables-1](https://www.w3.org/TR/css-variables-1/)
+
+Customer Effort Score
+: A customer service metric that measures the experience with a product or service. Customers document their experience on a 7-point Likert scale ranging from “Very Difficult” to “Very Easy.” The result can be used to assess how much effort is needed to use the respective product or service, and to predict further use.
 
 Customer Relationship Management
 : An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)

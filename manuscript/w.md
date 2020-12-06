@@ -75,6 +75,9 @@ Web bug
 Web Bundles
 : A draft standard to bundle and store HTTP responses. Web Bundles are a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
+Web cache
+: → Cache
+
 Web component
 : A set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements. The primary technologies used to create web components include custom elements (APIs to define new HTML elements), Shadow DOM (encapsulated DOM and styling, with composition), and HTML templates (HTML fragments that are not rendered, but stored until instantiated via JavaScript).&nbsp;[†](#w-web-component) ℹ︎&nbsp;[webcomponents.org](https://www.webcomponents.org/)
 

@@ -7,6 +7,9 @@ BA
 Babel
 : A JavaScript transpiler that is mainly used to convert ECMAScript 2015+ (ES6+) code into a backwards-compatible version of JavaScript that can be run by older JavaScript engines.&nbsp;[†](#w-babel) ℹ︎&nbsp;[babeljs.io](https://babeljs.io/)
 
+Back/forward cache
+: A browser optimization to improve the web browsing experience. Bfcache is an in-memory cache that stores a complete snapshot of a web page to enable fast back and forward navigation.
+
 Backend
 : The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
 
@@ -63,6 +66,9 @@ Best practice
 
 Bézier curve
 : A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points (if any) generally do not lie on the curve. Named after Pierre Bézier (1910–1999).&nbsp;[†](#w-bezier-curve)
+
+Bfcache
+: → Back/forward cache
 
 BHO
 : → Browser Helper Object
