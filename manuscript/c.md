@@ -8,6 +8,9 @@ CA
 Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
+Cache busting
+: A type of HTTP flood attack that uses query variations to get around caching. Instead of returning results from the cache, other servers must be contacted which increases their load to potentially overwhelm them.
+
 Cache poisoning
 : → DNS spoofing
 

@@ -70,6 +70,9 @@ ACID
 Acid tests
 : A range of web standards compliance tests that were set up in 1999 (Acid1), 2005 (Acid2), and 2008 (Acid3). ℹ︎&nbsp;[acidtests.org](https://www.acidtests.org/)
 
+ACK
+: A signal that is passed between communicating processes, computers, or devices to signify acknowledgement, or receipt of message, as part of a communications protocol.&nbsp;[†](#w-ack)
+
 ACL
 : → Access Control List
 

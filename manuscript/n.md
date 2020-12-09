@@ -3,6 +3,12 @@
 n-based indexing
 : The option to freely choose the base index of an array. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.&nbsp;[†](#w-array)
 
+NACK
+: A signal sent to reject a previously received message, or to indicate some kind of error (negative acknowledgement).&nbsp;[†](#w-ack)
+
+NAK
+: → NACK
+
 Name binding
 : → Binding
 

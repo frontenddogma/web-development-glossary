@@ -19,6 +19,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Access-control list](https://en.wikipedia.org/wiki/Access-control_list){#w-acl}
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility){#w-accessibility}
 * [ACID](https://en.wikipedia.org/wiki/ACID){#w-acid}
+* [Acknowledgement (data networks)](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)){#w-ack}
 * [Acqui-hiring](https://en.wikipedia.org/wiki/Acqui-hiring){#w-acqui-hiring}
 * [ActionScript](https://en.wikipedia.org/wiki/ActionScript){#w-actionscript}
 * [Active redundancy](https://en.wikipedia.org/wiki/Active_redundancy){#w-active-redundancy}
