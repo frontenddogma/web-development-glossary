@@ -119,11 +119,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
 * [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering){#w-chaos-engineering}
+* [CheiRank](https://en.wikipedia.org/wiki/CheiRank){#w-cheirank}
 * [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS){#w-chrome-os}
 * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser)){#w-chromium}
 * [Cipher](https://en.wikipedia.org/wiki/Cipher){#w-cipher}
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming)){#w-class}
 * [Class variable](https://en.wikipedia.org/wiki/Class_variable){#w-class-variable}
+* [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing){#w-cidr}
 * [Clean URL](https://en.wikipedia.org/wiki/Clean_URL){#w-clean-url}
 * [Click-through rate](https://en.wikipedia.org/wiki/Click-through_rate){#w-ctr}
 * [Clickjacking](https://en.wikipedia.org/wiki/Clickjacking){#w-clickjacking}
@@ -169,11 +171,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
 * [Computer file](https://en.wikipedia.org/wiki/Computer_file){#w-file}
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network){#w-network}
+* [Concurrency (computer science)](https://en.wikipedia.org/wiki/Concurrency_(computer_science)){#w-concurrency}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
 * [Conditional (computer programming)](https://en.wikipedia.org/wiki/Conditional_(computer_programming)){#w-conditional}
 * [Conditional comment](https://en.wikipedia.org/wiki/Conditional_comment){#w-conditional-comments}
 * [Cone of Uncertainty](https://en.wikipedia.org/wiki/Cone_of_Uncertainty){#w-cone-of-uncertainty}
 * [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest){#w-conflict-of-interest}
+* [Consistency](https://en.wikipedia.org/wiki/Consistency){#w-consistency}
 * [Console application](https://en.wikipedia.org/wiki/Console_application){#w-console}
 * [Constant (computer programming)](https://en.wikipedia.org/wiki/Constant_(computer_programming)){#w-constant}
 * [Constructor (object-oriented programming)](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)){#w-constructor}

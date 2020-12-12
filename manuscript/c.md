@@ -148,6 +148,9 @@ Character set
 Charset
 : → Character encoding
 
+CheiRank
+: An eigenvector with a maximal real eigenvalue of the Google matrix _G^*^_ constructed for a directed network with the inverted directions of links. CheiRank is similar to the PageRank vector, which ranks the network nodes in average proportionally to a number of incoming links being the maximal eigenvector of the Google matrix _G_ with a given initial direction of links. Due to inversion of link directions the CheiRank ranks the network nodes in average proportionally to a number of outgoing links.&nbsp;[†](#w-cheirank)
+
 Chrome
 : A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
@@ -174,6 +177,9 @@ CI
 : → Continuous Integration
 : → Corporate Identity
 
+CIDR
+: → Classless Inter-Domain Routing
+
 Cipher
 : An algorithm for encryption or decryption. To encipher or encode is to convert information into cipher or code.&nbsp;[†](#w-cipher)
 
@@ -186,6 +192,9 @@ Class
 
 Class variable
 : Any variable declared with the `static` modifier of which a single copy exists, regardless of how many instances of the class there are.&nbsp;[†](#w-class-variable)
+
+Classless Inter-Domain Routing
+: A method for allocating IP addresses and for IP routing. The Internet Engineering Task Force (IETF) introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. The goal of CIDR was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.&nbsp;[†](#w-cidr)
 
 Clearfix
 : A name for a variety of float-clearing techniques that may (when CSS only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
@@ -304,6 +313,9 @@ CoffeeScript
 Cognitive disability
 : As disabilities affecting cognitive ability, a concept encompassing various intellectual or cognitive deficits, including intellectual disability (formerly called mental retardation), deficits too mild to properly qualify as intellectual disability, various specific conditions (such as specific learning disability), and problems acquired later in life through acquired brain injuries or neurodegenerative diseases like dementia. Many of these disabilities have an effect on memory, which is the ability to recall what has been learned over time.&nbsp;[†](#w-cognitive-disability)
 
+Cold data
+: Rarely accessed data.
+
 ColdFusion
 : A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language.&nbsp;[†](#w-coldfusion) ℹ︎&nbsp;[is.gd/r6E53v](https://www.adobe.com/products/coldfusion-family.html)
 
@@ -397,6 +409,9 @@ Composite Capability/Preference Profiles
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
 
+Concurrency
+: The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems.&nbsp;[†](#w-concurrency)
+
 Concurrent Versioning System
 : → Concurrent Versions System
 
@@ -420,6 +435,9 @@ Confidentiality Agreement
 
 Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
+
+Consistency
+: In logic, a theory that does not entail a contradiction.&nbsp;[†](#w-consistency)
 
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command-line interface of some operating systems (Unix, DOS, etc.), or the text-based interface included with most graphical user interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
