@@ -479,6 +479,9 @@ Content optimization
 Content Security Policy
 : A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
 
+Content sniffing
+: → MIME sniffing
+
 Context switch
 : The process of storing the state of a process or thread, so that it can be restored and resume execution at a later point. Context switching allows multiple processes to share a single CPU, and is an essential feature of a multi-tasking operating system. The precise meaning of the phrase “context switch” varies. In the multi-tasking context, it refers to the process of storing the system state for one task, so that task can be paused and another task resumed. A context switch can also occur as the result of an interrupt, such as when a task needs to access disk storage, freeing up CPU time for other tasks. Some operating systems also require a context switch to move between user mode and kernel mode tasks. The process of context switching can have a negative impact on system performance.&nbsp;[†](#w-context-switch)
 
@@ -546,8 +549,14 @@ Country code top-level domain
 Coupling
 : A state in which one object uses a function of another object. Coupling also describes the degree of interdependence between software modules, as a measure of how closely connected two routines or modules are, and the strength of the relationships between modules. Coupling is usually contrasted with cohesion. Low coupling often correlates with high cohesion, and vice versa. Low coupling is often a sign of a well-structured computer system and a good design, and when combined with high cohesion, supports the general goals of high readability and maintainability.&nbsp;[†](#w-coupling)
 
+CPA
+: → Critical path analysis
+
 CPC
 : → Cost-per-click
+
+CPM
+: → Critical path method
 
 CQS
 : → Command-Query Separation
@@ -569,6 +578,21 @@ Create, Read, Update, Delete
 
 Create, Replicate, Append, Process
 : A variation of CRUD.&nbsp;[†](#w-crud)
+
+Critical CSS
+: The minimum of CSS needed to show a styled web page. Focus is usually on the immediately visible part of a page sitting at the top or “above the fold.” The respective CSS rules are then inlined, that is, embedded in a `style` element within the page’s `head` element.
+
+Critical path
+: The longest stretch of dependent project activities and the time required to complete them from start to finish.&nbsp;[†](#w-critical-path)
+
+Critical path analysis
+: → Critical path
+
+Critical path method
+: → Critical path
+
+Critical rendering path
+: A model for the steps needed to render a web page, and optimize its rendering. The critical rendering path includes the building of DOM (Document Object Model) and CSSOM (CSS Object Model), changes to both through the execution of JavaScript, the construction of the render tree, layout, and paint.
 
 CRM
 : → Customer Relationship Management
@@ -593,6 +617,9 @@ Cross-Site Scripting
 
 Cross-Site WebSocket Hijacking
 : An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on the respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
+
+CRP
+: → Critical rendering path
 
 CRUD
 : → Create, Read, Update, Delete
@@ -647,6 +674,9 @@ CTR
 
 Cumulative Layout Shift
 : A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
+
+Currying
+: The technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.&nbsp;[†](#w-currying)
 
 Custom element
 : → Autonomous custom element

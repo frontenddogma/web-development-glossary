@@ -33,6 +33,9 @@ Data Control Language
 Data Definition Language
 : A syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are `CREATE`, `ALTER`, and `DROP`.&nbsp;[†](#w-ddl)
 
+Data lake
+: A system or repository of data stored in its natural or raw format, usually object blobs or files. A data lake is usually a single store of data including raw copies of source system data, sensor data, social data, etc., and transformed data used for tasks such as reporting, visualization, advanced analytics, and machine learning.&nbsp;[†](#w-data-lake)
+
 Data Manipulation Language
 : A computer programming language used for adding (inserting), deleting, and modifying (updating) data in a database. A DML is often a sublanguage of a broader database language such as SQL, with the DML comprising some of the operators in the language. Read-only selecting of data is sometimes distinguished as being part of a separate data query language (DQL), but it is closely related and sometimes also considered a component of a DML; some operators may perform both selecting (reading) and writing.&nbsp;[†](#w-dml)
 
@@ -41,6 +44,9 @@ Data Query Language
 
 Data Stream Management System
 : A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
+
+Data swamp
+: A deteriorated and unmanaged data lake that is either inaccessible to its intended users or is providing little value.&nbsp;[†](#w-data-lake)
 
 Data type
 : → Type

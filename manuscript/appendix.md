@@ -185,6 +185,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network){#w-cdn}
 * [Content management system](https://en.wikipedia.org/wiki/Content_management_system){#w-cms}
 * [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy){#w-csp}
+* [Content sniffing](https://en.wikipedia.org/wiki/Content_sniffing){#w-mime-sniffing}
 * [Context switch](https://en.wikipedia.org/wiki/Context_switch){#w-context-switch}
 * [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery){#w-continuous-delivery}
 * [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment){#w-continuous-deployment}
@@ -198,6 +199,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){#w-coupling}
 * [Craft](https://en.wikipedia.org/wiki/Craft){#w-craft}
 * [Create, read, update and delete](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete){#w-crud}
+* [Critical path method](https://en.wikipedia.org/wiki/Critical_path_method){#w-critical-path}
 * [cron](https://en.wikipedia.org/wiki/Cron){#w-cron}
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery){#w-csrf}
@@ -208,6 +210,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [CSS Zen Garden](https://en.wikipedia.org/wiki/CSS_Zen_Garden){#w-css-zen-garden}
 * [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS){#w-css-in-js}
+* [Currying](https://en.wikipedia.org/wiki/Currying){#w-currying}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [D3.js](https://en.wikipedia.org/wiki/D3.js){#w-d3js}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
@@ -218,6 +221,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Data control language](https://en.wikipedia.org/wiki/Data_control_language){#w-dcl}
 * [Data definition language](https://en.wikipedia.org/wiki/Data_definition_language){#w-ddl}
+* [Data lake](https://en.wikipedia.org/wiki/Data_lake){#w-data-lake}
 * [Data manipulation language](https://en.wikipedia.org/wiki/Data_manipulation_language){#w-dml}
 * [Data stream management system](https://en.wikipedia.org/wiki/Data_stream_management_system){#w-dsms}
 * [Data type](https://en.wikipedia.org/wiki/Data_type){#w-data-type}

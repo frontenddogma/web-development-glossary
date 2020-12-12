@@ -189,6 +189,9 @@ Middleware
 MIME
 : → Multipurpose Internet Mail Extensions
 
+MIME sniffing
+: The practice of inspecting the content of a byte stream to attempt to deduce the file format of the data within it. MIME sniffing is generally used to compensate for a lack of accurate metadata that would otherwise be required to enable the file to be interpreted correctly. MIME and content sniffing techniques tend to use a mixture of techniques that rely on redundancy found in most file formats.&nbsp;[†](#w-mime-sniffing)
+
 MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 

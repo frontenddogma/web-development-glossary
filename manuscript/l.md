@@ -38,7 +38,8 @@ Law of Conservation of Complexity
 : → Tesler’s Law
 
 Layout
-: The part of graphic design that deals in the arrangement of visual elements on a (web) page. Layout generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: In web design, a part of graphic design that deals in the arrangement of visual elements on a (web) page. Layout generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: In web development, the rendering phase during which the position and size of each object is being calculated.
 
 Layout engine
 : → Browser engine

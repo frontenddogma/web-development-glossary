@@ -39,6 +39,9 @@ PageSpeed
 Page view
 : A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another page pointing to the page in question.&nbsp;[†](#w-page-view)
 
+Paint
+: The web page rendering phase during which the final render tree is used to render the respective pixels to the screen.
+
 Pair programming
 : An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the navigator or observer, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the navigator also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the navigator as a safety net and guide.&nbsp;[†](#w-pair-programming)
 
