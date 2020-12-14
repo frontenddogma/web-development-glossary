@@ -255,6 +255,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
+* [Django](https://en.wikipedia.org/wiki/Django_(web_framework)){#w-django}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
 * [DNS root zone](https://en.wikipedia.org/wiki/DNS_root_zone){#w-root-zone}
 * [DNS spoofing](https://en.wikipedia.org/wiki/DNS_spoofing){#w-dns-spoofing}
@@ -269,6 +270,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain name registrar](https://en.wikipedia.org/wiki/Domain_name_registrar){#w-registrar}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
+* [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design){#w-ddd}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
 * [Dots per inch](https://en.wikipedia.org/wiki/Dots_per_inch){#w-dpi}

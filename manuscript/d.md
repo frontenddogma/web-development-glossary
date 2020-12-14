@@ -90,6 +90,9 @@ DCVS
 DDA
 : → Disability Discrimination Act
 
+DDD
+: → Domain-Driven Design
+
 DDL
 : → Data Definition Language
 
@@ -241,6 +244,9 @@ Dither
 Divitis
 : Excessive use of `div` elements, an HTML anti-pattern.
 
+Django
+: A Python-based web framework that follows the model-template-views (MTV) architectural pattern and whose primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and “pluggability” of components, less code, low coupling, rapid development, and the principle of Don’t Repeat Yourself (DRY). Django was released in 2005; it is maintained by the Django Software Foundation (DSF).&nbsp;[†](#w-django) ℹ︎&nbsp;[djangoproject.com](https://www.djangoproject.com/)
+
 DLR
 : → Dynamic Language Runtime
 
@@ -313,6 +319,9 @@ Domain Name System
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
+
+Domain-Driven Design
+: The concept that the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.&nbsp;[†](#w-ddd)
 
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
