@@ -33,6 +33,9 @@ ECT
 Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows&nbsp;10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
 
+Edge caching
+: The caching of content close to end users, for example by using a Content Delivery Network (CDN).
+
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. An editor may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are a fundamental programming tool.&nbsp;[†](#w-editor)
 
@@ -144,6 +147,15 @@ Error
 
 ES
 : → ECMAScript
+
+ES Modules
+: A JavaScript-native module standard introduced with ES6 (2015) that enables more code reuse through means of `export` and `import` statements. ES Modules make for one of several module formats, others being CommonJS, Asynchronous Module Definition (AMD), and Universal Module Definition (UMD).
+
+ES4
+: The proposed fourth edition of ECMA-262 (ECMAScript&nbsp;4), first drafted in 1999, which was abandoned in 2008.&nbsp;[†](#w-ecmascript)
+
+ES6
+: The sixth version of ECMA-262 (ECMAScript&nbsp;6 or ECMAScript&nbsp;2015), released in 2015.&nbsp;[†](#w-ecmascript)
 
 Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; and 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)

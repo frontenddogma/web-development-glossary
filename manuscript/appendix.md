@@ -257,6 +257,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework)){#w-django}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
+* [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS){#w-doh}
 * [DNS root zone](https://en.wikipedia.org/wiki/DNS_root_zone){#w-root-zone}
 * [DNS spoofing](https://en.wikipedia.org/wiki/DNS_spoofing){#w-dns-spoofing}
 * [DocBook](https://en.wikipedia.org/wiki/DocBook){#w-docbook}

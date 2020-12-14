@@ -260,6 +260,9 @@ DNS
 : → Domain Name Service
 : → Domain Name System
 
+DNS over HTTPS
+: A protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol. A goal of the method is to increase user privacy and security by preventing eavesdropping and manipulation of DNS data through man-in-the-middle attacks by using the HTTPS protocol to encrypt the data between the DoH client and the DoH-based DNS resolver. DoH is specified in RFC&nbsp;8484.&nbsp;[†](#w-doh)
+
 DNS root zone
 : → Root zone
 
@@ -292,6 +295,9 @@ Document Type Definition
 
 Documentation
 : A set of documents provided in digital or analog media. Examples include user guides, white papers, online help, and quick-reference guides.&nbsp;[†](#w-documentation)
+
+DoH
+: → DNS over HTTPS
 
 Dojo
 : A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based websites and applications. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
