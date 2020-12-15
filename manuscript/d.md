@@ -54,6 +54,9 @@ Data type
 Data visualization
 : The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. The mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
 
+Data warehouse
+: A system used for data analysis and reporting, and a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place.&nbsp;[†](#w-dwh)
+
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 
@@ -397,6 +400,12 @@ Duplicate code
 
 DVCS
 : → Distributed Version Control System
+
+DW
+: → Data warehouse
+
+DWH
+: → Data warehouse
 
 DX
 : → Developer Experience

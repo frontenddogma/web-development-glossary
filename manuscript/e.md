@@ -160,6 +160,9 @@ ES6
 Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; and 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
 
+ETL
+: → Extract, Transform, Load
+
 Etiquette
 : The set of conventional rules of personal behavior in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
 
@@ -219,6 +222,9 @@ Extensible Stylesheet Language Transformations
 
 External
 : Originating outside one’s organization.
+
+Extract, Transform, Load
+: The general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context. The ETL process became a popular concept in the 1970s and is often used in data warehousing.&nbsp;[†](#w-etl)
 
 Extreme Programming
 : A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent releases in short development cycles, which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. Other elements of Extreme Programming include programming in pairs or doing extensive code reviews, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer’s requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)

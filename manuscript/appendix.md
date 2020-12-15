@@ -227,6 +227,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Data type](https://en.wikipedia.org/wiki/Data_type){#w-data-type}
 * [Data validation](https://en.wikipedia.org/wiki/Data_validation){#w-validation}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
+* [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse){#w-dwh}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization){#w-normalization}
@@ -309,6 +310,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
 * [Express.js](https://en.wikipedia.org/wiki/Express.js){#w-express}
 * [Extensible Application Markup Language](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language){#w-xaml}
+* [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load){#w-etl}
 * [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming){#w-xp}
 * [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking){#w-eye-tracking}
 * [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern){#w-facade-pattern}
