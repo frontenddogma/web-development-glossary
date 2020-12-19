@@ -303,6 +303,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Equality Act 2010](https://en.wikipedia.org/wiki/Equality_Act_2010){#w-equality-act}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
+* [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act){#w-eaa}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
 * [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture){#w-eda}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
@@ -349,6 +350,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation){#w-fsf}
 * [Free variables and bound variables](https://en.wikipedia.org/wiki/Free_variables_and_bound_variables){#w-free-bound-variable}
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-frontend-backend}
+* [FTPS](https://en.wikipedia.org/wiki/FTPS){#w-ftps}
 * [Fully qualified domain name](https://en.wikipedia.org/wiki/Fully_qualified_domain_name){#w-fqdn}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}

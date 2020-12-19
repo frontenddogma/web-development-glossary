@@ -110,6 +110,9 @@ Fixed
 : A CSS positioning scheme in which an element behaves as if it was set to `absolute` positioning, yet its containing block is the viewport.
 : A web design approach in which page elements have a fixed as opposed to a variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
 
+Flame graph
+: A flame-like visualization method for software profiling. ℹ︎&nbsp;[is.gd/EnyPjs](http://www.brendangregg.com/flamegraphs.html)
+
 Flash
 : A deprecated multimedia software platform used for the production of animations, games, and applications. Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe favors a transition to HTML. The Flash Player has been deprecated and has its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
 
@@ -180,6 +183,9 @@ Folksonomy
 
 Font
 : With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer Roman,” “Bulmer,” “Bulmer Bold,” and “Bulmer Extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, a font is a digital file.&nbsp;[†](#w-font)
+
+Font Awesome
+: An icon toolkit based on CSS. Font Awesome was first released in 2012. ℹ︎&nbsp;[fontawesome.com](https://fontawesome.com/)
 
 Font block period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render an invisible fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
@@ -288,6 +294,18 @@ FSF
 
 FTP
 : → File Transfer Protocol
+
+FTP over SSH
+: The practice of tunneling a normal FTP session over a Secure Shell connection.&nbsp;[†](#w-ftp)
+
+FTP Secure
+: → FTPS
+
+FTP-SSL
+: → FTPS
+
+FTPS
+: An extension to the commonly used File Transfer Protocol (FTP) that adds support for the Transport Layer Security (TLS) and, formerly, the Secure Sockets Layer (SSL, which is now prohibited by RFC&nbsp;7568) cryptographic protocols. FTPS should not be confused with the SSH File Transfer Protocol (SFTP), a secure file transfer subsystem for the Secure Shell (SSH) protocol with which it is not compatible; it is also different from FTP over SSH.&nbsp;[†](#w-ftps)
 
 Fugu
 : A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[is.gd/Yyn0oQ](https://www.chromium.org/teams/web-capabilities-fugu)
