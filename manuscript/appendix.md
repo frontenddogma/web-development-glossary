@@ -388,6 +388,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon){#w-hackathon}
 * [Hacker](https://en.wikipedia.org/wiki/Hacker){#w-hacker}
 * [Haml](https://en.wikipedia.org/wiki/Haml){#w-haml}
+* [Hardware security module](https://en.wikipedia.org/wiki/Hardware_security_module){#w-hsm}
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function){#w-hash-function}
 * [Hash table](https://en.wikipedia.org/wiki/Hash_table){#w-hash-table}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
@@ -410,6 +411,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [HTML element](https://en.wikipedia.org/wiki/HTML_element){#w-element}
 * [HTML5 Boilerplate](https://en.wikipedia.org/wiki/HTML5_Boilerplate){#w-html5-boilerplate}
 * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie){#w-cookie}
+* [HTTP Flood](https://en.wikipedia.org/wiki/HTTP_Flood){#w-http-flood-attack}
 * [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security){#w-hsts}
 * [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2){#w-http2}
 * [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3){#w-http3}

@@ -15,6 +15,9 @@ Handlebars
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
+Hardware security module
+: A physical computing device that safeguards and manages digital keys and that performs encryption and decryption for digital signatures, authentication, and other cryptographic functions. Hardware security modules traditionally come in the form of a plug-in card or an external device that attaches directly to a computer or network server.&nbsp;[†](#w-hsm)
+
 Hash
 : → Number sign
 
@@ -142,6 +145,9 @@ HPR
 HSL
 : → Hue, Saturation, Lightness
 
+HSM
+: → Hardware security module
+
 HSTS
 : → HTTP Strict Transport Security
 
@@ -160,6 +166,9 @@ HTML template
 HTML&nbsp;5
 : → HTML
 
+HTML-in-JS
+: The writing of HTML code in JavaScript, notably by using the `innerHTML` property.
+
 HTML/CSS framework
 : A library allowing for easier web design and development using HTML and CSS. Most HTML/CSS frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript-based functions, but are mostly design-oriented and focused around interactive UI patterns. This detail differentiates HTML/CSS frameworks from JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
@@ -171,6 +180,9 @@ HTML5 Boilerplate
 
 HTTP
 : → Hypertext Transfer Protocol
+
+HTTP flood attack
+: A type of Distributed Denial of Service (DDoS) attack in which the attacker makes unwanted `GET` or `POST` requests in order to attack a web server or application. These attacks often use interconnected computers that have been taken over with the aid of malware. Instead of using malformed packets, spoofing, or reflection techniques, HTTP floods require less bandwidth to attack the targeted sites or servers.&nbsp;[†](#w-http-flood-attack)
 
 HTTP method
 : A desired HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred to as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g., a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)
@@ -195,6 +207,15 @@ HTTPS
 
 HTTPS Everywhere
 : A browser extension for Chrome, Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
+
+HubDB
+: A relational database represented through rows, columns, and cells in a table, comparable to a spreadsheet. ℹ︎&nbsp;[is.gd/49zeTJ](https://developers.hubspot.com/docs/cms/features/hubdb)
+
+HubL
+: → HubSpot Markup Language
+
+HubSpot Markup Language
+: A HubSpot-proprietary extension of Jinjava which features markup unique to the HubSpot marketing and sales software.
 
 Hue, Saturation, Lightness
 : An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
