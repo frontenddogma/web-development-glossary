@@ -256,6 +256,9 @@ Hypertext Transfer Protocol
 Hypertext Transfer Protocol Secure
 : An extension of the Hypertext Transfer Protocol (HTTP). HTTPS is used for secure communication over a computer network and widely employed on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS, or HTTP over SSL. The principal motivations for HTTPS are authentication of the accessed website, protection of privacy, and integrity of the exchanged data while in transit. The bidirectional encryption of communications between a client and server protects against eavesdropping and tampering of the communication. The authentication aspect of HTTPS requires a trusted third party to sign server-side digital certificates, which historically was expensive.&nbsp;[†](#w-https)
 
+Hypervisor
+: Computer software, firmware, or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a host machine, and each virtual machine is called a guest machine. The hypervisor presents the guest operating systems with a virtual operating platform and manages the execution of the guest operating systems.&nbsp;[†](#w-hypervisor)
+
 Hypothesis-Driven Development
 : A product development approach based on continuously running experiments to test hypotheses about a product, its users, and the market.
 

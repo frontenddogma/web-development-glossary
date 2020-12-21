@@ -44,6 +44,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Animation](https://en.wikipedia.org/wiki/Animation){#w-animation}
 * [Anonymous function](https://en.wikipedia.org/wiki/Anonymous_function){#w-anonymous-function}
 * [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern){#w-anti-pattern}
+* [Apache Maven](https://en.wikipedia.org/wiki/Apache_Maven){#w-maven}
 * [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion){#w-subversion}
 * [Apache Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat){#w-tomcat}
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
@@ -422,6 +423,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hype cycle](https://en.wikipedia.org/wiki/Hype_cycle){#w-hype-cycle}
 * [Hypertext](https://en.wikipedia.org/wiki/Hypertext){#w-hypertext}
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
+* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor){#w-hypervisor}
 * [IBM Home Page Reader](https://en.wikipedia.org/wiki/IBM_Home_Page_Reader){#w-hpr}
 * [ICANN](https://en.wikipedia.org/wiki/ICANN){#w-icann}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
@@ -489,6 +491,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [JAWS (screen reader)](https://en.wikipedia.org/wiki/JAWS_(screen_reader)){#w-jaws}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
+* [Jinja (template engine)](https://en.wikipedia.org/wiki/Jinja_(template_engine)){#w-jinja}
 * [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
 * [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/Joint_Photographic_Experts_Group){#w-joint-photographic-experts-group}
 * [Joomla](https://en.wikipedia.org/wiki/Joomla){#w-joomla}

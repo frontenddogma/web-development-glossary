@@ -253,8 +253,14 @@ Apache
 Apache HTTP Server
 : A cross-platform web server. The Apache server was first released in 1995. ℹ︎&nbsp;[httpd.apache.org](https://httpd.apache.org/)
 
+Apache Maven
+: → Maven
+
+Apache Subversion
+: → Subversion
+
 Apache Tomcat
-: An implementation of Java servlets, JavaServer Pages, Java Expression Language, and WebSocket technologies. Tomcat provides a “pure Java” HTTP web server environment in which Java code can run. It was first released in 1999.&nbsp;[†](#w-tomcat) ℹ︎&nbsp;[tomcat.apache.org](https://tomcat.apache.org/)
+: → Tomcat
 
 API
 : → Application Programming Interface

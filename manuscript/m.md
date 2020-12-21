@@ -78,6 +78,9 @@ MathML
 MAU
 : → Monthly Active Users
 
+Maven
+: A build automation tool primarily used for Java projects that can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project. It was first released in 2004.&nbsp;[†](#w-maven) ℹ︎&nbsp;[maven.apache.org](https://maven.apache.org/)
+
 MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest.” The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 

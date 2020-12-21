@@ -239,6 +239,9 @@ Polyfill
 Polymer Project
 : A JavaScript library for building web applications using web components. Development of the library started in 2013, and it was released in 2015. Polymer was developed by Google.&nbsp;[†](#w-polymer) ℹ︎&nbsp;[polymer-project.org](https://www.polymer-project.org/)
 
+POM
+: → Project Object Model
+
 POP
 : → Post Office Protocol
 
@@ -353,6 +356,9 @@ Progressive Enhancement
 
 Progressive Web App
 : A type of application software delivered through the Web, built using common web technologies including HTML, CSS, and JavaScript. A PWA is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page.&nbsp;[†](#w-pwa)
+
+Project Object Model
+: A system to provide the configuration for a single project, as with a pom.xml file used for Apache Maven.&nbsp;[†](#w-maven)
 
 Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the `Promise` object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)

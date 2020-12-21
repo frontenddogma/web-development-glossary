@@ -78,6 +78,12 @@ Jekyll
 Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
+Jinja
+: A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that the templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
+
+Jinjava
+: A Java-based template engine based on the Django template syntax to render Jinja templates. Jinjava is used widely around the HubSpot marketing and sales software. ℹ︎&nbsp;[github.com/HubSpot/jinjava](https://github.com/HubSpot/jinjava)
+
 Jira
 : A proprietary issue tracking product by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 

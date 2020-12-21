@@ -55,6 +55,12 @@ Virtual inheritance
 Virtual Machine
 : An emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. There are different kinds of virtual machines, each with different functions: System virtual machines (also termed full virtualization VMs) provide a substitute for a real machine; process virtual machines, on the other hand, are designed to execute computer programs in a platform-independent environment.&nbsp;[†](#w-virtual-machine)
 
+Virtual Machine Manager
+: → Hypervisor
+
+Virtual Machine Monitor
+: → Hypervisor
+
 Virtual Private Network
 : An extension of a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device (e.g., a laptop, desktop, or smartphone) across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.&nbsp;[†](#w-vpn)
 
@@ -63,6 +69,9 @@ Virtual Reality
 
 Virtualization
 : The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources. Virtualization began in the 1960s, as a method of logically dividing the system resources provided by mainframe computers between different applications. Since then, the meaning of the term has broadened.&nbsp;[†](#w-virtualization)
+
+Virtualizer
+: → Hypervisor
 
 Visual Basic for Applications
 : An implementation of Microsoft’s event-driven programming language Visual Basic 6, which was declared legacy in 2008, and its associated integrated development environment (IDE). The VBA programming language was upgraded in 2010 with the introduction of Visual Basic for Applications 7 in Microsoft Office applications. Visual Basic for Applications enables building user-defined functions (UDFs), automating processes, and accessing Windows API and other low-level functionality through dynamic-link libraries (DLLs). It supersedes and expands on the abilities of earlier application-specific macro programming languages such as Word’s WordBASIC. VBA was first released in 1993.&nbsp;[†](#w-vba)
@@ -81,6 +90,10 @@ Visual Studio Code
 
 VM
 : → Virtual Machine
+
+VMM
+: → Virtual Machine Manager
+: → Virtual Machine Monitor
 
 Voice over IP
 : A method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol (IP) networks. The steps and principles involved in originating VoIP telephone calls are similar to traditional digital telephony and involve signaling, channel setup, digitization of the analog voice signals, and encoding. Instead of being transmitted over a circuit-switched network, the digital information is packetized and transmission occurs as IP packets over a packet-switched network.&nbsp;[†](#w-voip)
