@@ -46,6 +46,9 @@ Basic access authentication
 Basic Multilingual Plane
 : The first Unicode plane, plane 0, containing characters for almost all modern languages, and a large number of symbols. A primary objective for the BMP is to support the unification of prior character sets as well as characters for writing. Most of the assigned code points in the BMP are used to encode Chinese, Japanese, and Korean (CJK) characters.&nbsp;[†](#w-plane)
 
+BBCode
+: A lightweight markup language used to format posts in many message boards. The available tags are usually indicated by square brackets (`[]`) surrounding a keyword, and parsed by the message board system before being translated into a markup language that web browsers understand, like HTML.&nbsp;[†](#w-bbcode)
+
 BDD
 : → Behavior-Driven Development
 
@@ -316,6 +319,9 @@ Bugzilla
 
 Build Verification Test
 : → Smoke testing
+
+Bulletin Board Code
+: → BBCode
 
 Bundling
 : The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.

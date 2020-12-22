@@ -75,6 +75,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography)){#w-baseline}
 * [Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)){#w-bash}
 * [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication){#w-ba}
+* [BBCode](https://en.wikipedia.org/wiki/BBCode){#w-bbcode}
 * [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development){#w-bdd}
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
@@ -517,6 +518,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes){#w-k8s}
 * [LAMP (software bundle)](https://en.wikipedia.org/wiki/LAMP_(software_bundle)){#w-lamp}
 * [Landing page](https://en.wikipedia.org/wiki/Landing_page){#w-landing-page}
+* [Laravel](https://en.wikipedia.org/wiki/Laravel){#w-laravel}
 * [Latency (engineering)](https://en.wikipedia.org/wiki/Latency_(engineering)){#w-latency}
 * [LaTeX](https://en.wikipedia.org/wiki/LaTeX){#w-latex}
 * [Law of conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){#w-teslers-law}
@@ -532,6 +534,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
+* [Lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language){#w-lml}
 * [Likert scale](https://en.wikipedia.org/wiki/Likert_scale){#w-likert-scale}
 * [Link farm](https://en.wikipedia.org/wiki/Link_farm){#w-link-farm}
 * [Link rot](https://en.wikipedia.org/wiki/Link_rot){#w-link-rot}
@@ -557,6 +560,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
+* [Magic (programming)](https://en.wikipedia.org/wiki/Magic_(programming)){#w-magic}
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability){#w-maintainability}
 * [Maintenance (technical)](https://en.wikipedia.org/wiki/Maintenance_(technical)){#w-maintenance}
 * [Makefile](https://en.wikipedia.org/wiki/Makefile){#w-makefile}
@@ -878,7 +882,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Symbol (programming)](https://en.wikipedia.org/wiki/Symbol_(programming)){#w-symbol}
+* [Symfony](https://en.wikipedia.org/wiki/Symfony){#w-symfony}
 * [Synchronized Multimedia Integration Language](https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language){#w-smil}
+* [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar){#w-syntactic-sugar}
 * [Syntax (programming languages)](https://en.wikipedia.org/wiki/Syntax_(programming_languages)){#w-syntax}
 * [syslog](https://en.wikipedia.org/wiki/Syslog){#w-syslog}
 * [Tabnabbing](https://en.wikipedia.org/wiki/Tabnabbing){#w-tabnabbing}
@@ -894,6 +900,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Ternary operation](https://en.wikipedia.org/wiki/Ternary_operation){#w-ternary-operator}
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development){#w-tdd}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
+* [Textile (markup language)](https://en.wikipedia.org/wiki/Textile_(markup_language)){#w-textile}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
 * [Third-party source](https://en.wikipedia.org/wiki/Third-party_source){#w-third-party}
 * [Thread (computing)](https://en.wikipedia.org/wiki/Thread_(computing)){#w-thread}

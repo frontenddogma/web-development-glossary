@@ -650,6 +650,9 @@ SXG
 Symbol
 : A primitive data type whose instances have a unique human-readable form. Symbols can be used as identifiers. In some programming languages, they are called atoms. Uniqueness is enforced by holding symbols in a symbol table. The most common use of symbols by programmers is for performing language reflection (particularly for callbacks).&nbsp;[†](#w-symbol)
 
+Symfony
+: A PHP web application framework and set of reusable PHP components and libraries. Symfony was released in 2005.&nbsp;[†](#w-symfony) ℹ︎&nbsp;[symfony.com](https://symfony.com/)
+
 Synchronized Multimedia Integration Language
 : A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
 
@@ -658,6 +661,9 @@ Synchronous
 
 Syndication
 : As web syndication, a form of syndication in which content is made available from one website to other sites and services. Most commonly, websites are made available to provide either summaries or full renditions of a website’s recently added content. The term “syndication” may also describe other kinds of content licensing for reuse.&nbsp;[†](#w-syndication)
+
+Syntactic sugar
+: Syntax within a programming language that is designed to make things easier to read or to express. Syntactic sugar makes the language “sweeter” for human use: Things can be expressed more clearly, more concisely, or in an alternative style that some may prefer.&nbsp;[†](#w-syntactic-sugar)
 
 Syntax
 : The set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in a language. This applies both to programming languages, where the document represents source code, and to markup languages, where the document represents data. The syntax of a language defines its surface form. Text-based computer languages are based on sequences of characters, while visual programming languages are based on the spatial layout and connections between symbols (which may be textual or graphical). Documents that are syntactically invalid are said to have a syntax error. When designing the syntax of a language, a designer might start by writing down examples of both legal and illegal strings, before trying to determine general rules from these examples.&nbsp;[†](#w-syntax)

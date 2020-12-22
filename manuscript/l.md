@@ -19,6 +19,9 @@ Language
 : → Markup language
 : → Programming language
 
+Laravel
+: A PHP web framework based on Symfony, intended for the development of web applications following the model-view-controller (MVC) architectural pattern. Laravel features include a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and an orientation toward syntactic sugar. Laravel was released in 2011 by Taylor Otwell.&nbsp;[†](#w-laravel) ℹ︎&nbsp;[laravel.com](https://laravel.com/)
+
 Largest Contentful Paint
 : The time it takes for the largest content element visible in the viewport to render. Large elements considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
 
@@ -98,6 +101,9 @@ Lighthouse
 Lightweight Directory Access Protocol
 : An industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. A common use of LDAP is to provide a central place to store usernames and passwords. This allows many different applications and services to connect to the LDAP server to validate users.&nbsp;[†](#w-ldap)
 
+Lightweight markup language
+: A markup language with simple, unobtrusive syntax. A lightweight markup language (LML) is designed to be easy to write using any generic text editor and easy to read in its raw form. LMLs are used in applications where it may be necessary to read the raw document as well as the final rendered output. Examples include BBCode, Markdown, and Textile.&nbsp;[†](#w-lml)
+
 Likert scale
 : A psychometric scale, typically ranging from “strongly disagree” to “strongly agree,” that is commonly involved in research that employs questionnaires. A Likert scale is the most widely used approach to scaling responses in survey research, such that the term is often used interchangeably with “rating scale.” The Likert scale is named after its inventor, psychologist Rensis Likert.&nbsp;[†](#w-likert-scale)
 
@@ -163,6 +169,9 @@ Literal
 
 Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
+
+LML
+: → Lightweight markup language
 
 Load time
 : The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter.&nbsp;[‡](#m-load-time)

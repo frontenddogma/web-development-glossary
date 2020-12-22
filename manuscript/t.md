@@ -132,6 +132,9 @@ Testing
 TeX
 : A typesetting or formatting system. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems. TeX was released in 1978 by Donald Knuth.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
 
+Textile
+: A lightweight markup language that uses a text formatting syntax to convert plain-text into structured HTML markup. Textile is used for writing articles, forum posts, documentation, and any other type of written content published online. It was first released in 2002.&nbsp;[†](#w-textile) ℹ︎&nbsp;[textile-lang.com](https://textile-lang.com/)
+
 The Onion Router
 : → Tor
 

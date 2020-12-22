@@ -18,6 +18,9 @@ macOS, Apache, MySQL, PHP/Perl/Python
 Macromedia Flash
 : → Flash
 
+Magic code
+: An informal term for abstraction, used to describe code that handles complex tasks while hiding the respective complexity to present a simple interface. The term is somewhat tongue-in-cheek, and often carries bad connotations, implying that the true behavior of the code is not immediately apparent.&nbsp;[†](#w-magic)
+
 Magic cookie
 : → Cookie
 
@@ -81,6 +84,9 @@ MAU
 Maven
 : A build automation tool primarily used for Java projects that can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project. It was first released in 2004.&nbsp;[†](#w-maven) ℹ︎&nbsp;[maven.apache.org](https://maven.apache.org/)
 
+MD
+: → Markdown
+
 MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest.” The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
@@ -95,6 +101,9 @@ MD6
 
 MDL
 : → Microsoft Design Language
+
+MDX
+: A format that allows to write JSX in Markdown, including the importing of components. ℹ︎&nbsp;[mdxjs.com](https://mdxjs.com/)
 
 MEAN
 : A JavaScript software stack for building dynamic websites and applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both client- and server-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
