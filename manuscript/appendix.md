@@ -109,6 +109,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Browsing](https://en.wikipedia.org/wiki/Browsing){#w-browsing}
 * [Bug tracking system](https://en.wikipedia.org/wiki/Bug_tracking_system){#w-bug-tracking-system}
 * [Bugzilla](https://en.wikipedia.org/wiki/Bugzilla){#w-bugzilla}
+* [Bushnell’s Law](https://en.wikipedia.org/wiki/Bushnell%27s_Law){#w-bushnells-law}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
@@ -569,6 +570,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Markdown](https://en.wikipedia.org/wiki/Markdown){#w-markdown}
 * [Marketing](https://en.wikipedia.org/wiki/Marketing){#w-marketing}
 * [Markup language](https://en.wikipedia.org/wiki/Markup_language){#w-markup-language}
+* [Massively parallel](https://en.wikipedia.org/wiki/Massively_parallel){#w-mpp}
 * [Masthead (American publishing)](https://en.wikipedia.org/wiki/Masthead_(American_publishing)){#w-masthead}
 * [Material Design](https://en.wikipedia.org/wiki/Material_Design){#w-material-design}
 * [Mathematical markup language](https://en.wikipedia.org/wiki/Mathematical_markup_language){#w-mathematical-markup-language}
@@ -624,15 +626,18 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
+* [NativeScript](https://en.wikipedia.org/wiki/NativeScript){#w-nativescript}
 * [Negative space](https://en.wikipedia.org/wiki/Negative_space){#w-negative-space}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
 * [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator){#w-netscape-navigator}
+* [Network address translation](https://en.wikipedia.org/wiki/Network_address_translation){#w-nat}
 * [Network domain](https://en.wikipedia.org/wiki/Network_domain){#w-domain}
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet){#w-packet}
 * [Newbie](https://en.wikipedia.org/wiki/Newbie){#w-newbie}
 * [Newline](https://en.wikipedia.org/wiki/Newline){#w-newline}
 * [News aggregator](https://en.wikipedia.org/wiki/News_aggregator){#w-news-aggregator}
+* [Next.js](https://en.wikipedia.org/wiki/Next.js){#w-nextjs}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
 * [Ninety-ninety rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule){#w-ninety-ninety-rule}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
@@ -655,7 +660,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [OCSP stapling](https://en.wikipedia.org/wiki/OCSP_stapling){#w-ocsp-stapling}
 * [OKR](https://en.wikipedia.org/wiki/OKR){#w-okr}
 * [One-time password](https://en.wikipedia.org/wiki/One-time_password){#w-otp}
+* [Online analytical processing](https://en.wikipedia.org/wiki/Online_analytical_processing){#w-olap}
 * [Online Certificate Status Protocol](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol){#w-ocsp}
+* [Online transaction processing](https://en.wikipedia.org/wiki/Online_transaction_processing){#w-oltp}
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
 * [Open source](https://en.wikipedia.org/wiki/Open_source){#w-open-source}
 * [Open-closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle){#w-open-closed}

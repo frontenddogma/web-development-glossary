@@ -63,6 +63,9 @@ Markup
 Markup language
 : A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision, and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
+Massively Parallel Processing
+: The use of a large number of computer processors (or separate computers) to simultaneously perform a set of coordinated computations in parallel. One approach for MPP is grid computing, where the processing power of many computers in distributed domains is opportunistically used whenever a computer is available. Another approach is grouping many processors in close proximity to each other, as in a computer cluster.&nbsp;[†](#w-mpp)
+
 Masthead
 : A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
 
@@ -195,6 +198,9 @@ Microsoft Silverlight
 Microsoft Windows
 : → Windows
 
+Microtask
+: A task to be run after a currently executed script. Microtasks are run in order, and include promise callbacks, intersection observer callbacks, and mutation observer callbacks.
+
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
 
@@ -286,6 +292,9 @@ Mozilla Firefox
 MPEG
 : A series of audio and video compression standards developed by the Moving Picture Experts Group, including MPEG-1 (1993), MPEG-2 (1995), MPEG-4 (1998), MPEG-7 (2002), and MPEG-21 (2001).
 : → Moving Picture Experts Group
+
+MPP
+: → Massively Parallel Processing
 
 MR
 : → Merge request

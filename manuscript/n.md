@@ -6,6 +6,9 @@ n-based indexing
 NACK
 : A signal sent to reject a previously received message, or to indicate some kind of error (negative acknowledgement).&nbsp;[†](#w-ack)
 
+NACL
+: Network → Access Control List
+
 NAK
 : → NACK
 
@@ -21,8 +24,14 @@ Namespace
 NaN
 : → Not a Number
 
+NAT
+: → Network Address Translation
+
 Native
 : Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it is using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
+
+NativeScript
+: A framework to develop mobile apps on the iOS and Android platforms. NativeScript apps are built using JavaScript, or by using any programming language that transpiles to JavaScript, such as TypeScript. NativeScript supports the Angular and Vue JavaScript frameworks. It was first released in 2014.&nbsp;[†](#w-nativescript) ℹ︎&nbsp;[nativescript.org](https://nativescript.org/)
 
 Navigation
 : A menu UI element for website navigation.
@@ -56,6 +65,9 @@ Netscape Navigator
 Network
 : In computing, a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes. These data links are established over cable media such as twisted pair or fiber-optic cables, and wireless media such as Wi-Fi. Network computer devices that originate, route, and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others.&nbsp;[†](#w-network)
 
+Network Address Translation
+: A method of remapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. NAT has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion, as one Internet-routable IP address of a NAT gateway can be used for an entire private network.&nbsp;[†](#w-nat)
+
 Network packet
 : → Packet
 
@@ -67,6 +79,9 @@ Newline
 
 News aggregator
 : Client software or a web application which aggregates syndicated web content such as online newspapers, blogs, podcasts, and video blogs (vlogs) in one location for easy viewing. The updates distributed may include journal tables of contents, podcasts, videos, and news items. Aggregation technology helps to consolidate many websites into one page that can show only the new or updated information from many sites. Aggregators reduce the time and effort needed to regularly check websites for updates, creating a unique information space or personal newspaper.&nbsp;[†](#w-news-aggregator)
+
+Next.js
+: A frontend development web framework that enables functionality such as server-side rendering and generating static websites for React-based web applications. Next.js was released in 2016.&nbsp;[†](#w-nextjs) ℹ︎&nbsp;[nextjs.org](https://nextjs.org/)
 
 Nexus
 : A framework for scaled product and software development based on Scrum. ℹ︎&nbsp;[scrum.org/resources/nexus-guide](https://www.scrum.org/resources/nexus-guide)
@@ -90,6 +105,9 @@ Node Package Manager
 
 Node.js
 : A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for client- and server-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
+
+Nolan’s Law
+: → Bushnell’s Law
 
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)

@@ -3,7 +3,7 @@
 Jakob’s Law
 : “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.” ℹ︎&nbsp;[nngroup.com/articles/end-of-web-design](https://www.nngroup.com/articles/end-of-web-design/)
 
-JAMStack
+Jamstack/JAMstack
 : A solution stack based on JavaScript, APIs, and markup (“JAM”).
 
 Jank

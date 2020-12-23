@@ -326,6 +326,9 @@ Bulletin Board Code
 Bundling
 : The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.
 
+Bushnell’s Law
+: An aphorism attributed to Atari founder Nolan Bushnell, on the subject of video game design: “All the best games are easy to learn and difficult to master. They should reward the first quarter and the hundredth.” This is also referred to with the sentence “easy to learn, hard [or almost impossible] to master.”&nbsp;[†](#w-bushnells-law)
+
 BVT
 : → Build Verification Test
 
