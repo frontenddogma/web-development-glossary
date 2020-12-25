@@ -223,6 +223,9 @@ Formatting Output Specification Instance
 Forward compatibility
 : A design characteristic that allows a system to accept input intended for a later version of itself. The concept can be applied to entire systems, telecommunication signals, electrical interfaces, data communication protocols, file formats, and programming languages. A standard supports forward compatibility if a product that complies with earlier versions can “gracefully” process input designed for later versions of the standard, ignoring new parts which it does not understand.&nbsp;[†](#w-forward-compatibility)
 
+Forward secrecy
+: A feature of specific key agreement protocols that gives assurances that session keys will not be compromised even if long-term secrets used in the session key exchange are compromised. For HTTPS, the long-term secret is typically the private signing key of the server. The value of forward secrecy is that it protects past communication, yet it also depends on the capabilities of the adversary.&nbsp;[†](#w-forward-secrecy)
+
 FOSI
 : → Formatting Output Specification Instance
 
@@ -288,6 +291,9 @@ FrontPage
 
 fs
 : → File system
+
+FS
+: → Forward secrecy
 
 FSF
 : → Free Software Foundation

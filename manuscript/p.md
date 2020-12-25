@@ -9,6 +9,9 @@ package.json
 package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
+Packaged Offline/Online Webpage
+: The using of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎&nbsp;[hi.pow.tools](https://hi.pow.tools/)
+
 Packed
 : A property of an array that consists only of elements (no holes), and that can be optimized accordingly.
 
@@ -23,6 +26,9 @@ Page
 
 Page impression
 : → Page view
+
+Page parking
+: The quick opening of several web pages to revisit the respective pages and files at a later time. According to UX research firm Nielsen Norman Group, page parking is particularly popular among young adult users, or so-called millennials.
 
 Page prediction
 : A browser feature or script which, when enabled, tells the browser to download resources the user is likely to visit before any user requests for the content are made. Page prediction improves performance by enabling almost instant loading of predicted content. However, page prediction may also download content a user does not request.&nbsp;[‡](#m-page-prediction)
@@ -56,6 +62,9 @@ Paradigm
 
 Parallax scrolling
 : A technique in computer graphics where background images move past the camera more slowly than foreground images, creating an illusion of depth in a 2D scene and adding to the sense of immersion in the virtual experience. The technique grew out of the multiplane camera technique used in traditional animation since the 1930s.&nbsp;[†](#w-parallax-scrolling)
+
+Parallel browsing
+: The keeping open and handling of several web pages in different tabs and windows.
 
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
@@ -156,6 +165,9 @@ Personal Home Page
 
 Personally identifiable information
 : → Personal data
+
+PFS
+: Perfect → forward secrecy
 
 PhantomJS
 : A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior, and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
@@ -282,6 +294,9 @@ Postel’s Law
 POUR
 : → Perceivable, Operable, Understandable, and Robust
 
+POW
+: → Packaged Offline/Online Webpage
+
 PowerShell
 : A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on the .NET Framework, the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
 
@@ -353,6 +368,9 @@ Programming language
 
 Progressive Enhancement
 : A strategy for web design that emphasizes core web page content first. This strategy then progressively adds more nuanced and technically rigorous layers of presentation and features on top of the content as the end user’s browser or Internet connection permit. The proposed benefits of this strategy are that it allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater bandwidth.&nbsp;[†](#w-progressive-enhancement)
+
+Progressive font enrichment
+: The downloading of only the required part of a font, and the patching of the respective download with additional glyphs as needed on additional page views. The concept for progressive font enrichment has been proven, but it is not widely usable yet. ℹ︎&nbsp;[is.gd/ZMRgCR](https://fonts.gstatic.com/experimental/incxfer_demo)
 
 Progressive Web App
 : A type of application software delivered through the Web, built using common web technologies including HTML, CSS, and JavaScript. A PWA is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page.&nbsp;[†](#w-pwa)

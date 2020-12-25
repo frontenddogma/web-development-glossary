@@ -345,6 +345,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
 * [Forward compatibility](https://en.wikipedia.org/wiki/Forward_compatibility){#w-forward-compatibility}
+* [Forward secrecy](https://en.wikipedia.org/wiki/Forward_secrecy){#w-forward-secrecy}
 * [Fragment identifier](https://en.wikipedia.org/wiki/Fragment_identifier){#w-fragment-identifier}
 * [Frame (World Wide Web)](https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)){#w-frame}
 * [Frame rate](https://en.wikipedia.org/wiki/Frame_rate){#w-frame-rate}
