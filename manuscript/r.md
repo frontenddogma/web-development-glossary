@@ -36,6 +36,9 @@ RDSMS
 React
 : A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with APIs.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
 
+React Native
+: A mobile application framework first released in 2015 by Facebook. React Native enables to use the React library along with native mobile platform capabilities.&nbsp;[†](#w-react-native)
+
 Reactive Extensions for JavaScript
 : A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎&nbsp;[reactivex.io](http://reactivex.io/)
 
@@ -197,6 +200,9 @@ Resolution
 Resource Description Framework
 : A family of W3C specifications originally designed as a metadata data model. RDF has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications. RDF became a W3C Recommendation in 1999.&nbsp;[†](#w-rdf) ℹ︎&nbsp;[w3.org/TR/rdf11-concepts](https://www.w3.org/TR/rdf11-concepts/)
 
+Resource Hints
+: A number of HTML link relationships that allow to indicate what resources to fetch ahead of time in order to improve performance. Resource Hints include `dns-prefetch`, `preconnect`, `prefetch`, and `prerender`, and can be implemented using the HTML `link` element as well as the `Link` HTTP header. ℹ︎&nbsp;[w3.org/TR/resource-hints](https://www.w3.org/TR/resource-hints/)
+
 Response
 : In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client’s request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
@@ -217,6 +223,9 @@ REST
 
 Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the automatic insertion of a semicolon (ASI).
+
+Reverse proxy
+: A reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the reverse proxy server itself. Popular web servers often use reverse-proxying functionality to shield application frameworks of weaker HTTP capabilities, where “weaker” means limitations to handle excessive load or a great variety of request formats.&nbsp;[†](#w-reverse-proxy)
 
 Revision control
 : → Version control

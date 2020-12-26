@@ -199,6 +199,9 @@ Server side
 Server-Side Rendering
 : A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
 
+Serverless computing
+: A cloud computing execution model in which the cloud provider runs the server, and allocates machine resources on demand. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage. When an app is not in use, there are no computing resources allocated to the app. “Serverless” is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.&nbsp;[†](#w-serverless)
+
 Service discovery
 : The automatic detection of devices and services offered on a computer network. Service discovery aims to reduce the configuration efforts from users.&nbsp;[†](#w-service-discovery)
 

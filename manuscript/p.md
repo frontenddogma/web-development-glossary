@@ -382,7 +382,7 @@ Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the `Promise` object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)
 
 Prop
-: A concept in Vue to pass data to components.
+: An argument passed into a component.
 : → Property
 
 Property
@@ -398,6 +398,12 @@ Prototype
 
 Prototyping
 : The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. Prototyping is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: Software designers and implementers can get valuable feedback from users early in the project, clients and contractors can compare if the software matches the specification according to which the software is built, and software engineers get insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
+
+Proxy
+: → Proxy server
+
+Proxy server
+: A server application or appliance that acts as an intermediary for requests from clients seeking resources from servers that provide those resources. A proxy server thus functions on behalf of the client when requesting service, potentially masking the true origin of the request to the resource server. A proxy can simplify or control the complexity of a request, or provide additional benefits such as load balancing, privacy, or security.&nbsp;[†](#w-proxy)
 
 PRPL
 : A web performance development pattern based on the sequence “Push” (important resources), “Render” (as soon as possible), “Pre-cache” (assets), and “Lazy-load.”

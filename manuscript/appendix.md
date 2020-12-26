@@ -739,6 +739,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement){#w-progressive-enhancement}
 * [Progressive web application](https://en.wikipedia.org/wiki/Progressive_web_application){#w-pwa}
 * [Property (programming)](https://en.wikipedia.org/wiki/Property_(programming)){#w-property-programming}
+* [Proxy server](https://en.wikipedia.org/wiki/Proxy_server){#w-proxy}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Punycode](https://en.wikipedia.org/wiki/Punycode){#w-punycode}
 * [Push technology](https://en.wikipedia.org/wiki/Push_technology){#w-push-technology}
@@ -757,6 +758,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
+* [React Native](https://en.wikipedia.org/wiki/React_Native){#w-react-native}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
 * [Read-eval-print loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop){#w-repl}
 * [Readability](https://en.wikipedia.org/wiki/Readability){#w-readability}
@@ -776,6 +778,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework){#w-rdf}
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
+* [Reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy){#w-reverse-proxy}
 * [Revision tag](https://en.wikipedia.org/wiki/Revision_tag){#w-tag}
 * [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model){#w-rgb}
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format){#w-rtf}
@@ -823,6 +826,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
+* [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing){#w-serverless}
 * [Service discovery](https://en.wikipedia.org/wiki/Service_discovery){#w-service-discovery}
 * [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture){#w-soa}
 * [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement){#w-sla}
