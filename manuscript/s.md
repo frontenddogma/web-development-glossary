@@ -509,8 +509,14 @@ SQL injection
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
+src
+: A name conventionally used for the main folder for source code and files.
+
 sRGB
 : → standard Red Green Blue
+
+SRI
+: → Subresource Integrity
 
 SSG
 : → Static Site Generator
@@ -556,6 +562,9 @@ standard Red Green Blue
 
 Standards mode
 : → Strict mode
+
+Standby redundancy
+: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power. 
 
 Star
 : A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).
@@ -633,6 +642,9 @@ Subnav
 Subnavigation
 : A secondary or auxiliary website navigation menu. Visually, a subnavigation is usually less prominent than a main navigation menu.
 
+Subresource Integrity
+: A W3C specification to provide a method to protect website delivery. Specifically, SRI validates assets served by a third party, such as a Content Delivery Network (CDN). This ensures these assets have not been compromised for hostile purposes. SRI was created in response to a number of attacks where CDN-served content was injected with malicious code, compromising thousands of websites using it.&nbsp;[†](#w-sri)
+
 Subroutine
 : → Routine
 
@@ -671,6 +683,9 @@ Symbol
 
 Symfony
 : A PHP web application framework and set of reusable PHP components and libraries. Symfony was released in 2005.&nbsp;[†](#w-symfony) ℹ︎&nbsp;[symfony.com](https://symfony.com/)
+
+SYN
+: A signal to initiate, establish, or synchronize a connection, as with a communications protocol like the Transmission Control Protocol (TCP).
 
 Synchronized Multimedia Integration Language
 : A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)

@@ -16,6 +16,12 @@ Backend
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
+Backup
+: A copy of computer data taken and stored elsewhere so that it may be used to restore the original after a data loss event. The verb form, referring to the process of doing so, is “to back up,” whereas the noun and adjective form is “backup.” Backups can be used to recover data after its loss from data deletion or corruption, or to recover data from an earlier time. Backups provide a simple form of disaster recovery.&nbsp;[†](#w-backup)
+
+Backup redundancy
+: → Standby redundancy
+
 Backward compatibility
 : A property of a product, system, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Modifying a system in a way that does not allow backward compatibility is sometimes called breaking backward compatibility.&nbsp;[†](#w-backward-compatibility)
 

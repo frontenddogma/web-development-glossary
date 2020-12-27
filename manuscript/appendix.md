@@ -38,6 +38,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Aliasing](https://en.wikipedia.org/wiki/Aliasing){#w-aliasing}
 * [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3){#w-amazon-s3}
+* [Amazon Simple Queue Service](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service){#w-amazon-sqs}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework)){#w-angular}
 * [AngularJS](https://en.wikipedia.org/wiki/AngularJS){#w-angularjs}
@@ -69,6 +70,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [AV1](https://en.wikipedia.org/wiki/AV1){#w-av1}
 * [Babel (transpiler)](https://en.wikipedia.org/wiki/Babel_(transpiler)){#w-babel}
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
+* [Backup](https://en.wikipedia.org/wiki/Backup){#w-backup}
 * [Backward compatibility](https://en.wikipedia.org/wiki/Backward_compatibility){#w-backward-compatibility}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
@@ -891,6 +893,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [String (computer science)](https://en.wikipedia.org/wiki/String_(computer_science)){#w-string}
 * [Style sheet (web development)](https://en.wikipedia.org/wiki/Style_sheet_(web_development)){#w-style-sheet}
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
+* [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}

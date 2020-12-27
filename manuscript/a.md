@@ -71,7 +71,7 @@ Acid tests
 : A range of web standards compliance tests that were set up in 1999 (Acid1), 2005 (Acid2), and 2008 (Acid3). ℹ︎&nbsp;[acidtests.org](https://www.acidtests.org/)
 
 ACK
-: A signal that is passed between communicating processes, computers, or devices to signify acknowledgement, or receipt of message, as part of a communications protocol.&nbsp;[†](#w-ack)
+: A signal that is passed between communicating processes, computers, or devices to signify acknowledgement, or receipt of message, as part of a communications protocol like the Transmission Control Protocol (TCP).&nbsp;[†](#w-ack)
 
 ACL
 : → Access Control List
@@ -184,8 +184,14 @@ Amazon S3
 Amazon Silk
 : → Silk
 
+Amazon Simple Queue Service
+: → Amazon SQS
+
 Amazon Simple Storage Service
 : → Amazon S3
+
+Amazon SQS
+: A distributed message queuing service introduced in 2004 by Amazon.com. Amazon SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
 
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)

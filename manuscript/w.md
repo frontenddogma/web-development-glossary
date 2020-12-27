@@ -191,7 +191,7 @@ Webmaster
 : A person responsible for maintaining one or more websites. The title may refer to web architects, web developers, site authors, website administrators, website owners, website coordinators, or website publishers.&nbsp;[†](#w-webmaster)
 
 Webmention
-: A W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
+: A W3C specification that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
 
 WebP
 : An image format employing both lossy and lossless compression. WebP was first released in 2010.&nbsp;[†](#w-webp) ℹ︎&nbsp;[developers.google.com/speed/webp](https://developers.google.com/speed/webp)
