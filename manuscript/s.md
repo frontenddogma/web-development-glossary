@@ -190,6 +190,9 @@ Server farm
 Server logs
 : Log files related to server events. Server logs may be generated and stored on the respective servers.
 
+Server Name Indication
+: An extension to the Transport Layer Security (TLS) computer networking protocol by which a client indicates which hostname it is attempting to connect to at the start of the handshaking process. This allows a server to present multiple certificates on the same IP address and TCP port number and hence allows multiple secure (HTTPS) websites (or any other service over TLS) to be served by the same IP address without requiring all those sites to use the same certificate. SNI is the conceptual equivalent to HTTP/1.1 name-based virtual hosting, but for HTTPS.&nbsp;[†](#w-sni)
+
 Server push
 : → Push technology
 
@@ -304,6 +307,9 @@ Site map
 Sitemaps
 : A protocol that allows to inform search engines about URLs on a website that are available for crawling. A Sitemap is an XML file that lists the URLs for a site. It allows webmasters to include additional information about each URL: when it was last updated, how often it changes, and how important it is in relation to other URLs of the site. This allows search engines to crawl the site more efficiently and to find URLs that may be isolated from the rest of the site’s content. The Sitemaps protocol is a URL inclusion protocol and complements robots.txt, a URL exclusion protocol. The Sitemaps protocol was first released in 2005.&nbsp;[†](#w-sitemaps) ℹ︎&nbsp;[sitemaps.org](https://www.sitemaps.org/)
 
+Skeleton screen
+: A UI that displays rudimentary placeholders while the actual content is being loaded. The respective placeholders commonly use a similar shape to the actual elements. Skeleton screens contribute to a faster perceived performance. The concept is attributed to a 2013 article by Luke Wroblewski.
+
 Sketch
 : A vector graphics editor. Sketch is primarily a UI and UX designing tool for website and mobile app design, but focus has been increased on prototyping and collaboration to make it a more comprehensive platform for digital design. Sketch was first released in 2010 for macOS. ℹ︎&nbsp;[sketch.com](https://www.sketch.com/)
 
@@ -352,17 +358,23 @@ Smi
 SMIL
 : → Synchronized Multimedia Integration Language
 
-SMTP
-: → Simple Mail Transfer Protocol
+Smishing
+: A phishing attack performed through SMS/text messages.
 
 Smoke testing
 : The preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release. Smoke tests are a subset of test cases that cover the most important functionality of a component or system, used to aid assessment of whether main functions of the software appear to work correctly. When used to determine if a computer program should be subjected to further, more fine-grained testing, a smoke test may be called an intake test. Alternately, it is a set of tests run on each new build of a product to verify that the build is testable before the build is released into the hands of the test team.&nbsp;[†](#w-smoke-testing)
+
+SMTP
+: → Simple Mail Transfer Protocol
 
 Snake case
 : The practice of writing compound words or phrases in which the elements are separated with one underscore character (“_”) and no spaces, with each element’s initial letter usually lowercased within the compound and the first letter either upper- or lowercase (“the_quick_brown_fox”). Snake case is commonly used in computer code for variable, function, and sometimes file names.&nbsp;[†](#w-snake-case)
 
 Snap position
 : A point that a scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
+
+SNI
+: → Server Name Indication
 
 SOA
 : → Service-oriented architecture
@@ -465,6 +477,10 @@ Spider
 
 Spike
 : A product-testing method originating from Extreme Programming that is used to determine how much work will be required to solve or work around a software issue. Typically, a “spike test” involves gathering additional information or testing for easily reproduced edge cases.&nbsp;[†](#w-spike)
+
+Spinner
+: A UI element that indicates that an action is taking place.
+: A UI element with which a user may adjust a value in an adjoining text box (numeric up/down).&nbsp;[†](#w-spinner)
 
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)

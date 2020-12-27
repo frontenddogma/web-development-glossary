@@ -134,7 +134,7 @@ Perceivable, Operable, Understandable, and Robust
 : The four major principles of WCAG&nbsp;2.0. Information and user interface components must be presentable to users in ways they can perceive; user interface components and navigation must be operable; information and the operation of user interface must be understandable; and content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.&nbsp;[†](#w-wcag)
 
 Perceived performance
-: How quickly a software feature appears to perform a task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
+: The perception of how quickly a software feature appears to perform a task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
 
 Percent encoding
 : → URL encoding

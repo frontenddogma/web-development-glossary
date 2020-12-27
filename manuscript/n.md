@@ -160,6 +160,9 @@ Numeral
 Numeric character reference
 : A character reference that refers to a character by its Universal Character Set or Unicode code point using the format `&#nnnn;` or `&#xhhhh;`.&nbsp;[†](#w-character-reference)
 
+Numeric up/down
+: → Spinner
+
 Numerical digit
 : A single symbol (such as “2” or “5”) used alone, or in combinations (such as “25”), to represent numbers (such as the number 25) according to some positional numeral systems. The single digits (as one-digit numerals) and their combinations (such as “25”) are the numerals of the numeral system they belong to. The name “digit” comes from the fact that the ten digits (Latin _digiti_, meaning fingers) of the hands correspond to the ten symbols of the common base 10 numeral system, i.e., the decimal (ancient Latin adjective _decem_, meaning ten) digits.&nbsp;[†](#w-numerical-digit)
 

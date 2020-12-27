@@ -825,6 +825,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Serif](https://en.wikipedia.org/wiki/Serif){#w-serif}
 * [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing)){#w-server}
 * [Server farm](https://en.wikipedia.org/wiki/Server_farm){#w-server-farm}
+* [Server Name Indication](https://en.wikipedia.org/wiki/Server_Name_Indication){#w-sni}
 * [Server-side](https://en.wikipedia.org/wiki/Server-side){#w-server-side}
 * [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing){#w-serverless}
 * [Service discovery](https://en.wikipedia.org/wiki/Service_discovery){#w-service-discovery}
@@ -870,6 +871,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
 * [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
 * [Spike (software development)](https://en.wikipedia.org/wiki/Spike_(software_development)){#w-spike}
+* [Spinner (computing)](https://en.wikipedia.org/wiki/Spinner_(computing)){#w-spinner}
 * [Splash screen](https://en.wikipedia.org/wiki/Splash_screen){#w-splash-screen}
 * [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
 * [SQL](https://en.wikipedia.org/wiki/SQL){#w-sql}
