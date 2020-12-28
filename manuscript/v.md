@@ -9,6 +9,9 @@ Validator
 Value
 : The representation of some entity that can be manipulated by a program. The members of a type are the values of that type. In declarative (high-level) languages, values have to be referentially transparent.&nbsp;[†](#w-value)
 
+Value-Driven Design
+: A systems engineering strategy based on microeconomics which enables multidisciplinary design optimization. The terms “value-driven design” and “value-centric design” are used interchangeably. The essence of these strategies is that design choices are made to maximize system value rather than to meet performance requirements. VDD is similar to the value-driven approach of agile software development, where a project’s stakeholders prioritize their high-level needs (or system features) based on the perceived business value each would deliver.&nbsp;[†](#w-vdd)
+
 Variable
 : A storage address (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value. The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during runtime, and the value of the variable may thus change during the course of program execution.&nbsp;[†](#w-variable)
 : → Custom property
@@ -21,6 +24,9 @@ Variable scope
 
 VBA
 : → Visual Basic for Applications
+
+VDD
+: → Value-Driven Design
 
 Vector image
 : An image defined in terms of 2D points, which are connected by lines and curves to form polygons and other shapes. Each of these points has a definite position on the x- and y-axis of the work plane and determines the direction of the path; further, each path may have various properties including values for stroke color, shape, curve, thickness, and fill. Vector graphics are commonly found today in the SVG, EPS, PDF, and AI graphic file formats and are intrinsically different from the more common raster graphics file formats such as GIF, JPEG, PNG, and MPEG4.&nbsp;[†](#w-vector-image)
@@ -61,6 +67,9 @@ Virtual Machine Manager
 Virtual Machine Monitor
 : → Hypervisor
 
+Virtual Private Cloud
+: An on-demand configurable pool of shared computing resources allocated within a public cloud environment, providing a certain level of isolation between the different organizations using the resources. The isolation between one VPC organization and all other users of the same cloud (other VPC organizations as well as other public cloud users) is usually achieved through allocation of a private IP subnet and a virtual communication construct (such as a VLAN or a set of encrypted communication channels) per user. In a VPC, the respective isolation is accompanied with a VPN function that secures remote access of the organization to VPC resources. A VPC is most commonly used in the context of cloud Infrastructure as a Service (IaaS).&nbsp;[†](#w-vpc)
+
 Virtual Private Network
 : An extension of a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device (e.g., a laptop, desktop, or smartphone) across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.&nbsp;[†](#w-vpn)
 
@@ -88,6 +97,9 @@ Visual regression testing
 Visual Studio Code
 : A cross-platform source code editor developed by Microsoft. VS Code includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is highly customizable, allowing users to change theme, keyboard shortcuts, and preferences, and to install extensions that add additional functionality. VS Code was first released in 2015.&nbsp;[†](#w-vs-code) ℹ︎&nbsp;[code.visualstudio.com](https://code.visualstudio.com/)
 
+Vishing
+: → Voice phishing
+
 VM
 : → Virtual Machine
 
@@ -97,6 +109,9 @@ VMM
 
 Voice over IP
 : A method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol (IP) networks. The steps and principles involved in originating VoIP telephone calls are similar to traditional digital telephony and involve signaling, channel setup, digitization of the analog voice signals, and encoding. Instead of being transmitted over a circuit-switched network, the digital information is packetized and transmission occurs as IP packets over a packet-switched network.&nbsp;[†](#w-voip)
+
+Voice phishing
+: A form of criminal phone fraud, using social engineering over the telephone system to gain access to private personal and financial information for the purpose of financial reward. Voice phishing is sometimes referred to as “vishing,” a portmanteau of “voice” and “phishing.”&nbsp;[†](#w-vishing)
 
 VoiceOver
 : A screen reader built into Apple’s macOS, iOS, tvOS, and watchOS operating systems. By using VoiceOver, the user can access their Mac or iOS device based on spoken descriptions and, in the case of the Mac, the keyboard. The feature is designed to increase accessibility for blind and low-vision users, as well as for users with dyslexia.&nbsp;[†](#w-voiceover) ℹ︎&nbsp;[apple.com/accessibility/mac/vision](https://www.apple.com/accessibility/mac/vision/)
@@ -109,6 +124,9 @@ Void element
 
 VoIP
 : → Voice over IP
+
+VPC
+: → Virtual Private Cloud
 
 VPN
 : → Virtual Private Network

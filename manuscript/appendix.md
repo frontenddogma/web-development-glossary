@@ -39,6 +39,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Aliasing](https://en.wikipedia.org/wiki/Aliasing){#w-aliasing}
 * [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3){#w-amazon-s3}
 * [Amazon Simple Queue Service](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service){#w-amazon-sqs}
+* [Amazon Virtual Private Cloud](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud){#w-amazon-vpc}
 * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services){#w-aws}
 * [Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework)){#w-angular}
 * [AngularJS](https://en.wikipedia.org/wiki/AngularJS){#w-angularjs}
@@ -407,6 +408,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory){#w-hidden-file-dir}
 * [Hit (Internet)](https://en.wikipedia.org/wiki/Hit_(Internet)){#w-hit}
 * [HITS algorithm](https://en.wikipedia.org/wiki/HITS_algorithm){#w-hits}
+* [HMAC](https://en.wikipedia.org/wiki/HMAC){#w-hmac}
+* [HMAC-based One-Time Password](https://en.wikipedia.org/wiki/HMAC-based_One-Time_Password){#w-hotp}
 * [Home page](https://en.wikipedia.org/wiki/Home_page){#w-home-page}
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
@@ -590,6 +593,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Memoization](https://en.wikipedia.org/wiki/Memoization){#w-memoization}
 * [Menu (computing)](https://en.wikipedia.org/wiki/Menu_(computing)){#w-menu}
 * [Merge (version control)](https://en.wikipedia.org/wiki/Merge_(version_control)){#w-merging}
+* [Message authentication code](https://en.wikipedia.org/wiki/Message_authentication_code){#w-mac}
 * [Meta element](https://en.wikipedia.org/wiki/Meta_element){#w-meta-element}
 * [Metadata](https://en.wikipedia.org/wiki/Metadata){#w-metadata}
 * [Method (computer programming)](https://en.wikipedia.org/wiki/Method_(computer_programming)){#w-method}
@@ -918,12 +922,14 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development){#w-tdd}
 * [TeX](https://en.wikipedia.org/wiki/TeX){#w-tex}
 * [Textile (markup language)](https://en.wikipedia.org/wiki/Textile_(markup_language)){#w-textile}
+* [The Open Group Architecture Framework](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework){#w-togaf}
 * [Theme (computing)](https://en.wikipedia.org/wiki/Theme_(computing)){#w-theme}
 * [Third-party source](https://en.wikipedia.org/wiki/Third-party_source){#w-third-party}
 * [Thread (computing)](https://en.wikipedia.org/wiki/Thread_(computing)){#w-thread}
 * [Three-click rule](https://en.wikipedia.org/wiki/Three-click_rule){#w-three-click-rule}
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
+* [Time-based One-Time Password](https://en.wikipedia.org/wiki/Time-based_One-Time_Password){#w-totp}
 * [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
 * [Tokenization (data security)](https://en.wikipedia.org/wiki/Tokenization_(data_security)){#w-tokenization}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
@@ -947,6 +953,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [TypeScript](https://en.wikipedia.org/wiki/TypeScript){#w-typescript}
 * [TYPO3](https://en.wikipedia.org/wiki/TYPO3){#w-typo3}
 * [Typography](https://en.wikipedia.org/wiki/Typography){#w-typography}
+* [UDP flood attack](https://en.wikipedia.org/wiki/UDP_flood_attack){#w-udp-flood-attack}
 * [Unicode](https://en.wikipedia.org/wiki/Unicode){#w-unicode}
 * [Unicode Consortium](https://en.wikipedia.org/wiki/Unicode_Consortium){#w-unicode-consortium}
 * [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence){#w-unicode-equivalence}
@@ -955,6 +962,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier){#w-uri}
 * [Uniform Resource Name](https://en.wikipedia.org/wiki/Uniform_Resource_Name){#w-urn}
 * [Uninitialized variable](https://en.wikipedia.org/wiki/Uninitialized_variable){#w-uninitialized-variable}
+* [Unique selling proposition](https://en.wikipedia.org/wiki/Unique_selling_proposition){#w-usp}
 * [Unit testing](https://en.wikipedia.org/wiki/Unit_testing){#w-unit-testing}
 * [Universal Access](https://en.wikipedia.org/wiki/Universal_Access){#w-universal-access}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
@@ -982,6 +990,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [UTM parameters](https://en.wikipedia.org/wiki/UTM_parameters){#w-utm}
 * [Validator](https://en.wikipedia.org/wiki/Validator){#w-validator}
 * [Value (computer science)](https://en.wikipedia.org/wiki/Value_(computer_science)){#w-value}
+* [Value-driven design](https://en.wikipedia.org/wiki/Value-driven_design){#w-vdd}
 * [Variable (computer science)](https://en.wikipedia.org/wiki/Variable_(computer_science)){#w-variable}
 * [Variable fonts](https://en.wikipedia.org/wiki/Variable_fonts){#w-variable-font}
 * [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics){#w-vector-image}
@@ -993,6 +1002,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor)){#w-vim}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine){#w-virtual-machine}
+* [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud){#w-vpc}
 * [Virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network){#w-vpn}
 * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality){#w-vr}
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization){#w-virtualization}
@@ -1000,6 +1010,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Visual impairment](https://en.wikipedia.org/wiki/Visual_impairment){#w-visual-impairment}
 * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code){#w-vs-code}
 * [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP){#w-voip}
+* [Voice phishing](https://en.wikipedia.org/wiki/Voice_phishing){#w-vishing}
 * [VoiceOver](https://en.wikipedia.org/wiki/VoiceOver){#w-voiceover}
 * [VoiceXML](https://en.wikipedia.org/wiki/VoiceXML){#w-voicexml}
 * [Vue.js](https://en.wikipedia.org/wiki/Vue.js){#w-vuejs}

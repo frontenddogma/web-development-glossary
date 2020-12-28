@@ -27,6 +27,9 @@ Hash function
 Hash table
 : A data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. In many situations, hash tables turn out to be more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets.&nbsp;[†](#w-hash-table)
 
+Hash-Based Message Authentication Code
+: A specific type of message authentication code (MAC) involving a cryptographic hash function and a secret cryptographic key. An HMAC can provide digital signatures using a shared secret instead of public key encryption. It trades off the need for a complex public key infrastructure by delegating the key exchange to the communicating parties, who are responsible for establishing and using a trusted channel to agree on the key prior to communication.&nbsp;[†](#w-hmac)
+
 Hashbang
 : → Shebang
 
@@ -94,6 +97,12 @@ Hit
 HITS
 : → Hyperlink-Induced Topic Search
 
+HMAC
+: → Hash-Based Message Authentication Code
+
+HMAC-Based One-Time Password
+: A one-time password (OTP) algorithm based on hash-based message authentication codes (HMAC). HOTP is a cornerstone of the Initiative for Open Authentication (OATH). It was published in 2005 as an informational IETF RFC&nbsp;4226.&nbsp;[†](#w-hotp)
+
 HOC
 : → Higher-order component
 
@@ -135,6 +144,9 @@ Hot data
 
 Hot linking
 : → Inline linking
+
+HOTP
+: → HMAC-Based One-Time Password
 
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
@@ -182,7 +194,7 @@ HTTP
 : → Hypertext Transfer Protocol
 
 HTTP flood attack
-: A type of Distributed Denial of Service (DDoS) attack in which the attacker makes unwanted `GET` or `POST` requests in order to attack a web server or application. These attacks often use interconnected computers that have been taken over with the aid of malware. Instead of using malformed packets, spoofing, or reflection techniques, HTTP floods require less bandwidth to attack the targeted sites or servers.&nbsp;[†](#w-http-flood-attack)
+: A type of distributed denial of service (DDoS) attack in which the attacker makes unwanted `GET` or `POST` requests in order to attack a web server or application. These attacks often use interconnected computers that have been taken over with the aid of malware. Instead of using malformed packets, spoofing, or reflection techniques, HTTP floods require less bandwidth to attack the targeted sites or servers.&nbsp;[†](#w-http-flood-attack)
 
 HTTP method
 : A desired HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred to as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g., a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)

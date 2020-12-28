@@ -21,6 +21,9 @@ UDJO
 UDP
 : → User Datagram Protocol
 
+UDP flood attack
+: A volumetric denial of service (DoS) attack using the User Datagram Protocol (UDP). A UDP flood attack can be initiated by sending a large number of UDP packets to random ports on a remote host. As a result, the distant host will check for the application listening at that port, find no application listening, and reply with an ICMP “Destination Unreachable” message. For a large number of UDP packets, the victimized system will be forced into sending many ICMP messages, eventually leading it to be unreachable by other clients.&nbsp;[†](#w-udp-flood-attack)
+
 Uglification
 : → Minification
 : → Obfuscation
@@ -75,6 +78,15 @@ Uninitialized pointer
 
 Uninitialized variable
 : A variable that is declared but is not set to a definite known value before it is used. It will have some value, but not a predictable one. As such, an uninitialized variable is a programming error and a common source of bugs in software.&nbsp;[†](#w-uninitialized-variable)
+
+Unique Selling Point
+: The unique benefit exhibited by a product, service, brand, or company that enables it to stand out from competitors. The USP must be a feature that highlights product benefits that are meaningful to consumers, and it focuses on explicit claims of uniqueness involving an objectively verifiable product attribute or benefit in use.&nbsp;[†](#w-usp)
+
+Unique Selling Proposition
+: → Unique Selling Point
+
+Unique Value Proposition
+: → Unique Selling Point
 
 Unit testing
 : A software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run to ensure that a section of an application (known as the “unit”) meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure. In object-oriented programming, a unit is often an entire interface, such as a class, but could be an individual method.&nbsp;[†](#w-unit-testing)
@@ -187,6 +199,10 @@ User-Driven Development
 Using Declarations Just Once
 : A CSS methodology to use every declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎&nbsp;[meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
 
+USP
+: → Unique Selling Point
+: → Unique Selling Proposition
+
 UTF-8
 : A variable-width character encoding capable of encoding all 1,112,064 valid code points in Unicode using one to four 8-bit bytes. The encoding is defined by the Unicode Standard, and was originally designed by Ken Thompson and Rob Pike. The name is derived from Unicode (or Universal Coded Character Set) Transformation Format 8-Bit. UTF-8 was designed for backward-compatibility with ASCII. Since 2009, UTF-8 has been the dominant encoding (of any kind, not just of Unicode encodings) for the World Wide Web (and declared mandatory “for all things” by WHATWG) and as of January 2020 accounts for 94.8% of all web pages (some of which are simply ASCII, as it is a subset of UTF-8) and 96% of the top 1,000 highest ranked web pages.&nbsp;[†](#w-utf-8)
 
@@ -205,6 +221,9 @@ UTM
 
 UUID
 : → Universally unique identifier
+
+UVP
+: → Unique Value Proposition
 
 UX
 : → User Experience

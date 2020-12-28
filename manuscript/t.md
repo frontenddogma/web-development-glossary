@@ -27,6 +27,7 @@ Tachyons
 Tag
 : In version control, a textual label that can be associated with a specific revision of a project maintained by a version control system. A tag allows to define a meaningful name to be given to a particular state of a project that is under version control. This label can then be used in place of the revision identifier for commands supported by the version control system.&nbsp;[†](#w-tag)
 : In web development, either the start or end tag of an HTML element, like `<p>`, a paragraph’s start tag, or `</ul>`, an unordered list’s end tag. Not to be confused with an element.
+: → Message Authentication Code
 : → Tracking pixel
 
 Tag Management System
@@ -138,6 +139,9 @@ Textile
 The Onion Router
 : → Tor
 
+The Open Group Architecture Framework
+: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting 1995 by The Open Group.&nbsp;[†](#w-togaf) ℹ︎&nbsp;[is.gd/0pnYAF](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
+
 Theme
 : A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for window, window decoration, and graphical control elements. Themes are used to customize the look and feel of software in general, including for websites and apps.&nbsp;[†](#w-theme)
 
@@ -167,6 +171,9 @@ Time to Interactive
 
 Time to Live
 : A mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded or revalidated. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is commonly used to improve the performance and manage the caching of data.&nbsp;[†](#w-ttl)
+
+Time-Based One-Time Password
+: A computer algorithm that generates a one-time password (OTP) which uses the current time as a source of uniqueness. An extension of the HMAC-based One-time Password algorithm (HOTP), it has been adopted as Internet Engineering Task Force (IETF) standard RFC&nbsp;6238. TOTP is the cornerstone of Initiative for Open Authentication (OATH), and is used in a number of two-factor authentication (2FA) systems.&nbsp;[†](#w-totp)
 
 Timestamp
 : A sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. The term derives from rubber stamps used in offices to stamp the current date, and sometimes time, in ink on paper documents, to record when a document was received.&nbsp;[†](#w-timestamp)
@@ -203,6 +210,9 @@ Todo
 
 TOFU
 : → Trust on First Use
+
+TOGAF
+: → The Open Group Architecture Framework
 
 Token
 : → Access token
@@ -242,6 +252,9 @@ Tor Project
 
 Total Blocking Time
 : A performance metric measuring the time that a web page is unresponsive to user input. It is calculated by adding the blocking portions of long tasks between First Contentful Paint (FCP) and Time to Interactive (TTI).
+
+TOTP
+: → Time-Based One-Time Password
 
 TPM
 : → Technical Program Manager

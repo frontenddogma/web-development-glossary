@@ -1,5 +1,8 @@
 # M
 
+MAC
+: → Message Authentication Code
+
 MAC address
 : A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
 
@@ -140,6 +143,9 @@ Merge request
 
 Merging
 : A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many version control software tools include merge capabilities.&nbsp;[†](#w-merging)
+
+Message Authentication Code
+: A short piece of information used to authenticate a message, that is, to confirm that the message came from the stated sender (its authenticity) and has not been changed. The MAC value protects a message’s data integrity, as well as its authenticity, by allowing verifiers (who also possess the secret key) to detect any changes to the message content.&nbsp;[†](#w-mac)
 
 Message Digest
 : → MD2

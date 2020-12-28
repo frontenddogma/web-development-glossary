@@ -193,6 +193,12 @@ Amazon Simple Storage Service
 Amazon SQS
 : A distributed message queuing service introduced in 2004 by Amazon.com. Amazon SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
 
+Amazon Virtual Private Cloud
+: → Amazon VPC
+
+Amazon VPC
+: A commercial cloud computing service that provides users a virtual private cloud, by provisioning a logically isolated section of the Amazon Web Services (AWS) cloud.&nbsp;[†](#w-amazon-vpc) ℹ︎&nbsp;[aws.amazon.com/vpc](https://aws.amazon.com/vpc/)
+
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
 
