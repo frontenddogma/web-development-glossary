@@ -372,6 +372,9 @@ Progressive Enhancement
 Progressive font enrichment
 : The downloading of only the required part of a font, and the patching of the respective download with additional glyphs as needed on additional page views. The concept for progressive font enrichment has been proven, but it is not widely usable yet. ℹ︎&nbsp;[is.gd/ZMRgCR](https://fonts.gstatic.com/experimental/incxfer_demo)
 
+Progressive rendering
+: An approach to improve the perceived performance of a website or app.
+
 Progressive Web App
 : A type of application software delivered through the Web, built using common web technologies including HTML, CSS, and JavaScript. A PWA is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page.&nbsp;[†](#w-pwa)
 
