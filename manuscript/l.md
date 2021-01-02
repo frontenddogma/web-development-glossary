@@ -12,6 +12,9 @@ Lambda expression
 LAMP
 : → Linux, Apache, MySQL, PHP/Perl/Python
 
+LAN
+: → Local Area Network
+
 Landing page
 : A single web page that appears in response to clicking on an search-optimized search result, online advertisement, or marketing promotion. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
 
@@ -24,6 +27,9 @@ Laravel
 
 Largest Contentful Paint
 : The time it takes for the largest content element visible in the viewport to render. Large elements considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
+
+Last Call Working Draft
+: A mature version of a World Wide Web Consortium (W3C) Working Draft in need of test and implementation feedback.
 
 Last In, First Out
 : → Stack
@@ -55,6 +61,9 @@ Lazy loading
 
 LCP
 : → Largest Contentful Paint
+
+LCWD
+: → Last Call Working Draft
 
 LDAP
 : → Lightweight Directory Access Protocol
@@ -181,6 +190,9 @@ LOC
 
 Local
 : → Local scope
+
+Local Area Network
+: A computer network that interconnects computers within a limited area such as a residence, laboratory, school, university campus, or office building. By contrast, a wide area network (WAN) covers a larger geographic distance. Ethernet and Wi-Fi are the two most common technologies in use for local area networks.&nbsp;[†](#w-lan)
 
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)

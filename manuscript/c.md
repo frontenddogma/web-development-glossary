@@ -26,6 +26,9 @@ Callback
 Camel case
 : The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay.” Camel case is also sometimes used in online usernames such as “johnSmith.” In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
 
+Candidate Recommendation
+: The specification-testing phase of a World Wide Web Consortium (W3C) specification (also known as a recommendation).
+
 Canonical equivalence
 : The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)
 
@@ -470,6 +473,9 @@ Content Delivery Network
 Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for Enterprise Content Management (ECM) and Web Content Management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)
 
+Content negotiation
+: Server- or agent-driven mechanisms that allow to serve different versions of a document (or more generally, representations of a resource) at the same URL, so that user agents can specify which version fits their capabilities the best. Examples include requesting and receiving documents in a preferred language, or media files in a particular format.&nbsp;[†](#w-content-negotiation)
+
 Content network
 : A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through the respective ad platform.
 
@@ -560,6 +566,9 @@ CPM
 
 CQS
 : → Command-Query Separation
+
+CR
+: → Candidate Recommendation
 
 Craft
 : A pastime or a profession that requires particular skills and knowledge of skilled work.&nbsp;[†](#w-craft)
@@ -652,7 +661,7 @@ CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
 CSS-in-JS
-: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
+: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `style` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
 
 CSS-Tricks
 : A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
@@ -677,6 +686,9 @@ Cumulative Layout Shift
 
 Currying
 : The technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.&nbsp;[†](#w-currying)
+
+Custom data attribute
+: An attribute in no namespace whose name starts with the string `data-`, has at least one character after the hyphen, is XML-compatible, and contains no ASCII upper alphas. Custom data attributes are intended to store custom data, state, annotations, and similar, private to the page or application, for which there are no more appropriate attributes or elements.&nbsp;§
 
 Custom element
 : → Autonomous custom element

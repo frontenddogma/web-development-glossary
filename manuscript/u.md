@@ -3,6 +3,9 @@
 UA
 : → User agent
 
+UA string
+: → User agent string
+
 UAAG
 : → User Agent Accessibility Guidelines
 
@@ -168,6 +171,9 @@ User agent
 
 User Agent Accessibility Guidelines
 : A set of guidelines for user agent developers (such as web browsers and media players) aimed at making user agents accessible to users with disabilities. UAAG 1.0 became a W3C Recommendation in 2002.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
+
+User agent string
+: A characteristic string that lets servers and network peers identify the application, operating system, vendor, or version of the requesting user agent. The common format for web browsers is `User-Agent: Mozilla/5.0 (<system-information>) <platform> (<platform-details>) <extensions>`.&nbsp;[‡](#m-ua-string)
 
 User Datagram Protocol
 : One of the core members of the Internet protocol suite. The protocol was designed in 1980 by David P. Reed and formally defined in RFC&nbsp;768. With UDP, computer applications can send messages, in this case referred to as datagrams, to other hosts on an Internet Protocol (IP) network. Prior communications are not required in order to set up communication channels or data paths. UDP is suitable for purposes where error checking and correction are either not necessary or are performed in the application; UDP avoids the overhead of such processing in the protocol stack. Time-sensitive applications often use UDP because dropping packets is preferable to waiting for packets delayed due to retransmission, which may not be an option in a real-time system.&nbsp;[†](#w-udp)

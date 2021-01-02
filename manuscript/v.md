@@ -58,6 +58,9 @@ Vim
 Virtual inheritance
 : A C++ technique that ensures only one copy of a base class’s member variables are inherited by grandchild-derived classes. Without virtual inheritance, if two classes `B` and `C` inherit from a class `A`, and a class `D` inherits from both `B` and `C`, then `D` will contain two copies of `A`’s member variables: one via `B`, and one via `C`. These will be accessible independently, using scope resolution. Instead, if classes `B` and `C` inherit virtually from class `A`, then objects of class `D` will contain only one set of the member variables from class `A`. This feature is most useful for multiple inheritance, as it makes the virtual base a common subobject for the deriving class and all classes that are derived from it.&nbsp;[†](#w-virtual-inheritance)
 
+Virtual LAN
+: A broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI model layer 2). VLANs work by applying tags to network frames and handling these tags in networking systems, creating the appearance and functionality of network traffic that is physically on a single network but acts as if it was split between separate networks. In this way, VLANs can keep network applications separate despite being connected to the same physical network, and without requiring multiple sets of cabling and networking devices to be deployed.&nbsp;[†](#w-vlan)
+
 Virtual Machine
 : An emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. There are different kinds of virtual machines, each with different functions: System virtual machines (also termed full virtualization VMs) provide a substitute for a real machine; process virtual machines, on the other hand, are designed to execute computer programs in a platform-independent environment.&nbsp;[†](#w-virtual-machine)
 
@@ -99,6 +102,9 @@ Visual Studio Code
 
 Vishing
 : → Voice phishing
+
+VLAN
+: → Virtual LAN
 
 VM
 : → Virtual Machine

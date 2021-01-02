@@ -136,8 +136,17 @@ JSON Web Signature
 JSON Web Token
 : An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can typically be used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)
 
+JSON with Padding
+: A historical JavaScript technique for requesting data by loading a `script` element. JSONP was proposed in 2005 by Bob Ippolito. It enables sharing of data bypassing same-origin policy, which disallows running JavaScript code to read media DOM elements or XMLHttpRequest data fetched from outside the page’s originating site. JSONP is vulnerable to the data source replacing the innocuous function call with malicious code, which is why it has been superseded by cross-origin resource sharing in modern applications.&nbsp;[†](#w-jsonp)
+
 JSON-LD
 : → JavaScript Object Notation for Linked Data
+
+JSON-P
+: → JSON with Padding
+
+JSONP
+: → JSON with Padding
 
 JSP
 : → JavaServer Pages

@@ -97,6 +97,9 @@ First Meaningful Paint
 First Paint
 : The time between navigation and when the browser renders the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “Is it happening?”&nbsp;[‡](#m-first-paint)
 
+First Public Working Draft
+: The first official version of a World Wide Web Consortium (W3C) Working Draft.
+
 First-class function
 : A function that is treated like any other variable in the respective language.&nbsp;[‡](#m-first-class-function)
 
@@ -243,6 +246,9 @@ FOUT
 
 FPS
 : → Frames per Second
+
+FPWD
+: → First Public Working Draft
 
 FQDN
 : → Fully qualified domain name

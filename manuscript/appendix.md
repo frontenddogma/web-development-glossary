@@ -190,6 +190,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Content (media)](https://en.wikipedia.org/wiki/Content_(media)){#w-content}
 * [Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network){#w-cdn}
 * [Content management system](https://en.wikipedia.org/wiki/Content_management_system){#w-cms}
+* [Content negotiation](https://en.wikipedia.org/wiki/Content_negotiation){#w-content-negotiation}
 * [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy){#w-csp}
 * [Content sniffing](https://en.wikipedia.org/wiki/Content_sniffing){#w-mime-sniffing}
 * [Context switch](https://en.wikipedia.org/wiki/Context_switch){#w-context-switch}
@@ -513,6 +514,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [JSON Web Signature](https://en.wikipedia.org/wiki/JSON_Web_Signature){#w-jws}
 * [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token){#w-jwt}
 * [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD){#w-json-ld}
+* [JSONP](https://en.wikipedia.org/wiki/JSONP){#w-jsonp}
 * [Just-in-time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation){#w-jit-compilation}
 * [Just-in-time manufacturing](https://en.wikipedia.org/wiki/Just-in-time_manufacturing){#w-jit}
 * [K-Meleon](https://en.wikipedia.org/wiki/K-Meleon){#w-k-meleon}
@@ -554,6 +556,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
 * [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
+* [Local area network](https://en.wikipedia.org/wiki/Local_area_network){#w-lan}
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Location information server](https://en.wikipedia.org/wiki/Location_information_server){#w-lis}
@@ -1001,6 +1004,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Viewport](https://en.wikipedia.org/wiki/Viewport){#w-viewport}
 * [Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor)){#w-vim}
 * [Virtual inheritance](https://en.wikipedia.org/wiki/Virtual_inheritance){#w-virtual-inheritance}
+* [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN){#w-vlan}
 * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine){#w-virtual-machine}
 * [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud){#w-vpc}
 * [Virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network){#w-vpn}
@@ -1068,6 +1072,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}
 * [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character){#w-whitespace}
 * [WHOIS](https://en.wikipedia.org/wiki/WHOIS){#w-whois}
+* [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network){#w-wan}
 * [Widows and orphans](https://en.wikipedia.org/wiki/Widows_and_orphans){#w-widows-orphans}
 * [Wiki](https://en.wikipedia.org/wiki/Wiki){#w-wiki}
 * [Window-Eyes](https://en.wikipedia.org/wiki/Window-Eyes){#w-window-eyes}
@@ -1201,6 +1206,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Time to interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive){#m-tti}
 * [try…catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch){#m-try-catch}
 * [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined){#m-undefined}
+* [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent){#m-ua-string}
 * [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements){#m-custom-element}
 * [Vendor Prefix](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix){#m-vendor-prefix}
 * [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model){#m-visual-formatting-model}

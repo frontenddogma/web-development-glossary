@@ -15,6 +15,9 @@ WAI-ARIA
 WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
 
+WAN
+: → Wide Area Network
+
 WAP
 : → Wireless Application Protocol
 
@@ -247,6 +250,9 @@ Whitespace
 WHOIS
 : A query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC&nbsp;3912. The first WHOIS directory was created in the 1970s.&nbsp;[†](#w-whois)
 
+Wide Area Network
+: A telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits. The Internet may be considered a WAN.&nbsp;[†](#w-wan)
+
 Widow
 : A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.”&nbsp;[†](#w-widows-orphans)
 
@@ -303,6 +309,9 @@ Workaround
 
 Workbox
 : A Google-maintained set of libraries and Node modules to assist the building of progressive web apps (PWAs). Workbox was first released in 2017. ℹ︎&nbsp;[is.gd/GFKM3p](https://developers.google.com/web/tools/workbox)
+
+Working Draft
+: The initial design phase of a World Wide Web Consortium (W3C) specification. Based on internal and external feedback, the respective W3C Working Group fleshes out the draft.
 
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)

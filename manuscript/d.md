@@ -57,6 +57,9 @@ Data visualization
 Data warehouse
 : A system used for data analysis and reporting, and a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place.&nbsp;[†](#w-dwh)
 
+`data-*` attribute
+: → Custom data attribute
+
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 
