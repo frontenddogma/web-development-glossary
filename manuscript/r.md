@@ -18,6 +18,9 @@ Ranking
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
 
+Rax
+: A React framework for building universal applications. Rax is maintained by Alibaba. ℹ︎&nbsp;[rax.js.org](https://rax.js.org/)
+
 RCS
 : → Revision Control System
 

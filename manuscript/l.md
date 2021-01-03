@@ -92,6 +92,9 @@ Let’s Encrypt
 Letter spacing
 : An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter spacing should not be confused with kerning. Letter spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
 
+Lexical scope
+: Name resolution depending on the location in the source code and the lexical context (also called static context), which is defined by where the named variable or function is defined. In lexical scope, if a variable name’s scope is a certain function, then its scope is the program text of the function definition; within that text, the variable name exists, and is bound to the variable’s value, but outside that text, the variable name does not exist.&nbsp;[†](#w-scope)
+
 Library
 : Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
 

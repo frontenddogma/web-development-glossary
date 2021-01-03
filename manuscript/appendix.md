@@ -312,6 +312,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act){#w-eaa}
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
+* [Event loop](https://en.wikipedia.org/wiki/Event_loop){#w-event-loop}
 * [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture){#w-eda}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exception handling syntax](https://en.wikipedia.org/wiki/Exception_handling_syntax){#w-exception-handling-syntax}
@@ -328,6 +329,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
+* [Feature detection (web development)](https://en.wikipedia.org/wiki/Feature_detection_(web_development)){#w-feature-detection}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
 * [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
@@ -360,6 +362,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Front and back ends](https://en.wikipedia.org/wiki/Front_and_back_ends){#w-frontend-backend}
 * [FTPS](https://en.wikipedia.org/wiki/FTPS){#w-ftps}
 * [Fully qualified domain name](https://en.wikipedia.org/wiki/Fully_qualified_domain_name){#w-fqdn}
+* [Function as a service](https://en.wikipedia.org/wiki/Function_as_a_service){#w-faas}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
@@ -1025,6 +1028,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
 * [Web application](https://en.wikipedia.org/wiki/Web_application){#w-web-app}
+* [Web application firewall](https://en.wikipedia.org/wiki/Web_application_firewall){#w-waf}
 * [Web beacon](https://en.wikipedia.org/wiki/Web_beacon){#w-web-beacon}
 * [Web browser](https://en.wikipedia.org/wiki/Web_browser){#w-browser}
 * [Web colors](https://en.wikipedia.org/wiki/Web_colors){#w-web-colors}

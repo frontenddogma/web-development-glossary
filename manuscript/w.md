@@ -4,6 +4,7 @@ W3C
 : → World Wide Web Consortium
 
 WAF
+: → Web Application Firewall
 : → Web Application Framework
 
 WAI
@@ -62,6 +63,9 @@ Web application
 
 Web application archive
 : A file used to distribute a collection of JAR files, JavaServer Pages, Java servlets, Java classes, XML files, tag libraries, static web pages (HTML and related files), and other resources that together constitute a web application.&nbsp;[†](#w-war)
+
+Web Application Firewall
+: A specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service. By inspecting HTTP traffic, a WAF can prevent attacks exploiting a web application’s known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration.&nbsp;[†](#w-waf)
 
 Web Application Framework
 : → Web framework
@@ -219,6 +223,9 @@ WebView
 
 Weekly Active Users
 : → Active Users
+
+Weex
+: A mobile application framework supporting Vue.js and Rax, themselves frameworks that are integrated into the Weex SDK. ℹ︎&nbsp;[weex.apache.org](https://weex.apache.org/)
 
 Well-formedness
 : An attribute of document markup that adheres to the syntax rules specified by XML. Well-formed markup specifically refers to content being delimited by start and end tags, elements being properly nested, and void elements being closed.&nbsp;[†](#w-well-formedness)

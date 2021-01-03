@@ -590,6 +590,9 @@ Static
 Static Application Security Testing
 : Testing tools and techniques to analyze source code, bytecode, and binaries for security vulnerabilities.
 
+Static scope
+: → Lexical scope
+
 Static Site Generator
 : A usually template-based, often headless system that allows to generate static web pages.
 

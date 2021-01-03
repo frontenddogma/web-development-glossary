@@ -1,5 +1,8 @@
 # F
 
+FaaS
+: → Function as a Service
+
 Facade pattern
 : A software-design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
 
@@ -33,8 +36,14 @@ FCP
 Feature creep
 : The excessive ongoing expansion or addition of new features in a product, especially in computer software, video games, and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication rather than simple design.&nbsp;[†](#w-feature-creep)
 
+Feature detection
+: A technique for handling differences between runtime environments (typically web browsers or user agents), by programmatically testing for clues that the environment may or may not offer certain functionality. This information is then used to make the application adapt in some way to suit the environment, for example to make use of certain APIs or to tailor the user experience. Feature detection is said to be more reliable and future-proof than other techniques, like browser sniffing and browser-specific CSS hacks.&nbsp;[†](#w-feature-detection)
+
 Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called dumbphones in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
+
+Feature testing
+: → Feature detection
 
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
@@ -340,6 +349,9 @@ Fully qualified domain name
 
 Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
+
+Function as a Service
+: A category of cloud computing services that provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app. Building an application following this model is one way of achieving a “serverless” architecture, and is typically used when building microservices applications. AWS Lambda was the first FaaS offering by a large public cloud vendor.&nbsp;[†](#w-faas)
 
 Function binding
 : The creation of a new function using the `bind()` method.

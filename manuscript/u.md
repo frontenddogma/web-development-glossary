@@ -172,6 +172,9 @@ User agent
 User Agent Accessibility Guidelines
 : A set of guidelines for user agent developers (such as web browsers and media players) aimed at making user agents accessible to users with disabilities. UAAG 1.0 became a W3C Recommendation in 2002.&nbsp;[†](#w-wai) ℹ︎&nbsp;[w3.org/TR/UAAG20](https://www.w3.org/TR/UAAG20/)
 
+User agent sniffing
+: → Browser sniffing
+
 User agent string
 : A characteristic string that lets servers and network peers identify the application, operating system, vendor, or version of the requesting user agent. The common format for web browsers is `User-Agent: Mozilla/5.0 (<system-information>) <platform> (<platform-details>) <extensions>`.&nbsp;[‡](#m-ua-string)
 

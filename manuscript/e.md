@@ -181,6 +181,9 @@ Event
 Event handler
 : A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
 
+Event loop
+: A programming construct or design pattern that waits for and dispatches events or messages in a program. The event loop works by making a request to some internal or external “event provider” (that generally blocks the request until an event has arrived), then calls the relevant event handler to dispatch the event.&nbsp;[†](#w-event-loop)
+
 Event-driven architecture
 : A software architecture paradigm promoting the production, detection, consumption of, and reaction to events. This architectural pattern may be applied by the design and implementation of applications and systems that transmit events among loosely coupled software components and services. An event-driven system typically consists of event emitters (or agents), event consumers (or sinks), and event channels. Building systems around an event-driven architecture simplifies horizontal scalability in distributed computing models and makes them more resilient to failure.&nbsp;[†](#w-eda)
 
