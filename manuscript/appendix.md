@@ -469,6 +469,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Interface (computing)](https://en.wikipedia.org/wiki/Interface_(computing)){#w-interface}
 * [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle){#w-interface-segregation}
 * [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization){#w-iso}
+* [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union){#w-itu}
 * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization){#w-i18n-l10n}
 * [Internationalized Resource Identifier](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier){#w-iri}
 * [Internet](https://en.wikipedia.org/wiki/Internet){#w-internet}
@@ -1091,6 +1092,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Wrapper function](https://en.wikipedia.org/wiki/Wrapper_function){#w-wrapper-function}
 * [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere){#w-wora}
 * [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG){#w-wysiwyg}
+* [X.509](https://en.wikipedia.org/wiki/X.509){#w-x509}
 * [x-height](https://en.wikipedia.org/wiki/X-height){#w-x-height}
 * [XForms](https://en.wikipedia.org/wiki/XForms){#w-xforms}
 * [XHP](https://en.wikipedia.org/wiki/XHP){#w-xhp}

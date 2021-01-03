@@ -242,6 +242,9 @@ Internal
 International Organization for Standardization
 : An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes world-wide proprietary, industrial, and commercial standards.&nbsp;[†](#w-iso) ℹ︎&nbsp;[iso.org](https://www.iso.org/)
 
+International Telecommunication Union
+: A specialized agency of the United Nations responsible for information and communication technologies. Established in 1865 as the International Telegraph Union, the ITU is one of the oldest international organizations in operation. It promotes the shared global use of the radio spectrum, facilitates international cooperation in assigning satellite orbits, assists in developing and coordinating worldwide technical standards, and works to improve telecommunication infrastructure in the developing world. The ITU is also active in the areas of broadband Internet, wireless technologies, aeronautical and maritime navigation, radio astronomy, satellite-based meteorology, TV broadcasting, and next-generation networks.&nbsp;[†](#w-itu) ℹ︎&nbsp;[itu.int](https://www.itu.int/)
+
 Internationalization
 : The process of designing a software application so that it can be adapted to various languages and regions without engineering changes.&nbsp;[†](#w-i18n-l10n)
 
@@ -348,6 +351,9 @@ ISP
 
 ITCSS
 : → Inverted Triangle CSS
+
+ITU
+: → International Telecommunication Union
 
 IxD
 : → Interaction Design

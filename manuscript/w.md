@@ -221,11 +221,23 @@ WebStorm
 WebView
 : An Android system component (“View”) allowing apps to display web content directly in an application. ℹ︎&nbsp;[is.gd/Sx0xdE](https://developer.android.com/reference/android/webkit/WebView)
 
+WeChat Mini Program
+: → Mini Program
+
 Weekly Active Users
 : → Active Users
 
 Weex
 : A mobile application framework supporting Vue.js and Rax, themselves frameworks that are integrated into the Weex SDK. ℹ︎&nbsp;[weex.apache.org](https://weex.apache.org/)
+
+WeiXin Markup Language
+: A proprietary document language to describe page structures for so-called Mini Programs. WXML is maintained by Tencent. ℹ︎&nbsp;[bit.ly/2XcZORT](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxml/)
+
+WeiXin Script
+: A proprietary scripting language, used to build Mini Programs. WXS is maintained by Tencent. ℹ︎&nbsp;[bit.ly/3nhfdvq](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxs/)
+
+WeiXin Style Sheets
+: An extension of Cascading Style Sheets (CSS) that includes additional dimensions and import options, and that is used to build Mini Programs. Like WXML and WXS, WXSS is maintained by Tencent. ℹ︎&nbsp;[bit.ly/3pP0eKP](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxss.html)
 
 Well-formedness
 : An attribute of document markup that adheres to the syntax rules specified by XML. Well-formed markup specifically refers to content being delimited by start and end tags, elements being properly nested, and void elements being closed.&nbsp;[†](#w-well-formedness)
@@ -344,6 +356,15 @@ WTF-8
 
 WWW
 : → World Wide Web
+
+WXML
+: → WeiXin Markup Language
+
+WXS
+: → WeiXin Script
+
+WXSS
+: → WeiXin Style Sheets
 
 WYSIAYG
 : → What You See Is All You Get

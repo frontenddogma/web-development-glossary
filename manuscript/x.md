@@ -1,5 +1,8 @@
 # X
 
+X.509
+: A standard defining the format of public key certificates. X.509 certificates are used in many Internet protocols, including TLS/SSL, the basis for HTTPS. They are also used in offline applications, like electronic signatures. An X.509 certificate contains a public key and an identity, and is either signed by a certificate authority or self-signed. X.509 is defined by the International Telecommunications Union’s “Standardization Sector” (ITU-T), and based on ASN.1, another ITU-T standard.&nbsp;[†](#w-x509) ℹ︎&nbsp;[itu.int/rec/T-REC-X.509](https://www.itu.int/rec/T-REC-X.509)
+
 x-height
 : The distance between the baseline and the mean line of lowercase letters in a typeface. Typically, this is the height of the letter “x” in a font (the source of the term), as well as the letters “v”, “w”, and “z”. (Curved letters such as “a”, “c”, “e”, “m”, “n”, “o”, “r”, “s”, and “u” tend to exceed the x-height slightly, due to overshoot.) As one of the most important dimensions of a font, x-height is used to define how high lowercase letters are compared to uppercase letters.&nbsp;[†](#w-x-height)
 

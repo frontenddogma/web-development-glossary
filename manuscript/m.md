@@ -219,6 +219,9 @@ MIME sniffing
 MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
 
+Mini Program
+: A sub-application for the WeChat messaging, social media, and payment app. Mini Programs are developed using a framework consisting of the WeiXin Markup Language (WXML), WeiXin Style Sheets (WXSS), and WeiXin Script (WXS). ℹ︎&nbsp;[bit.ly/38buLwe](https://developers.weixin.qq.com/miniprogram/en/dev/framework/)
+
 Minification
 : The process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g., the Internet) more efficient.&nbsp;[†](#w-minification)
 
