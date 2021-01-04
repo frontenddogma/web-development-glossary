@@ -356,6 +356,9 @@ Function as a Service
 Function binding
 : The creation of a new function using the `bind()` method.
 
+`function*`
+: → Generator function
+
 Functional programming
 : A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. Functional programming is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements. In functional code, the output value of a function depends only on its arguments, so calling a function with the same value for an argument always produces the same result. This is in contrast to imperative programming where, in addition to a function’s arguments, global program state can affect a function’s resulting value. One of the key motivations for functional programming is making a program easier to understand by eliminating changes in state that do not depend on function inputs, so-called side effects.&nbsp;[†](#w-functional-programming)
 

@@ -108,6 +108,12 @@ MD6
 MDL
 : → Microsoft Design Language
 
+MDN
+: → Mozilla Developer Network
+
+MDN Web Docs
+: A learning platform for web technologies and software that powers the Web, including HTML, CSS, and JavaScript. The MDN Web Docs aim to “provide developers with the information they need to easily build projects on the open Web.” The project was started in 2005.&nbsp;[‡](#m-mdn) ℹ︎&nbsp;[developer.mozilla.org](https://developer.mozilla.org/)
+
 MDX
 : A format that allows to write JSX in Markdown, including the importing of components. ℹ︎&nbsp;[mdxjs.com](https://mdxjs.com/)
 
@@ -210,6 +216,9 @@ Microtask
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
 
+Millennium bug
+: → Year 2000 problem
+
 MIME
 : → Multipurpose Internet Mail Extensions
 
@@ -294,6 +303,12 @@ Mosaic
 
 Moving Picture Experts Group
 : A working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission, the MPEG formats. The MPEG was established in 1988 by the initiative of Hiroshi Yasuda.&nbsp;[†](#w-moving-picture-experts-group) ℹ︎&nbsp;[mpeg.chiariglione.org](https://mpeg.chiariglione.org/)
+
+Mozilla Developer Center
+: → MDN Web Docs
+
+Mozilla Developer Network
+: → MDN Web Docs
 
 Mozilla Firefox
 : → Firefox

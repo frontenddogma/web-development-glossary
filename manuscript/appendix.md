@@ -261,6 +261,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
+* [Distributed object communication](https://en.wikipedia.org/wiki/Distributed_object_communication){#w-distributed-object-communication}
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework)){#w-django}
@@ -788,6 +789,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Relational data stream management system](https://en.wikipedia.org/wiki/Relational_data_stream_management_system){#w-rdsms}
 * [Relational database](https://en.wikipedia.org/wiki/Relational_database){#w-relational-database}
 * [Relational model](https://en.wikipedia.org/wiki/Relational_model){#w-relational-model}
+* [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call){#w-rpc}
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework){#w-rdf}
@@ -1101,13 +1103,16 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [XLink](https://en.wikipedia.org/wiki/XLink){#w-xlink}
 * [XML](https://en.wikipedia.org/wiki/XML){#w-xml}
 * [XML Schema (W3C)](https://en.wikipedia.org/wiki/XML_Schema_(W3C)){#w-xsd}
+* [XML-RPC](https://en.wikipedia.org/wiki/XML-RPC){#w-xml-rpc}
 * [XMLHttpRequest](https://en.wikipedia.org/wiki/XMLHttpRequest){#w-xmlhttprequest}
 * [XPath](https://en.wikipedia.org/wiki/XPath){#w-xpath}
 * [XPointer](https://en.wikipedia.org/wiki/XPointer){#w-xpointer}
 * [XQuery](https://en.wikipedia.org/wiki/XQuery){#w-xquery}
 * [XSL](https://en.wikipedia.org/wiki/XSL){#w-xsl}
 * [XUL](https://en.wikipedia.org/wiki/XUL){#w-xul}
+* [Yahoo! Query Language](https://en.wikipedia.org/wiki/Yahoo!_Query_Language){#w-yql}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
+* [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem){#w-y2k}
 * [You aren’t gonna need it](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it){#w-yagni}
 * [YUI Library](https://en.wikipedia.org/wiki/YUI_Library){#w-yui}
 * [Z shell](https://en.wikipedia.org/wiki/Z_shell){#w-zsh}
@@ -1122,6 +1127,7 @@ The original works, which have been released under the [CC BY-SA 3.0 license](ht
 
 This book uses material from the following articles by Mozilla&nbsp;contributors:
 
+* [About MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/About){#m-mdn}
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
 * [ALPN](https://developer.mozilla.org/en-US/docs/Glossary/alpn){#m-alpn}
@@ -1161,6 +1167,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
+* [function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*){#m-generator-function}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
@@ -1218,5 +1225,6 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model){#m-visual-formatting-model}
 * [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts){#m-web-font}
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
+* [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield){#m-yield}
 
 The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been&nbsp;edited.

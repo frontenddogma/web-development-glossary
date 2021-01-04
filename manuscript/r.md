@@ -155,6 +155,12 @@ Relaunch
 Rem
 : → Root em
 
+Remote method invocation
+: The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC).&nbsp;[†](#w-distributed-object-communication)
+
+Remote procedure call
+: The causing of a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), with the call being coded as if it was a normal (local) procedure call. That is, without explicitly coding the details for the remote interaction, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote.&nbsp;[†](#w-rpc)
+
 Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
 
@@ -266,6 +272,9 @@ Rich Web Application
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
 
+RMI
+: → Remote method invocation
+
 Roadmap
 : A flexible planning technique to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions. A roadmap is a plan that applies to a new product or process and may include using technology forecasting or scouting to identify suitable emerging technologies.&nbsp;[†](#w-roadmap)
 
@@ -323,6 +332,9 @@ Routing Information Base
 
 Routing table
 : A data table stored in a router or a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes. The routing table contains information about the topology of the network immediately around it.&nbsp;[†](#w-routing-table)
+
+RPC
+: → Remote procedure call
 
 RPM
 : → RPM Package Manager
