@@ -363,6 +363,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [FTPS](https://en.wikipedia.org/wiki/FTPS){#w-ftps}
 * [Fully qualified domain name](https://en.wikipedia.org/wiki/Fully_qualified_domain_name){#w-fqdn}
 * [Function as a service](https://en.wikipedia.org/wiki/Function_as_a_service){#w-faas}
+* [Functional programming](https://en.wikipedia.org/wiki/Functional_programming){#w-functional-programming}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
@@ -1160,7 +1161,6 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
-* [Functional programming](https://en.wikipedia.org/wiki/Functional_programming){#w-functional-programming}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
