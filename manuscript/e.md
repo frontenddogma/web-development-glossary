@@ -6,6 +6,9 @@ E-commerce
 E2E
 : → End-to-end (testing)
 
+EAA
+: → European Accessibility Act
+
 EAT
 : → Expertise, Authoritativeness, Trustworthiness
 
@@ -32,6 +35,9 @@ ECT
 
 Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows&nbsp;10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
+
+Edge caching
+: The caching of content close to end users, for example by using a Content Delivery Network (CDN).
 
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. An editor may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are a fundamental programming tool.&nbsp;[†](#w-editor)
@@ -145,11 +151,26 @@ Error
 ES
 : → ECMAScript
 
+ES Modules
+: A JavaScript-native module standard introduced with ES6 (2015) that enables more code reuse through means of `export` and `import` statements. ES Modules make for one of several module formats, others being CommonJS, Asynchronous Module Definition (AMD), and Universal Module Definition (UMD).
+
+ES4
+: The proposed fourth edition of ECMA-262 (ECMAScript&nbsp;4), first drafted in 1999, which was abandoned in 2008.&nbsp;[†](#w-ecmascript)
+
+ES6
+: The sixth version of ECMA-262 (ECMAScript&nbsp;6 or ECMAScript&nbsp;2015), released in 2015.&nbsp;[†](#w-ecmascript)
+
 Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; and 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action.&nbsp;[†](#w-ethics)
 
+ETL
+: → Extract, Transform, Load
+
 Etiquette
 : The set of conventional rules of personal behavior in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750.&nbsp;[†](#w-etiquette)
+
+European Accessibility Act
+: A directive that aims to improve the trade between members of the EU for accessible products and services, by removing country-specific rules. The European Accessibility Act was built to complement the EU’s Web Accessibility Directive which became law in 2016. It is also reflecting the obligations of the UN’s Convention on the Rights of Persons with Disabilities. It covers a wide range of systems including personal devices such as computers, smartphones, ebooks, and TVs, as well as public services like television broadcasts, ATMs, ticketing machines, public transport services, banking services and e-commerce sites.&nbsp;[†](#w-eaa) ℹ︎&nbsp;[is.gd/mFefnH](https://ec.europa.eu/social/main.jsp?catId=1202)
 
 European Computer Manufacturers Association
 : → Ecma International
@@ -159,6 +180,9 @@ Event
 
 Event handler
 : A mechanism that allows to be notified of DOM events. Two common approaches are `addEventListener()` and specific `onevent` handlers.&nbsp;[‡](#m-event-handler)
+
+Event loop
+: A programming construct or design pattern that waits for and dispatches events or messages in a program. The event loop works by making a request to some internal or external “event provider” (that generally blocks the request until an event has arrived), then calls the relevant event handler to dispatch the event.&nbsp;[†](#w-event-loop)
 
 Event-driven architecture
 : A software architecture paradigm promoting the production, detection, consumption of, and reaction to events. This architectural pattern may be applied by the design and implementation of applications and systems that transmit events among loosely coupled software components and services. An event-driven system typically consists of event emitters (or agents), event consumers (or sinks), and event channels. Building systems around an event-driven architecture simplifies horizontal scalability in distributed computing models and makes them more resilient to failure.&nbsp;[†](#w-eda)
@@ -207,6 +231,9 @@ Extensible Stylesheet Language Transformations
 
 External
 : Originating outside one’s organization.
+
+Extract, Transform, Load
+: The general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context. The ETL process became a popular concept in the 1970s and is often used in data warehousing.&nbsp;[†](#w-etl)
 
 Extreme Programming
 : A software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, XP advocates frequent releases in short development cycles, which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. Other elements of Extreme Programming include programming in pairs or doing extensive code reviews, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer’s requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.&nbsp;[†](#w-xp)

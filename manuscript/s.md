@@ -190,6 +190,9 @@ Server farm
 Server logs
 : Log files related to server events. Server logs may be generated and stored on the respective servers.
 
+Server Name Indication
+: An extension to the Transport Layer Security (TLS) computer networking protocol by which a client indicates which hostname it is attempting to connect to at the start of the handshaking process. This allows a server to present multiple certificates on the same IP address and TCP port number and hence allows multiple secure (HTTPS) websites (or any other service over TLS) to be served by the same IP address without requiring all those sites to use the same certificate. SNI is the conceptual equivalent to HTTP/1.1 name-based virtual hosting, but for HTTPS.&nbsp;[†](#w-sni)
+
 Server push
 : → Push technology
 
@@ -198,6 +201,9 @@ Server side
 
 Server-Side Rendering
 : A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
+
+Serverless computing
+: A cloud computing execution model in which the cloud provider runs the server, and allocates machine resources on demand. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage. When an app is not in use, there are no computing resources allocated to the app. “Serverless” is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.&nbsp;[†](#w-serverless)
 
 Service discovery
 : The automatic detection of devices and services offered on a computer network. Service discovery aims to reduce the configuration efforts from users.&nbsp;[†](#w-service-discovery)
@@ -301,6 +307,9 @@ Site map
 Sitemaps
 : A protocol that allows to inform search engines about URLs on a website that are available for crawling. A Sitemap is an XML file that lists the URLs for a site. It allows webmasters to include additional information about each URL: when it was last updated, how often it changes, and how important it is in relation to other URLs of the site. This allows search engines to crawl the site more efficiently and to find URLs that may be isolated from the rest of the site’s content. The Sitemaps protocol is a URL inclusion protocol and complements robots.txt, a URL exclusion protocol. The Sitemaps protocol was first released in 2005.&nbsp;[†](#w-sitemaps) ℹ︎&nbsp;[sitemaps.org](https://www.sitemaps.org/)
 
+Skeleton screen
+: A UI that displays rudimentary placeholders while the actual content is being loaded. The respective placeholders commonly use a similar shape to the actual elements. Skeleton screens contribute to a faster perceived performance. The concept is attributed to a 2013 article by Luke Wroblewski.
+
 Sketch
 : A vector graphics editor. Sketch is primarily a UI and UX designing tool for website and mobile app design, but focus has been increased on prototyping and collaboration to make it a more comprehensive platform for digital design. Sketch was first released in 2010 for macOS. ℹ︎&nbsp;[sketch.com](https://www.sketch.com/)
 
@@ -349,17 +358,23 @@ Smi
 SMIL
 : → Synchronized Multimedia Integration Language
 
-SMTP
-: → Simple Mail Transfer Protocol
+Smishing
+: A phishing attack performed through SMS/text messages.
 
 Smoke testing
 : The preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release. Smoke tests are a subset of test cases that cover the most important functionality of a component or system, used to aid assessment of whether main functions of the software appear to work correctly. When used to determine if a computer program should be subjected to further, more fine-grained testing, a smoke test may be called an intake test. Alternately, it is a set of tests run on each new build of a product to verify that the build is testable before the build is released into the hands of the test team.&nbsp;[†](#w-smoke-testing)
+
+SMTP
+: → Simple Mail Transfer Protocol
 
 Snake case
 : The practice of writing compound words or phrases in which the elements are separated with one underscore character (“_”) and no spaces, with each element’s initial letter usually lowercased within the compound and the first letter either upper- or lowercase (“the_quick_brown_fox”). Snake case is commonly used in computer code for variable, function, and sometimes file names.&nbsp;[†](#w-snake-case)
 
 Snap position
 : A point that a scrollport will stop moving at after a scrolling operation is completed. This allows a scrolling experience that gives the effect of paging through content rather than needing to drag content into view.&nbsp;[‡](#m-snap-position)
+
+SNI
+: → Server Name Indication
 
 SOA
 : → Service-oriented architecture
@@ -463,6 +478,10 @@ Spider
 Spike
 : A product-testing method originating from Extreme Programming that is used to determine how much work will be required to solve or work around a software issue. Typically, a “spike test” involves gathering additional information or testing for easily reproduced edge cases.&nbsp;[†](#w-spike)
 
+Spinner
+: A UI element that indicates that an action is taking place.
+: A UI element with which a user may adjust a value in an adjoining text box (numeric up/down).&nbsp;[†](#w-spinner)
+
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
 
@@ -490,8 +509,14 @@ SQL injection
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
+src
+: A name conventionally used for the main folder for source code and files.
+
 sRGB
 : → standard Red Green Blue
+
+SRI
+: → Subresource Integrity
 
 SSG
 : → Static Site Generator
@@ -538,6 +563,9 @@ standard Red Green Blue
 Standards mode
 : → Strict mode
 
+Standby redundancy
+: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power. 
+
 Star
 : A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).
 
@@ -561,6 +589,9 @@ Static
 
 Static Application Security Testing
 : Testing tools and techniques to analyze source code, bytecode, and binaries for security vulnerabilities.
+
+Static scope
+: → Lexical scope
 
 Static Site Generator
 : A usually template-based, often headless system that allows to generate static web pages.
@@ -614,6 +645,9 @@ Subnav
 Subnavigation
 : A secondary or auxiliary website navigation menu. Visually, a subnavigation is usually less prominent than a main navigation menu.
 
+Subresource Integrity
+: A W3C specification to provide a method to protect website delivery. Specifically, SRI validates assets served by a third party, such as a Content Delivery Network (CDN). This ensures these assets have not been compromised for hostile purposes. SRI was created in response to a number of attacks where CDN-served content was injected with malicious code, compromising thousands of websites using it.&nbsp;[†](#w-sri)
+
 Subroutine
 : → Routine
 
@@ -650,6 +684,12 @@ SXG
 Symbol
 : A primitive data type whose instances have a unique human-readable form. Symbols can be used as identifiers. In some programming languages, they are called atoms. Uniqueness is enforced by holding symbols in a symbol table. The most common use of symbols by programmers is for performing language reflection (particularly for callbacks).&nbsp;[†](#w-symbol)
 
+Symfony
+: A PHP web application framework and set of reusable PHP components and libraries. Symfony was released in 2005.&nbsp;[†](#w-symfony) ℹ︎&nbsp;[symfony.com](https://symfony.com/)
+
+SYN
+: A signal to initiate, establish, or synchronize a connection, as with a communications protocol like the Transmission Control Protocol (TCP).
+
 Synchronized Multimedia Integration Language
 : A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
 
@@ -658,6 +698,9 @@ Synchronous
 
 Syndication
 : As web syndication, a form of syndication in which content is made available from one website to other sites and services. Most commonly, websites are made available to provide either summaries or full renditions of a website’s recently added content. The term “syndication” may also describe other kinds of content licensing for reuse.&nbsp;[†](#w-syndication)
+
+Syntactic sugar
+: Syntax within a programming language that is designed to make things easier to read or to express. Syntactic sugar makes the language “sweeter” for human use: Things can be expressed more clearly, more concisely, or in an alternative style that some may prefer.&nbsp;[†](#w-syntactic-sugar)
 
 Syntax
 : The set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in a language. This applies both to programming languages, where the document represents source code, and to markup languages, where the document represents data. The syntax of a language defines its surface form. Text-based computer languages are based on sequences of characters, while visual programming languages are based on the spatial layout and connections between symbols (which may be textual or graphical). Documents that are syntactically invalid are said to have a syntax error. When designing the syntax of a language, a designer might start by writing down examples of both legal and illegal strings, before trying to determine general rules from these examples.&nbsp;[†](#w-syntax)

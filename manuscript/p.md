@@ -9,6 +9,9 @@ package.json
 package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
+Packaged Offline/Online Webpage
+: The using of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎&nbsp;[hi.pow.tools](https://hi.pow.tools/)
+
 Packed
 : A property of an array that consists only of elements (no holes), and that can be optimized accordingly.
 
@@ -23,6 +26,9 @@ Page
 
 Page impression
 : → Page view
+
+Page parking
+: The quick opening of several web pages to revisit the respective pages and files at a later time. According to UX research firm Nielsen Norman Group, page parking is particularly popular among young adult users, or so-called millennials.
 
 Page prediction
 : A browser feature or script which, when enabled, tells the browser to download resources the user is likely to visit before any user requests for the content are made. Page prediction improves performance by enabling almost instant loading of predicted content. However, page prediction may also download content a user does not request.&nbsp;[‡](#m-page-prediction)
@@ -39,6 +45,9 @@ PageSpeed
 Page view
 : A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another page pointing to the page in question.&nbsp;[†](#w-page-view)
 
+Paint
+: The web page rendering phase during which the final render tree is used to render the respective pixels to the screen.
+
 Pair programming
 : An agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the navigator or observer, reviews each line of code as it is typed in. The two programmers switch roles frequently. While reviewing, the navigator also considers the “strategic” direction of the work, coming up with ideas for improvements and likely future problems to address. This is intended to free the driver to focus all of their attention on the “tactical” aspects of completing the current task, using the navigator as a safety net and guide.&nbsp;[†](#w-pair-programming)
 
@@ -53,6 +62,9 @@ Paradigm
 
 Parallax scrolling
 : A technique in computer graphics where background images move past the camera more slowly than foreground images, creating an illusion of depth in a 2D scene and adding to the sense of immersion in the virtual experience. The technique grew out of the multiplane camera technique used in traditional animation since the 1930s.&nbsp;[†](#w-parallax-scrolling)
+
+Parallel browsing
+: The keeping open and handling of several web pages in different tabs and windows.
 
 Parameter
 : A special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called or invoked.&nbsp;[†](#w-parameter-argument)
@@ -122,7 +134,7 @@ Perceivable, Operable, Understandable, and Robust
 : The four major principles of WCAG&nbsp;2.0. Information and user interface components must be presentable to users in ways they can perceive; user interface components and navigation must be operable; information and the operation of user interface must be understandable; and content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.&nbsp;[†](#w-wcag)
 
 Perceived performance
-: How quickly a software feature appears to perform a task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
+: The perception of how quickly a software feature appears to perform a task. The amount of time an application takes to start up, or a file to download, is not made faster by showing a startup screen or a file progress dialog box, however, such a feature can make the interface appear faster to the user as well as providing a visual cue to let them know the system is handling their request.&nbsp;[†](#w-perceived-performance)
 
 Percent encoding
 : → URL encoding
@@ -153,6 +165,9 @@ Personal Home Page
 
 Personally identifiable information
 : → Personal data
+
+PFS
+: Perfect → forward secrecy
 
 PhantomJS
 : A discontinued headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior, and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment. PhantomJS is based on WebKit. It was first released in 2011.&nbsp;[†](#w-phantomjs) ℹ︎&nbsp;[phantomjs.org](https://phantomjs.org/)
@@ -236,6 +251,9 @@ Polyfill
 Polymer Project
 : A JavaScript library for building web applications using web components. Development of the library started in 2013, and it was released in 2015. Polymer was developed by Google.&nbsp;[†](#w-polymer) ℹ︎&nbsp;[polymer-project.org](https://www.polymer-project.org/)
 
+POM
+: → Project Object Model
+
 POP
 : → Post Office Protocol
 
@@ -275,6 +293,9 @@ Postel’s Law
 
 POUR
 : → Perceivable, Operable, Understandable, and Robust
+
+POW
+: → Packaged Offline/Online Webpage
 
 PowerShell
 : A task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open source and cross-platform in 2016 with the introduction of PowerShell Core. The former is built on the .NET Framework, the latter on .NET Core. PowerShell was first released in 2006.&nbsp;[†](#w-powershell) ℹ︎&nbsp;[microsoft.com/powershell](https://www.microsoft.com/powershell/)
@@ -348,14 +369,23 @@ Programming language
 Progressive Enhancement
 : A strategy for web design that emphasizes core web page content first. This strategy then progressively adds more nuanced and technically rigorous layers of presentation and features on top of the content as the end user’s browser or Internet connection permit. The proposed benefits of this strategy are that it allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater bandwidth.&nbsp;[†](#w-progressive-enhancement)
 
+Progressive font enrichment
+: The downloading of only the required part of a font, and the patching of the respective download with additional glyphs as needed on additional page views. The concept for progressive font enrichment has been proven, but it is not widely usable yet. ℹ︎&nbsp;[is.gd/ZMRgCR](https://fonts.gstatic.com/experimental/incxfer_demo)
+
+Progressive rendering
+: An approach to improve the perceived performance of a website or app.
+
 Progressive Web App
 : A type of application software delivered through the Web, built using common web technologies including HTML, CSS, and JavaScript. A PWA is intended to work on any platform that uses a standards-compliant browser. Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. While web applications have been available for mobile devices from the start, they have generally been slower, have had fewer features, and been less used than native apps. But with the ability to work offline, previously only available to native apps, PWAs running on mobile devices can perform much faster and provide more features, closing the gap with native apps, in addition to being portable across both desktop and mobile platforms. PWAs do not require separate bundling or distribution. Publication of a progressive web app is as it would be for any other web page.&nbsp;[†](#w-pwa)
+
+Project Object Model
+: A system to provide the configuration for a single project, as with a pom.xml file used for Apache Maven.&nbsp;[†](#w-maven)
 
 Promise
 : An object that is returned by a function that has not yet completed its work. The promise literally represents a promise made by the function that it will eventually return a result through the `Promise` object. When the called function finishes its work asynchronously, a function on the promise object called a resolution (or fulfillment, or completion) handler is called to let the original caller know that the task is complete.&nbsp;[‡](#m-promise)
 
 Prop
-: A concept in Vue to pass data to components.
+: An argument passed into a component.
 : → Property
 
 Property
@@ -371,6 +401,12 @@ Prototype
 
 Prototyping
 : The activity of creating prototypes of software applications, i.e., incomplete versions of the software program being developed. Prototyping is an activity that can occur in software development and is comparable to prototyping as known from other fields, such as mechanical engineering or manufacturing. A prototype typically simulates only a few aspects of, and may be completely different from, the final product. Prototyping has several benefits: Software designers and implementers can get valuable feedback from users early in the project, clients and contractors can compare if the software matches the specification according to which the software is built, and software engineers get insight into the accuracy of initial project estimates and whether the deadlines and milestones proposed can be successfully met.&nbsp;[†](#w-prototyping)
+
+Proxy
+: → Proxy server
+
+Proxy server
+: A server application or appliance that acts as an intermediary for requests from clients seeking resources from servers that provide those resources. A proxy server thus functions on behalf of the client when requesting service, potentially masking the true origin of the request to the resource server. A proxy can simplify or control the complexity of a request, or provide additional benefits such as load balancing, privacy, or security.&nbsp;[†](#w-proxy)
 
 PRPL
 : A web performance development pattern based on the sequence “Push” (important resources), “Render” (as soon as possible), “Pre-cache” (assets), and “Lazy-load.”

@@ -33,6 +33,9 @@ Data Control Language
 Data Definition Language
 : A syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are `CREATE`, `ALTER`, and `DROP`.&nbsp;[†](#w-ddl)
 
+Data lake
+: A system or repository of data stored in its natural or raw format, usually object blobs or files. A data lake is usually a single store of data including raw copies of source system data, sensor data, social data, etc., and transformed data used for tasks such as reporting, visualization, advanced analytics, and machine learning.&nbsp;[†](#w-data-lake)
+
 Data Manipulation Language
 : A computer programming language used for adding (inserting), deleting, and modifying (updating) data in a database. A DML is often a sublanguage of a broader database language such as SQL, with the DML comprising some of the operators in the language. Read-only selecting of data is sometimes distinguished as being part of a separate data query language (DQL), but it is closely related and sometimes also considered a component of a DML; some operators may perform both selecting (reading) and writing.&nbsp;[†](#w-dml)
 
@@ -42,11 +45,20 @@ Data Query Language
 Data Stream Management System
 : A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
 
+Data swamp
+: A deteriorated and unmanaged data lake that is either inaccessible to its intended users or is providing little value.&nbsp;[†](#w-data-lake)
+
 Data type
 : → Type
 
 Data visualization
 : The graphic representation of data. Data visualization involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. The mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics, and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable, and usable.&nbsp;[†](#w-data-visualization)
+
+Data warehouse
+: A system used for data analysis and reporting, and a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place.&nbsp;[†](#w-dwh)
+
+`data-*` attribute
+: → Custom data attribute
 
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
@@ -83,6 +95,9 @@ DCVS
 
 DDA
 : → Disability Discrimination Act
+
+DDD
+: → Domain-Driven Design
 
 DDL
 : → Data Definition Language
@@ -235,6 +250,9 @@ Dither
 Divitis
 : Excessive use of `div` elements, an HTML anti-pattern.
 
+Django
+: A Python-based web framework that follows the model-template-views (MTV) architectural pattern and whose primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and “pluggability” of components, less code, low coupling, rapid development, and the principle of Don’t Repeat Yourself (DRY). Django was released in 2005; it is maintained by the Django Software Foundation (DSF).&nbsp;[†](#w-django) ℹ︎&nbsp;[djangoproject.com](https://www.djangoproject.com/)
+
 DLR
 : → Dynamic Language Runtime
 
@@ -247,6 +265,9 @@ DMZ
 DNS
 : → Domain Name Service
 : → Domain Name System
+
+DNS over HTTPS
+: A protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol. A goal of the method is to increase user privacy and security by preventing eavesdropping and manipulation of DNS data through man-in-the-middle attacks by using the HTTPS protocol to encrypt the data between the DoH client and the DoH-based DNS resolver. DoH is specified in RFC&nbsp;8484.&nbsp;[†](#w-doh)
 
 DNS root zone
 : → Root zone
@@ -281,6 +302,9 @@ Document Type Definition
 Documentation
 : A set of documents provided in digital or analog media. Examples include user guides, white papers, online help, and quick-reference guides.&nbsp;[†](#w-documentation)
 
+DoH
+: → DNS over HTTPS
+
 Dojo
 : A modular JavaScript library (or, more specifically, JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript-based websites and applications. Dojo was first released in 2004.&nbsp;[†](#w-dojo) ℹ︎&nbsp;[dojotoolkit.org](https://dojotoolkit.org/)
 
@@ -307,6 +331,9 @@ Domain Name System
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
+
+Domain-Driven Design
+: The concept that the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.&nbsp;[†](#w-ddd)
 
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
@@ -377,6 +404,12 @@ Duplicate code
 DVCS
 : → Distributed Version Control System
 
+DW
+: → Data warehouse
+
+DWH
+: → Data warehouse
+
 DX
 : → Developer Experience
 
@@ -391,6 +424,9 @@ Dynamic Language Runtime
 
 Dynamic password
 : → One-Time Password
+
+Dynamic scope
+: Name resolution depending on the program state when the name is encountered, which is determined by the execution context (also called runtime context, calling context, or dynamic context). In dynamic scope, if a variable name’s scope is a certain function, then its scope is the time period during which the function is executing; while the function is running, the variable name exists, and is bound to its value, but after the function returns, the variable name does not exist.&nbsp;[†](#w-scope)
 
 Dynamic typing
 : An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time.&nbsp;[‡](#m-dynamic-typing)

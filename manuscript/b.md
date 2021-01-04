@@ -7,11 +7,20 @@ BA
 Babel
 : A JavaScript transpiler that is mainly used to convert ECMAScript 2015+ (ES6+) code into a backwards-compatible version of JavaScript that can be run by older JavaScript engines.&nbsp;[†](#w-babel) ℹ︎&nbsp;[babeljs.io](https://babeljs.io/)
 
+Back/forward cache
+: A browser optimization to improve the web browsing experience. Bfcache is an in-memory cache that stores a complete snapshot of a web page to enable fast back and forward navigation.
+
 Backend
 : The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
 
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
+
+Backup
+: A copy of computer data taken and stored elsewhere so that it may be used to restore the original after a data loss event. The verb form, referring to the process of doing so, is “to back up,” whereas the noun and adjective form is “backup.” Backups can be used to recover data after its loss from data deletion or corruption, or to recover data from an earlier time. Backups provide a simple form of disaster recovery.&nbsp;[†](#w-backup)
+
+Backup redundancy
+: → Standby redundancy
 
 Backward compatibility
 : A property of a product, system, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Modifying a system in a way that does not allow backward compatibility is sometimes called breaking backward compatibility.&nbsp;[†](#w-backward-compatibility)
@@ -43,6 +52,9 @@ Basic access authentication
 Basic Multilingual Plane
 : The first Unicode plane, plane 0, containing characters for almost all modern languages, and a large number of symbols. A primary objective for the BMP is to support the unification of prior character sets as well as characters for writing. Most of the assigned code points in the BMP are used to encode Chinese, Japanese, and Korean (CJK) characters.&nbsp;[†](#w-plane)
 
+BBCode
+: A lightweight markup language used to format posts in many message boards. The available tags are usually indicated by square brackets (`[]`) surrounding a keyword, and parsed by the message board system before being translated into a markup language that web browsers understand, like HTML.&nbsp;[†](#w-bbcode)
+
 BDD
 : → Behavior-Driven Development
 
@@ -63,6 +75,9 @@ Best practice
 
 Bézier curve
 : A parametric curve, mathematically based on Bernstein polynomials, that is defined by a set of control points P~0~ through P~n~, where _n_ is called its order, and where the first and last points are always the end points of the curve, and where intermediate control points (if any) generally do not lie on the curve. Named after Pierre Bézier (1910–1999).&nbsp;[†](#w-bezier-curve)
+
+Bfcache
+: → Back/forward cache
 
 BHO
 : → Browser Helper Object
@@ -311,8 +326,14 @@ Bugzilla
 Build Verification Test
 : → Smoke testing
 
+Bulletin Board Code
+: → BBCode
+
 Bundling
 : The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.
+
+Bushnell’s Law
+: An aphorism attributed to Atari founder Nolan Bushnell, on the subject of video game design: “All the best games are easy to learn and difficult to master. They should reward the first quarter and the hundredth.” This is also referred to with the sentence “easy to learn, hard [or almost impossible] to master.”&nbsp;[†](#w-bushnells-law)
 
 BVT
 : → Build Verification Test

@@ -12,6 +12,9 @@ Lambda expression
 LAMP
 : → Linux, Apache, MySQL, PHP/Perl/Python
 
+LAN
+: → Local Area Network
+
 Landing page
 : A single web page that appears in response to clicking on an search-optimized search result, online advertisement, or marketing promotion. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
 
@@ -19,8 +22,14 @@ Language
 : → Markup language
 : → Programming language
 
+Laravel
+: A PHP web framework based on Symfony, intended for the development of web applications following the model-view-controller (MVC) architectural pattern. Laravel features include a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and an orientation toward syntactic sugar. Laravel was released in 2011 by Taylor Otwell.&nbsp;[†](#w-laravel) ℹ︎&nbsp;[laravel.com](https://laravel.com/)
+
 Largest Contentful Paint
 : The time it takes for the largest content element visible in the viewport to render. Large elements considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
+
+Last Call Working Draft
+: A mature version of a World Wide Web Consortium (W3C) Working Draft in need of test and implementation feedback.
 
 Last In, First Out
 : → Stack
@@ -38,7 +47,8 @@ Law of Conservation of Complexity
 : → Tesler’s Law
 
 Layout
-: The part of graphic design that deals in the arrangement of visual elements on a (web) page. Layout generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: In web design, a part of graphic design that deals in the arrangement of visual elements on a (web) page. Layout generally involves organizational principles of composition to achieve specific communication objectives. A high-level page layout involves deciding on the overall arrangement of text and images, and possibly on the size or shape of the medium. Layout requires intelligence, sentience, and creativity, and is informed by culture, psychology, and what the document authors and editors wish to communicate and emphasize.&nbsp;[†](#w-layout)
+: In web development, the rendering phase during which the position and size of each object is being calculated.
 
 Layout engine
 : → Browser engine
@@ -51,6 +61,9 @@ Lazy loading
 
 LCP
 : → Largest Contentful Paint
+
+LCWD
+: → Last Call Working Draft
 
 LDAP
 : → Lightweight Directory Access Protocol
@@ -74,10 +87,13 @@ Less/LESS
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client or server side. The indented syntax of Less is a nested meta-language, as valid CSS is valid Less code with the same semantics. Less provides variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
 
 Let’s Encrypt
-: A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
+: A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt was launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
 Letter spacing
 : An optically consistent degree of increase (or sometimes decrease) of space between letters to affect visual density in a line or block of text. Letter spacing should not be confused with kerning. Letter spacing refers to a uniform adjustment to the spacing of a word or block of text affecting its density and texture.&nbsp;[†](#w-letter-spacing)
+
+Lexical scope
+: Name resolution depending on the location in the source code and the lexical context (also called static context), which is defined by where the named variable or function is defined. In lexical scope, if a variable name’s scope is a certain function, then its scope is the program text of the function definition; within that text, the variable name exists, and is bound to the variable’s value, but outside that text, the variable name does not exist.&nbsp;[†](#w-scope)
 
 Library
 : Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
@@ -96,6 +112,9 @@ Lighthouse
 
 Lightweight Directory Access Protocol
 : An industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. A common use of LDAP is to provide a central place to store usernames and passwords. This allows many different applications and services to connect to the LDAP server to validate users.&nbsp;[†](#w-ldap)
+
+Lightweight markup language
+: A markup language with simple, unobtrusive syntax. A lightweight markup language (LML) is designed to be easy to write using any generic text editor and easy to read in its raw form. LMLs are used in applications where it may be necessary to read the raw document as well as the final rendered output. Examples include BBCode, Markdown, and Textile.&nbsp;[†](#w-lml)
 
 Likert scale
 : A psychometric scale, typically ranging from “strongly disagree” to “strongly agree,” that is commonly involved in research that employs questionnaires. A Likert scale is the most widely used approach to scaling responses in survey research, such that the term is often used interchangeably with “rating scale.” The Likert scale is named after its inventor, psychologist Rensis Likert.&nbsp;[†](#w-likert-scale)
@@ -121,14 +140,20 @@ Lines of Code
 Link
 : A reference from one web resource to another web resource, established through the use of an anchor.
 
+Link equity
+: The search engine optimization (SEO) concept of links passing authority and value to the respective link target.
+
 Link farm
 : Any group of websites that hyperlink to other sites in the group for the purpose of increasing SERP rankings. Although some link farms can be created by hand, most are created through automated programs and services. A link farm is a form of spamming the index of a web search engine (sometimes called spamdexing).&nbsp;[†](#w-link-farm)
+
+Link juice
+: → Link equity
 
 Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
 
 Linked Data
-: Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked data builds upon standard Web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
+: Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked data builds upon standard web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linter
 : A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term “lint” originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)
@@ -163,6 +188,9 @@ Literal
 Little’s Law
 : A theorem by John Little which states that the long-term average number L of customers in a stationary system is equal to the long-term average effective arrival rate λ multiplied by the average time W that a customer spends in the system: L = λ/W. The result applies to any system, and particularly, it applies to systems within systems.&nbsp;[†](#w-littles-law)
 
+LML
+: → Lightweight markup language
+
 Load time
 : The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter.&nbsp;[‡](#m-load-time)
 
@@ -171,6 +199,9 @@ LOC
 
 Local
 : → Local scope
+
+Local Area Network
+: A computer network that interconnects computers within a limited area such as a residence, laboratory, school, university campus, or office building. By contrast, a wide area network (WAN) covers a larger geographic distance. Ethernet and Wi-Fi are the two most common technologies in use for local area networks.&nbsp;[†](#w-lan)
 
 Local scope
 : A characteristic of variables that makes them local (i.e., the variable name is only bound to its value within a scope which is not the global scope).&nbsp;[‡](#m-local-scope)

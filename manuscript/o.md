@@ -39,14 +39,26 @@ OGP
 OKR
 : → Objectives and Key Results
 
+OLAP
+: → Online Analytical Processing
+
+OLTP
+: → Online Transaction Processing
+
 One-based indexing
 : The indexing of the first element of an array by subscript of 1.&nbsp;[†](#w-array)
 
 One-Time Password
 : A password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid a number of shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartphone with an OTP app) as well as something a person knows (such as a PIN). The most important advantage that is addressed by OTPs is that, in contrast to static passwords, they are not vulnerable to replay attacks.&nbsp;[†](#w-otp)
 
+Online Analytical Processing
+: An approach to answer multi-dimensional analytical (MDA) queries swiftly in computing. OLAP is part of the broader category of business intelligence, which also encompasses relational databases, report writing, and data mining.&nbsp;[†](#w-olap)
+
 Online Certificate Status Protocol
 : An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. OCSP is described in RFC&nbsp;6960 and is on the Internet standards track. It was created as an alternative to certificate revocation lists (CRL). Some web browsers use OCSP to validate HTTPS certificates.&nbsp;[†](#w-ocsp)
+
+Online Transaction Processing
+: The facilitating and managing of transaction-oriented applications by information systems. The term “transaction” can have two meanings, both of which might apply: In the realm of computers or database transactions it denotes an atomic change of state, whereas in the realm of business or finance, the term typically denotes an exchange of economic entities. OLTP may use transactions of the first type to record transactions of the second.&nbsp;[†](#w-oltp)
 
 OOCSS
 : → Object-Oriented CSS

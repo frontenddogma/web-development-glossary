@@ -15,6 +15,9 @@ Handlebars
 Hard reset
 : An early 2000s reset “style sheet” that resets the margins and paddings of all elements (`* { margin: 0; padding: 0; }`).
 
+Hardware security module
+: A physical computing device that safeguards and manages digital keys and that performs encryption and decryption for digital signatures, authentication, and other cryptographic functions. Hardware security modules traditionally come in the form of a plug-in card or an external device that attaches directly to a computer or network server.&nbsp;[†](#w-hsm)
+
 Hash
 : → Number sign
 
@@ -23,6 +26,9 @@ Hash function
 
 Hash table
 : A data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. In many situations, hash tables turn out to be more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets.&nbsp;[†](#w-hash-table)
+
+Hash-Based Message Authentication Code
+: A specific type of message authentication code (MAC) involving a cryptographic hash function and a secret cryptographic key. An HMAC can provide digital signatures using a shared secret instead of public key encryption. It trades off the need for a complex public key infrastructure by delegating the key exchange to the communicating parties, who are responsible for establishing and using a trusted channel to agree on the key prior to communication.&nbsp;[†](#w-hmac)
 
 Hashbang
 : → Shebang
@@ -91,6 +97,12 @@ Hit
 HITS
 : → Hyperlink-Induced Topic Search
 
+HMAC
+: → Hash-Based Message Authentication Code
+
+HMAC-Based One-Time Password
+: A one-time password (OTP) algorithm based on hash-based message authentication codes (HMAC). HOTP is a cornerstone of the Initiative for Open Authentication (OATH). It was published in 2005 as an informational IETF RFC&nbsp;4226.&nbsp;[†](#w-hotp)
+
 HOC
 : → Higher-order component
 
@@ -127,8 +139,14 @@ Host
 Hostname
 : A label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication, such as the World Wide Web. Hostnames may be simple names consisting of a single word or phrase, or they may be structured. Internet hostnames may have appended the name of a Domain Name System (DNS) domain, separated from the host-specific label by a period (“dot”). In the latter form, a hostname is also called a domain name. If the domain name is completely specified, including a top-level domain of the Internet, then the hostname is said to be a fully qualified domain name (FQDN).&nbsp;[†](#w-hostname)
 
+Hot data
+: Frequently accessed data.
+
 Hot linking
 : → Inline linking
+
+HOTP
+: → HMAC-Based One-Time Password
 
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
@@ -138,6 +156,9 @@ HPR
 
 HSL
 : → Hue, Saturation, Lightness
+
+HSM
+: → Hardware security module
 
 HSTS
 : → HTTP Strict Transport Security
@@ -157,6 +178,9 @@ HTML template
 HTML&nbsp;5
 : → HTML
 
+HTML-in-JS
+: The writing of HTML code in JavaScript, notably by using the `innerHTML` property.
+
 HTML/CSS framework
 : A library allowing for easier web design and development using HTML and CSS. Most HTML/CSS frameworks contain at least a grid. More functional frameworks also come with more features and additional JavaScript-based functions, but are mostly design-oriented and focused around interactive UI patterns. This detail differentiates HTML/CSS frameworks from JavaScript frameworks.&nbsp;[†](#w-css-framework)
 
@@ -168,6 +192,9 @@ HTML5 Boilerplate
 
 HTTP
 : → Hypertext Transfer Protocol
+
+HTTP flood attack
+: A type of distributed denial of service (DDoS) attack in which the attacker makes unwanted `GET` or `POST` requests in order to attack a web server or application. These attacks often use interconnected computers that have been taken over with the aid of malware. Instead of using malformed packets, spoofing, or reflection techniques, HTTP floods require less bandwidth to attack the targeted sites or servers.&nbsp;[†](#w-http-flood-attack)
 
 HTTP method
 : A desired HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred to as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g., a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)
@@ -192,6 +219,15 @@ HTTPS
 
 HTTPS Everywhere
 : A browser extension for Chrome, Firefox, Opera, Brave, and Firefox for Android, which is developed collaboratively by the Tor Project and the Electronic Frontier Foundation (EFF). HTTPS Everywhere automatically makes websites use a more secure HTTPS connection instead of HTTP, if they support it. HTTPS Everywhere was first released in 2010.&nbsp;[†](#w-https-everywhere) ℹ︎&nbsp;[eff.org/https-everywhere](https://www.eff.org/https-everywhere)
+
+HubDB
+: A relational database represented through rows, columns, and cells in a table, comparable to a spreadsheet. ℹ︎&nbsp;[is.gd/49zeTJ](https://developers.hubspot.com/docs/cms/features/hubdb)
+
+HubL
+: → HubSpot Markup Language
+
+HubSpot Markup Language
+: A HubSpot-proprietary extension of Jinjava which features markup unique to the HubSpot marketing and sales software.
 
 Hue, Saturation, Lightness
 : An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
@@ -231,6 +267,9 @@ Hypertext Transfer Protocol
 
 Hypertext Transfer Protocol Secure
 : An extension of the Hypertext Transfer Protocol (HTTP). HTTPS is used for secure communication over a computer network and widely employed on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS, or HTTP over SSL. The principal motivations for HTTPS are authentication of the accessed website, protection of privacy, and integrity of the exchanged data while in transit. The bidirectional encryption of communications between a client and server protects against eavesdropping and tampering of the communication. The authentication aspect of HTTPS requires a trusted third party to sign server-side digital certificates, which historically was expensive.&nbsp;[†](#w-https)
+
+Hypervisor
+: Computer software, firmware, or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a host machine, and each virtual machine is called a guest machine. The hypervisor presents the guest operating systems with a virtual operating platform and manages the execution of the guest operating systems.&nbsp;[†](#w-hypervisor)
 
 Hypothesis-Driven Development
 : A product development approach based on continuously running experiments to test hypotheses about a product, its users, and the market.

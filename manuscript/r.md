@@ -18,6 +18,9 @@ Ranking
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
 
+Rax
+: A React framework for building universal applications. Rax is maintained by Alibaba. ℹ︎&nbsp;[rax.js.org](https://rax.js.org/)
+
 RCS
 : → Revision Control System
 
@@ -35,6 +38,9 @@ RDSMS
 
 React
 : A JavaScript library for building user interfaces. React was first released in 2013 and is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with APIs.&nbsp;[†](#w-react) ℹ︎&nbsp;[reactjs.org](https://reactjs.org/)
+
+React Native
+: A mobile application framework first released in 2015 by Facebook. React Native enables to use the React library along with native mobile platform capabilities.&nbsp;[†](#w-react-native)
 
 Reactive Extensions for JavaScript
 : A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎&nbsp;[reactivex.io](http://reactivex.io/)
@@ -91,6 +97,9 @@ Redesign
 Redirect
 : A technique for making a web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened. Similarly, domain redirection or domain forwarding is when all pages in a URL domain are redirected to a different domain. URL redirection is done for various reasons: for URL shortening; to prevent broken links when web pages are moved; to allow multiple domain names belonging to the same owner to refer to a single website; to guide navigation into and out of a website; for privacy protection; and for hostile purposes such as phishing attacks or malware distribution. Redirects can be set up on the server and the client side.&nbsp;[†](#w-redirect)
 
+Redirect chain
+: Two or more redirects in succession. Search engine optimization (SEO) best practices suggest to avoid redirect chains, as each redirect is said to share less link equity.
+
 Redundancy
 : The intentional duplication of critical components or functions of a system with the intention of increasing reliability of the system. There are four major forms of redundancy: hardware redundancy, such as dual modular redundancy and triple modular redundancy; information redundancy, such as error detection and correction methods; time redundancy, performing the same operation multiple times such as multiple executions of a program or multiple copies of data transmitted; and software redundancy such as N-version programming.&nbsp;[†](#w-redundancy)
 : The often unnoticed or unintentional duplication of software with the consequence of making the software less efficient and more difficult to maintain.
@@ -146,6 +155,12 @@ Relaunch
 Rem
 : → Root em
 
+Remote method invocation
+: The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC).&nbsp;[†](#w-distributed-object-communication)
+
+Remote procedure call
+: The causing of a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), with the call being coded as if it was a normal (local) procedure call. That is, without explicitly coding the details for the remote interaction, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote.&nbsp;[†](#w-rpc)
+
 Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
 
@@ -197,6 +212,9 @@ Resolution
 Resource Description Framework
 : A family of W3C specifications originally designed as a metadata data model. RDF has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications. RDF became a W3C Recommendation in 1999.&nbsp;[†](#w-rdf) ℹ︎&nbsp;[w3.org/TR/rdf11-concepts](https://www.w3.org/TR/rdf11-concepts/)
 
+Resource Hints
+: A number of HTML link relationships that allow to indicate what resources to fetch ahead of time in order to improve performance. Resource Hints include `dns-prefetch`, `preconnect`, `prefetch`, and `prerender`, and can be implemented using the HTML `link` element as well as the `Link` HTTP header. ℹ︎&nbsp;[w3.org/TR/resource-hints](https://www.w3.org/TR/resource-hints/)
+
 Response
 : In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client’s request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
@@ -217,6 +235,9 @@ REST
 
 Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the automatic insertion of a semicolon (ASI).
+
+Reverse proxy
+: A reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the reverse proxy server itself. Popular web servers often use reverse-proxying functionality to shield application frameworks of weaker HTTP capabilities, where “weaker” means limitations to handle excessive load or a great variety of request formats.&nbsp;[†](#w-reverse-proxy)
 
 Revision control
 : → Version control
@@ -250,6 +271,9 @@ Rich Web Application
 
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
+
+RMI
+: → Remote method invocation
 
 Roadmap
 : A flexible planning technique to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions. A roadmap is a plan that applies to a new product or process and may include using technology forecasting or scouting to identify suitable emerging technologies.&nbsp;[†](#w-roadmap)
@@ -308,6 +332,9 @@ Routing Information Base
 
 Routing table
 : A data table stored in a router or a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes. The routing table contains information about the topology of the network immediately around it.&nbsp;[†](#w-routing-table)
+
+RPC
+: → Remote procedure call
 
 RPM
 : → RPM Package Manager

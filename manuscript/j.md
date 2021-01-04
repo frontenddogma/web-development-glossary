@@ -3,7 +3,7 @@
 Jakob’s Law
 : “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.” ℹ︎&nbsp;[nngroup.com/articles/end-of-web-design](https://www.nngroup.com/articles/end-of-web-design/)
 
-JAMStack
+Jamstack/JAMstack
 : A solution stack based on JavaScript, APIs, and markup (“JAM”).
 
 Jank
@@ -78,6 +78,12 @@ Jekyll
 Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
+Jinja
+: A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that the templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
+
+Jinjava
+: A Java-based template engine based on the Django template syntax to render Jinja templates. Jinjava is used widely around the HubSpot marketing and sales software. ℹ︎&nbsp;[github.com/HubSpot/jinjava](https://github.com/HubSpot/jinjava)
+
 Jira
 : A proprietary issue tracking product by Atlassian that allows bug tracking and agile project management. Jira was first released in 2002.&nbsp;[†](#w-jira) ℹ︎&nbsp;[atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 
@@ -130,8 +136,17 @@ JSON Web Signature
 JSON Web Token
 : An Internet standard for creating JSON-based access tokens that assert some number of claims. JWT claims can typically be used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.&nbsp;[†](#w-jwt)
 
+JSON with Padding
+: A historical JavaScript technique for requesting data by loading a `script` element. JSONP was proposed in 2005 by Bob Ippolito. It enables sharing of data bypassing same-origin policy, which disallows running JavaScript code to read media DOM elements or XMLHttpRequest data fetched from outside the page’s originating site. JSONP is vulnerable to the data source replacing the innocuous function call with malicious code, which is why it has been superseded by cross-origin resource sharing in modern applications.&nbsp;[†](#w-jsonp)
+
 JSON-LD
 : → JavaScript Object Notation for Linked Data
+
+JSON-P
+: → JSON with Padding
+
+JSONP
+: → JSON with Padding
 
 JSP
 : → JavaServer Pages

@@ -40,6 +40,9 @@ Acceptance testing
 Access control
 : The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
 
+Access Control List
+: A list of permissions associated with an object. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects. Each entry in a typical ACL specifies a subject and an operation.&nbsp;[†](#w-acl)
+
 Access logs
 : → Server logs
 
@@ -67,6 +70,12 @@ ACID
 Acid tests
 : A range of web standards compliance tests that were set up in 1999 (Acid1), 2005 (Acid2), and 2008 (Acid3). ℹ︎&nbsp;[acidtests.org](https://www.acidtests.org/)
 
+ACK
+: A signal that is passed between communicating processes, computers, or devices to signify acknowledgement, or receipt of message, as part of a communications protocol like the Transmission Control Protocol (TCP).&nbsp;[†](#w-ack)
+
+ACL
+: → Access Control List
+
 ACM
 : → Association for Computing Machinery
 
@@ -84,6 +93,9 @@ Action item
 
 ActionScript
 : An object-oriented programming language originally developed by Macromedia (later acquired by Adobe). ActionScript is influenced by HyperTalk, the scripting language for HyperCard. It is now an implementation of ECMAScript, though it originally arose as a sibling, both being influenced by HyperTalk. ActionScript is used primarily for the development of websites and software targeting the Adobe Flash Player platform, used on web pages in the form of embedded SWF files.&nbsp;[†](#w-actionscript)
+
+Active redundancy
+: A design concept that increases operational availability and that reduces operating cost by automating critical maintenance actions.&nbsp;[†](#w-active-redundancy)
 
 Active Server Pages
 : A server-side script engine for dynamically generated web pages. ASP can be written in a scripting language such as VBScript, JScript, or PerlScript. ASP were introduced in 1996 by Microsoft.&nbsp;[†](#w-asp)
@@ -157,6 +169,9 @@ Almost standards mode
 Almost strict mode
 : A third web browser compatibility mode (beside strict and quirks mode) which maintains the “traditional” vertical sizing of table cells according to the CSS&nbsp;2 specification, and which treats images like block elements.&nbsp;[†](#w-quirks-mode)
 
+ALPN
+: → Application-Layer Protocol Negotiation
+
 Alternate style sheet
 : A style sheet mutually exclusive to other style sheets, which can be selected for alternative styling. An alternate style sheet is indicated through the `alternate` keyword, as in `<link rel="alternate stylesheet" href=example.css title=Example>`.
 
@@ -169,8 +184,20 @@ Amazon S3
 Amazon Silk
 : → Silk
 
+Amazon Simple Queue Service
+: → Amazon SQS
+
 Amazon Simple Storage Service
 : → Amazon S3
+
+Amazon SQS
+: A distributed message queuing service introduced in 2004 by Amazon.com. Amazon SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
+
+Amazon Virtual Private Cloud
+: → Amazon VPC
+
+Amazon VPC
+: A commercial cloud computing service that provides users a virtual private cloud, by provisioning a logically isolated section of the Amazon Web Services (AWS) cloud.&nbsp;[†](#w-amazon-vpc) ℹ︎&nbsp;[aws.amazon.com/vpc](https://aws.amazon.com/vpc/)
 
 Amazon Web Services
 : A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
@@ -229,14 +256,26 @@ Anti-pattern
 AOM
 : → Accessibility Object Model
 
+AOMedia Video 1
+: A video coding format initially designed for video transmissions over the Internet. AV1 was developed as a successor to VP9 by the Alliance for Open Media (AOMedia), a consortium founded in 2015.&nbsp;[†](#w-av1) ℹ︎&nbsp;[aomedia.org/av1-features](https://aomedia.org/av1-features/)
+
 Apache
 : → Apache HTTP Server
 
 Apache HTTP Server
 : A cross-platform web server. The Apache server was first released in 1995. ℹ︎&nbsp;[httpd.apache.org](https://httpd.apache.org/)
 
+Apache Maven
+: → Maven
+
+Apache Subversion
+: → Subversion
+
 Apache Tomcat
-: An implementation of Java servlets, JavaServer Pages, Java Expression Language, and WebSocket technologies. Tomcat provides a “pure Java” HTTP web server environment in which Java code can run. It was first released in 1999.&nbsp;[†](#w-tomcat) ℹ︎&nbsp;[tomcat.apache.org](https://tomcat.apache.org/)
+: → Tomcat
+
+Apache Weex
+: → Weex
 
 API
 : → Application Programming Interface
@@ -264,6 +303,9 @@ Application
 
 Application Programming Interface
 : An interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API may be for a web-based system, operating system, database system, computer hardware, or software library.&nbsp;[†](#w-api)
+
+Application-Layer Protocol Negotiation
+: A TLS extension which indicates what application layer protocol is negotiating the encrypted connection without requiring additional round trips. ALPN was specified in 2014 as RFC&nbsp;7301.&nbsp;[‡](#m-alpn)
 
 APT
 : → Advanced Package Tool
@@ -384,6 +426,15 @@ Automation
 
 Autonomous custom element
 : One type of custom element for a web component. An autonomous custom element is standalone, that is, it does not inherit from standard HTML elements. Autonomous custom elements are used by literally writing them out as HTML elements.&nbsp;[‡](#m-custom-element)
+
+AV1
+: → AOMedia Video 1
+
+AV1 Image File Format
+: An image file format that uses AV1 compression algorithms. AVIF competes with HEIC which uses the same container format, built upon ISOBMFF, but HEVC for compression. Version 1.0.0 of the AVIF specification was finalized in 2019.&nbsp;[†](#w-av1)
+
+AVIF
+: → AV1 Image File Format
 
 AWS
 : → Amazon Web Services

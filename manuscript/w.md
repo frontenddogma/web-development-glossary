@@ -4,6 +4,7 @@ W3C
 : → World Wide Web Consortium
 
 WAF
+: → Web Application Firewall
 : → Web Application Framework
 
 WAI
@@ -14,6 +15,9 @@ WAI-ARIA
 
 WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
+
+WAN
+: → Wide Area Network
 
 WAP
 : → Wireless Application Protocol
@@ -60,6 +64,9 @@ Web application
 Web application archive
 : A file used to distribute a collection of JAR files, JavaServer Pages, Java servlets, Java classes, XML files, tag libraries, static web pages (HTML and related files), and other resources that together constitute a web application.&nbsp;[†](#w-war)
 
+Web Application Firewall
+: A specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service. By inspecting HTTP traffic, a WAF can prevent attacks exploiting a web application’s known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration.&nbsp;[†](#w-waf)
+
 Web Application Framework
 : → Web framework
 
@@ -74,6 +81,9 @@ Web bug
 
 Web Bundles
 : A draft standard to bundle and store HTTP responses. Web Bundles are a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
+
+Web cache
+: → Cache
 
 Web component
 : A set of features that provide a standard component model for the Web allowing for encapsulation and interoperability of individual HTML elements. The primary technologies used to create web components include custom elements (APIs to define new HTML elements), Shadow DOM (encapsulated DOM and styling, with composition), and HTML templates (HTML fragments that are not rendered, but stored until instantiated via JavaScript).&nbsp;[†](#w-web-component) ℹ︎&nbsp;[webcomponents.org](https://www.webcomponents.org/)
@@ -188,7 +198,7 @@ Webmaster
 : A person responsible for maintaining one or more websites. The title may refer to web architects, web developers, site authors, website administrators, website owners, website coordinators, or website publishers.&nbsp;[†](#w-webmaster)
 
 Webmention
-: A W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
+: A W3C specification that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft in 2016. Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles. By incorporating such comments from other sites, sites themselves provide federated commenting functionality.&nbsp;[†](#w-webmention) ℹ︎&nbsp;[w3.org/TR/webmention](https://www.w3.org/TR/webmention/)
 
 WebP
 : An image format employing both lossy and lossless compression. WebP was first released in 2010.&nbsp;[†](#w-webp) ℹ︎&nbsp;[developers.google.com/speed/webp](https://developers.google.com/speed/webp)
@@ -211,8 +221,23 @@ WebStorm
 WebView
 : An Android system component (“View”) allowing apps to display web content directly in an application. ℹ︎&nbsp;[is.gd/Sx0xdE](https://developer.android.com/reference/android/webkit/WebView)
 
+WeChat Mini Program
+: → Mini Program
+
 Weekly Active Users
 : → Active Users
+
+Weex
+: A mobile application framework supporting Vue.js and Rax, themselves frameworks that are integrated into the Weex SDK. ℹ︎&nbsp;[weex.apache.org](https://weex.apache.org/)
+
+WeiXin Markup Language
+: A proprietary document language to describe page structures for so-called Mini Programs. WXML is maintained by Tencent. ℹ︎&nbsp;[bit.ly/2XcZORT](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxml/)
+
+WeiXin Script
+: A proprietary scripting language, used to build Mini Programs. WXS is maintained by Tencent. ℹ︎&nbsp;[bit.ly/3nhfdvq](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxs/)
+
+WeiXin Style Sheets
+: An extension of Cascading Style Sheets (CSS) that includes additional dimensions and import options, and that is used to build Mini Programs. Like WXML and WXS, WXSS is maintained by Tencent. ℹ︎&nbsp;[bit.ly/3pP0eKP](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxss.html)
 
 Well-formedness
 : An attribute of document markup that adheres to the syntax rules specified by XML. Well-formed markup specifically refers to content being delimited by start and end tags, elements being properly nested, and void elements being closed.&nbsp;[†](#w-well-formedness)
@@ -243,6 +268,9 @@ Whitespace
 
 WHOIS
 : A query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC&nbsp;3912. The first WHOIS directory was created in the 1970s.&nbsp;[†](#w-whois)
+
+Wide Area Network
+: A telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits. The Internet may be considered a WAN.&nbsp;[†](#w-wan)
 
 Widow
 : A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.”&nbsp;[†](#w-widows-orphans)
@@ -301,6 +329,9 @@ Workaround
 Workbox
 : A Google-maintained set of libraries and Node modules to assist the building of progressive web apps (PWAs). Workbox was first released in 2017. ℹ︎&nbsp;[is.gd/GFKM3p](https://developers.google.com/web/tools/workbox)
 
+Working Draft
+: The initial design phase of a World Wide Web Consortium (W3C) specification. Based on internal and external feedback, the respective W3C Working Group fleshes out the draft.
+
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)
 
@@ -325,6 +356,15 @@ WTF-8
 
 WWW
 : → World Wide Web
+
+WXML
+: → WeiXin Markup Language
+
+WXS
+: → WeiXin Script
+
+WXSS
+: → WeiXin Style Sheets
 
 WYSIAYG
 : → What You See Is All You Get

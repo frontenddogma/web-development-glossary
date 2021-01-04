@@ -1,5 +1,8 @@
 # F
 
+FaaS
+: → Function as a Service
+
 Facade pattern
 : A software-design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
 
@@ -33,8 +36,14 @@ FCP
 Feature creep
 : The excessive ongoing expansion or addition of new features in a product, especially in computer software, video games, and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication rather than simple design.&nbsp;[†](#w-feature-creep)
 
+Feature detection
+: A technique for handling differences between runtime environments (typically web browsers or user agents), by programmatically testing for clues that the environment may or may not offer certain functionality. This information is then used to make the application adapt in some way to suit the environment, for example to make use of certain APIs or to tailor the user experience. Feature detection is said to be more reliable and future-proof than other techniques, like browser sniffing and browser-specific CSS hacks.&nbsp;[†](#w-feature-detection)
+
 Feature phone
 : A mobile phone that retains the form factor of earlier-generation phones, with button-based input and a small display. Feature phones are sometimes called dumbphones in contrast with touch-input smartphones. Feature phones tend to use an embedded operating system with a small and simple graphical user interface, unlike large and complex general-purpose mobile operating systems like Android or iOS. Feature phones typically provide voice calling and text messaging functionality as well as basic multimedia and Internet capabilities and other services offered by the user’s wireless service provider.&nbsp;[†](#w-feature-phone)
+
+Feature testing
+: → Feature detection
 
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
@@ -97,6 +106,9 @@ First Meaningful Paint
 First Paint
 : The time between navigation and when the browser renders the first pixels to the screen, rendering anything that is visually different from what was on the screen prior to navigation. It answers the question “Is it happening?”&nbsp;[‡](#m-first-paint)
 
+First Public Working Draft
+: The first official version of a World Wide Web Consortium (W3C) Working Draft.
+
 First-class function
 : A function that is treated like any other variable in the respective language.&nbsp;[‡](#m-first-class-function)
 
@@ -110,8 +122,11 @@ Fixed
 : A CSS positioning scheme in which an element behaves as if it was set to `absolute` positioning, yet its containing block is the viewport.
 : A web design approach in which page elements have a fixed as opposed to a variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
 
+Flame graph
+: A flame-like visualization method for software profiling. ℹ︎&nbsp;[is.gd/EnyPjs](http://www.brendangregg.com/flamegraphs.html)
+
 Flash
-: A deprecated multimedia software platform used for the production of animations, games, and applications. Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe favors a transition to HTML. The Flash Player has been deprecated and has its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
+: A deprecated multimedia software platform used for the production of animations, games, and applications. Flash was first released in 1993 (SmartSketch), rebranded in 1995 (FutureSplash Animator) and, after being bought by Macromedia, again renamed in 1996 (Macromedia Flash). Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe, who purchased Macromedia in 2005, favors a transition to HTML. The Flash Player had its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
 
 Flash of Faux Text
 : The effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
@@ -181,6 +196,9 @@ Folksonomy
 Font
 : With the advent of digital typography, “font” is frequently synonymous with “typeface.” Each style is in a separate font file—for instance, the typeface Bulmer may include the fonts “Bulmer Roman,” “Bulmer,” “Bulmer Bold,” and “Bulmer Extended,” but the term “font” might be applied either to one of these alone or to the whole typeface. In both traditional typesetting and modern usage, “font” also refers to the delivery mechanism of the typeface design. In traditional typesetting, a font would be made from metal or wood. Today, a font is a digital file.&nbsp;[†](#w-font)
 
+Font Awesome
+: An icon toolkit based on CSS. Font Awesome was first released in 2012. ℹ︎&nbsp;[fontawesome.com](https://fontawesome.com/)
+
 Font block period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render an invisible fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
 
@@ -217,6 +235,12 @@ Formatting Output Specification Instance
 Forward compatibility
 : A design characteristic that allows a system to accept input intended for a later version of itself. The concept can be applied to entire systems, telecommunication signals, electrical interfaces, data communication protocols, file formats, and programming languages. A standard supports forward compatibility if a product that complies with earlier versions can “gracefully” process input designed for later versions of the standard, ignoring new parts which it does not understand.&nbsp;[†](#w-forward-compatibility)
 
+Forward proxy
+: → Proxy server
+
+Forward secrecy
+: A feature of specific key agreement protocols that gives assurances that session keys will not be compromised even if long-term secrets used in the session key exchange are compromised. For HTTPS, the long-term secret is typically the private signing key of the server. The value of forward secrecy is that it protects past communication, yet it also depends on the capabilities of the adversary.&nbsp;[†](#w-forward-secrecy)
+
 FOSI
 : → Formatting Output Specification Instance
 
@@ -231,6 +255,9 @@ FOUT
 
 FPS
 : → Frames per Second
+
+FPWD
+: → First Public Working Draft
 
 FQDN
 : → Fully qualified domain name
@@ -283,11 +310,26 @@ FrontPage
 fs
 : → File system
 
+FS
+: → Forward secrecy
+
 FSF
 : → Free Software Foundation
 
 FTP
 : → File Transfer Protocol
+
+FTP over SSH
+: The practice of tunneling a normal FTP session over a Secure Shell connection.&nbsp;[†](#w-ftp)
+
+FTP Secure
+: → FTPS
+
+FTP-SSL
+: → FTPS
+
+FTPS
+: An extension to the commonly used File Transfer Protocol (FTP) that adds support for the Transport Layer Security (TLS) and, formerly, the Secure Sockets Layer (SSL, which is now prohibited by RFC&nbsp;7568) cryptographic protocols. FTPS should not be confused with the SSH File Transfer Protocol (SFTP), a secure file transfer subsystem for the Secure Shell (SSH) protocol with which it is not compatible; it is also different from FTP over SSH.&nbsp;[†](#w-ftps)
 
 Fugu
 : A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[is.gd/Yyn0oQ](https://www.chromium.org/teams/web-capabilities-fugu)
@@ -308,13 +350,22 @@ Fully qualified domain name
 Function
 : A code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return a value. A function in JavaScript is also an object. A function name is an identifier included as part of a function declaration or function expression. The function name’s scope depends on whether the function name is a declaration or expression.&nbsp;[‡](#m-function)
 
+Function as a Service
+: A category of cloud computing services that provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app. Building an application following this model is one way of achieving a “serverless” architecture, and is typically used when building microservices applications. AWS Lambda was the first FaaS offering by a large public cloud vendor.&nbsp;[†](#w-faas)
+
 Function binding
 : The creation of a new function using the `bind()` method.
+
+`function*`
+: → Generator function
 
 Functional programming
 : A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. Functional programming is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements. In functional code, the output value of a function depends only on its arguments, so calling a function with the same value for an argument always produces the same result. This is in contrast to imperative programming where, in addition to a function’s arguments, global program state can affect a function’s resulting value. One of the key motivations for functional programming is making a program easier to understand by eliminating changes in state that do not depend on function inputs, so-called side effects.&nbsp;[†](#w-functional-programming)
 
 Functional testing
 : A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes what a system does.&nbsp;[†](#w-functional-testing)
+
+FutureSplash
+: → Flash
 
 Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

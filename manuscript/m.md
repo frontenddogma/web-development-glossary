@@ -1,5 +1,8 @@
 # M
 
+MAC
+: → Message Authentication Code
+
 MAC address
 : A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
 
@@ -17,6 +20,9 @@ macOS, Apache, MySQL, PHP/Perl/Python
 
 Macromedia Flash
 : → Flash
+
+Magic code
+: An informal term for abstraction, used to describe code that handles complex tasks while hiding the respective complexity to present a simple interface. The term is somewhat tongue-in-cheek, and often carries bad connotations, implying that the true behavior of the code is not immediately apparent.&nbsp;[†](#w-magic)
 
 Magic cookie
 : → Cookie
@@ -60,6 +66,9 @@ Markup
 Markup language
 : A system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the “marking up” of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors’ manuscripts. In digital media, this “blue pencil instruction text” was replaced by tags, which indicate what the parts of the document are, rather than the details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision, and screen-reading software). Some markup languages, such as the widely used HTML, have pre-defined presentation semantics. Others, such as XML and its predecessor SGML, allow but do not impose such prescriptions—all the while allowing users to define any custom document components as they wish.&nbsp;[†](#w-markup-language)
 
+Massively Parallel Processing
+: The use of a large number of computer processors (or separate computers) to simultaneously perform a set of coordinated computations in parallel. One approach for MPP is grid computing, where the processing power of many computers in distributed domains is opportunistically used whenever a computer is available. Another approach is grouping many processors in close proximity to each other, as in a computer cluster.&nbsp;[†](#w-mpp)
+
 Masthead
 : A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.”&nbsp;[†](#w-masthead)
 
@@ -78,6 +87,12 @@ MathML
 MAU
 : → Monthly Active Users
 
+Maven
+: A build automation tool primarily used for Java projects that can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project. It was first released in 2004.&nbsp;[†](#w-maven) ℹ︎&nbsp;[maven.apache.org](https://maven.apache.org/)
+
+MD
+: → Markdown
+
 MD2
 : A cryptographic hash function developed in 1989 by Ronald Rivest, whose initialism “MD” stands for “Message Digest.” The algorithm is optimized for 8-bit computers. MD2 is specified in RFC&nbsp;1319 and no longer considered secure.&nbsp;[†](#w-md2)
 
@@ -92,6 +107,15 @@ MD6
 
 MDL
 : → Microsoft Design Language
+
+MDN
+: → Mozilla Developer Network
+
+MDN Web Docs
+: A learning platform for web technologies and software that powers the Web, including HTML, CSS, and JavaScript. The MDN Web Docs aim to “provide developers with the information they need to easily build projects on the open Web.” The project was started in 2005.&nbsp;[‡](#m-mdn) ℹ︎&nbsp;[developer.mozilla.org](https://developer.mozilla.org/)
+
+MDX
+: A format that allows to write JSX in Markdown, including the importing of components. ℹ︎&nbsp;[mdxjs.com](https://mdxjs.com/)
 
 MEAN
 : A JavaScript software stack for building dynamic websites and applications. The MEAN stack is MongoDB, Express.js, AngularJS (or Angular), and Node.js. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both client- and server-side execution environments. The “MEAN” acronym was coined in 2013.&nbsp;[†](#w-mean)
@@ -125,6 +149,9 @@ Merge request
 
 Merging
 : A fundamental operation that reconciles multiple changes made to a version-controlled collection of files. Most often, merging is necessary when a file is modified on two independent branches and then brought together. The result is a single collection of files that contains both sets of changes. In some cases, the merge can be performed automatically, because there is sufficient history information to reconstruct the changes, and the changes do not conflict. In other cases, a person must decide exactly what the resulting files should contain. Many version control software tools include merge capabilities.&nbsp;[†](#w-merging)
+
+Message Authentication Code
+: A short piece of information used to authenticate a message, that is, to confirm that the message came from the stated sender (its authenticity) and has not been changed. The MAC value protects a message’s data integrity, as well as its authenticity, by allowing verifiers (who also possess the secret key) to detect any changes to the message content.&nbsp;[†](#w-mac)
 
 Message Digest
 : → MD2
@@ -183,14 +210,26 @@ Microsoft Silverlight
 Microsoft Windows
 : → Windows
 
+Microtask
+: A task to be run after a currently executed script. Microtasks are run in order, and include promise callbacks, intersection observer callbacks, and mutation observer callbacks.
+
 Middleware
 : Computer software that provides services to software applications beyond those available from the operating system. It can be described as “software glue.” Middleware makes it easier for software developers to implement communication and input/output, so they can focus on the specific purpose of their application. It gained popularity in the 1980s as a solution to the problem of how to link newer applications to older legacy systems, although the term had been in use since 1968.&nbsp;[†](#w-middleware)
+
+Millennium bug
+: → Year 2000 problem
 
 MIME
 : → Multipurpose Internet Mail Extensions
 
+MIME sniffing
+: The practice of inspecting the content of a byte stream to attempt to deduce the file format of the data within it. MIME sniffing is generally used to compensate for a lack of accurate metadata that would otherwise be required to enable the file to be interpreted correctly. MIME and content sniffing techniques tend to use a mixture of techniques that rely on redundancy found in most file formats.&nbsp;[†](#w-mime-sniffing)
+
 MIME type
 : A two-part identifier for file formats and format contents transmitted on the Internet, like `text/plain`. The Internet Assigned Numbers Authority (IANA) is the official authority for the standardization and publication of these classifications. Media types were originally defined in 1996 in Request for Comments 2045 as a part of MIME (Multipurpose Internet Mail Extensions) specification, for denoting type of email message content and attachments.&nbsp;[†](#w-mime-type)
+
+Mini Program
+: A sub-application for the WeChat messaging, social media, and payment app. Mini Programs are developed using a framework consisting of the WeiXin Markup Language (WXML), WeiXin Style Sheets (WXSS), and WeiXin Script (WXS). ℹ︎&nbsp;[bit.ly/38buLwe](https://developers.weixin.qq.com/miniprogram/en/dev/framework/)
 
 Minification
 : The process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing their functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g., the Internet) more efficient.&nbsp;[†](#w-minification)
@@ -265,12 +304,21 @@ Mosaic
 Moving Picture Experts Group
 : A working group of authorities that was formed by ISO and IEC to set standards for audio and video compression and transmission, the MPEG formats. The MPEG was established in 1988 by the initiative of Hiroshi Yasuda.&nbsp;[†](#w-moving-picture-experts-group) ℹ︎&nbsp;[mpeg.chiariglione.org](https://mpeg.chiariglione.org/)
 
+Mozilla Developer Center
+: → MDN Web Docs
+
+Mozilla Developer Network
+: → MDN Web Docs
+
 Mozilla Firefox
 : → Firefox
 
 MPEG
 : A series of audio and video compression standards developed by the Moving Picture Experts Group, including MPEG-1 (1993), MPEG-2 (1995), MPEG-4 (1998), MPEG-7 (2002), and MPEG-21 (2001).
 : → Moving Picture Experts Group
+
+MPP
+: → Massively Parallel Processing
 
 MR
 : → Merge request

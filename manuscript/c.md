@@ -8,6 +8,9 @@ CA
 Cache
 : A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere. A cache hit occurs when the requested data can be found in a cache, while a cache miss occurs when it cannot. Cache hits are served by reading data from the cache, which is faster than recomputing a result or reading from a slower data store.&nbsp;[†](#w-cache)
 
+Cache busting
+: A type of HTTP flood attack that uses query variations to get around caching. Instead of returning results from the cache, other servers must be contacted which increases their load to potentially overwhelm them.
+
 Cache poisoning
 : → DNS spoofing
 
@@ -22,6 +25,9 @@ Callback
 
 Camel case
 : The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay.” Camel case is also sometimes used in online usernames such as “johnSmith.” In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
+
+Candidate Recommendation
+: The specification-testing phase of a World Wide Web Consortium (W3C) specification (also known as a recommendation).
 
 Canonical equivalence
 : The assuming of code point sequences to have the same appearance and meaning when printed or displayed.&nbsp;[†](#w-unicode-equivalence)
@@ -102,6 +108,9 @@ Certificate
 Certificate Authority
 : An entity that issues digital certificates. A digital certificate certifies the ownership of a public key by the named subject of the certificate. This allows others to rely upon signatures or on assertions made about the private key that corresponds to the certified public key. A CA acts as a trusted third party, trusted both by the subject (owner) of the certificate and by the party relying upon the certificate. The format of these certificates is specified by the X.509 standard. One particularly common use for certificate authorities is to sign certificates used in HTTPS, the secure browsing protocol for the World Wide Web.&nbsp;[†](#w-ca)
 
+CES
+: → Customer Effort Score
+
 CFML
 : → ColdFusion Markup Language
 
@@ -142,6 +151,9 @@ Character set
 Charset
 : → Character encoding
 
+CheiRank
+: An eigenvector with a maximal real eigenvalue of the Google matrix _G^*^_ constructed for a directed network with the inverted directions of links. CheiRank is similar to the PageRank vector, which ranks the network nodes in average proportionally to a number of incoming links being the maximal eigenvector of the Google matrix _G_ with a given initial direction of links. Due to inversion of link directions the CheiRank ranks the network nodes in average proportionally to a number of outgoing links.&nbsp;[†](#w-cheirank)
+
 Chrome
 : A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
@@ -168,6 +180,9 @@ CI
 : → Continuous Integration
 : → Corporate Identity
 
+CIDR
+: → Classless Inter-Domain Routing
+
 Cipher
 : An algorithm for encryption or decryption. To encipher or encode is to convert information into cipher or code.&nbsp;[†](#w-cipher)
 
@@ -180,6 +195,9 @@ Class
 
 Class variable
 : Any variable declared with the `static` modifier of which a single copy exists, regardless of how many instances of the class there are.&nbsp;[†](#w-class-variable)
+
+Classless Inter-Domain Routing
+: A method for allocating IP addresses and for IP routing. The Internet Engineering Task Force (IETF) introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. The goal of CIDR was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.&nbsp;[†](#w-cidr)
 
 Clearfix
 : A name for a variety of float-clearing techniques that may (when CSS only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
@@ -298,6 +316,9 @@ CoffeeScript
 Cognitive disability
 : As disabilities affecting cognitive ability, a concept encompassing various intellectual or cognitive deficits, including intellectual disability (formerly called mental retardation), deficits too mild to properly qualify as intellectual disability, various specific conditions (such as specific learning disability), and problems acquired later in life through acquired brain injuries or neurodegenerative diseases like dementia. Many of these disabilities have an effect on memory, which is the ability to recall what has been learned over time.&nbsp;[†](#w-cognitive-disability)
 
+Cold data
+: Rarely accessed data.
+
 ColdFusion
 : A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language.&nbsp;[†](#w-coldfusion) ℹ︎&nbsp;[is.gd/r6E53v](https://www.adobe.com/products/coldfusion-family.html)
 
@@ -391,6 +412,9 @@ Composite Capability/Preference Profiles
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
 
+Concurrency
+: The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems.&nbsp;[†](#w-concurrency)
+
 Concurrent Versioning System
 : → Concurrent Versions System
 
@@ -414,6 +438,9 @@ Confidentiality Agreement
 
 Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
+
+Consistency
+: In logic, a theory that does not entail a contradiction.&nbsp;[†](#w-consistency)
 
 Console
 : A computer program designed to be used via a text-only computer interface, such as a text terminal, the command-line interface of some operating systems (Unix, DOS, etc.), or the text-based interface included with most graphical user interface (GUI) operating systems, such as the Win32 console in Microsoft Windows, the Terminal in macOS, and xterm in Unix. A user typically interacts with a console application using only a keyboard and display screen.&nbsp;[†](#w-console)
@@ -446,6 +473,9 @@ Content Delivery Network
 Content Management System
 : A software application that can be used to manage the creation and modification of digital content. CMSs are typically used for Enterprise Content Management (ECM) and Web Content Management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps, and program code that display content and interact with the user.&nbsp;[†](#w-cms)
 
+Content negotiation
+: Server- or agent-driven mechanisms that allow to serve different versions of a document (or more generally, representations of a resource) at the same URL, so that user agents can specify which version fits their capabilities the best. Examples include requesting and receiving documents in a preferred language, or media files in a particular format.&nbsp;[†](#w-content-negotiation)
+
 Content network
 : A network of websites that uses and is accessible through a particular advertising platform, that is, that can be advertised on through the respective ad platform.
 
@@ -454,6 +484,9 @@ Content optimization
 
 Content Security Policy
 : A computer security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks resulting from execution of malicious content in the trusted web page context. CSP provides a standard method for website owners to declare approved origins of content that browsers should be allowed to load on that website—covered types are JavaScript, CSS, HTML frames, web workers, fonts, images, embeddable objects such as Java applets, ActiveX, audio and video files, and other HTML features.&nbsp;[†](#w-csp) ℹ︎&nbsp;[w3.org/TR/CSP](https://www.w3.org/TR/CSP/)
+
+Content sniffing
+: → MIME sniffing
 
 Context switch
 : The process of storing the state of a process or thread, so that it can be restored and resume execution at a later point. Context switching allows multiple processes to share a single CPU, and is an essential feature of a multi-tasking operating system. The precise meaning of the phrase “context switch” varies. In the multi-tasking context, it refers to the process of storing the system state for one task, so that task can be paused and another task resumed. A context switch can also occur as the result of an interrupt, such as when a task needs to access disk storage, freeing up CPU time for other tasks. Some operating systems also require a context switch to move between user mode and kernel mode tasks. The process of context switching can have a negative impact on system performance.&nbsp;[†](#w-context-switch)
@@ -522,11 +555,20 @@ Country code top-level domain
 Coupling
 : A state in which one object uses a function of another object. Coupling also describes the degree of interdependence between software modules, as a measure of how closely connected two routines or modules are, and the strength of the relationships between modules. Coupling is usually contrasted with cohesion. Low coupling often correlates with high cohesion, and vice versa. Low coupling is often a sign of a well-structured computer system and a good design, and when combined with high cohesion, supports the general goals of high readability and maintainability.&nbsp;[†](#w-coupling)
 
+CPA
+: → Critical path analysis
+
 CPC
 : → Cost-per-click
 
+CPM
+: → Critical path method
+
 CQS
 : → Command-Query Separation
+
+CR
+: → Candidate Recommendation
 
 Craft
 : A pastime or a profession that requires particular skills and knowledge of skilled work.&nbsp;[†](#w-craft)
@@ -545,6 +587,21 @@ Create, Read, Update, Delete
 
 Create, Replicate, Append, Process
 : A variation of CRUD.&nbsp;[†](#w-crud)
+
+Critical CSS
+: The minimum of CSS needed to show a styled web page. Focus is usually on the immediately visible part of a page sitting at the top or “above the fold.” The respective CSS rules are then inlined, that is, embedded in a `style` element within the page’s `head` element.
+
+Critical path
+: The longest stretch of dependent project activities and the time required to complete them from start to finish.&nbsp;[†](#w-critical-path)
+
+Critical path analysis
+: → Critical path
+
+Critical path method
+: → Critical path
+
+Critical rendering path
+: A model for the steps needed to render a web page, and optimize its rendering. The critical rendering path includes the building of DOM (Document Object Model) and CSSOM (CSS Object Model), changes to both through the execution of JavaScript, the construction of the render tree, layout, and paint.
 
 CRM
 : → Customer Relationship Management
@@ -569,6 +626,9 @@ Cross-Site Scripting
 
 Cross-Site WebSocket Hijacking
 : An attack similar to Cross-Site Request Forgery (CSRF), on a WebSocket handshake, which may allow read/write communication on the respective WebSocket connection. ℹ︎&nbsp;[is.gd/cGQ4bj](https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html)
+
+CRP
+: → Critical rendering path
 
 CRUD
 : → Create, Read, Update, Delete
@@ -601,7 +661,7 @@ CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
 CSS-in-JS
-: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
+: A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `style` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
 
 CSS-Tricks
 : A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
@@ -624,12 +684,21 @@ CTR
 Cumulative Layout Shift
 : A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
 
+Currying
+: The technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.&nbsp;[†](#w-currying)
+
+Custom data attribute
+: An attribute in no namespace whose name starts with the string `data-`, has at least one character after the hyphen, is XML-compatible, and contains no ASCII upper alphas. Custom data attributes are intended to store custom data, state, annotations, and similar, private to the page or application, for which there are no more appropriate attributes or elements.&nbsp;§
+
 Custom element
 : → Autonomous custom element
 : → Customized built-in element
 
 Custom property
 : A CSS property that is prefixed with `--`, like `--example-name`, and whose value can be used in other declarations using the `var()` function. Custom properties are scoped to the element(s) they are declared on, and participate in the cascade: The value of a custom property is that from the declaration decided by the cascading algorithm. Custom properties are also known as CSS variables.&nbsp;[‡](#m-custom-property) ℹ︎&nbsp;[w3.org/TR/css-variables-1](https://www.w3.org/TR/css-variables-1/)
+
+Customer Effort Score
+: A customer service metric that measures the experience with a product or service. Customers document their experience on a 7-point Likert scale ranging from “Very Difficult” to “Very Easy.” The result can be used to assess how much effort is needed to use the respective product or service, and to predict further use.
 
 Customer Relationship Management
 : An approach to manage a company’s interaction with current and potential customers. It uses data analysis about customers’ history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.&nbsp;[†](#w-crm)

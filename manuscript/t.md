@@ -27,6 +27,7 @@ Tachyons
 Tag
 : In version control, a textual label that can be associated with a specific revision of a project maintained by a version control system. A tag allows to define a meaningful name to be given to a particular state of a project that is under version control. This label can then be used in place of the revision identifier for commands supported by the version control system.&nbsp;[†](#w-tag)
 : In web development, either the start or end tag of an HTML element, like `<p>`, a paragraph’s start tag, or `</ul>`, an unordered list’s end tag. Not to be confused with an element.
+: → Message Authentication Code
 : → Tracking pixel
 
 Tag Management System
@@ -132,8 +133,14 @@ Testing
 TeX
 : A typesetting or formatting system. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems. TeX was released in 1978 by Donald Knuth.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
 
+Textile
+: A lightweight markup language that uses a text formatting syntax to convert plain-text into structured HTML markup. Textile is used for writing articles, forum posts, documentation, and any other type of written content published online. It was first released in 2002.&nbsp;[†](#w-textile) ℹ︎&nbsp;[textile-lang.com](https://textile-lang.com/)
+
 The Onion Router
 : → Tor
+
+The Open Group Architecture Framework
+: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting 1995 by The Open Group.&nbsp;[†](#w-togaf) ℹ︎&nbsp;[is.gd/0pnYAF](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
 
 Theme
 : A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for window, window decoration, and graphical control elements. Themes are used to customize the look and feel of software in general, including for websites and apps.&nbsp;[†](#w-theme)
@@ -150,6 +157,9 @@ Thread
 Three-Click Rule
 : An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
+TIL
+: The abbreviation and Internet slang for “today I learned.” 
+
 Time box
 : A fixed time period.
 
@@ -161,6 +171,9 @@ Time to Interactive
 
 Time to Live
 : A mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded or revalidated. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is commonly used to improve the performance and manage the caching of data.&nbsp;[†](#w-ttl)
+
+Time-Based One-Time Password
+: A computer algorithm that generates a one-time password (OTP) which uses the current time as a source of uniqueness. An extension of the HMAC-based One-time Password algorithm (HOTP), it has been adopted as Internet Engineering Task Force (IETF) standard RFC&nbsp;6238. TOTP is the cornerstone of Initiative for Open Authentication (OATH), and is used in a number of two-factor authentication (2FA) systems.&nbsp;[†](#w-totp)
 
 Timestamp
 : A sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. The term derives from rubber stamps used in offices to stamp the current date, and sometimes time, in ink on paper documents, to record when a document was received.&nbsp;[†](#w-timestamp)
@@ -198,6 +211,9 @@ Todo
 TOFU
 : → Trust on First Use
 
+TOGAF
+: → The Open Group Architecture Framework
+
 Token
 : → Access token
 
@@ -208,7 +224,7 @@ Tom’s Obvious, Minimal Language
 : A configuration file format that is intended to be easy to read and write due to obvious semantics which aim to be minimal, and that is designed to map unambiguously to a dictionary. TOML was released in 2013 by Tom Preston-Werner.&nbsp;[†](#w-toml) ℹ︎&nbsp;[github.com/toml-lang/toml](https://github.com/toml-lang/toml)
 
 Tomcat
-: → Apache Tomcat
+: An implementation of Java servlets, JavaServer Pages, Java Expression Language, and WebSocket technologies. Tomcat provides a “pure Java” HTTP web server environment in which Java code can run. It was first released in 1999.&nbsp;[†](#w-tomcat) ℹ︎&nbsp;[tomcat.apache.org](https://tomcat.apache.org/)
 
 TOML
 : → Tom’s Obvious, Minimal Language
@@ -236,6 +252,9 @@ Tor Project
 
 Total Blocking Time
 : A performance metric measuring the time that a web page is unresponsive to user input. It is calculated by adding the blocking portions of long tasks between First Contentful Paint (FCP) and Time to Interactive (TTI).
+
+TOTP
+: → Time-Based One-Time Password
 
 TPM
 : → Technical Program Manager

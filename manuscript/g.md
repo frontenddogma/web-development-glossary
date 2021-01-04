@@ -21,6 +21,12 @@ General Image Manipulation Program
 General Responsibility Assignment Software Patterns
 : Guidelines for assigning responsibility to classes and objects in object-oriented design. The different patterns and principles used in GRASP are controller, creator, indirection, information expert, low coupling, high cohesion, polymorphism, protected variations, and pure fabrication.&nbsp;[†](#w-grasp)
 
+Generator
+: → Generator function
+
+Generator function
+: A function that can be exited and later re-entered, and that can therefore be used to generate a sequence of results instead of a single result. The context of a generator function (variable bindings) is saved across re-entrances. Generators are particularly useful for asynchronous programming as they mitigate problems with callbacks, such as “callback hell” and Inversion of Control (IoC).&nbsp;[‡](#m-generator-function)
+
 Generic top-level domain
 : One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
 
