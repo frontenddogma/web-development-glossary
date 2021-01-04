@@ -42,6 +42,9 @@ OKR
 OLAP
 : → Online Analytical Processing
 
+OLTP
+: → Online Transaction Processing
+
 One-based indexing
 : The indexing of the first element of an array by subscript of 1.&nbsp;[†](#w-array)
 
@@ -129,9 +132,6 @@ OTA
 
 OTF
 : → OpenType
-
-OLTP
-: → Online Transaction Processing
 
 OTP
 : → One-Time Password
