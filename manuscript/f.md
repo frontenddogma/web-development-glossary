@@ -126,7 +126,7 @@ Flame graph
 : A flame-like visualization method for software profiling. ℹ︎&nbsp;[is.gd/EnyPjs](http://www.brendangregg.com/flamegraphs.html)
 
 Flash
-: A deprecated multimedia software platform used for the production of animations, games, and applications. Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe favors a transition to HTML. The Flash Player has been deprecated and has its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
+: A deprecated multimedia software platform used for the production of animations, games, and applications. Flash was first released in 1993 (SmartSketch), rebranded in 1995 (FutureSplash Animator) and, after being bought by Macromedia, again renamed in 1996 (Macromedia Flash). Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe, who purchased Macromedia in 2005, favors a transition to HTML. The Flash Player had its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
 
 Flash of Faux Text
 : The effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
@@ -361,5 +361,8 @@ Functional programming
 
 Functional testing
 : A quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike white-box testing). Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes what a system does.&nbsp;[†](#w-functional-testing)
+
+FutureSplash
+: → Flash
 
 Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
