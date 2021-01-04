@@ -97,6 +97,9 @@ Redesign
 Redirect
 : A technique for making a web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened. Similarly, domain redirection or domain forwarding is when all pages in a URL domain are redirected to a different domain. URL redirection is done for various reasons: for URL shortening; to prevent broken links when web pages are moved; to allow multiple domain names belonging to the same owner to refer to a single website; to guide navigation into and out of a website; for privacy protection; and for hostile purposes such as phishing attacks or malware distribution. Redirects can be set up on the server and the client side.&nbsp;[†](#w-redirect)
 
+Redirect chain
+: Two or more redirects in succession. Search engine optimization (SEO) best practices suggest to avoid redirect chains, as each redirect is said to share less link equity.
+
 Redundancy
 : The intentional duplication of critical components or functions of a system with the intention of increasing reliability of the system. There are four major forms of redundancy: hardware redundancy, such as dual modular redundancy and triple modular redundancy; information redundancy, such as error detection and correction methods; time redundancy, performing the same operation multiple times such as multiple executions of a program or multiple copies of data transmitted; and software redundancy such as N-version programming.&nbsp;[†](#w-redundancy)
 : The often unnoticed or unintentional duplication of software with the consequence of making the software less efficient and more difficult to maintain.

@@ -140,8 +140,14 @@ Lines of Code
 Link
 : A reference from one web resource to another web resource, established through the use of an anchor.
 
+Link equity
+: The search engine optimization (SEO) concept of links passing authority and value to the respective link target.
+
 Link farm
 : Any group of websites that hyperlink to other sites in the group for the purpose of increasing SERP rankings. Although some link farms can be created by hand, most are created through automated programs and services. A link farm is a form of spamming the index of a web search engine (sometimes called spamdexing).&nbsp;[†](#w-link-farm)
+
+Link juice
+: → Link equity
 
 Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
