@@ -5,7 +5,7 @@
 : → Null device
 
 .gitignore
-: A plain-text file that, one per line, contains pattern for files and directories to be ignored by Git version control.
+: A plain-text file that, one per line, contains patterns for files and directories to be ignored by Git version control.
 
 .htaccess
 : A directory-level configuration file supported by several web servers, used for the configuration of website access issues, such as URL redirection, URL shortening, access control, and more. A site could have more than one .htaccess file, and the files are placed inside the web tree (i.e., inside directories and their subdirectories). .htaccess files act as a subset of the server’s global configuration file (like httpd.conf) for the directory that they are in, or all subdirectories. The original purpose of .htaccess—reflected in its name—was to allow per-directory access control by, for example, requiring a password to access web content. More commonly, however, the .htaccess files define or override many other configuration settings such as content type, character set, CGI handlers, etc.&nbsp;[†](#w-htaccess)
@@ -22,4 +22,4 @@
 `!important`
 : An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

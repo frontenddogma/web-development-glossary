@@ -56,10 +56,13 @@ Underscore hack
 : → Star hack
 
 Unicode
-: A computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world’s writing systems. The standard is maintained by the Unicode Consortium. As of May 2019, the most recent version, Unicode 12.1, contains a repertoire of 137,994 characters (consisting of 137,766 graphic characters, 163 format characters, and 65 control characters) covering 150 modern and historic scripts, as well as multiple symbol sets and emoji. The character repertoire of the Unicode Standard is synchronized with ISO/IEC 10646, and both are code-for-code identical.&nbsp;[†](#w-unicode)
+: A computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world’s writing systems. The standard is maintained by the Unicode Consortium. As of 2020, the most recent version, Unicode 13.0.0, contains a repertoire of 143,859 characters (consisting of 143,696 graphic characters and 163 format characters) covering 154 modern and historic scripts as well as multiple symbol sets and emoji. The character repertoire of the Unicode Standard is synchronized with ISO/IEC 10646, and both are code-for-code identical.&nbsp;[†](#w-unicode) ℹ︎&nbsp;[unicode.org/standard](https://unicode.org/standard/)
 
 Unicode Consortium
 : A non-profit organization whose primary purpose is to maintain and publish the Unicode Standard which was developed with the intention of replacing existing character encoding schemes which are limited in size and scope, and are incompatible with multilingual environments. The Consortium describes its overall purpose “to enable people around the world to use computers in any language, by providing freely available specifications and data to form the foundation for software internationalization in all major operating systems, search engines, applications, and the World Wide Web.” Unicode’s success at unifying character sets has led to its widespread adoption in the internationalization and localization of software. The Unicode Consortium was founded in 1991.&nbsp;[†](#w-unicode-consortium) ℹ︎&nbsp;[unicode.org](https://unicode.org/)
+
+Unicode Standard
+: → Unicode
 
 Unified Modeling Language
 : A general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system. The creation of UML was originally motivated by the desire to standardize the disparate notational systems and approaches to software design. It was developed in 1994 and 1995 by Grady Booch, Ivar Jacobson, and James Rumbaugh.&nbsp;[†](#w-uml) ℹ︎&nbsp;[uml.org](https://www.uml.org/)
@@ -200,13 +203,13 @@ User testing
 : → Usability testing
 
 User-Centered Design
-: A framework of processes in which usability goals, user characteristics, environment, tasks and workflow of a product, service, or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with or without actual users during each stage of the process ranging from requirements to pre-production to post-production, ensuring that development proceeds with the user as the center of focus. Such testing is necessary as it is often very difficult for the designers of a product to understand intuitively what a first-time user of their design experiences, and what each user’s learning curve may look like. User-centered design is common in the design industry and is considered to lead to increased product usefulness and usability.&nbsp;[†](#w-ucd)
+: A framework of processes in which usability goals, user characteristics, environment, tasks and workflow of a product, service, or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with or without actual users during each stage of the process ranging from requirements to pre-production to post-production, ensuring that development proceeds with the user as the center of focus. Such testing is necessary as it is often very difficult for the designers of a product to understand intuitively what a first-time user of their design experiences, and what each user’s learning curve may look like. User-centered design is considered to lead to increased product usefulness and usability.&nbsp;[†](#w-ucd)
 
 User-Driven Development
 : → User-Centered Design
 
 Using Declarations Just Once
-: A CSS methodology to use every declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎&nbsp;[meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
+: A CSS methodology to use each declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎&nbsp;[meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
 
 USP
 : → Unique Selling Point
@@ -240,4 +243,4 @@ UX
 UXPA
 : → User Experience Professionals Association
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

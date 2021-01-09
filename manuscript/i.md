@@ -36,7 +36,7 @@ ID
 : → Identifier
 
 ID selector
-: A selector that matches an HTML element based on the value of the element’s `id` attribute. The selector is based on a “#” followed by the `id` attribute’s value. ID selectors have a higher specificity than attribute selectors.
+: A selector that matches an HTML element based on the value of the element’s `id` attribute. The selector consists of a “#” followed by the `id` attribute’s value. ID selectors have a higher specificity than attribute selectors.
 
 IDE
 : → Integrated Development Environment
@@ -361,4 +361,4 @@ IxD
 IxDA
 : → Interaction Design Association
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

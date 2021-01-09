@@ -79,7 +79,7 @@ Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
 Jinja
-: A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that the templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
+: A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
 
 Jinjava
 : A Java-based template engine based on the Django template syntax to render Jinja templates. Jinjava is used widely around the HubSpot marketing and sales software. ℹ︎&nbsp;[github.com/HubSpot/jinjava](https://github.com/HubSpot/jinjava)
@@ -110,7 +110,7 @@ JPG
 : → JPEG
 
 jQuery
-: A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and AJAX. The set of jQuery core features enabled by its selector engine (named “Sizzle” from v1.3) created a new “programming style,” fusing algorithms and DOM data structures. This style influenced the architecture of other JavaScript frameworks like YUI v3 and Dojo, later stimulating the creation of the standard Selectors API. As of May 2019, jQuery is used by 73% of the 10 million most popular websites. jQuery was released in 2006 by John Resig.&nbsp;[†](#w-jquery) ℹ︎&nbsp;[jquery.com](https://jquery.com/)
+: A JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and AJAX. The set of jQuery core features enabled by its selector engine (named “Sizzle” from v1.3) created a new “programming style,” fusing algorithms and DOM data structures. This style influenced the architecture of other JavaScript frameworks like YUI v3 and Dojo, later stimulating the creation of the standard Selectors API. As of 2019, jQuery is used by 73% of the 10 million most popular websites. jQuery was released in 2006 by John Resig.&nbsp;[†](#w-jquery) ℹ︎&nbsp;[jquery.com](https://jquery.com/)
 
 JS
 : → JavaScript
@@ -175,4 +175,4 @@ JWS
 JWT
 : → JSON Web Token
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

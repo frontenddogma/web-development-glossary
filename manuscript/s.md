@@ -166,13 +166,13 @@ SEO
 : → Search Engine Optimization
 
 Separation of Concerns
-: A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as “the details of the hardware for an application,” or as specific as “the name of which class to instantiate.” A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program’s design, deployment, or usage.&nbsp;[†](#w-soc)
+: A design principle for separating a computer program into distinct sections such that each section addresses a separate concern. A concern is a set of information that affects the code of a computer program. A concern can be as general as the details of the hardware for an application, or as specific as the name of which class to instantiate. A program that embodies SoC well is called a modular program. Modularity, and hence separation of concerns, is achieved by encapsulating information inside a section of code that has a well-defined interface. Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer). Separation of concerns results in more degrees of freedom for some aspect of the program’s design, deployment, or usage.&nbsp;[†](#w-soc)
 
 Serialization
 : The process of translating data structures or object state into a format that can be stored (for example, in a file or memory buffer) or transmitted (for example, across a network connection link) and reconstructed later (possibly in a different computer environment). When the resulting series of bits is re-read according to the serialization format, it can be used to create a semantically identical clone of the original object. This process of serializing an object is in some situations also called marshalling an object.&nbsp;[†](#w-serialization)
 
 Serif
-: A small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. A typeface or font family making use of serifs is called a serif typeface (or serifed typeface), and a typeface that does not include them is a sans-serif one. Some typography sources refer to serif typefaces as “roman,” and to sans-serif typefaces as “grotesque” (German _Grotesk_) or “gothic.”&nbsp;[†](#w-serif)
+: A small line or stroke regularly attached to the end of a larger stroke in a letter or symbol within a particular font or family of fonts. A typeface or font family making use of serifs is called a serif typeface (or serifed typeface), and a typeface that does not include them is a sans-serif one. Some typography sources refer to serif typefaces as “roman,” and to sans-serif typefaces as “grotesque” or “gothic.”&nbsp;[†](#w-serif)
 
 SERP
 : → Search Engine Results Page
@@ -266,7 +266,7 @@ Shim
 : A library that transparently intercepts API calls and changes the arguments passed, handles the operation itself, or redirects the operation elsewhere. Shims can be used to support an old API in a newer environment, or a new API in an older environment. Shims can also be used for running programs on different software platforms than they were developed for.&nbsp;[†](#w-shim)
 
 Shockwave Flash
-: → Flash player
+: → Flash
 
 Shortcut icon
 : → Favicon
@@ -287,7 +287,7 @@ Silverlight
 : A deprecated application framework for writing and running rich Internet applications, similar to Adobe Flash. Silverlight was released in 2007.&nbsp;[†](#w-silverlight) ℹ︎&nbsp;[microsoft.com/silverlight](https://www.microsoft.com/silverlight/)
 
 Simple Mail Transfer Protocol
-: A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook.com, Gmail, and Yahoo Mail may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol (TCP) on port number 25.&nbsp;[†](#w-smtp)
+: A communication protocol for electronic mail transmission. As an Internet standard, SMTP was first defined in 1982 by RFC&nbsp;821, and updated in 2008 by RFC&nbsp;5321 to Extended SMTP additions, which is the protocol variety in widespread use today. Mail servers and other message transfer agents use SMTP to send and receive mail messages. Proprietary systems such as Microsoft Exchange and IBM Notes, and webmail systems such as Outlook, Gmail, and Yahoo Mail may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the Transmission Control Protocol (TCP) on port number 25.&nbsp;[†](#w-smtp)
 
 Simple Object Access Protocol
 : A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP’s purpose is to provide extensibility, neutrality, and independence. It uses XML Information Set for its message format, and relies on application-layer protocols, most often Hypertext Transfer Protocol (HTTP), for message negotiation and transmission. SOAP was first released in 1998.&nbsp;[†](#w-soap)
@@ -332,7 +332,7 @@ SLOC
 : → Source Lines of Code
 
 Sloppy mode
-: The colloquial label for the opposite of JavaScript’s strict mode.
+: A colloquial name for the opposite of JavaScript’s strict mode.
 
 Slot
 : The HTML `slot` element and the respective use with web components.
@@ -425,7 +425,7 @@ Software testing
 : → Testing
 
 SOLID
-: A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. SOLID refers to 1) the Single Responsibility Principle, 2) the Open-Closed Principle, 3) the Liskov Substitution Principle, 4) the Interface Segregation Principle, and 5) the Dependency Inversion Principle. SOLID represents a subset of many principles promoted by Robert C. Martin.&nbsp;[†](#w-solid)
+: A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. SOLID refers to 1) the Single Responsibility Principle, 2) the Open-Closed Principle, 3) the Liskov Substitution Principle, 4) the Interface Segregation Principle, and 5) the Dependency Inversion Principle. SOLID represents a subset of software development principles promoted by Robert C. Martin.&nbsp;[†](#w-solid)
 
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
@@ -534,7 +534,7 @@ SSR
 : → Server-Side Rendering
 
 Stack
-: An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out).&nbsp;[†](#w-stack)
+: An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (Last In, First Out).&nbsp;[†](#w-stack)
 
 Stack Overflow
 : A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
@@ -711,4 +711,4 @@ Syntax analysis
 syslog
 : A standard for message logging. syslog allows separation of the software that generates messages, the system that stores them, and the software that reports and analyzes them. Each message is labeled with a facility code, indicating the software type generating the message, and assigned a severity level. syslog was developed in the 1980s by Eric Allman.&nbsp;[†](#w-syslog)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

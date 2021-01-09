@@ -107,7 +107,7 @@ Web font
 : A CSS feature that allows to specify font files to be downloaded along with a website as it is accessed, meaning that any browser that supports web fonts can use exactly the fonts defined. Web fonts are based on CSS `@font-face` rules, which specify the font file(s) to download. Several services, like Google Fonts, make it easy to choose and implement web fonts.&nbsp;[‡](#m-web-font)
 
 Web forms
-: A revision of HTML forms that influenced and got integrated in HTML&nbsp;5. The first draft for Web Forms was released in 2003. ℹ︎&nbsp;[w3.org/TR/web-forms-2](https://www.w3.org/TR/web-forms-2/)
+: A revision of HTML forms that influenced and got integrated into HTML&nbsp;5. The first draft for Web Forms was released in 2003. ℹ︎&nbsp;[w3.org/TR/web-forms-2](https://www.w3.org/TR/web-forms-2/)
 
 Web framework
 : Software that supports the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications. Web frameworks aim to automate the overhead associated with common activities performed in web development. For example, many web frameworks provide libraries for database access, templating frameworks, and session management, and they often promote code reuse. Although they often target development of dynamic websites, they are also applicable to static websites.&nbsp;[†](#w-web-framework)
@@ -192,7 +192,7 @@ Weblog
 : → Blog
 
 WebM
-: An audiovisual media file format. WebM is primarily intended to offer a royalty-free alternative to use in the HTML video and audio elements. It has a sister project WebP for images. WebM was first released in 2010.&nbsp;[†](#w-webm) ℹ︎&nbsp;[webmproject.org](https://www.webmproject.org/)
+: An audiovisual media file format. WebM is primarily intended to offer a royalty-free alternative to use in the HTML video and audio elements. It was first released in 2010. WebM has a sister project for images, WebP.&nbsp;[†](#w-webm) ℹ︎&nbsp;[webmproject.org](https://www.webmproject.org/)
 
 Webmaster
 : A person responsible for maintaining one or more websites. The title may refer to web architects, web developers, site authors, website administrators, website owners, website coordinators, or website publishers.&nbsp;[†](#w-webmaster)
@@ -243,7 +243,7 @@ Well-formedness
 : An attribute of document markup that adheres to the syntax rules specified by XML. Well-formed markup specifically refers to content being delimited by start and end tags, elements being properly nested, and void elements being closed.&nbsp;[†](#w-well-formedness)
 
 WET
-: The opposite of DRY.
+: The opposite of DRY (Don’t Repeat Yourself).
 
 What You See Is All You Get
 : An idea from _The Pragmatic Programmer_, a disadvantage with WYSIWYG tools.
@@ -315,16 +315,16 @@ WORA
 : → Write Once, Run Anywhere
 
 WordPress
-: A content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of April 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
+: A content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. Features include a template system and a plugin architecture. WordPress was originally created as a blog-publishing system but has evolved to support other types of web content. As of 2019, WordPress is used by more than 60 million websites, including 33.6% of the top 10 million websites. It was released in 2003 by Matt Mullenweg and Mike Little.&nbsp;[†](#w-wordpress) ℹ︎&nbsp;[wordpress.org](https://wordpress.org/)
 
 WordPress Theme
 : A collection of templates and style sheets for customization of a site built with WordPress.
 
 Work in Progress
-: Work currently being done.
+: Work still to be done, or being done.
 
 Workaround
-: A bypass of a recognized problem or limitation in a system or policy. A workaround is typically a temporary fix that implies that a genuine solution to the problem is needed. Workarounds are frequently as creative as true solutions, involving outside the box thinking in their creation. Typically they are considered brittle in that they will not respond well to further pressure from a system beyond the original design. In implementing a workaround it is important to flag the change so as to later implement a proper solution. A “workaround” can also be a euphemism for a “hack.”&nbsp;[†](#w-workaround)
+: A bypass of a recognized problem or limitation in a system or policy. A workaround is typically a temporary fix that implies that a genuine solution to the problem is needed. Workarounds are frequently as creative as true solutions, involving outside the box thinking in their creation. Typically, they are considered brittle in that they will not respond well to further pressure from a system beyond the original design. In implementing a workaround it is important to flag the change so as to later implement a proper solution. A “workaround” can also be a euphemism for a “hack.”&nbsp;[†](#w-workaround)
 
 Workbox
 : A Google-maintained set of libraries and Node modules to assist the building of progressive web apps (PWAs). Workbox was first released in 2017. ℹ︎&nbsp;[is.gd/GFKM3p](https://developers.google.com/web/tools/workbox)
@@ -372,4 +372,4 @@ WYSIAYG
 WYSIWYG
 : → What You See Is What You Get
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

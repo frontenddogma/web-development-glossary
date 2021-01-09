@@ -36,14 +36,14 @@ Page prediction
 Page Quality
 : Custom and proprietary quality criteria for web pages (Google) and Facebook Pages (Facebook).
 
+Page view
+: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another page pointing to the page in question.&nbsp;[†](#w-page-view)
+
 PageRank
 : An algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages. According to Google: “PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.” Currently, PageRank is not the only algorithm used by Google to order search results, but it is the first algorithm that was used by the company, and the best known.&nbsp;[†](#w-pagerank)
 
 PageSpeed
 : A family of tools by Google, designed to help a website’s performance optimization. PageSpeed was introduced in 2010. There are four main components of PageSpeed family tools: PageSpeed Module, also known as mod_pagespeed, PageSpeed Insights, PageSpeed Service, and the PageSpeed Chrome DevTools extension. All of these components are built to identify faults in a website’s compliance with Google’s Web Performance Best Practices, as well as to automate the optimization process.&nbsp;[†](#w-pagespeed) ℹ︎&nbsp;[developers.google.com/speed](https://developers.google.com/speed)
-
-Page view
-: A request to load a single HTML file (web page) of an Internet site. On the World Wide Web, a page request would result from a web surfer clicking on a link on another page pointing to the page in question.&nbsp;[†](#w-page-view)
 
 Paint
 : The web page rendering phase during which the final render tree is used to render the respective pixels to the screen.
@@ -107,7 +107,7 @@ Pave the cowpaths
 : The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
 
 Pay-per-click
-: An Internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers typically bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC display advertisements, also known as banner ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Twitter, LinkedIn, and Pinterest have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
+: An Internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers usually bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC display advertisements, also known as banner ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Twitter, LinkedIn, and Pinterest have also adopted pay-per-click as one of their advertising models.&nbsp;[†](#w-ppc)
 
 Payload
 : The part of transmitted data that is the actual intended message. Headers and metadata are sent only to enable payload delivery. The term is borrowed from transportation, where payload refers to the part of the load that pays for transportation.&nbsp;[†](#w-payload)
@@ -203,7 +203,7 @@ Pinging
 : A colloquial expression for contacting or notifying another person.
 
 pip
-: The _de facto_ standard package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip) ℹ︎&nbsp;[pypi.org/project/pip](https://pypi.org/project/pip/)
+: A package management system used to install and manage software packages written in Python.&nbsp;[†](#w-pip) ℹ︎&nbsp;[pypi.org/project/pip](https://pypi.org/project/pip/)
 
 Pixel
 : A physical point in a raster image, or the smallest addressable element in an all-points-addressable display device; so it is the smallest controllable element of a picture represented on the screen. Each pixel is a sample of an original image; more samples typically provide more accurate representations of the original. The intensity of each pixel is variable. In color imaging systems, a color is typically represented by three or four component intensities such as red, green, and blue, or cyan, magenta, yellow, and black.&nbsp;[†](#w-pixel)
@@ -225,7 +225,7 @@ Plain-text
 : A loose term for data (e.g., file contents) that represent only characters of readable material but no graphical representation or other objects and media. Plain-text may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. It is different from formatted text, where style information is included.&nbsp;[†](#w-plain-text)
 
 Plane
-: In the Unicode standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called supplementary planes. The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
+: In the Unicode Standard, a continuous group of 65,536 (2^16^) code points. There are 17 planes, identified by the numbers 0 to 16, which corresponds with the possible values 00–10~16~ of the first two positions in six-position hexadecimal format (`U+hhhhhh`). Plane 0 is the Basic Multilingual Plane (BMP), which contains the most commonly used characters. The higher planes 1 through 16 are called supplementary planes. The very last code point in Unicode is the last code point in plane 16, `U+10FFFF`. As of Unicode version 12.1, six of the planes have assigned code points (characters), and four are named. The limit of 17 planes is due to UTF-16, which can encode 2^20^ code points (16 planes) as pairs of words, plus the BMP as a single word. UTF-8 was designed with a much larger limit of 2^31^ (2,147,483,648) code points (32,768 planes), and can encode 2^21^ (2,097,152) code points (32 planes) even under the current limit of 4 bytes. The 17 planes can accommodate 1,114,112 code points.&nbsp;[†](#w-plane)
 
 Platform as a Service
 : A category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.&nbsp;[†](#w-paas)
@@ -276,7 +276,7 @@ Portable Network Graphics
 : A raster graphic file format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). PNG files use the file extension `png` and are assigned the MIME media type `image/png`. PNG was published as informational RFC&nbsp;2083 in 1997, and as an ISO/IEC standard in 2004.&nbsp;[†](#w-png)
 
 Portal
-: A specially designed website that brings together information from diverse sources, like emails, online forums, and search engines, in a uniform way. Usually, each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet “dashboards” for executives and managers.&nbsp;[†](#w-portal)
+: A specially designed website that brings together information from diverse sources, like emails, online forums, and search engines, in a uniform way. Usually each information source gets its dedicated area on the page for displaying information (a portlet); often, the user can configure which ones to display. Variants of portals include mashups and intranet “dashboards” for executives and managers.&nbsp;[†](#w-portal)
 : A mechanism that allows for the rendering and quick navigation of embedded content. ℹ︎&nbsp;[wicg.github.io/portals](https://wicg.github.io/portals/)
 
 Post mortem
@@ -444,4 +444,4 @@ PWA
 Python
 : An interpreted, high-level, general-purpose programming language. Python’s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a “batteries included” language due to its comprehensive standard library. It was created in 1991 by Guido van Rossum.&nbsp;[†](#w-python) ℹ︎&nbsp;[python.org](https://www.python.org/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

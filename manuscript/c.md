@@ -155,7 +155,7 @@ CheiRank
 : An eigenvector with a maximal real eigenvalue of the Google matrix _G^*^_ constructed for a directed network with the inverted directions of links. CheiRank is similar to the PageRank vector, which ranks the network nodes in average proportionally to a number of incoming links being the maximal eigenvector of the Google matrix _G_ with a given initial direction of links. Due to inversion of link directions the CheiRank ranks the network nodes in average proportionally to a number of outgoing links.&nbsp;[†](#w-cheirank)
 
 Chrome
-: A cross-platform web browser. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
+: A cross-platform web browser, based on the Chromium browser project. Chrome was released in 2008 by Google. ℹ︎&nbsp;[google.com/chrome](https://www.google.com/chrome/)
 : The graphical elements of a web browser, like title, address, and status bar as well as navigation elements.
 
 Chrome Custom Tabs
@@ -200,7 +200,7 @@ Classless Inter-Domain Routing
 : A method for allocating IP addresses and for IP routing. The Internet Engineering Task Force (IETF) introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. The goal of CIDR was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.&nbsp;[†](#w-cidr)
 
 Clearfix
-: A name for a variety of float-clearing techniques that may (when CSS only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
+: A name for a variety of float-clearing techniques that may (when CSS-only) or may not (as with relying on presentational helper classes) meet development best practices. ℹ︎&nbsp;[is.gd/ywDpA3](https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
 
 CLI
 : → Command-Line Interface
@@ -302,7 +302,7 @@ Codeline
 : → Branch
 
 CodePen
-: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as an online code editor and learning environment, where developers can create code snippets, called pens, test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
+: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as a code editor and learning environment, where developers can create code snippets, called pens, test, and share them. Codepen was founded in 2012.&nbsp;[†](#w-codepen) ℹ︎&nbsp;[codepen.io](https://codepen.io/)
 
 Coding by Convention
 : → Convention over Configuration
@@ -455,7 +455,7 @@ Container
 : An HTML element that contains other elements.
 
 Containerization
-: An operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (Solaris, Docker), Zones (Solaris), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernels (DragonFly BSD), or jails (FreeBSD jail or chroot jail) may look like actual computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container’s contents and devices assigned to the container. Containerization is used to securely allocate finite hardware resources among a large number of mutually-distrusting users, to consolidate server hardware by moving services on separate hosts into containers on the one server, or to separate several programs to separate containers for improved security, hardware independence, and added resource management features.&nbsp;[†](#w-containerization)
+: An operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (Solaris, Docker), zones (Solaris), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernels (DragonFly BSD), or jails (FreeBSD jail or chroot jail) may look like actual computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container’s contents and devices assigned to the container. Containerization is used to securely allocate finite hardware resources among a large number of mutually-distrusting users, to consolidate server hardware by moving services on separate hosts into containers on the one server, or to separate several programs to separate containers for improved security, hardware independence, and added resource management features.&nbsp;[†](#w-containerization)
 
 Containing block
 : The block (element) in which a box resides.
@@ -523,7 +523,7 @@ Cookie
 : A small piece of data sent from a website and stored on a user’s computer by the user’s web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user’s browsing activity. They can also be used to remember arbitrary pieces of information that the user previously entered. Cookies perform essential functions in the modern Web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether a user is logged in or not, and which account they are logged in with.&nbsp;[†](#w-cookie)
 
 Cookie banner
-: A web page notification alerting and informing about the respective site’s use of cookies. Cookie banners are common on European websites because of European regulations around the use of cookies.
+: A web page notification alerting and informing about the respective site’s use of cookies. Cookie banners are common on European websites because of European cookie regulations.
 
 Cookie consent
 : The agreement to but also a term for the requirement for informing about the use of cookies (also known as a cookie consent form, or cookie banner).
@@ -721,4 +721,4 @@ Cyan, Magenta, Yellow, and Key
 Cycle time
 : The amount of time between the start of work on a task to the time it is delivered.
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

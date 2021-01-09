@@ -153,7 +153,7 @@ Link rot
 : The phenomenon of hyperlinks tending over time to cease to point to their originally targeted file, web page, or server due to that resource being relocated or becoming permanently unavailable. A link that no longer points to its target, often called a broken or dead link, is a specific form of dangling pointer. The rate of link rot is a subject of study and research due to its significance to the Internet’s ability to preserve information. Estimates of that rate vary dramatically between studies.&nbsp;[†](#w-link-rot)
 
 Linked Data
-: Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked data builds upon standard web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.&nbsp;[†](#w-ld)
+: Structured data which is interlinked with other data so it becomes more useful through semantic queries. Linked Data builds upon standard web technologies such as HTTP, RDF, and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of Linked Data is for the Internet to become a global database.&nbsp;[†](#w-ld)
 
 Linter
 : A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term “lint” originates from a Unix utility built in 1978 that examined C language source code.&nbsp;[†](#w-lint)
@@ -276,6 +276,6 @@ LTS
 : → Long-Term Support
 
 Lynx
-: A customizable text-based web browser for use on cursor-addressable character cell terminals. As of 2019, it is the oldest web browser still in general use and active development, having started in 1992.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)
+: A customizable text-based web browser for use on cursor-addressable character cell terminals. Lynx was released in 1992; as of 2019, it is the oldest web browser still in general use and active development.&nbsp;[†](#w-lynx) ℹ︎&nbsp;[lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

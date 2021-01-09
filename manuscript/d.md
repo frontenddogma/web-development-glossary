@@ -34,7 +34,7 @@ Data Definition Language
 : A syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are `CREATE`, `ALTER`, and `DROP`.&nbsp;[†](#w-ddl)
 
 Data lake
-: A system or repository of data stored in its natural or raw format, usually object blobs or files. A data lake is usually a single store of data including raw copies of source system data, sensor data, social data, etc., and transformed data used for tasks such as reporting, visualization, advanced analytics, and machine learning.&nbsp;[†](#w-data-lake)
+: A system or repository of data stored in its natural or raw format, usually object blobs or files. A data lake is often a single store of data including raw copies of source system data, sensor data, social data, etc., and transformed data used for tasks such as reporting, visualization, advanced analytics, and machine learning.&nbsp;[†](#w-data-lake)
 
 Data Manipulation Language
 : A computer programming language used for adding (inserting), deleting, and modifying (updating) data in a database. A DML is often a sublanguage of a broader database language such as SQL, with the DML comprising some of the operators in the language. Read-only selecting of data is sometimes distinguished as being part of a separate data query language (DQL), but it is closely related and sometimes also considered a component of a DML; some operators may perform both selecting (reading) and writing.&nbsp;[†](#w-dml)
@@ -154,7 +154,7 @@ Dependency
 : → Coupling
 
 Dependency injection
-: A technique whereby one object supplies the dependencies of another object. A “dependency” is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The “injection” refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client’s state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve Separation of Concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
+: A technique whereby one object supplies the dependencies of another object. A “dependency” is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The “injection” refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client’s state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern. The intent behind dependency injection is to achieve separation of concerns of construction and use of objects. This can increase readability and code reuse.&nbsp;[†](#w-dependency-injection)
 
 Dependency Inversion Principle
 : A specific form of decoupling software modules. When following this principle, the conventional dependency relationships established from high-level policy-setting modules to low-level dependency modules are reversed, thus rendering high-level modules independent of the low-level module implementation details. The principle states 1) that high-level modules should not depend on low-level modules, but that both should depend on abstractions (e.g., interfaces), and 2) that abstractions should not depend on details, but that details (concrete implementations) should depend on abstractions.&nbsp;[†](#w-dip)
@@ -434,4 +434,4 @@ Dynamic typing
 Dyslexia
 : A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud, and understanding what one reads.&nbsp;[†](#w-dyslexia)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

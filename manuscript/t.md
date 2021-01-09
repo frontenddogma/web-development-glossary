@@ -140,7 +140,7 @@ The Onion Router
 : → Tor
 
 The Open Group Architecture Framework
-: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting 1995 by The Open Group.&nbsp;[†](#w-togaf) ℹ︎&nbsp;[is.gd/0pnYAF](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
+: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting in 1995 by The Open Group.&nbsp;[†](#w-togaf) ℹ︎&nbsp;[is.gd/0pnYAF](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
 
 Theme
 : A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for window, window decoration, and graphical control elements. Themes are used to customize the look and feel of software in general, including for websites and apps.&nbsp;[†](#w-theme)
@@ -381,4 +381,4 @@ TYPO3
 Typography
 : The art and technique of arranging type to make written language legible, readable, and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line spacing (leading), and letter spacing (tracking), and adjusting the space between pairs of letters (kerning). Typography is also applied to the style, arrangement, and appearance of the letters, numbers, and symbols created by the process. Type design is a closely related craft, sometimes considered part of typography; most typographers do not design typefaces, and some type designers do not consider themselves typographers. Typography also may be used as a decorative device, unrelated to communication of information. Until the Digital Age, typography was a specialized occupation.&nbsp;[†](#w-typography)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

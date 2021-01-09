@@ -46,7 +46,7 @@ Feature testing
 : → Feature detection
 
 Feed
-: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed or clicking a link in a web browser or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are typically HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
+: A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed, clicking a link in a web browser, or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are usually HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
 Feed reader
 : → News aggregator
@@ -126,7 +126,7 @@ Flame graph
 : A flame-like visualization method for software profiling. ℹ︎&nbsp;[is.gd/EnyPjs](http://www.brendangregg.com/flamegraphs.html)
 
 Flash
-: A deprecated multimedia software platform used for the production of animations, games, and applications. Flash was first released in 1993 (SmartSketch), rebranded in 1995 (FutureSplash Animator) and, after being bought by Macromedia, again renamed in 1996 (Macromedia Flash). Although Flash was previously a dominant platform for online multimedia content, it is slowly being abandoned as Adobe, who purchased Macromedia in 2005, favors a transition to HTML. The Flash Player had its official end-of-life on December 31, 2020.&nbsp;[†](#w-flash)
+: A deprecated multimedia software platform used for the production of animations, games, and applications. Flash was first released in 1993 (SmartSketch), rebranded in 1995 (FutureSplash Animator) and, after being bought by Macromedia, again renamed in 1996 (Macromedia Flash). Although Flash was previously a dominant platform for online multimedia content, it has been abandoned as Adobe, who purchased Macromedia in 2005, favored a transition to HTML.&nbsp;[†](#w-flash)
 
 Flash of Faux Text
 : The effect when a browser switches from a fallback font to a particular web font before loading and applying yet other fonts.
@@ -141,7 +141,7 @@ Flash of Unstyled Text
 : The effect when a web page appears briefly with the browser’s default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting.&nbsp;[†](#w-fout)
 
 Flash Player
-: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plugin or on supported mobile devices. Flash Player was created by Macromedia and has been developed and distributed by Adobe since Adobe acquired Macromedia in 2005. In 2017, Adobe announced that it would end support for Flash Player at the end of 2020, and continued to encourage the use of open HTML standards in place of Flash.&nbsp;[†](#w-flash-player)
+: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plugin or on supported mobile devices. It was created by Macromedia and has been developed and distributed by Adobe since Adobe acquired Macromedia in 2005. Support for Flash Player ended at the end of 2020.&nbsp;[†](#w-flash-player)
 
 Flat Design
 : A minimalist design language and style that emphasizes the use of simple elements and typography as well as flat colors. The emergence and popularization of the International Typographic Style (Swiss Style) during the 1950s and 1960s is regarded as the starting point of Flat Design.&nbsp;[†](#w-flat-design)
@@ -335,7 +335,7 @@ Fugu
 : A Google project designed to close the capabilities gap between web and native apps. Fugu provides or aims to provide APIs that allow web apps to, for example, share information (Web Share API), pick contacts (Contact Picker API), or process OTP messages (SMS Receiver API). ℹ︎&nbsp;[is.gd/Yyn0oQ](https://www.chromium.org/teams/web-capabilities-fugu)
 
 Full Service
-: A web agency term for the ability and capability to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
+: A web agency term for the ability to provide all the services for an entire product lifecycle, like website conception, design, development, maintenance, and optimization.
 
 Full Stack
 : → Solution stack
@@ -368,4 +368,4 @@ Functional testing
 FutureSplash
 : → Flash
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

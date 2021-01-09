@@ -159,8 +159,8 @@ Message Digest
 : → MD5
 : → MD6
 
-Meta-element
-: An HTML element that can provide structured metadata about a web page. Meta-elements are part of a web page’s `head` section. Multiple meta-elements with different attributes can be used on the same page. Meta-elements can be used to specify a page’s description, keywords, and other metadata. The HTML `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
+Meta element
+: An HTML element that can provide structured metadata about a web page. Meta elements are part of a web page’s `head` section. Multiple meta elements with different attributes can be used on the same page. Meta elements can be used to specify a page’s description, keywords, and other metadata. The HTML `meta` element has two uses: to emulate the use of an HTTP response header field, and to embed additional metadata within the HTML document.&nbsp;[†](#w-meta-element)
 
 Metadata
 : Data that provides information about other data, or data about data. There are many distinct types of metadata, including descriptive, structural, administrative, reference, and statistical metadata.&nbsp;[†](#w-metadata)
@@ -196,7 +196,7 @@ Microsoft Active Accessibility
 : An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows&nbsp;95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
 
 Microsoft Design Language
-: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.com.&nbsp;[†](#w-mdl)
+: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.&nbsp;[†](#w-mdl)
 
 Microsoft Edge
 : → Edge
@@ -368,4 +368,4 @@ MVVM
 MySQL
 : A relational database management system (RDBMS). Its name is a combination of “My,” the name of co-founder Michael Widenius’s daughter, and “SQL,” the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

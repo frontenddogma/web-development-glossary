@@ -26,7 +26,7 @@ Backward compatibility
 : A property of a product, system, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing. Modifying a system in a way that does not allow backward compatibility is sometimes called breaking backward compatibility.&nbsp;[†](#w-backward-compatibility)
 
 Bad Neighborhood
-: Bad quality websites, or websites that are being penalized and downgraded by search engines. In SEO, links to and from bad neighborhood websites are recommended to be avoided.
+: Bad quality websites, or websites that are being penalized and downgraded by search engines. Search engine optimization (SEO) best practices suggest to avoid links to and from bad neighborhood websites.
 
 Bandwidth
 : The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
@@ -315,7 +315,7 @@ Bug
 : An error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program’s source code or its design.&nbsp;[†](#w-bug)
 
 Bug tracking system
-: A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems allow end users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)
+: A software application that keeps track of reported software bugs in software development projects. It may be regarded as a type of issue tracking system. Many bug tracking systems allow end users to enter bug reports directly. Other systems are used only internally in a company or organization doing software development. Typically, bug tracking systems are integrated with other project management software. A bug tracking system is usually a necessary component of a professional software development infrastructure.&nbsp;[†](#w-bug-tracking-system)
 
 Bugfix
 : → Patch
@@ -333,7 +333,7 @@ Bundling
 : The process of dynamically or statically merging (bundling) several files, notably JavaScript modules, for output to a client or a server. Bundling reduces the number of files and requests to be delivered to a client and thus helps improve performance.
 
 Bushnell’s Law
-: An aphorism attributed to Atari founder Nolan Bushnell, on the subject of video game design: “All the best games are easy to learn and difficult to master. They should reward the first quarter and the hundredth.” This is also referred to with the sentence “easy to learn, hard [or almost impossible] to master.”&nbsp;[†](#w-bushnells-law)
+: An aphorism attributed to Atari founder Nolan Bushnell, on the subject of video game design: “All the best games are easy to learn and difficult to master. They should reward the first quarter and the hundredth.” This is also referred to with the sentence “easy to learn, hard to master.”&nbsp;[†](#w-bushnells-law)
 
 BVT
 : → Build Verification Test
@@ -341,4 +341,4 @@ BVT
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

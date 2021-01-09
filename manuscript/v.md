@@ -74,7 +74,7 @@ Virtual Private Cloud
 : An on-demand configurable pool of shared computing resources allocated within a public cloud environment, providing a certain level of isolation between the different organizations using the resources. The isolation between one VPC organization and all other users of the same cloud (other VPC organizations as well as other public cloud users) is usually achieved through allocation of a private IP subnet and a virtual communication construct (such as a VLAN or a set of encrypted communication channels) per user. In a VPC, the respective isolation is accompanied with a VPN function that secures remote access of the organization to VPC resources. A VPC is most commonly used in the context of cloud Infrastructure as a Service (IaaS).&nbsp;[†](#w-vpc)
 
 Virtual Private Network
-: An extension of a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device (e.g., a laptop, desktop, or smartphone) across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.&nbsp;[†](#w-vpn)
+: An extension of a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device (e.g., a desktop computer, laptop, or smartphone) across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, though not an inherent, part of a VPN connection.&nbsp;[†](#w-vpn)
 
 Virtual Reality
 : A simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e., video games) and educational purposes (i.e., medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality. Currently standard virtual reality systems use either virtual reality headsets or multi-projected environments to generate realistic images, sounds, and other sensations that simulate a user’s physical presence in a virtual environment.&nbsp;[†](#w-vr)
@@ -95,7 +95,7 @@ Visual impairment
 : A decreased ability to see to a degree that causes problems not fixable by usual means, such as glasses. Some classifications also include those who have a decreased ability to see because they do not have access to glasses or contact lenses. Visual impairment is often defined as a best corrected visual acuity of worse than either 20/40 or 20/60. The term “blindness” is used for complete or nearly complete vision loss.&nbsp;[†](#w-visual-impairment)
 
 Visual regression testing
-: Typically, automated testing for unintended visual changes (regressions) on a website or app.
+: Usually automated testing for unintended visual changes (regressions) on a website or app.
 
 Visual Studio Code
 : A cross-platform source code editor developed by Microsoft. VS Code includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is highly customizable, allowing users to change theme, keyboard shortcuts, and preferences, and to install extensions that add additional functionality. VS Code was first released in 2015.&nbsp;[†](#w-vs-code) ℹ︎&nbsp;[code.visualstudio.com](https://code.visualstudio.com/)
@@ -158,4 +158,4 @@ VuePress
 Vuex
 : A state management pattern and library for Vue.js applications. ℹ︎&nbsp;[vuex.vuejs.org](https://vuex.vuejs.org/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

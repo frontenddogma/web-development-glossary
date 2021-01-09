@@ -104,7 +104,7 @@ Optimization
 : The selection of a best element (with regard to some criterion) from some set of available alternatives. Optimization problems of sorts arise in all quantitative disciplines from computer science and engineering to operations research and economics, and the development of solution methods has been of interest in mathematics for centuries. In the simplest case, an optimization problem consists of maximizing or minimizing a real function by systematically choosing input values from within an allowed set and computing the value of the function. Casually, optimization refers to improving a product, service, or software.&nbsp;[†](#w-optimization)
 
 Optional markup
-: Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for a document to be functioning and valid.
+: Markup (like HTML code and particular tags, attributes, and quotes) that is not necessary for a document to be functional and valid.
 
 Orca
 : An extensible screen reader from the GNOME project for individuals who are blind or visually impaired. Using various combinations of speech synthesis and braille, Orca helps provide access to applications and toolkits that support the AT-SPI. The name Orca, which is the name of a killer whale, is a nod to the long-standing tradition of naming screen readers after aquatic creatures.&nbsp;[†](#w-orca) ℹ︎&nbsp;[wiki.gnome.org/Projects/Orca](https://wiki.gnome.org/Projects/Orca)
@@ -148,4 +148,4 @@ Over the Air
 OWASP
 : → Open Web Application Security Project
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

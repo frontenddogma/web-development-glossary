@@ -37,7 +37,7 @@ Edge
 : A cross-platform web browser. Edge was released by Microsoft, first for Windows&nbsp;10 and Xbox One in 2015, then for Android and iOS in 2017, and for macOS in 2019.&nbsp;[†](#w-edge) ℹ︎&nbsp;[microsoft.com/microsoft-edge](https://www.microsoft.com/microsoft-edge)
 
 Edge caching
-: The caching of content close to end users, for example by using a Content Delivery Network (CDN).
+: The caching of content close to end users, for example by a Content Delivery Network (CDN).
 
 Editor
 : As source code editor, a text editor program designed specifically for editing source code of computer programs. An editor may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are a fundamental programming tool.&nbsp;[†](#w-editor)
@@ -209,7 +209,7 @@ Expertise, Authoritativeness, Trustworthiness
 : A concept from Google’s _Search Quality Evaluator Guidelines_ to help assess the quality of websites and apps.
 
 Express
-: A web application framework for Node.js. Express is designed for building web applications and APIs. It has been called the _de facto_ standard server framework for Node.js. Express was first released in 2010.&nbsp;[†](#w-express) ℹ︎&nbsp;[expressjs.com](https://expressjs.com/)
+: A web application framework for Node.js. Express is designed for building web applications and APIs. It was first released in 2010.&nbsp;[†](#w-express) ℹ︎&nbsp;[expressjs.com](https://expressjs.com/)
 
 Extended Binary Coded Decimal Interchange Code
 : An 8-bit character encoding used mainly on IBM mainframe and IBM midrange computer operating systems. EBCDIC descended from the code used with punched cards and the corresponding six-bit binary-coded decimal code used with most of IBM’s computer peripherals of the late 1950s and early 1960s.&nbsp;[†](#w-ebcdic)
@@ -241,4 +241,4 @@ Extreme Programming
 Eye tracking
 : The process of measuring either the point of gaze (where one is looking) or the motion of an eye relative to the head. An eye tracker is a device for measuring eye positions and eye movement. Eye trackers are used in research on the visual system, in psychology, in psycholinguistics, in marketing, as an input device for human-computer interaction, and in product design.&nbsp;[†](#w-eye-tracking)
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

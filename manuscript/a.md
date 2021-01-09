@@ -47,7 +47,7 @@ Access logs
 : → Server logs
 
 Access token
-: A token that contains the security credentials for a login session and that identifies a user, a user’s groups, a user’s privileges, and, in some cases, a particular application. Typically one may be asked to enter an access token (e.g., 40 random characters) rather than the usual password (an access token should therefore be kept secret just like a password).&nbsp;[†](#w-access-token)
+: A token that contains the security credentials for a login session and that identifies a user, a user’s groups, a user’s privileges, and, in some cases, a particular application. Typically, one may be asked to enter an access token (e.g., 40 random characters) rather than the usual password (an access token should therefore be kept secret just like a password).&nbsp;[†](#w-access-token)
 
 Accessibility
 : The design and development of products, devices, services, and environments so that they are usable by people with disabilities. In the context of the Web it means to make information and services usable by as many people as possible.&nbsp;[†](#w-accessibility)
@@ -439,4 +439,4 @@ AVIF
 AWS
 : → Amazon Web Services
 
-Q> Is something important missing, or did you find a mistake? Please [share your thoughts](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

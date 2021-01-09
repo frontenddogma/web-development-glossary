@@ -1121,7 +1121,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
 
-The original works, which have been released under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
+The original works, which have been released under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 
 ## MDN Web Docs Contributions
 
@@ -1167,7 +1167,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
-* [function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*){#m-generator-function}
+* [function&ast;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*){#m-generator-function}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
