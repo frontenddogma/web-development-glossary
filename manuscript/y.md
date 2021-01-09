@@ -1,7 +1,7 @@
 # Y
 
 Y2K
-: → Year 2000 problem
+: → [Year 2000 problem](#t-year-2000-problem)
 
 YAGNI
 : → You Aren’t Gonna Need It
@@ -34,7 +34,7 @@ yarn.lock
 YDN
 : → Yahoo Developer Network
 
-Year 2000 problem
+Year 2000 problem {#t-year-2000-problem}
 : Anticipated and manifested problems related to the formatting and storage of calendar data for dates beginning in the year 2000, due to programs representing four-digit years with only the final two digits, thereby making the year 2000 indistinguishable from 1900. The assumption of a twentieth-century date in such programs could cause various errors, such as the incorrect display of dates and the inaccurate ordering of automated dated records or real-time events. Companies and organisations in some countries, but not all, checked, fixed, and upgraded their computer systems to address the anticipated problem. Very few computer failures were reported when the clocks rolled over into 2000.&nbsp;[†](#w-y2k)
 
 Yet Another Multicolumn Layout
