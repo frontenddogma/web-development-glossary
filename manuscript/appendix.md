@@ -1167,7 +1167,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Glossary/Flexbox){#m-flexbox}
 * [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display){#m-font-display-timeline}
 * [Function](https://developer.mozilla.org/en-US/docs/Glossary/Function){#m-function}
-* [function&#42;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*){#m-generator-function}
+* [function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*){#m-generator-function}
 * [Global object](https://developer.mozilla.org/en-US/docs/Glossary/Global_object){#m-global-object}
 * [Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope){#m-global-scope}
 * [Global variable](https://developer.mozilla.org/en-US/docs/Glossary/Global_variable){#m-global-variable}
