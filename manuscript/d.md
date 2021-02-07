@@ -28,7 +28,7 @@ Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
 Data Control Language
-: A syntax similar to a computer programming language used to control access to data stored in a database (authorization). In particular, it is a component of Structured Query Language (SQL).&nbsp;[†](#w-dcl)
+: A syntax similar to a computer programming language used to control access to data stored in a database (authorization). In particular, DCL is a component of Structured Query Language (SQL).&nbsp;[†](#w-dcl)
 
 Data Definition Language
 : A syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are `CREATE`, `ALTER`, and `DROP`.&nbsp;[†](#w-ddl)
@@ -118,7 +118,7 @@ Declaration block
 : A block of zero or more CSS declarations and at-rules, enclosed by an opening (`{`) and a closing curly brace (`}`).
 
 Decoration
-: The attempt to make a physical or visual object more beautiful. Not to be confused with Design.
+: The attempt to make a physical or virtual object more beautiful. Not to be confused with Design.
 
 Decryption
 : The opposite of encryption, or the reverse process of it, moving from unintelligible ciphertext back to plain-text.&nbsp;[†](#w-cryptography)

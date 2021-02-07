@@ -82,7 +82,7 @@ Email address
 : An identifier for an email box to which email messages are delivered. A wide variety of formats were used in early email systems, but only a single format is used today, following the specifications developed for Internet mail systems since the 1980s. An email address such as jane.doe@example.com is made up of a local-part, an “@” symbol, then a case-insensitive domain.&nbsp;[†](#w-email-address)
 
 Embedded content
-: Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, MathML `math`, `object`, `picture`, SVG `svg`, and `video` elements.&nbsp;§
+: Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, `math` (MathML), `object`, `picture`, `svg` (SVG), and `video` elements.&nbsp;§
 
 Embedded style sheet
 : A style sheet embedded via the `style` element.
