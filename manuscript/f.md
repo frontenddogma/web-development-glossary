@@ -4,7 +4,7 @@ FaaS
 : → Function as a Service
 
 Facade pattern
-: A software-design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
+: A software design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
 
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
