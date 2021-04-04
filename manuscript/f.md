@@ -86,7 +86,7 @@ Firefox
 : A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. From 2003 to 2004, Phoenix was called Firebird before being renamed to Firefox. ℹ︎&nbsp;[mozilla.org/firefox](https://www.mozilla.org/firefox/)
 
 First Contentful Paint
-: The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is actually loading. The question “Is it happening?” is “yes” when the first contentful paint completes.&nbsp;[‡](#m-fcp)
+: The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is loading. The question “Is it happening?” is “yes” when the first contentful paint completes.&nbsp;[‡](#m-fcp)
 
 First CPU Idle
 : The time when a page is minimally interactive, or when the window is quiet enough to handle user input. It is a non-standard Google web performance metric. Generally, it occurs when most, but not necessarily all visible UI elements are interactive, and the user interface responds, on average, to most user input within 50&nbsp;ms.&nbsp;[‡](#m-first-cpu-idle)
@@ -95,7 +95,7 @@ First In, First Out
 : A method for organizing and manipulating a data buffer, where the oldest (first) entry, or “head” of the queue, is processed first. It is analogous to processing a queue with first-come, first-served (FCFS) behavior, where the people leave the queue in the order in which they arrive.&nbsp;[†](#w-fifo)
 
 First Input Delay
-: The time from when a user first interacts with a site (i.e., when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is actually able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
+: The time from when a user first interacts with a site (i.e., when they click a link, tap on a button, or use a custom, JavaScript-powered control) to the time when the browser is able to respond to that interaction. It is the length of time, in milliseconds, between the first user interaction on a web page and the browser’s response to that interaction. Scrolling and zooming are not included in this metric.&nbsp;[‡](#m-fid)
 
 First Interactive
 : → First CPU Idle
@@ -302,7 +302,7 @@ Friend of a Friend
 : A machine-readable ontology describing persons, their activities, and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralized database. FOAF is a descriptive vocabulary expressed using the Resource Description Framework (RDF) and the Web Ontology Language (OWL).&nbsp;[†](#w-foaf) ℹ︎&nbsp;[foaf-project.org](http://www.foaf-project.org/)
 
 Frontend
-: The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is actually done on the server itself.&nbsp;[†](#w-frontend-backend)
+: The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is done on the server itself.&nbsp;[†](#w-frontend-backend)
 
 FrontPage
 : A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems. It was branded as part of the Microsoft Office suite from 1997 to 2003. Microsoft FrontPage has since been replaced by Microsoft Expression Web and SharePoint Designer, which were first released in 2006 alongside Microsoft Office 2007, but these two products were also discontinued.&nbsp;[†](#w-frontpage)
