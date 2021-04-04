@@ -19,7 +19,7 @@ Whenever there is a source of great quality or immediate use, explanations inclu
 
 Some terms and abbreviations have several meanings. Only the tech-related ones are&nbsp;shown.
 
-Sometimes there is imprecision: Is a home page really a special type of web page, yet a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the respective terms, it&nbsp;is.)
+Sometimes there is imprecision: Is a home page really a special type of web page, or is a _homepage_ just another word for a website? (Per this book, trying to gauge how “most” people use the respective terms, it&nbsp;is.)
 
 Unfortunately, there are going to be inconsistencies, probably errors, and perhaps also controversy. Please [help improve the glossary](https://github.com/j9t/web-development-glossary-forum/issues/new) as well as, if applicable, Wikipedia and MDN Web Docs. Giving back to the communities, work on the book has led to numerous small improvements to both [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jens_Meiert) and [MDN Web Docs articles](https://wiki.developer.mozilla.org/en-US/dashboards/revisions?user=j9t), but it is unlikely that these improvements covered all there was to improve. Thank you for sharing your knowledge and taking the time to contribute as&nbsp;well.
 
