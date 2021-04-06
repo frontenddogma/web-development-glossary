@@ -119,7 +119,7 @@ Noob
 : → Newbie
 
 Normalization
-: The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design).&nbsp;[†](#w-normalization)
+: The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving a database design).&nbsp;[†](#w-normalization)
 
 Normalize.css
 : An alternative, less aggressive form of reset style sheet that does not overwrite some user agent style sheet defaults. Normalize.css was first released in 2011 by Nicolas Gallagher. ℹ︎&nbsp;[necolas.github.io/normalize.css](https://necolas.github.io/normalize.css/)

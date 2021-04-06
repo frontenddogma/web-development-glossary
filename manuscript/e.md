@@ -191,7 +191,7 @@ Evidence-Based Management
 : An empirical framework that documents means by which value can be delivered to customers, measures the value delivered, and uses those measures to guide improvements. ℹ︎&nbsp;[is.gd/yeRUyR](https://www.scrum.org/resources/evidence-based-management)
 
 Exception
-: A condition that interrupts normal code execution. In JavaScript syntax errors are a very common source of exceptions.&nbsp;[‡](#m-exception)
+: A condition that interrupts normal code execution. In JavaScript syntax errors are a common source of exceptions.&nbsp;[‡](#m-exception)
 
 Exception handling
 : The process of responding to the occurrence, during computation, of exceptions—anomalous or exceptional conditions requiring special processing—often disrupting the normal flow of program execution. Exception handling is provided by specialized programming language constructs, computer hardware mechanisms like interrupts, or operating system IPC facilities like signals.&nbsp;[†](#w-exception-handling)

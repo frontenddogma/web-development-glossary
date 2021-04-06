@@ -655,7 +655,7 @@ CSS Modules
 : As a CSS Module, a CSS file in which all class and animation names are by default scoped locally. ℹ︎&nbsp;[github.com/css-modules/css-modules](https://github.com/css-modules/css-modules)
 
 CSS Object Model
-: A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child, and other relationships. The CSSOM is very similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
+: A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child, and other relationships. The CSSOM is similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
 
 CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
