@@ -34,3 +34,4 @@ z.md
 backmatter.md
 appendix.md
 feedback.md
+book.md
