@@ -114,6 +114,9 @@ IndieWeb
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: The creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design.&nbsp;[†](#w-industrial-design)
 
+Infinite loop
+: → Infinite loop
+
 Infinite scrolling
 : The dynamic loading of additional web page content, usually when a user starts scrolling, so that it seems as if they could scroll indefinitely. Infinite scrolling can be problematic from a user perspective if there is useful or important information at the end of a page that cannot be reached because of the continued adding of content.
 
