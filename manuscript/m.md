@@ -103,7 +103,7 @@ MD5
 : A widely used hash function that produces a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption. It remains suitable for other non-cryptographic purposes, for example for determining the partition for a particular key in a partitioned database. MD5 was designed in 1991 by Ronald Rivest to replace the earlier hash function MD4, and was specified in 1992 as RFC&nbsp;1321.&nbsp;[†](#w-md5)
 
 MD6
-: A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for very long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
+: A cryptographic hash function. It uses a Merkle tree-like structure to allow for immense parallel computation of hashes for long inputs. Authors claim a performance of 28 cycles per byte for MD6-256 on an Intel Core 2 Duo and provable resistance against differential cryptanalysis.&nbsp;[†](#w-md6)
 
 MDL
 : → Microsoft Design Language

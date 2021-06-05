@@ -249,7 +249,7 @@ What You See Is All You Get
 : An idea from _The Pragmatic Programmer_, a disadvantage with WYSIWYG tools.
 
 What You See Is What You Get
-: A system where editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation. WYSIWYG implies a user interface that allows the user to view something very similar to the end result. In general, WYSIWYG means the ability to directly manipulate the layout of a document without having to type or remember names of layout commands. The actual meaning depends on the user’s perspective.&nbsp;[†](#w-wysiwyg)
+: A system where editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation. WYSIWYG implies a user interface that allows the user to view something similar to the end result. In general, WYSIWYG means the ability to directly manipulate the layout of a document without having to type or remember names of layout commands. The actual meaning depends on the user’s perspective.&nbsp;[†](#w-wysiwyg)
 
 WHATWG
 : → Web Hypertext Application Technology Working Group
