@@ -31,7 +31,7 @@ Offline
 : Not being connected to the Internet.
 
 Offline First
-: The idea of not assuming permanent, fast Internet connectivity, and developing sites and apps so to also work with no or poor connectivity. ℹ︎&nbsp;[offlinefirst.org](http://offlinefirst.org/)
+: The idea of not assuming permanent, fast Internet connectivity, and developing sites and apps so as to also work with no or poor connectivity. ℹ︎&nbsp;[offlinefirst.org](http://offlinefirst.org/)
 
 OGP
 : → Open Graph Protocol

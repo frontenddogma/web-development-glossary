@@ -570,7 +570,7 @@ Star
 : A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).
 
 Star hack
-: A once-popular CSS hack allowing to apply declarations only to Internet Explorer 7 and below. The hack consisted of adding an asterisk (`*`) right in front of the property of a declaration so to apply it in IE, while a declaration using the same—but “unprefixed”—property held for other browsers. The star hack is one of a class of similar hacks for Internet Explorer, as other characters, like an underscore (`_`), would have the same effect and would be used as well (underscore hack). ℹ︎&nbsp;[browserhacks.com/#ie](http://browserhacks.com/#ie)
+: A once-popular CSS hack allowing to apply declarations only to Internet Explorer 7 and below. The hack consisted of adding an asterisk (`*`) right in front of the property of a declaration so as to apply it in IE, while a declaration using the same—but “unprefixed”—property held for other browsers. The star hack is one of a class of similar hacks for Internet Explorer, as other characters, like an underscore (`_`), would have the same effect and would be used as well (underscore hack). ℹ︎&nbsp;[browserhacks.com/#ie](http://browserhacks.com/#ie)
 
 Start page
 : → Home page
