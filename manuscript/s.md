@@ -630,6 +630,9 @@ Style sheet
 Styled component
 : A case of CSS-in-JS in which CSS code is embedded (and scoped) within JavaScript components via tagged template literals. ℹ︎&nbsp;[styled-components.com](https://styled-components.com/)
 
+styled-components
+: → Styled component
+
 stylelint
 : A CSS linter with support for CSS-like syntaxes like SCSS, Sass, Less and SugarSS, and capable of automatically fixing issues. ℹ︎&nbsp;[stylelint.io](https://stylelint.io/)
 
