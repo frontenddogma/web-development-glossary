@@ -67,7 +67,7 @@ Reading disorder
 : → Dyslexia
 
 README
-: A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain-text file called READ.ME, README.TXT, README.md (for a text file using Markdown), README.1ST, or simply README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
+: A file that contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain-text file called READ.ME, README.TXT, README.md (for a text file using Markdown), README.1ST, or just README. The file’s name is generally written in uppercase letters.&nbsp;[†](#w-readme)
 
 Real User Monitoring
 : A passive monitoring technology that records all interaction of a user with a website, or of a client with a server or cloud-based application. Monitoring actual user interaction is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing. Real user monitoring data is used to determine the actual service-level quality delivered to end users and to detect errors or slowdowns on websites.&nbsp;[†](#w-rum)

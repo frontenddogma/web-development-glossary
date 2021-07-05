@@ -248,7 +248,7 @@ Braille (⠃⠗⠁⠊⠇⠇⠑)
 : A tactile writing system used by people who are visually impaired. Braille is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser. Braille was developed by Louis Braille in 1824, who published it in 1829.&nbsp;[†](#w-braille)
 
 Branch
-: A duplicate of an object under version control. Branches are also known as trees, streams, or codelines. The originating branch is sometimes called the parent branch, the upstream branch (or simply upstream, especially if the branches are maintained by different organizations or individuals), or the backing stream. Child branches are branches that have a parent; a branch without a parent is referred to as the trunk or the mainline.&nbsp;[†](#w-branching)
+: A duplicate of an object under version control. Branches are also known as trees, streams, or codelines. The originating branch is sometimes called the parent branch, the upstream branch (or “upstream,” especially if the branches are maintained by different organizations or individuals), or the backing stream. Child branches are branches that have a parent; a branch without a parent is referred to as the trunk or the mainline.&nbsp;[†](#w-branching)
 
 Branch predication
 : → Predication
