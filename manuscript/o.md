@@ -69,6 +69,9 @@ OOM
 OOP
 : → Object-Oriented Programming
 
+Open Graph
+: → Open Graph Protocol
+
 Open Graph Protocol
 : A microformat that enables developers to integrate their pages into Facebook’s Social Graph, a global mapping and tracking tool. The respective pages gain the functionality of other graph objects including profile links and stream updates for connected users. OGP was created in 2010 by Facebook.&nbsp;[†](#w-facebook-platform) ℹ︎&nbsp;[ogp.me](https://ogp.me/)
 
