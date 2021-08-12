@@ -196,6 +196,10 @@ Class
 Class variable
 : Any variable declared with the `static` modifier of which a single copy exists, regardless of how many instances of the class there are.&nbsp;[†](#w-class-variable)
 
+Classitis
+: In software development, a negative outcome of the disputed goal to work with many small classes.
+: In web development, the excessive use of `class` attributes and values.
+
 Classless Inter-Domain Routing
 : A method for allocating IP addresses and for IP routing. The Internet Engineering Task Force (IETF) introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. The goal of CIDR was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.&nbsp;[†](#w-cidr)
 
