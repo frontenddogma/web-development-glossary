@@ -85,6 +85,9 @@ Acq-hiring
 Acqui-hiring
 : The process of acquiring a company primarily to recruit its employees, rather than its products or services. “Acqui-hiring” is a portmanteau of “acquisition” and “hiring.” The term was first used in 2005.&nbsp;[†](#w-acqui-hiring)
 
+ACSS
+: → Atomic CSS
+
 ACT
 : → Accessibility Conformance Testing
 
@@ -144,6 +147,9 @@ Affordance
 
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
+
+AirMosaic
+: An early commercial web browser based on the NCSA Mosaic browser. AirMosaic was released in 1994.&nbsp;[†](#w-airmosaic)
 
 AJAX/Ajax
 : → Asynchronous JavaScript and XML

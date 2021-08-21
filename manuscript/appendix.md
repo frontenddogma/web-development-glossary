@@ -33,6 +33,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ads.txt](https://en.wikipedia.org/wiki/Ads.txt){#w-adstxt}
 * [Affordance](https://en.wikipedia.org/wiki/Affordance){#w-affordance}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
+* [AirMosaic](https://en.wikipedia.org/wiki/AirMosaic){#w-airmosaic}
 * [Ajax (programming)](https://en.wikipedia.org/wiki/Ajax_(programming)){#w-ajax}
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
