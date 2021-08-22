@@ -38,6 +38,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL){#w-algol}
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm){#w-algorithm}
 * [Aliasing](https://en.wikipedia.org/wiki/Aliasing){#w-aliasing}
+* [Amazon Route 53](https://en.wikipedia.org/wiki/Amazon_Route_53){#w-amazon-route-53}
 * [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3){#w-amazon-s3}
 * [Amazon Simple Queue Service](https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service){#w-amazon-sqs}
 * [Amazon Virtual Private Cloud](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud){#w-amazon-vpc}
@@ -1132,6 +1133,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
 * [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH){#m-accept-ch}
 * [ALPN](https://developer.mozilla.org/en-US/docs/Glossary/alpn){#m-alpn}
+* [Application Context](https://developer.mozilla.org/en-US/docs/Glossary/application_context){#m-application-context}
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){#m-arrow-function}
 * [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob){#m-blob}
 * [Block](https://developer.mozilla.org/en-US/docs/Glossary/Block){#m-block}

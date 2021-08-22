@@ -184,6 +184,9 @@ Alternate style sheet
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
+Amazon Route 53
+: A Domain Name System (DNS) service. Released in 2010, Route 53 is part of Amazon.com’s cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and “53” is a reference to the TCP/UDP port 53, where DNS server requests are addressed. In addition to being able to route users to various AWS services, including EC2 instances, Route 53 also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints.&nbsp;[†](#w-amazon-route-53) ℹ︎&nbsp;[aws.amazon.com/route53](https://aws.amazon.com/route53/)
+
 Amazon S3
 : A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. Amazon S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
 
@@ -306,6 +309,9 @@ Applet
 
 Application
 : A computer program designed to help people perform an activity. An application differs from an operating system (which runs a computer), a utility (which performs maintenance or general-purpose chores), and a programming tool (with which computer programs are created). Depending on the activity for which it was designed, an application can manipulate text, numbers, audio, graphics, and a combination of these elements. Some application packages focus on a single task, such as word processing; others, called integrated software, include several applications.&nbsp;[†](#w-application)
+
+Application context
+: A top-level browsing context that has a manifest applied to it.&nbsp;[‡](#m-application-context)
 
 Application Programming Interface
 : An interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API may be for a web-based system, operating system, database system, computer hardware, or software library.&nbsp;[†](#w-api)

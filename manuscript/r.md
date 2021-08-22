@@ -320,6 +320,9 @@ Round-Trip Delay Time
 Round-Trip Time
 : The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An Internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
+Route 53
+: → Amazon Route 53
+
 Router
 : For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered subsequently.&nbsp;[‡](#m-router)
 : For networks, a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the Internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an inter-network (e.g., the Internet) until it reaches its destination node.&nbsp;[†](#w-router)
