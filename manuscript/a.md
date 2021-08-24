@@ -140,7 +140,10 @@ ADT
 : → Abstract Data Type
 
 Advanced Package Tool
-: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-apt)
+: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-advanced-package-tool)
+
+Advanced Persistent Threat
+: A stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period. In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals. The median time an APT attack goes undetected differs widely between regions.&nbsp;[†](#w-advanced-persistent-threat)
 
 Affordance
 : Those action possibilities that are readily perceivable by an actor, that is, an affordance suggests how an object may be interacted with. For example, an underlined word on a web page has the affordance of being clickable.&nbsp;[†](#w-affordance)
@@ -321,9 +324,13 @@ Application-Layer Protocol Negotiation
 
 APT
 : → Advanced Package Tool
+: → Advanced Persistent Threat
 
 AR
 : → Augmented Reality
+
+Arena
+: One of the first web browsers for Unix. Originally developed by Dave Raggett in 1993, development continued at CERN and the World Wide Web Consortium (W3C) and subsequently by Yggdrasil Computing. Arena was used in testing the implementations for HTML&nbsp;3.0, Cascading Style Sheets (CSS), Portable Network Graphics (PNG), and libwww. Arena was widely used and popular at the beginning of the World Wide Web.&nbsp;[†](#w-arena)
 
 Argument
 : The actual input expression passed or supplied to a function, procedure, or routine in a call or invocation statement.&nbsp;[†](#w-parameter-argument)
@@ -357,6 +364,9 @@ ASP.NET
 
 Aspect ratio
 : A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)
+
+AssemblyScript
+: A TypeScript-based programming language (essentially JavaScript with static types) that is optimized for WebAssembly and compiled to WebAssembly using asc, the reference AssemblyScript compiler. AssemblyScript is developed by the AssemblyScript Project and the AssemblyScript community. It was first released in 2017.&nbsp;[†](#w-assemblyscript) ℹ︎&nbsp;[assemblyscript.org](https://www.assemblyscript.org/)
 
 Assignment
 : The setting or resetting of the value stored in the storage location(s) denoted by a variable name; in other words, an assignment statement copies a value into the variable. In most imperative programming languages, the assignment statement (or expression) is a fundamental construct. Today, the most commonly used notation for this basic operation has come to be `x = expr` (originally Superplan 1949–51, popularized by Fortran 1957 and C) followed by `x := expr` (originally ALGOL 1958, popularized by Pascal), although there are many other notations in use.&nbsp;[†](#w-assignment)
@@ -419,7 +429,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring tool
-: Software that allows to create digital content.
+: Software that enables to create digital content.
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG&nbsp;1.0 became a W3C Recommendation in 2000, and ATAG&nbsp;2.0 in 2015. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)

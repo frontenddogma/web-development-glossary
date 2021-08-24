@@ -694,7 +694,7 @@ SYN
 : A signal to initiate, establish, or synchronize a connection, as with a communications protocol like the Transmission Control Protocol (TCP).
 
 Synchronized Multimedia Integration Language
-: A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
+: A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL&nbsp;1.0 became a W3C standard in 1999, SMIL&nbsp;2.0 in 2001, and SMIL&nbsp;3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
 
 Synchronous
 : Real-time communication in which each party receives (and if necessary, processes and replies to) messages instantly (or as near to instantly as possible). A human example is the telephone—during a telephone call one tends to respond to another person immediately. Many programming commands are also synchronous—for example, when one types in a calculation, the environment will return the result instantly, unless programmed not to.&nbsp;[‡](#m-synchronous)

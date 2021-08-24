@@ -165,6 +165,9 @@ Block element
 Block Element Modifier
 : A naming convention for HTML and CSS classes. BEM was introduced in 2005 by Yandex. ℹ︎&nbsp;[getbem.com](http://getbem.com/)
 
+Block flow
+: A CSS concept referring to the direction in which blocks are running. In an English document, block flow goes from top to bottom.
+
 Block formatting context
 : A formatting context in which boxes are laid out vertically. Vertical margins are respected but collapse.
 

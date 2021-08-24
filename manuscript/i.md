@@ -164,6 +164,9 @@ Inline box
 Inline element
 : → Inline-level element
 
+Inline flow
+: A CSS concept referring to the direction of text flow in a sentence. In an English document, inline flow runs left to right.
+
 Inline formatting context
 : A formatting context in which boxes are laid out horizontally. Horizontal padding, borders, and margins are respected.
 

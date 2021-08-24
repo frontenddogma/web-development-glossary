@@ -31,6 +31,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player){#w-flash-player}
 * [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop){#w-photoshop}
 * [ads.txt](https://en.wikipedia.org/wiki/Ads.txt){#w-adstxt}
+* [Advanced persistent threat](https://en.wikipedia.org/wiki/Advanced_persistent_threat){#w-advanced-persistent-threat}
 * [Affordance](https://en.wikipedia.org/wiki/Affordance){#w-affordance}
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development){#w-agile}
 * [AirMosaic](https://en.wikipedia.org/wiki/AirMosaic){#w-airmosaic}
@@ -54,10 +55,12 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Applet](https://en.wikipedia.org/wiki/Applet){#w-applet}
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface){#w-api}
 * [Application software](https://en.wikipedia.org/wiki/Application_software){#w-application}
-* [APT (software)](https://en.wikipedia.org/wiki/APT_(software)){#w-apt}
+* [APT (software)](https://en.wikipedia.org/wiki/APT_(software)){#w-advanced-package-tool}
+* [Arena (web browser)](https://en.wikipedia.org/wiki/Arena_(web_browser)){#w-arena}
 * [Array data structure](https://en.wikipedia.org/wiki/Array_data_structure){#w-array}
 * [ASP.NET](https://en.wikipedia.org/wiki/ASP.NET){#w-aspnet}
 * [Aspect ratio (image)](https://en.wikipedia.org/wiki/Aspect_ratio_(image)){#w-aspect-ratio}
+* [AssemblyScript](https://en.wikipedia.org/wiki/AssemblyScript){#w-assemblyscript}
 * [Assignment (computer science)](https://en.wikipedia.org/wiki/Assignment_(computer_science)){#w-assignment}
 * [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology){#w-assistive-technology}
 * [Assistive Technology Service Provider Interface](https://en.wikipedia.org/wiki/Assistive_Technology_Service_Provider_Interface){#w-at-spi}
