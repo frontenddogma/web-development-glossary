@@ -119,6 +119,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Bugzilla](https://en.wikipedia.org/wiki/Bugzilla){#w-bugzilla}
 * [Bushnell’s Law](https://en.wikipedia.org/wiki/Bushnell%27s_Law){#w-bushnells-law}
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
+* [Bytecode](https://en.wikipedia.org/wiki/Bytecode){#w-bytecode}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}

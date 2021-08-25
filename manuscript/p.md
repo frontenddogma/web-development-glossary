@@ -269,6 +269,9 @@ Port
 Port number
 : → Port
 
+Portable code
+: → Bytecode
+
 Portable Document Format
 : A file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images, and other information needed to display it. PDF was standardized as ISO 32000 in 2008.&nbsp;[†](#w-pdf)
 

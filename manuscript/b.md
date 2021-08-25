@@ -13,6 +13,9 @@ Back/forward cache
 Backend
 : The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
 
+Backend for Frontend
+: The concept of having separate backends per application or interface, to act as intermediaries between the respective frontends and the underlying services. BFF was introduced in 2015 by Sam Newman.
+
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
@@ -78,6 +81,9 @@ Bézier curve
 
 Bfcache
 : → Back/forward cache
+
+BFF
+: → Backend for Frontend
 
 BHO
 : → Browser Helper Object
@@ -272,6 +278,9 @@ Breakpoint
 Brewer’s Theorem
 : → CAP Theorem
 
+Bring Your Own License
+: A licensing model that allows to use available software licenses flexibly, both on-premise and in the cloud. While BYOL can help to save licensing cost, it comes with the responsibility of managing the respective licenses.
+
 Broken link
 : A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.
 
@@ -341,7 +350,13 @@ Bushnell’s Law
 BVT
 : → Build Verification Test
 
+BYOL
+: → Bring Your Own License
+
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)
+
+Bytecode
+: A form of instruction set designed for efficient execution by a software interpreter. Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects. The name “bytecode” stems from instruction sets that have one-byte opcodes followed by optional parameters.&nbsp;[†](#w-bytecode)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
