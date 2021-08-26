@@ -23,8 +23,17 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
+Callback queue
+: A queue of messages (functions) that are processed in a “first in, first out” order (FIFO) by the JavaScript event loop.
+
 Camel case
 : The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay.” Camel case is also sometimes used in online usernames such as “johnSmith.” In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
+
+Camino
+: A discontinued GUI-based web browser based on Mozilla’s Gecko layout engine, specifically designed for the OS X operating system. In place of an XUL-based user interface used by most Mozilla-based applications, Camino used Mac-native Cocoa APIs. In 2013, the Camino Project stopped the development of the browser.&nbsp;[†](#w-camino)
+
+Canary
+: Software that is only released to a small group of users, making it easy to roll it back in case of serious defects. The name comes from canaries that were once used in coal mines to warn of dangerous levels of carbon monoxide.
 
 Candidate Recommendation
 : The specification-testing phase of a World Wide Web Consortium (W3C) specification (also known as a recommendation).
