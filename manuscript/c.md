@@ -14,6 +14,9 @@ Cache busting
 Cache poisoning
 : → DNS spoofing
 
+California Consumer Privacy Act
+: A state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed in 2018, amending the California Civil Code. The intentions of the CCPA are to provide California residents with the right to know what personal data is being collected about them; to know whether their personal data is sold or disclosed and to whom; to say no to the sale of personal data; to access their personal data; to request a business to delete personal information about a consumer collected from that consumer; and not to be discriminated against for exercising their privacy rights.&nbsp;[†](#w-ccpa)
+
 Call stack
 : A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc.&nbsp;[‡](#m-call-stack)
 
@@ -93,6 +96,9 @@ CBSE
 
 CC/PP
 : → Composite Capability/Preference Profiles
+
+CCPA
+: → California Consumer Privacy Act
 
 CCT
 : → Chrome Custom Tabs
@@ -239,6 +245,9 @@ Client side
 Cloaking
 : A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to a user’s browser. This can be done by delivering content based on the IP addresses or the `User-Agent` HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
 
+Clojure
+: A dynamic and functional dialect of the Lisp programming language on the Java platform. Like other Lisp dialects, Clojure treats code as data and has a Lisp macro system. The development process is community-driven, overseen by Rich Hickey as a “benevolent dictator for life” (BDFL). Clojure advocates immutability and immutable data structures and encourages programmers to be explicit about managing identity and its states.&nbsp;[†](#w-clojure) ℹ︎&nbsp;[clojure.org](https://clojure.org/)
+
 Clone detection
 : The automated process of finding duplication in source code.&nbsp;[†](#w-duplicate-code)
 
@@ -260,6 +269,9 @@ CLS
 
 Cluster
 : A set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.&nbsp;[†](#w-cluster)
+
+CMP
+: → Consent Management Platform
 
 CMS
 : → Content Management System
@@ -322,6 +334,9 @@ Coding by Convention
 
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
+
+COEP
+: → `Cross-Origin-Embedder-Policy`
 
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
@@ -452,6 +467,9 @@ Confidentiality Agreement
 Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
 
+Consent Management Platform
+: A platform that requests, stores, and manages user consent. A CMP helps ensure the privacy of user data in compliance with regulation like the European Union’s GDPR or California’s CCPA/CPRA.
+
 Consistency
 : In logic, a theory that does not entail a contradiction.&nbsp;[†](#w-consistency)
 
@@ -547,8 +565,14 @@ Cookie hijacking
 CoP
 : → Community of Practice
 
+CORB
+: → Cross-Origin Read Blocking
+
 Core Web Vitals
 : → Web Vitals
+
+CORP
+: → Cross-Origin Resource Policy
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
@@ -628,8 +652,17 @@ Cron job
 Crontab
 : A configuration file that specifies shell commands to run periodically on a given schedule. The crontab files are stored where the lists of jobs and other instructions to the cron daemon are kept. Users can have their own individual crontab files and often there is a system-wide crontab file (usually in /etc or a subdirectory of /etc) that only system administrators can edit.&nbsp;[†](#w-cron)
 
+Cross-Origin Read Blocking
+: A security feature that helps mitigate side-channel attacks. CORB prevents the browser from delivering certain cross-origin responses to a web page, for example, when these responses would contain sensitive information.
+
 Cross-Origin Resource Sharing
 : A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, style sheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
+
+Cross-Origin Resource Policy
+: A policy set by the `Cross-Origin-Resource-Policy` HTTP header that lets websites and applications opt into protection against certain requests from other origins (such as those issued with elements like `<script>` and `<img>`), to mitigate speculative side-channel as well as cross-site script inclusion attacks. CORP is an additional layer of protection beyond the default same-origin policy.&nbsp;[‡](#m-corp)
+
+`Cross-Origin-Embedder-Policy`
+: An HTTP response header preventing a document from loading cross-origin resources that don’t explicitly grant the document permission (using CORP or CORS).&nbsp;[‡](#m-coep)
 
 Cross-Site Request Forgery
 : A type of malicious exploit of a website where unauthorized commands are transmitted from a user that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image elements, hidden forms, and JavaScript XMLHttpRequests, for example, can all work without the user’s interaction or even knowledge. Unlike cross-site scripting (XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user’s browser.&nbsp;[†](#w-csrf)

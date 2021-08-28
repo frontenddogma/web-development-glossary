@@ -301,6 +301,9 @@ Single-Page Application
 Site
 : → Website
 
+Site isolation
+: A concept from the Chromium project that ensures that pages from different websites are put into different processes, sandboxed and therefore limiting what processes are allowed to do. Site isolation also enables to block processes from receiving sensitive data from other websites.
+
 Site map
 : A list of pages of a website. There are three primary kinds of site map: 1) site maps used during the planning of a website by its designers; 2) human-visible listings, typically hierarchical, of the pages on a site; and 3) structured listings (Sitemaps) intended for web crawlers such as search engines.&nbsp;[†](#w-site-map)
 

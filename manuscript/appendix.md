@@ -121,6 +121,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Byte order mark](https://en.wikipedia.org/wiki/Byte_order_mark){#w-bom}
 * [Bytecode](https://en.wikipedia.org/wiki/Bytecode){#w-bytecode}
 * [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)){#w-cache}
+* [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act){#w-ccpa}
 * [Call to action (marketing)](https://en.wikipedia.org/wiki/Call_to_action_(marketing)){#w-cta}
 * [Callback (computer programming)](https://en.wikipedia.org/wiki/Callback_(computer_programming)){#w-callback}
 * [Camel case](https://en.wikipedia.org/wiki/Camel_case){#w-camel-case}
@@ -145,6 +146,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Client (computing)](https://en.wikipedia.org/wiki/Client_(computing)){#w-client}
 * [Client-side](https://en.wikipedia.org/wiki/Client-side){#w-client-side}
 * [Cloaking](https://en.wikipedia.org/wiki/Cloaking){#w-cloaking}
+* [Clojure](https://en.wikipedia.org/wiki/Clojure){#w-clojure}
 * [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming)){#w-closure}
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing){#w-cloud-computing}
 * [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage){#w-cloud-storage}
@@ -1150,6 +1152,8 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}
+* [Cross-Origin Resource Policy (CORP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cross-Origin_Resource_Policy_(CORP)){#m-corp}
+* [Cross-Origin-Embedder-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy){#m-coep}
 * [CSS Logical Properties and Values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties){#m-logical-properties}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
