@@ -42,6 +42,9 @@ Maintenance
 Makefile
 : A file (named “Makefile” by default) containing a set of directives used by a make build automation tool to generate a target. A makefile works upon the principle that files only need recreating if their dependencies are newer than the file being created. The makefile is recursively carried out until everything has been updated and the ultimate target is complete.&nbsp;[†](#w-makefile)
 
+MAM
+: → Media Asset Management
+
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
@@ -125,6 +128,9 @@ Media
 
 Media access control address
 : → MAC address
+
+Media Asset Management
+: A special type of Digital Asset Management (DAM) that helps to organize media like images, audio, and video.
 
 Media query
 : A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)

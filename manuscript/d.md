@@ -12,6 +12,9 @@ Daily Active Users
 Daily Scrum
 : A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day. A Daily Scrum is not necessarily a “stand-up.”
 
+DAM
+: → Digital Asset Management
+
 Dark Mode
 : A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
 
@@ -222,6 +225,9 @@ DHTML
 
 Dialog box
 : A graphical control element in the form of a small window that communicates information to the user and prompts them for a response. Dialog boxes are classified as “modal” or “modeless,” depending on whether they block interaction with the software that initiated the dialog. The type of dialog box displayed is dependent upon the desired user interaction.&nbsp;[†](#w-dialog-box)
+
+Digital Asset Management
+: Software that enables the respective owner and their delegates to perform operations on digital assets, providing a system that can store, organize, and share the managed data.
 
 Digital Rights Management
 : A set of access control technologies for restricting the use of proprietary hardware and copyrighted works. DRM technologies try to control the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems within devices that enforce these policies. The use of digital rights management is not universally accepted.&nbsp;[†](#w-drm)
