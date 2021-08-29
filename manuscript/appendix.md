@@ -173,6 +173,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Command-query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation){#w-cqs}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
+* [Common Vulnerability Scoring System](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System){#w-cvss}
 * [CommonJS](https://en.wikipedia.org/wiki/CommonJS){#w-commonjs}
 * [Communication protocol](https://en.wikipedia.org/wiki/Communication_protocol){#w-protocol}
 * [Community of practice](https://en.wikipedia.org/wiki/Community_of_practice){#w-cop}
@@ -186,6 +187,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Computer compatibility](https://en.wikipedia.org/wiki/Computer_compatibility){#w-compatibility}
 * [Computer file](https://en.wikipedia.org/wiki/Computer_file){#w-file}
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network){#w-network}
+* [Computer programming](https://en.wikipedia.org/wiki/Computer_programming){#w-programming}
 * [Concurrency (computer science)](https://en.wikipedia.org/wiki/Concurrency_(computer_science)){#w-concurrency}
 * [Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System){#w-cvs}
 * [Conditional (computer programming)](https://en.wikipedia.org/wiki/Conditional_(computer_programming)){#w-conditional}
@@ -228,6 +230,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS){#w-css-in-js}
 * [Currying](https://en.wikipedia.org/wiki/Currying){#w-currying}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
+* [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity){#w-cyclomatic-complexity}
 * [D3.js](https://en.wikipedia.org/wiki/D3.js){#w-d3js}
 * [Daemon (computing)](https://en.wikipedia.org/wiki/Daemon_(computing)){#w-daemon}
 * [Dark pattern](https://en.wikipedia.org/wiki/Dark_pattern){#w-dark-pattern}
@@ -581,6 +584,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
+
+@@
+
 * [MAC address](https://en.wikipedia.org/wiki/MAC_address){#w-mac-address}
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
@@ -1156,6 +1162,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Cross-Origin-Embedder-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy){#m-coep}
 * [CSS Logical Properties and Values](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties){#m-logical-properties}
 * [CSS Object Model (CSSOM)](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM){#m-cssom}
+* [CSS preprocessor](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor){#m-css-preprocessor}
 * [CSS Scroll Snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap){#m-scroll-snap}
 * [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors){#m-selector}
 * [Custom properties: CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*){#m-custom-property}

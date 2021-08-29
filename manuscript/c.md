@@ -389,6 +389,9 @@ Comment
 Common Gateway Interface
 : An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts, or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
 
+Common Vulnerability Scoring System
+: An industry standard for assessing the severity of computer system security vulnerabilities. CVSS assigns severity scores to vulnerabilities, allowing responders to prioritize responses and resources according to threat. Scores are calculated based on a formula that depends on several metrics that approximate the ease and impact of an exploit. Scores range from 0 to 10, with 10 being the most severe. CVSS version 1 (CVSSv1) was released in 2005.&nbsp;[†](#w-cvss) ℹ︎&nbsp;[first.org/cvss](https://www.first.org/cvss/)
+
 CommonJS
 : A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. Work on CommonJS started in 2009, and ended in 2014.&nbsp;[†](#w-commonjs)
 
@@ -439,6 +442,9 @@ Composite Capability/Preference Profiles
 
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
+
+Computer programming
+: → Programming
 
 Concurrency
 : The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems.&nbsp;[†](#w-concurrency)
@@ -497,6 +503,9 @@ Content
 
 Content box
 : → Box
+
+Content category
+: A category that HTML puts elements in. The main categories are metadata content, flow content, sectioning content, heading content, phrasing content, embedded content, and interactive content.
 
 Content Delivery Network
 : A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end users. CDNs came into existence in the late 1990s as a means for alleviating performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
@@ -703,6 +712,9 @@ CSS Modules
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child, and other relationships. The CSSOM is similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
 
+CSS preprocessor
+: A program that allows to generate CSS from the preprocessor’s own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors add features that don’t exist in pure CSS, such as mixins, selector nesting, or inheritance selectors. These features make the CSS structure more readable and easier to maintain.&nbsp;[‡](#m-css-preprocessor)
+
 CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
 
@@ -761,10 +773,16 @@ Cutting the mustard
 CVS
 : → Concurrent Versions System
 
+CVSS
+: → Common Vulnerability Scoring System
+
 Cyan, Magenta, Yellow, and Key
 : As the CMYK color model, a subtractive color model used in color printing, and also used to describe the printing process itself. CMYK refers to the four ink plates used in some color printing: cyan, magenta, yellow, and key (black). The CMYK model works by partially or entirely masking colors on a lighter, usually white, background. The ink reduces the light that would otherwise be reflected. Such a model is called subtractive because inks “subtract” the colors red, green, and blue from white light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow.&nbsp;[†](#w-cmyk)
 
 Cycle time
 : The amount of time between the start of work on a task to the time it is delivered.
+
+Cyclomatic complexity
+: A software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program’s source code, and is computed using the control-flow graph of the program. The nodes of the graph correspond to indivisible groups of commands of a program, and a directed edge connects two nodes if the second command might be executed immediately after the first command. Cyclomatic complexity may also be applied to individual functions, modules, methods, or classes. It was developed in 1976 by Thomas J. McCabe, Sr.&nbsp;[†](#w-cyclomatic-complexity)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
