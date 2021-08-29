@@ -109,6 +109,9 @@ Template system
 Temporal Dead Zone
 : In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, with this resulting in a reference error. The TDZ encourages to always declare a variable before using it.
 
+Temporary storage
+: Storage that is used for frequently changing data, like caches or buffers.
+
 Ten-Second Rule
 : A rough limit for user attention. After ten seconds, the probability is deemed to increase that users start to engage in other activities, or abandon a process or site.
 

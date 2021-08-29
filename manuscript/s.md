@@ -256,6 +256,12 @@ Shadow root
 Shadow tree
 : A tree of DOM nodes whose topmost node is a shadow root; that is, the topmost node within a shadow DOM. A shadow tree is a hidden set of standard DOM nodes which is attached to a standard DOM node that serves as a host. The hidden nodes are not directly visible using regular DOM functionality, but require the use of a special Shadow DOM API to access. Nodes within the shadow tree are not affected by anything applied outside the shadow tree, and vice versa. This provides a way to encapsulate implementation details, which is especially useful for custom elements and other advanced design paradigms.&nbsp;[‡](#m-shadow-tree)
 
+Shared hosting
+: Infrastructure that is shared between different parties, like a web server that hosts several people’s websites, or a storage instance that is used by several customers.
+
+Shared tenancy
+: → Shared hosting
+
 Shebang
 : The character sequence consisting of the characters number sign and exclamation mark (`#!`) at the beginning of a script. In Unix-like operating systems, when a text file has a shebang, it is interpreted as an executable file. In this case, the program loader mechanism parses the rest of the file’s initial line as an interpreter directive. The loader executes the specified interpreter program, passing to it as an argument the path that was initially used when attempting to run the script, so that the program may use the file as input data.&nbsp;[†](#w-shebang)
 

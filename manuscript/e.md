@@ -139,6 +139,9 @@ EOF
 EOL
 : → End of line
 
+Ephemeral storage
+: → Temporary storage
+
 Epic
 : In agile development, a large problem or feature space that is broken into several user stories, or issues, and necessarily distributed over several Sprints.
 
