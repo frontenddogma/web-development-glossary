@@ -223,6 +223,9 @@ Device pixel
 DevOps
 : A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.&nbsp;[†](#w-devops)
 
+DHCP
+: → Dynamic Host Configuration Protocol
+
 DHTML
 : → Dynamic HTML
 
@@ -249,6 +252,9 @@ Display resolution
 
 Distributed Concurrent Versions System
 : A distributed version control system that enables software developers working on locally distributed sites to efficiently collaborate on a software project. DCVS is based on Concurrent Versions System.&nbsp;[†](#w-dcvs)
+
+Distributed Persistent Rendering
+: A generating or rendering of assets that is distributed between build and request time. DPR allows an asset cache to persist while other assets, which were not previously rendered, are being requested. The concept of DPR was coined in 2021 by Netlify.
 
 Distributed Version Control System
 : A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups.&nbsp;[†](#w-dvcs)
@@ -320,6 +326,9 @@ Dojo
 DOM
 : → Document Object Model
 
+DOM clobbering
+: The injection of HTML into a web page with the goal of manipulating the DOM and escalating the injection to a cross-site scripting (XSS) attack. For example, one form of DOM clobbering uses an `a` element to overwrite a global variable for malicious purposes.
+
 Domain
 : An administrative grouping of multiple private computer networks or hosts within the same infrastructure. Domains can be identified using a domain name; domains which need to be accessible from the public Internet can be assigned a globally unique name within the Domain Name System (DNS).&nbsp;[†](#w-domain)
 
@@ -377,6 +386,9 @@ Downward compatibility
 DPI
 : → Dots per inch
 
+DPR
+: → Distributed Persistent Rendering
+
 DQL
 : → Data Query Language
 
@@ -424,6 +436,9 @@ DX
 
 Dynamic
 : A type of website being dynamic on the server or on the client side. A server-side dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In such scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A client-side dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
+
+Dynamic Host Configuration Protocol
+: A network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network. DHCP eliminates the need for individually, manually configuring network devices. It consists of a centrally installed network DHCP server and client instances of the protocol stack on each computer or device. When connected to the network, and periodically thereafter, a client requests a set of parameters from the DHCP server using the DHCP protocol.&nbsp;[†](#w-dhcp)
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)

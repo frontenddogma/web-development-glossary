@@ -299,6 +299,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Downtime](https://en.wikipedia.org/wiki/Downtime){#w-downtime}
 * [Duck typing](https://en.wikipedia.org/wiki/Duck_typing){#w-duck-typing}
 * [Duplicate code](https://en.wikipedia.org/wiki/Duplicate_code){#w-duplicate-code}
+* [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol){#w-dhcp}
 * [Dynamic HTML](https://en.wikipedia.org/wiki/Dynamic_HTML){#w-dynamic-html}
 * [Dynamic Language Runtime](https://en.wikipedia.org/wiki/Dynamic_Language_Runtime){#w-dlr}
 * [Dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page){#w-dynamic}
@@ -338,12 +339,14 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern){#w-facade-pattern}
 * [Facebook Instant Articles](https://en.wikipedia.org/wiki/Facebook_Instant_Articles){#w-instant-articles}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
+* [Fagan inspection](https://en.wikipedia.org/wiki/Fagan_inspection){#w-fagan-inspection}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
 * [Feature detection (web development)](https://en.wikipedia.org/wiki/Feature_detection_(web_development)){#w-feature-detection}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
+* [Federation (information technology)](https://en.wikipedia.org/wiki/Federation_(information_technology)){#w-federation}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
 * [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
 * [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}

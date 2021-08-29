@@ -6,6 +6,12 @@ FaaS
 Facade pattern
 : A software design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
 
+Fagan inspection
+: A process of trying to find defects in documents (such as source code or formal specifications) during various phases of the software development process. It defines a process as an activity with pre-specified entry and exit criteria. Fagan inspection is named after Michael Fagan, who is credited as being the inventor of formal software inspections.&nbsp;[†](#w-fagan-inspection)
+
+Fagan testing
+: → Fagan inspection
+
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
@@ -44,6 +50,9 @@ Feature phone
 
 Feature testing
 : → Feature detection
+
+Federation
+: A group of computing or network providers agreeing upon standards of operation in a collective fashion. The term may be used when describing the interoperation of distinct, formally disconnected, telecommunications networks that may have different internal structures; “federation” may also be referred to when groups attempt to delegate collective authority of development, in order to prevent fragmentation.&nbsp;[†](#w-federation)
 
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed, clicking a link in a web browser, or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are usually HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
