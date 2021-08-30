@@ -45,6 +45,9 @@ Data Manipulation Language
 Data Query Language
 : → Query language
 
+Data storage
+: → Storage
+
 Data Stream Management System
 : A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
 
@@ -66,6 +69,9 @@ Data warehouse
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 
+Database engine
+: The underlying software component that a database management system (DBMS) uses to create, read, update, and delete (CRUD) data from a database. Most database management systems include their own application programming interface (API) that allows the user to interact with their underlying engine without going through the user interface of the DBMS. The term “database engine” is frequently used interchangeably with “database server” or “database management system.”&nbsp;[†](#w-database-engine)
+
 Database index
 : A data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. Indexes can be created using one or more columns of a database table, providing the basis for both rapid random lookups and efficient access of ordered records.&nbsp;[†](#w-database-index)
 
@@ -74,6 +80,9 @@ Database language
 
 Database Management System
 : A software system that enables users to define, create, maintain, and control access to a database. The “DBMS” acronym is sometimes extended to indicate the underlying database model, with RDBMS for the relational, OODBMS or ORDBMS for the object-oriented, and ORDBMS for the object-relational model. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+
+Database server
+: A server which uses a database application to provide database services to other computer programs or computers. Database management systems frequently provide database server functionality, and some database management systems (such as MySQL) rely exclusively on this client–server model for database access (while others, like SQLite, are meant for use as an embedded database).&nbsp;[†](#w-database-server)
 
 DAU
 : → Daily Active Users

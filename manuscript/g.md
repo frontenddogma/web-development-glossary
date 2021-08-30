@@ -6,6 +6,9 @@ Gamma
 Garbage collection
 : A form of automatic memory management. The garbage collector, or just collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program. Garbage collection is essentially the opposite of manual memory management, which requires the programmer to specify which objects to deallocate and return to the memory system. However, many systems use a combination of approaches, including other techniques such as stack allocation and region inference.&nbsp;[†](#w-garbage-collection)
 
+Garbage In, Garbage Out
+: The concept that flawed, or nonsense (garbage) input data produces nonsense output. The principle also applies more generally to analysis and logic, in that arguments are unsound if their premises are flawed.&nbsp;[†](#w-gigo)
+
 GDPR
 : → General Data Protection Regulation
 
@@ -39,6 +42,9 @@ Geolocation API
 GIF
 : → Graphics Interchange Format
 
+GIGO
+: → Garbage In, Garbage Out
+
 GIMP
 : A raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. GIMP was first released in 1996. ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
 
@@ -47,6 +53,9 @@ Git
 
 GitHub
 : A company that provides hosting for software development version control using Git. GitHub was founded in 2008 and is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as its own features.&nbsp;[†](#w-github) ℹ︎&nbsp;[github.com](https://github.com/)
+
+GitHub Copilot
+: An artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code through code auto-completion. GitHub Copilot was released in 2021.&nbsp;[†](#w-github-copilot) ℹ︎&nbsp;[copilot.github.com](https://copilot.github.com/)
 
 GitLab
 : A company providing a web-based DevOps lifecycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Dmitriy Zaporozhets and Valery Sizov.&nbsp;[†](#w-gitlab) ℹ︎&nbsp;[gitlab.com](https://gitlab.com/)
@@ -103,6 +112,9 @@ Google Chrome
 Google Lighthouse
 : → Lighthouse
 
+Google QUIC
+: → QUIC
+
 Google TalkBack
 : → TalkBack
 
@@ -117,6 +129,9 @@ GPL
 
 GPU
 : → Graphics Processing Unit
+
+gQUIC
+: → Google QUIC
 
 Graceful Degradation
 : A design philosophy that centers around trying to build a modern website or app that will work in the newest browsers, but falls back to an experience that while not as good still delivers essential content and functionality in older browsers. Polyfills can be used to build in missing features with JavaScript, but acceptable alternatives to features like styling and layout should be provided where possible, for example by using the CSS cascade, or HTML fallback behavior.&nbsp;[‡](#m-graceful-degradation)
@@ -141,6 +156,9 @@ GraphQL
 
 GRASP
 : → General Responsibility Assignment Software Patterns
+
+Greasemonkey
+: A userscript manager made available as a Firefox extension. Greasemonkey enables users to install scripts that make on-the-fly changes to web page content before or after the page is loaded in the browser (also known as augmented browsing). The changes made to the web pages are executed every time the page is viewed, making them effectively permanent for the user running the script.&nbsp;[†](#w-greasemonkey) ℹ︎&nbsp;[greasespot.net](https://www.greasespot.net/)
 
 Greeking
 : → Placeholder text

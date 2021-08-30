@@ -275,6 +275,9 @@ Rich Web Application
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
 
+RIRO
+: → Rubbish In, Rubbish Out
+
 RMI
 : → Remote method invocation
 
@@ -370,6 +373,9 @@ RTT
 
 Rubber ducking
 : A method of debugging code. The name is a reference to a story in the book _The Pragmatic Programmer_ in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving inanimate objects.&nbsp;[†](#w-rubber-ducking)
+
+Rubbish In, Rubbish Out
+: → Garbage In, Garbage Out
 
 Ruby
 : As a programming language, an interpreted, high-level, general-purpose language. Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Ruby was designed and developed in the 1990s by Yukihiro Matsumoto. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.&nbsp;[†](#w-ruby) ℹ︎&nbsp;[ruby-lang.org](https://www.ruby-lang.org/)

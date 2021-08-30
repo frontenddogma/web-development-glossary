@@ -61,6 +61,9 @@ Helper class
 : In software development (object-oriented programming), a class that is used to assist in providing some functionality, which is not the main goal of the application or class in which it is used. An instance of a helper class is called a helper object.&nbsp;[†](#w-helper-class)
 : In web development (CSS), a class that has no functional bearing and carries no particular meaning (like `.aux` or `.alt`) but serves as an intentional hook for complementary or alternative styling.
 
+Heterogenous migration
+: A migration where source and target systems are different, as with different database engines.
+
 Hex
 : → Hexadecimal
 
@@ -126,6 +129,9 @@ Homepage
 
 HomeSite
 : A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
+
+Homogenous migration
+: A migration where source and target systems are of the same type.
 
 Hooking
 : A range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events, or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)

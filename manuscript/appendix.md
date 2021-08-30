@@ -242,14 +242,17 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Data definition language](https://en.wikipedia.org/wiki/Data_definition_language){#w-ddl}
 * [Data lake](https://en.wikipedia.org/wiki/Data_lake){#w-data-lake}
 * [Data manipulation language](https://en.wikipedia.org/wiki/Data_manipulation_language){#w-dml}
+* [Data storage](https://en.wikipedia.org/wiki/Data_storage){#w-data-storage}
 * [Data stream management system](https://en.wikipedia.org/wiki/Data_stream_management_system){#w-dsms}
 * [Data type](https://en.wikipedia.org/wiki/Data_type){#w-data-type}
 * [Data validation](https://en.wikipedia.org/wiki/Data_validation){#w-validation}
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization){#w-data-visualization}
 * [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse){#w-dwh}
 * [Database](https://en.wikipedia.org/wiki/Database){#w-database}
+* [Database engine](https://en.wikipedia.org/wiki/Database_engine){#w-database-engine}
 * [Database index](https://en.wikipedia.org/wiki/Database_index){#w-database-index}
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization){#w-normalization}
+* [Database server](https://en.wikipedia.org/wiki/Database_server){#w-database-server}
 * [Dead code elimination](https://en.wikipedia.org/wiki/Dead_code_elimination){#w-dce}
 * [Debugging](https://en.wikipedia.org/wiki/Debugging){#w-debugging}
 * [Deep web](https://en.wikipedia.org/wiki/Deep_web){#w-deep-web}
@@ -386,6 +389,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing){#w-fuzzing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
+* [Garbage in, garbage out](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out){#w-gigo}
 * [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation){#w-gdpr}
 * [Generic top-level domain](https://en.wikipedia.org/wiki/Generic_top-level_domain){#w-gtld}
@@ -393,6 +397,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [GIF](https://en.wikipedia.org/wiki/GIF){#w-gif}
 * [Git](https://en.wikipedia.org/wiki/Git){#w-git}
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}
+* [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot){#w-github-copilot}
 * [GitLab](https://en.wikipedia.org/wiki/GitLab){#w-gitlab}
 * [GNU](https://en.wikipedia.org/wiki/GNU){#w-gnu}
 * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License){#w-gpl}
@@ -410,6 +415,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit){#w-gpu}
 * [GraphQL](https://en.wikipedia.org/wiki/GraphQL){#w-graphql}
 * [GRASP (object-oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)){#w-grasp}
+* [Greasemonkey](https://en.wikipedia.org/wiki/Greasemonkey){#w-greasemonkey}
 * [Greenfield project](https://en.wikipedia.org/wiki/Greenfield_project){#w-greenfield}
 * [Grid (graphic design)](https://en.wikipedia.org/wiki/Grid_(graphic_design)){#w-grid}
 * [Grid computing](https://en.wikipedia.org/wiki/Grid_computing){#w-grid-computing}
