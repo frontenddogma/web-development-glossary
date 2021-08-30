@@ -346,8 +346,10 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
 * [Feature detection (web development)](https://en.wikipedia.org/wiki/Feature_detection_(web_development)){#w-feature-detection}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
+* [Federated Learning of Cohorts](https://en.wikipedia.org/wiki/Federated_Learning_of_Cohorts){#w-floc}
 * [Federation (information technology)](https://en.wikipedia.org/wiki/Federation_(information_technology)){#w-federation}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
+* [Figma (software)](https://en.wikipedia.org/wiki/Figma_(software)){#w-figma}
 * [File locking](https://en.wikipedia.org/wiki/File_locking){#w-file-locking}
 * [File manager](https://en.wikipedia.org/wiki/File_manager){#w-file-manager}
 * [File system](https://en.wikipedia.org/wiki/File_system){#w-fs}
@@ -381,11 +383,13 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Function as a service](https://en.wikipedia.org/wiki/Function_as_a_service){#w-faas}
 * [Functional programming](https://en.wikipedia.org/wiki/Functional_programming){#w-functional-programming}
 * [Functional testing](https://en.wikipedia.org/wiki/Functional_testing){#w-functional-testing}
+* [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing){#w-fuzzing}
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
 * [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation){#w-gdpr}
 * [Generic top-level domain](https://en.wikipedia.org/wiki/Generic_top-level_domain){#w-gtld}
+* [Geo-fence](https://en.wikipedia.org/wiki/Geo-fence){#w-geofence}
 * [GIF](https://en.wikipedia.org/wiki/GIF){#w-gif}
 * [Git](https://en.wikipedia.org/wiki/Git){#w-git}
 * [GitHub](https://en.wikipedia.org/wiki/GitHub){#w-github}

@@ -51,6 +51,9 @@ Feature phone
 Feature testing
 : → Feature detection
 
+Federated Learning of Cohorts
+: A type of web tracking through federated learning. FLoC groups people into “cohorts” based on their browsing history for the purpose of interest-based advertising. Google began testing the technology in the Chrome browser in March 2021 as a replacement for third-party cookies, which it plans to stop supporting in Chrome by early 2023. As of April 2021, every major browser aside from Google Chrome that is based on Google’s Chromium platform has declined to implement FLoC.&nbsp;[†](#w-floc) ℹ︎&nbsp;[github.com/WICG/floc](https://github.com/WICG/floc)
+
 Federation
 : A group of computing or network providers agreeing upon standards of operation in a collective fashion. The term may be used when describing the interoperation of distinct, formally disconnected, telecommunications networks that may have different internal structures; “federation” may also be referred to when groups attempt to delegate collective authority of development, in order to prevent fragmentation.&nbsp;[†](#w-federation)
 
@@ -68,6 +71,9 @@ FID
 
 FIFO
 : → First In, First Out
+
+Figma
+: A primarily web-based vector graphics editor and prototyping tool, with additional features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes in real-time on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration. Figma was released in 2016.&nbsp;[†](#w-figma) ℹ︎&nbsp;[figma.com](https://www.figma.com/)
 
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
@@ -165,6 +171,9 @@ Flexbox
 Float
 : A single precision, 32-bit floating-point data type.
 : A mechanism for visual formatting in CSS building on the `float` property, allowing content to flow along an element’s sides.
+
+FLoC
+: → Federated Learning of Cohorts
 
 Flock
 : A discontinued web browser that specialized in providing social networking and Web&nbsp;2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
@@ -376,5 +385,11 @@ Functional testing
 
 FutureSplash
 : → Flash
+
+Fuzz testing
+: → Fuzzing
+
+Fuzzing
+: An automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failed code assertions, or memory leaks.&nbsp;[†](#w-fuzzing)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

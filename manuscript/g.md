@@ -30,6 +30,9 @@ Generator function
 Generic top-level domain
 : One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
 
+Geofence
+: A virtual perimeter for a real-world geographic area. A geofence could be dynamically generated (as in a radius around a point location) or match a predefined set of boundaries (such as neighborhood boundaries). The use of a geofence is called geofencing, and one example of use involves a location-aware device entering or exiting a geofence. This activity could trigger an alert to the device’s user as well as messaging to the geofence operator.&nbsp;[†](#w-geofence)
+
 Geolocation API
 : An effort by the World Wide Web Consortium (W3C) to standardize an interface to retrieve the location information for a client-side device. The Geolocation API defines an ECMAScript-compliant set of objects that give the client’s device location through the consulting of location information servers. The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, Wi-Fi connection location, radio-frequency identification (RFID), and device Global Positioning System (GPS) or GSM/CDMA cell IDs.&nbsp;[†](#w-geolocation-api) ℹ︎&nbsp;[w3.org/TR/geolocation-API](https://www.w3.org/TR/geolocation-API/)
 
