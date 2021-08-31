@@ -45,6 +45,9 @@ HCI
 HDD
 : → Hypothesis-Driven Development
 
+Head-of-line blocking
+: A performance-limiting phenomenon that occurs when a line of packets is held up by the first packet. Examples include input buffered network switches, out-of-order delivery, and multiple requests in HTTP pipelining.&nbsp;[†](#w-hol-blocking)
+
 Heading content
 : Content that defines the header of a section (whether explicitly marked up using sectioning content elements, or implied by the heading content itself), marked up through the `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, and `hgroup` elements.&nbsp;§
 
@@ -112,6 +115,9 @@ HOC
 Hoisting
 : A general way of thinking about how execution contexts (specifically the creation and execution phases) work in JavaScript. While conceptually, a strict definition of hoisting suggests that variable and function declarations are physically moved to the top of your code, the variable and function declarations are instead put into memory during the compile phase. Only declarations are hoisted, not initializations.&nbsp;[‡](#m-hoisting)
 
+HOL blocking
+: → Head-of-line blocking
+
 Holey
 : A property of an array that misses elements, and cannot be optimized as effectively anymore.
 
@@ -154,6 +160,9 @@ Hot linking
 HOTP
 : → HMAC-Based One-Time Password
 
+Hotwire
+: → HTML over the wire
+
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
 
@@ -177,6 +186,9 @@ HTML
 
 HTML Abstraction Markup Language
 : A templating system that is designed to avoid writing inline code in a web document and make the HTML cleaner. Haml gives the flexibility to have some dynamic content in HTML. Similar to other web languages like PHP, ASP, JSP, and template systems like eRuby, Haml also embeds some code that gets executed during runtime and generates HTML code in order to provide some dynamic content.&nbsp;[†](#w-haml) ℹ︎&nbsp;[haml.info](http://haml.info/)
+
+HTML over the wire
+: A marketing term promoting the use of HTML instead of JSON to populate web applications, and an umbrella term for Turbo, Stimulus, and Strada, tooling to help use HTML over the wire. Hotwire was presented in 2020 by Basecamp. ℹ︎&nbsp;[hotwired.dev](https://hotwired.dev/)
 
 HTML template
 : For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.

@@ -430,6 +430,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function){#w-hash-function}
 * [Hash table](https://en.wikipedia.org/wiki/Hash_table){#w-hash-table}
 * [Hashtag](https://en.wikipedia.org/wiki/Hashtag){#w-hashtag}
+* [Head-of-line blocking](https://en.wikipedia.org/wiki/Head-of-line_blocking){#w-hol-blocking}
 * [Headless software](https://en.wikipedia.org/wiki/Headless_software){#w-headless}
 * [Helper class](https://en.wikipedia.org/wiki/Helper_class){#w-helper-class}
 * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal){#w-hexadecimal}
