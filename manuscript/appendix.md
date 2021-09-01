@@ -468,6 +468,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [ICANN](https://en.wikipedia.org/wiki/ICANN){#w-icann}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
 * [Identifier](https://en.wikipedia.org/wiki/Identifier){#w-id}
+* [IDL (programming language)](https://en.wikipedia.org/wiki/IDL_(programming_language)){#w-interactive-data-language}
 * [Image](https://en.wikipedia.org/wiki/Image){#w-image}
 * [Image map](https://en.wikipedia.org/wiki/Image_map){#w-image-map}
 * [Immutable object](https://en.wikipedia.org/wiki/Immutable_object){#w-immutable}
@@ -495,12 +496,14 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Interaction design](https://en.wikipedia.org/wiki/Interaction_design){#w-ixd}
 * [Interactive Advertising Bureau](https://en.wikipedia.org/wiki/Interactive_Advertising_Bureau){#w-iab}
 * [Interface (computing)](https://en.wikipedia.org/wiki/Interface_(computing)){#w-interface}
+* [Interface description language](https://en.wikipedia.org/wiki/Interface_description_language){#w-interface-definition-language}
 * [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle){#w-interface-segregation}
 * [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization){#w-iso}
 * [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union){#w-itu}
 * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization){#w-i18n-l10n}
 * [Internationalized Resource Identifier](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier){#w-iri}
 * [Internet](https://en.wikipedia.org/wiki/Internet){#w-internet}
+* [Internet Architecture Board](https://en.wikipedia.org/wiki/Internet_Architecture_Board){#w-internet-architecture-board}
 * [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority){#w-iana}
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force){#w-ietf}
 * [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer){#w-ie}
@@ -511,6 +514,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider){#w-isp}
 * [Internet Society](https://en.wikipedia.org/wiki/Internet_Society){#w-isoc}
 * [Interoperability](https://en.wikipedia.org/wiki/Interoperability){#w-interoperability}
+* [Interpolation](https://en.wikipedia.org/wiki/Interpolation){#w-interpolation}
 * [Interstitial webpage](https://en.wikipedia.org/wiki/Interstitial_webpage){#w-interstitial}
 * [Intranet](https://en.wikipedia.org/wiki/Intranet){#w-intranet}
 * [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control){#w-ioc}

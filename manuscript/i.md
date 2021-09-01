@@ -15,6 +15,7 @@ IaaS
 IAB
 : → In-App Browser
 : → Interactive Advertising Bureau
+: → Internet Architecture Board
 
 IaC
 : → Infrastructure as Code
@@ -43,6 +44,11 @@ IDE
 
 Identifier
 : A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical, or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation “ID” often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
+
+IDL
+: → Interactive Data Language
+: → Interface definition language
+: → Interface description language
 
 IE
 : → Internet Explorer
@@ -234,10 +240,19 @@ Interactive Advertising Bureau
 Interactive content
 : Content that is specifically intended for user interaction.&nbsp;§
 
+Interactive Data Language
+: A programming language used for data analysis. IDL is popular in particular areas of science, such as astronomy, atmospheric physics, and medical imaging.&nbsp;[†](#w-interactive-data-language) ℹ︎&nbsp;[is.gd/7PRg0z](https://www.l3harrisgeospatial.com/Software-Technology/IDL)
+
 Interface
 : A shared boundary across which two or more separate components of a computer system exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, and combinations of these. Some computer hardware devices, such as a touchscreen, can both send and receive data through the interface, while others such as a mouse or microphone may only provide an interface to send data to a given system.&nbsp;[†](#w-interface)
 : → Graphical User Interface
 : → User Interface
+
+Interface definition language
+: A generic term for a language that lets a program or object written in one language communicate with another program written in an unknown language. IDLs describe an interface in a language-independent way, enabling communication between software components that do not share one language, for example, between those written in C++ and those written in Java. IDLs are commonly used in remote procedure call software.&nbsp;[†](#w-interface-definition-language)
+
+Interface description language
+: → Interface definition language
 
 Interface Segregation Principle
 : The principle that no client should be forced to depend on methods it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.&nbsp;[†](#w-interface-segregation)
@@ -262,6 +277,9 @@ Internationalized Resource Identifier
 
 Internet
 : The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices world-wide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
+
+Internet Architecture Board
+: A committee of the Internet Engineering Task Force (IETF) and an advisory body of the Internet Society (ISOC). The IAB’s responsibilities include architectural oversight of IETF activities, Internet Standards Process oversight and appeal, and the appointment of the Request for Comments (RFC) Editor. It is also responsible for the management of the IETF protocol parameter registries. The IAB started as the Internet Configuration Control Board in 1979.&nbsp;[†](#w-internet-architecture-board) ℹ︎&nbsp;[iab.org](https://www.iab.org/)
 
 Internet Assigned Numbers Authority
 : A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet protocol suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
@@ -296,8 +314,14 @@ Internet Service Provider
 Internet Society
 : A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is “to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.”&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
 
+InternetWorks
+: A web browser by BookLink Technologies. InternetWorks was the first browser to offer tabbed browsing. It was released in 1994.
+
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
+
+Interpolation
+: An estimation method of constructing (finding) new data points based on the range of a discrete set of known data points.&nbsp;[†](#w-interpolation)
 
 Intersection Observer
 : An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing browsers and sites to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
@@ -310,6 +334,12 @@ Intranet
 
 Intrinsic size
 : The size an element has just going by its content, with no external factors applied. For example, inline elements are sized intrinsically, with styling for width, height, and vertical margin and padding having no impact.&nbsp;[‡](#m-intrinsic-size)
+
+Intrinsic typography
+: Typography, notably text size and leading, that responds to its environment. Such intrinsic styling can be accomplished through the use of CSS animations and easing functions. ℹ︎&nbsp;[is.gd/pyNr4P](https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/)
+
+Intrinsic web design
+: A content-focused approach to web design that is more versatile and promises to be more code-efficient than responsive web design (RWD). The term “intrinsic web design” is attributed to Jen Simmons.
 
 Inversion of Control
 : A programming principle that inverts the flow of control as compared to traditional control flow. In IoC, custom-written portions of a computer program receive the flow of control from a generic framework. A software architecture with this design inverts control as compared to traditional procedural programming, where the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks. With inversion of control, it is the framework that calls into the custom, or task-specific, code.&nbsp;[†](#w-ioc)
@@ -363,6 +393,9 @@ ITCSS
 
 ITU
 : → International Telecommunication Union
+
+IWD
+: → Intrinsic web design
 
 IxD
 : → Interaction Design
