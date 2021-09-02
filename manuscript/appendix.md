@@ -514,6 +514,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider){#w-isp}
 * [Internet Society](https://en.wikipedia.org/wiki/Internet_Society){#w-isoc}
 * [Interoperability](https://en.wikipedia.org/wiki/Interoperability){#w-interoperability}
+* [InterPlanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System){#w-ipfs}
 * [Interpolation](https://en.wikipedia.org/wiki/Interpolation){#w-interpolation}
 * [Interstitial webpage](https://en.wikipedia.org/wiki/Interstitial_webpage){#w-interstitial}
 * [Intranet](https://en.wikipedia.org/wiki/Intranet){#w-intranet}
@@ -558,6 +559,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos_(protocol)){#w-kerberos}
 * [Kerning](https://en.wikipedia.org/wiki/Kerning){#w-kerning}
 * [Key (cryptography)](https://en.wikipedia.org/wiki/Key_(cryptography)){#w-key-cryptography}
+* [Key frame](https://en.wikipedia.org/wiki/Key_frame){#w-key-frame}
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database){#w-key-value-database}
 * [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph){#w-knowledge-graph}
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes){#w-k8s}
@@ -1173,6 +1175,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer){#m-buffer}
 * [Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack){#m-call-stack}
 * [Canvas](https://developer.mozilla.org/en-US/docs/Glossary/Canvas){#m-canvas}
+* [Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API){#m-channel-messaging}
 * [Client hints](https://developer.mozilla.org/en-US/docs/Glossary/Client_hints){#m-client-hints}
 * [Code splitting](https://developer.mozilla.org/en-US/docs/Glossary/Code_splitting){#m-code-splitting}
 * [Continuous Media](https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media){#m-continuous-media}

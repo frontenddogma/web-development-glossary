@@ -528,6 +528,7 @@ SRI
 : → Subresource Integrity
 
 SSG
+: → Static Site Generation
 : → Static Site Generator
 
 SSH
@@ -601,6 +602,9 @@ Static Application Security Testing
 
 Static scope
 : → Lexical scope
+
+Static Site Generation
+: → Static Site Generator
 
 Static Site Generator
 : A usually template-based, often headless system that allows to generate static web pages.

@@ -144,6 +144,9 @@ Change set
 Changeset
 : A method to handle multi-package changes and versions. ℹ︎&nbsp;[github.com/atlassian/changesets](https://github.com/atlassian/changesets)
 
+Channel messaging
+: An API described by the HTML specification that enables independent pieces of code (e.g., scripts in different browsing contexts) to communicate directly. Channel messaging works through two-way channels (or pipes) with a port at each end.&nbsp;[‡](#m-channel-messaging)
+
 Chaos engineering
 : The discipline of experimenting on a software system in production in order to build confidence in the system’s capability to withstand turbulent and unexpected conditions. Chaos engineering can be used to achieve resilience against infrastructure, network, and application failures.&nbsp;[†](#w-chaos-engineering)
 

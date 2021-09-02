@@ -10,7 +10,7 @@ package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
 Packaged Offline/Online Webpage
-: The using of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎&nbsp;[hi.pow.tools](https://hi.pow.tools/)
+: The use of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎&nbsp;[hi.pow.tools](https://hi.pow.tools/)
 
 Packed
 : A property of an array that consists only of elements (no holes), and that can be optimized accordingly.

@@ -98,6 +98,9 @@ Inclusive Design
 Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. The Increment is created by members of the Development Team. It must be usable and meet the definition of “Done.”
 
+Incremental Static Regeneration
+: Static generation on a per-page and on-demand basis, as opposed to regeneration of an entire website at build-time. Through this approach, ISR allows to significantly reduce build time.
+
 Indexed color
 : A technique to manage digital images’ colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. Indexed color is a form of vector quantization compression. When an image is encoded this way, color information is not directly carried by the image pixel data, but stored in a separate piece of data called a palette, that is, an array of color elements.&nbsp;[†](#w-indexed-color)
 
@@ -320,6 +323,9 @@ InternetWorks
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
 
+InterPlanetary File System
+: A protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. As opposed to a centrally located server, IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing. IPFS was released in 2015.&nbsp;[†](#w-ipfs) ℹ︎&nbsp;[ipfs.io](https://ipfs.io/)
+
 Interpolation
 : An estimation method of constructing (finding) new data points based on the range of a discrete set of known data points.&nbsp;[†](#w-interpolation)
 
@@ -363,6 +369,9 @@ IP address
 IP telephony
 : → Voice over IP
 
+IPFS
+: → InterPlanetary File System
+
 IPv4
 : The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based inter-networking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)
 
@@ -378,6 +387,9 @@ IRI
 IRL
 : → Internet Resource Locator
 
+Islands architecture
+: The use of placeholders for dynamic parts of a web page, to be loaded and hydrated separately in order to improve perceived performance.
+
 ISO
 : → International Organization for Standardization
 
@@ -387,6 +399,9 @@ ISOC
 ISP
 : → Interface Segregation Principle
 : → Internet Service Provider
+
+ISR
+: → Incremental Static Regeneration
 
 ITCSS
 : → Inverted Triangle CSS

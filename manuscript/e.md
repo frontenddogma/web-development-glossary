@@ -66,6 +66,9 @@ Electronic Frontier Foundation
 Element
 : In HTML, a part of a document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
 
+Eleventy
+: A JavaScript-based, zero-config static site generator. Eleventy was released in 2018 by Zach Leatherman. ℹ︎&nbsp;[11ty.dev](https://www.11ty.dev/)
+
 `else`
 : → Conditional
 

@@ -78,6 +78,9 @@ Jekyll
 Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
+Jimdo
+: A website builder, ecommerce platform, and hosting solution, designed for users to create their own websites and stores without web design experience. ℹ︎&nbsp;[jimdo.com](https://www.jimdo.com/)
+
 Jinja
 : A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
 
