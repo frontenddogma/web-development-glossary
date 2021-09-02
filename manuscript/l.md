@@ -62,6 +62,9 @@ Lazy loading
 LCP
 : → Largest Contentful Paint
 
+LCU
+: → Load Balancer Capacity Unit
+
 LCWD
 : → Last Call Working Draft
 
@@ -97,6 +100,12 @@ Lexical scope
 
 Library
 : Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications.&nbsp;[†](#w-library)
+
+Library World Wide Web
+: A modular client-side web API for Unix and Windows. “libwww” is also the name of the reference implementation of the libwww API. It has been used for applications of varying sizes, including web browsers, editors, Internet bots, and batch tools. libwww was first released in 1992.&nbsp;[†](#w-libwww) ℹ︎&nbsp;[w3.org/Library](https://www.w3.org/Library/)
+
+libwww
+: → Library World Wide Web
 
 LIFO
 : → Last In, First Out
@@ -179,8 +188,17 @@ LIS
 Liskov Substitution Principle
 : A particular definition of a subtyping relation, called (strong) behavioral subtyping, that was initially introduced in 1987 by Barbara Liskov. The Liskov Substitution Principle is a semantic rather than merely syntactic relation, because it intends to guarantee semantic interoperability of types in a hierarchy, particularly of object types. Liskov’s notion of a behavioral subtype defines a notion of substitutability for objects; that is, if S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (e.g., correctness).&nbsp;[†](#w-liskov-substitution)
 
+Lisp/LISP
+: A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958, Lisp is the second-oldest high-level programming language in widespread use today; only Fortran is older, by one year. The name “LISP” derives from “LISt Processor.” Lisp was originally created as a practical mathematical notation for computer programs. It has changed since its early days, and many dialects have existed over its history. Today, the best-known general-purpose Lisp dialects are Racket, Common Lisp, Scheme, and Clojure.&nbsp;[†](#w-lisp)
+
+Lit
+: A library for building web components. Lit, or “Lit 2.0,” was released in 2021. ℹ︎&nbsp;[lit.dev](https://lit.dev/)
+
 Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
+
+LitElement
+: A JavaScript class for creating web components. Since 2021, LitElement is a part of Lit. ℹ︎&nbsp;[is.gd/3Xte9p](https://lit-element.polymer-project.org/)
 
 Literal
 : A notation for representing a fixed value in source code. Almost all programming languages have notations for atomic values such as integers, floating-point numbers, and strings, and usually for Booleans and characters; some also have notations for elements of enumerated types and compound values such as arrays, records, and objects. An anonymous function is a literal for the function type.&nbsp;[†](#w-literal)
@@ -190,6 +208,15 @@ Little’s Law
 
 LML
 : → Lightweight markup language
+
+Load balancer
+: → Load balancing
+
+Load Balancer Capacity Unit
+: A unit used to measure Amazon load balancer processing and billing. LCUs are based on up to four dimensions, depending on the type of load balancer: new connections or flows, active connections or flows, processed bytes, and rule evaluations.
+
+Load balancing
+: The process of distributing a set of tasks over a set of resources (computing units), with the aim of making their overall processing more efficient. Load balancing can optimize the response time and avoid unevenly overloading compute nodes while other compute nodes are left idle.&nbsp;[†](#w-load-balancing)
 
 Load time
 : The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter.&nbsp;[‡](#m-load-time)

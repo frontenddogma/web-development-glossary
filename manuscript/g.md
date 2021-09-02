@@ -9,6 +9,9 @@ Garbage collection
 Garbage In, Garbage Out
 : The concept that flawed, or nonsense (garbage) input data produces nonsense output. The principle also applies more generally to analysis and logic, in that arguments are unsound if their premises are flawed.&nbsp;[†](#w-gigo)
 
+Gatsby
+: A React-based frontend framework for creating websites, and a serverless cloud platform to build, deploy, and host the respective websites. Gatsby was released in 2017. ℹ︎&nbsp;[gatsbyjs.com](https://www.gatsbyjs.com/)
+
 GDPR
 : → General Data Protection Regulation
 

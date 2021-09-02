@@ -222,6 +222,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing){#w-cors}
 * [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery){#w-csrf}
 * [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting){#w-xss}
+* [Cryptographic nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce){#w-nonce}
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography){#w-cryptography}
 * [CSS box model](https://en.wikipedia.org/wiki/CSS_box_model){#w-box-model}
 * [CSS framework](https://en.wikipedia.org/wiki/CSS_framework){#w-css-framework}
@@ -579,6 +580,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Let’s Encrypt](https://en.wikipedia.org/wiki/Let's_Encrypt){#w-lets-encrypt}
 * [Letter case](https://en.wikipedia.org/wiki/Letter_case){#w-letter-case}
 * [Letter-spacing](https://en.wikipedia.org/wiki/Letter-spacing){#w-letter-spacing}
+* [libwww](https://en.wikipedia.org/wiki/Libwww){#w-libwww}
 * [Light-on-dark color scheme](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme){#w-dark-mode}
 * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol){#w-ldap}
 * [Lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language){#w-lml}
@@ -590,10 +592,12 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Linux](https://en.wikipedia.org/wiki/Linux){#w-linux}
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base){#w-lsb}
 * [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle){#w-liskov-substitution}
+* [Lisp (programming language)](https://en.wikipedia.org/wiki/Lisp_(programming_language)){#w-lisp}
 * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
 * [Little’s law](https://en.wikipedia.org/wiki/Little%27s_law){#w-littles-law}
+* [Load balancing (computing)](https://en.wikipedia.org/wiki/Load_balancing_(computing)){#w-load-balancing}
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network){#w-lan}
 * [Local variable](https://en.wikipedia.org/wiki/Local_variable){#w-local-variable}
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
@@ -670,6 +674,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication){#w-mfa}
 * [Multimedia](https://en.wikipedia.org/wiki/Multimedia){#w-multimedia}
 * [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance){#w-multiple-inheritance}
+* [Muphry’s law](https://en.wikipedia.org/wiki/Muphry's_law){#w-muphrys-law}
+* [Murphy’s law](https://en.wikipedia.org/wiki/Murphy%27s_law){#w-murphys-law}
 * [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
@@ -691,6 +697,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Next.js](https://en.wikipedia.org/wiki/Next.js){#w-nextjs}
 * [Nginx](https://en.wikipedia.org/wiki/Nginx){#w-nginx}
 * [Ninety-ninety rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule){#w-ninety-ninety-rule}
+* [Nmap](https://en.wikipedia.org/wiki/Nmap){#w-nmap}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement){#w-nda}

@@ -259,6 +259,9 @@ Hue, Saturation, Lightness
 Hue, Saturation, Value
 : An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
 
+Hugo
+: A static site generator written in Go. Hugo was released in 2013 by Steve Francia. ℹ︎&nbsp;[gohugo.io](https://gohugo.io/)
+
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 

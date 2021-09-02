@@ -353,6 +353,12 @@ Multiple inheritance
 Multipurpose Internet Mail Extensions
 : An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP).&nbsp;[†](#w-mime)
 
+Muphry’s Law
+: An adage that states: “If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written.” The name is a deliberate misspelling of “Murphy’s Law.”&nbsp;[†](#w-muphrys-law)
+
+Murphy’s Law
+: An adage or epigram that is typically stated as: “Anything that can go wrong will go wrong.”&nbsp;[†](#w-murphys-law)
+
 Mustache
 : A web template system. Mustache is described as a “logic-less” system because it lacks any explicit control flow statements, like `if` and `else` conditionals or `for` loops; however, both looping and conditional evaluation can be achieved using section tags processing lists and lambdas. It is named “Mustache” because of the heavy use of curly brackets, which resemble a sideways moustache. Mustache is used mainly for mobile and web applications.&nbsp;[†](#w-mustache) ℹ︎&nbsp;[mustache.github.io](https://mustache.github.io/)
 

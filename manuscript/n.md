@@ -68,8 +68,14 @@ Network
 Network Address Translation
 : A method of remapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. NAT has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion, as one Internet-routable IP address of a NAT gateway can be used for an entire private network.&nbsp;[†](#w-nat)
 
+Network Mapper
+: A network scanner. Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. It was created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich), and first released in 1997.&nbsp;[†](#w-nmap) ℹ︎&nbsp;[nmap.org](https://nmap.org/)
+
 Network packet
 : → Packet
+
+Neutral character
+: A character that has direction indeterminable without context. Examples include paragraph separators, tabs, and most other whitespace characters. Punctuation symbols that are common to many scripts, such as the colon, comma, full stop, and the no-break space also fall within this category.&nbsp;[†](#w-bidirectional)
 
 Newbie
 : A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, online gaming, or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and may be used as a term of abuse in Internet-based games), but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
@@ -96,6 +102,9 @@ Night Mode
 Ninety-Ninety Rule
 : A humorous aphorism attributed to Tom Cargill that states: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” This adds up to 180%, making an allusion to the notoriety of software development projects significantly over-running their schedules.&nbsp;[†](#w-ninety-ninety-rule)
 
+Nmap
+: → Network Mapper
+
 Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
 : → Node.js
@@ -112,11 +121,20 @@ Nolan’s Law
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
+Non-relational database
+: A database that does not use a tabular model like a relational database, and that is instead optimized for the specific data it is storing. Popular types of non-relational databases are key-value stores, column stores, graph stores, and document stores. Examples for non-relational databases, which are also known as NoSQL databases, include Apache Cassandra, MongoDB, and Couchbase.
+
+Nonce
+: An arbitrary number that can be used just once in a cryptographic communication (“number once,” “number only used once”). It is often a random or pseudo-random number issued in an authentication protocol to ensure that old communications cannot be reused in replay attacks.&nbsp;[†](#w-nonce)
+
 NonVisual Desktop Access
 : A screen reader for Microsoft Windows. Work on NonVisual Desktop Access was started in 2006 by Michael Curran.&nbsp;[†](#w-nvda) ℹ︎&nbsp;[nvaccess.org](https://www.nvaccess.org/)
 
 Noob
 : → Newbie
+
+Normal form
+: A database normalization step that aims to reduce data redundancies and anomalies.
 
 Normalization
 : The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving a database design).&nbsp;[†](#w-normalization)
@@ -128,7 +146,7 @@ Normative
 : Relating to an evaluative standard. Normativity is the phenomenon in human societies of designating some actions or outcomes as good or desirable or permissible and others as bad or undesirable or impermissible. A norm in this normative sense means a standard for evaluating or making judgments about behavior or outcomes.&nbsp;[†](#w-normative)
 
 NoSQL
-: A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g., key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
+: A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g., key-value, column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
 
 Not a Number
 : A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
