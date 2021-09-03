@@ -1,11 +1,8 @@
 {sample: true}
-# /_.!
+# !./_
 
-/dev/null
-: → Null device
-
-`__qem`
-: A proprietary, inofficial CSS unit (“quirky em”) to manage margins in reflow roots (`body`, `th`, and `td`) like the Internet Explorer web browser. According to [the source code](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/css/CSSPrimitiveValue.h?rev=107688&order=name#L167), “When the quirky value is used, if you’re in quirks mode, the margin will collapse away inside a table cell.” `__qem` was originally spelled with one underscore, `_qem`.
+`!important`
+: An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
 
 .gitignore
 : A plain-text file that, one per line, contains patterns for files and directories to be ignored by Git version control.
@@ -22,7 +19,10 @@
 .NET Framework
 : A software framework developed by Microsoft that runs primarily on Microsoft Windows. The .NET Framework includes a large class library named as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for the .NET Framework execute in a software environment (in contrast to a hardware environment) named the Common Language Runtime (CLR). The CLR is an application virtual machine that provides services such as security, memory management, and exception handling. As such, computer code written using the .NET Framework is called managed code. FCL and CLR together constitute the .NET Framework. .NET was first released in 2002.&nbsp;[†](#w-net) ℹ︎&nbsp;[dotnet.microsoft.com](https://dotnet.microsoft.com/)
 
-`!important`
-: An indicator for a declaration that, by virtue of the CSS cascade, is to take precedence over a normal declaration.
+/dev/null
+: → Null device
+
+`__qem`
+: A proprietary, inofficial CSS unit (“quirky em”) to manage margins in reflow roots (`body`, `th`, and `td`) like the Internet Explorer web browser. According to [the source code](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/css/CSSPrimitiveValue.h?rev=107688&order=name#L167), “When the quirky value is used, if you’re in quirks mode, the margin will collapse away inside a table cell.” `__qem` was originally spelled with one underscore, `_qem`.
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
