@@ -821,6 +821,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
 * [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
+* [Rate limiting](https://en.wikipedia.org/wiki/Rate_limiting){#w-rate-limiting}
 * [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)){#w-react}
 * [React Native](https://en.wikipedia.org/wiki/React_Native){#w-react-native}
 * [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming){#w-reactive-programming}
@@ -833,6 +834,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_(computer_science)){#w-recursion}
 * [Redundancy (engineering)](https://en.wikipedia.org/wiki/Redundancy_(engineering)){#w-redundancy}
 * [Redux (JavaScript library)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)){#w-redux}
+* [Reed-Solomon error correction](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction){#w-reed-solomon}
 * [Referential transparency](https://en.wikipedia.org/wiki/Referential_transparency){#w-referential-transparency}
 * [Regular expression](https://en.wikipedia.org/wiki/Regular_expression){#w-regex}
 * [Relational data stream management system](https://en.wikipedia.org/wiki/Relational_data_stream_management_system){#w-rdsms}

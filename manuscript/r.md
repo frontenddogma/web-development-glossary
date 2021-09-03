@@ -21,6 +21,9 @@ Ranking
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
 
+Rate limiting
+: A measure to control the rate of requests sent or received by a network interface controller. Rate limiting can be used to prevent DoS attacks and to limit web scraping.&nbsp;[†](#w-rate-limiting)
+
 Rax
 : A React framework for building universal applications. Rax is maintained by Alibaba. ℹ︎&nbsp;[rax.js.org](https://rax.js.org/)
 
@@ -110,6 +113,9 @@ Redundancy
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
 
+Reed-Solomon codes
+: A group of error-correcting codes that were introduced in 1960 by Irving S. Reed and Gustave Solomon. They have many applications, the most prominent of which include consumer technologies such as MiniDiscs, CDs, DVDs, Blu-ray discs, QR codes, data transmission technologies such as DSL and WiMAX, broadcast systems such as satellite communications, DVB and ATSC, and storage systems such as RAID&nbsp;6. Reed-Solomon codes operate on blocks of data treated as sets of finite-field elements called symbols, where they are able to detect and correct multiple symbol errors. For example, Reed-Solomon codes can help correct burst errors associated with media defects, and make data transmissions over erasure channels more reliable.&nbsp;[†](#w-reed-solomon)
+
 Refactoring
 : The process of restructuring and optimizing existing computer code—changing the factoring—without changing its external behavior. Refactoring is intended to improve non-functional attributes of the software. Advantages include improved code readability and reduced complexity; these can improve source code maintainability and create a more expressive internal architecture or object model to improve extensibility.&nbsp;[†](#w-refactoring)
 
@@ -167,11 +173,17 @@ Remote procedure call
 Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
 
+Renderer
+: A user agent that interprets the semantics of a style sheet and renders documents that use them.
+
 Rendering
 : The transforming of HTML documents and other resources of a web page into an interactive visual representation in a web browser.&nbsp;[†](#w-browser-engine)
 
 Rendering engine
 : → Browser engine
+
+RenderingNG
+: A revised architecture of the Blink rendering engine used by the Chromium project. ℹ︎&nbsp;[is.gd/e9KbQ9](https://developer.chrome.com/blog/renderingng/)
 
 Repo
 : → Repository
