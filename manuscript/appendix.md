@@ -704,6 +704,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Nmap](https://en.wikipedia.org/wiki/Nmap){#w-nmap}
 * [Node (computer science)](https://en.wikipedia.org/wiki/Node_(computer_science)){#w-node}
 * [Node.js](https://en.wikipedia.org/wiki/Node.js){#w-nodejs}
+* [nofollow](https://en.wikipedia.org/wiki/Nofollow){#w-nofollow}
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement){#w-nda}
 * [NonVisual Desktop Access](https://en.wikipedia.org/wiki/NonVisual_Desktop_Access){#w-nvda}
 * [Normative](https://en.wikipedia.org/wiki/Normative){#w-normative}
@@ -812,6 +813,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Quality (business)](https://en.wikipedia.org/wiki/Quality_(business)){#w-quality}
 * [Quality assurance](https://en.wikipedia.org/wiki/Quality_assurance){#w-qa}
 * [Quality control](https://en.wikipedia.org/wiki/Quality_control){#w-qc}
+* [Queries per second](https://en.wikipedia.org/wiki/Queries_per_second){#w-qps}
 * [Query](https://en.wikipedia.org/wiki/Query){#w-query}
 * [Query language](https://en.wikipedia.org/wiki/Query_language){#w-query-language}
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
@@ -841,6 +843,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Relational database](https://en.wikipedia.org/wiki/Relational_database){#w-relational-database}
 * [Relational model](https://en.wikipedia.org/wiki/Relational_model){#w-relational-model}
 * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call){#w-rpc}
+* [Replay attack](https://en.wikipedia.org/wiki/Replay_attack){#w-replay-attack}
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework){#w-rdf}
@@ -871,6 +874,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)){#w-sandbox-security}
 * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
 * [Sass (stylesheet language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)){#w-sass}
+* [Scaled agile framework](https://en.wikipedia.org/wiki/Scaled_agile_framework){#w-safe}
 * [Scope (computer science)](https://en.wikipedia.org/wiki/Scope_(computer_science)){#w-scope}
 * [Screen magnifier](https://en.wikipedia.org/wiki/Screen_magnifier){#w-screen-magnifier}
 * [Screen reader](https://en.wikipedia.org/wiki/Screen_reader){#w-screen-reader}

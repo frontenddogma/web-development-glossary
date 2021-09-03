@@ -183,7 +183,13 @@ Rendering engine
 : → Browser engine
 
 RenderingNG
-: A revised architecture of the Blink rendering engine used by the Chromium project. ℹ︎&nbsp;[is.gd/e9KbQ9](https://developer.chrome.com/blog/renderingng/)
+: A substantially revised and updated architecture of the Blink rendering engine used by the Chromium project. ℹ︎&nbsp;[is.gd/e9KbQ9](https://developer.chrome.com/blog/renderingng/)
+
+REP
+: → Robots Exclusion Protocol
+
+Replay attack
+: A form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed. This is carried out either by the originator or by an adversary who intercepts the data and re-transmits it, possibly as part of a spoofing attack by IP packet substitution. This is one of the lower-tier versions of a man-in-the-middle attack. Replay attacks are usually passive in nature.&nbsp;[†](#w-replay-attack)
 
 Repo
 : → Repository
@@ -211,6 +217,9 @@ Request header
 
 Request method
 : → HTTP method
+
+Requests per second
+: A common measure of the amount of traffic an information retrieval system, such as a search engine or a database, receives during one second. High-traffic systems must watch their RPS (or QPS, queries per second) in order to know when to scale the system to handle more load.&nbsp;[†](#w-qps)
 
 RequireJS
 : A JavaScript file and module loader. ℹ︎&nbsp;[requirejs.org](https://requirejs.org/)
@@ -250,6 +259,9 @@ REST
 
 Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the automatic insertion of a semicolon (ASI).
+
+Revalidation
+: Cache behavior in which a cache checks with the origin of a resource whether the resource has changed. If it has (HTTP 200 “OK” response), the origin server will also send the updated resource; if has not (HTTP 304 “Not Modified”), the cache will keep the cached resource.
 
 Reverse proxy
 : A reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the reverse proxy server itself. Popular web servers often use reverse-proxying functionality to shield application frameworks of weaker HTTP capabilities, where “weaker” means limitations to handle excessive load or a great variety of request formats.&nbsp;[†](#w-reverse-proxy)
@@ -296,11 +308,18 @@ RMI
 Roadmap
 : A flexible planning technique to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions. A roadmap is a plan that applies to a new product or process and may include using technology forecasting or scouting to identify suitable emerging technologies.&nbsp;[†](#w-roadmap)
 
+Robot
+: → Crawler
+
+Robots Exclusion Protocol
+: A combination of standards and conventions governing web crawler behavior and search engine indexing. The REP includes the robots exclusion standard (robots.txt), crawling and indexing directives for HTML `meta` elements, the Sitemaps protocol, and the `rel=nofollow` microformat.
+: → Robots exclusion standard
+
 Robots exclusion standard
 : → robots.txt
 
 robots.txt
-: A standard and special file used by websites to communicate with web robots and crawlers. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt)
+: A standard and special file used by websites to communicate with web robots and crawlers. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt) ℹ︎&nbsp;[robotstxt.org](https://www.robotstxt.org/)
 
 Robustness Principle
 : → Postel’s Law
@@ -362,6 +381,9 @@ RPM
 
 RPM Package Manager
 : A package management system originally called Red Hat Package Manager. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
+
+RPS
+: → Requests per second
 
 RSS
 : → RDF Site Summary

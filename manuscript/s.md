@@ -9,6 +9,9 @@ SaaS
 Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
+SAFe
+: → Scaled Agile Framework
+
 Same origin
 : → Origin
 
@@ -33,6 +36,9 @@ Scalable Vector Graphics
 
 Scalar
 : → Variable
+
+Scaled Agile Framework
+: A set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practices. Along with Large-Scale Scrum (LeSS), Disciplined Agile Delivery (DAD), and Nexus, SAFe is one of a growing number of frameworks that seek to address the problems encountered when scaling beyond a single team. The primary reference for SAFe was originally the development of a “big picture” view of how work flowed from product management (or other stakeholders), through governance, program, and development teams, out to customers. The framework promotes alignment, collaboration, and delivery across large numbers of agile teams. SAFe was first released in 2011 and is made available by Scaled Agile.&nbsp;[†](#w-safe) ℹ︎&nbsp;[scaledagileframework.com](https://www.scaledagileframework.com/)
 
 Scaled Scrum
 : → Nexus

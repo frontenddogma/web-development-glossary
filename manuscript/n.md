@@ -124,6 +124,9 @@ Node Package Manager
 Node.js
 : A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for client- and server-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
+`nofollow`
+: A setting on a hyperlink that directs search engines not to use the link for page ranking calculations. `nofollow` is a microformat which is specified as a type of link relation, e.g. `<a href=https://www.example.com/ rel=nofollow>Example</a>`. Because search engines may use the number of hyperlinks from other sites to calculate a site’s importance, the `nofollow` setting allows website authors to indicate that the presence of the link is not an endorsement of the target site’s importance.&nbsp;[†](#w-nofollow)
+
 Nolan’s Law
 : → Bushnell’s Law
 

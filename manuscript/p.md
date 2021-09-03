@@ -233,6 +233,9 @@ Platform as a Service
 Platform modernization
 : → Software modernization
 
+Playback attack
+: → Replay attack
+
 Plugin
 : A software component that adds a specific feature to an existing computer program. When a program supports plugins, it enables customization.&nbsp;[†](#w-plugin)
 
