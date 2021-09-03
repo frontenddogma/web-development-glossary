@@ -369,6 +369,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy){#w-folksonomy}
 * [Font](https://en.wikipedia.org/wiki/Font){#w-font}
 * [Foobar](https://en.wikipedia.org/wiki/Foobar){#w-foobar}
+* [Foreign key](https://en.wikipedia.org/wiki/Foreign_key){#w-foreign-key}
 * [Fork (software development)](https://en.wikipedia.org/wiki/Fork_(software_development)){#w-fork}
 * [Form (HTML)](https://en.wikipedia.org/wiki/Form_(HTML)){#w-form}
 * [Formatting Output Specification Instance](https://en.wikipedia.org/wiki/Formatting_Output_Specification_Instance){#w-fosi}
@@ -485,6 +486,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
+* [Initiative for Open Authentication](https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication){#w-oath}
 * [Inline linking](https://en.wikipedia.org/wiki/Inline_linking){#w-inline-linking}
 * [Input/output](https://en.wikipedia.org/wiki/Input/output){#w-io}
 * [Instance variable](https://en.wikipedia.org/wiki/Instance_variable){#w-instance-variable}
@@ -684,6 +686,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [NativeScript](https://en.wikipedia.org/wiki/NativeScript){#w-nativescript}
+* [Natural key](https://en.wikipedia.org/wiki/Natural_key){#w-natural-key}
+* [Natural user interface](https://en.wikipedia.org/wiki/Natural_user_interface){#w-nui}
 * [Negative space](https://en.wikipedia.org/wiki/Negative_space){#w-negative-space}
 * [Nesting (computing)](https://en.wikipedia.org/wiki/Nesting_(computing)){#w-nesting}
 * [Net Promoter](https://en.wikipedia.org/wiki/Net_Promoter){#w-nps}
@@ -711,6 +715,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Number sign](https://en.wikipedia.org/wiki/Number_sign){#w-number-sign}
 * [Numerical digit](https://en.wikipedia.org/wiki/Numerical_digit){#w-numerical-digit}
 * [Nuxt.js](https://en.wikipedia.org/wiki/Nuxt.js){#w-nuxtjs}
+* [OAuth](https://en.wikipedia.org/wiki/OAuth){#w-oauth}
 * [Obfuscation (software)](https://en.wikipedia.org/wiki/Obfuscation_(software)){#w-obfuscation}
 * [Object (computer science)](https://en.wikipedia.org/wiki/Object_(computer_science)){#w-object}
 * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming){#w-oop}
@@ -724,6 +729,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [OOCSS](https://en.wikipedia.org/wiki/OOCSS){#w-oocss}
 * [Open source](https://en.wikipedia.org/wiki/Open_source){#w-open-source}
 * [Open-closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle){#w-open-closed}
+* [OpenID](https://en.wikipedia.org/wiki/OpenID){#w-openid}
 * [OpenType](https://en.wikipedia.org/wiki/OpenType){#w-opentype}
 * [Operand](https://en.wikipedia.org/wiki/Operand){#w-operand}
 * [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
@@ -789,6 +795,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Predication (computer architecture)](https://en.wikipedia.org/wiki/Predication_(computer_architecture)){#w-predication}
 * [Prefetching](https://en.wikipedia.org/wiki/Prefetching){#w-prefetching}
 * [Presto (browser engine)](https://en.wikipedia.org/wiki/Presto_(browser_engine)){#w-presto}
+* [Primary key](https://en.wikipedia.org/wiki/Primary_key){#w-primary-key}
 * [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type){#w-primitive}
 * [Privacy](https://en.wikipedia.org/wiki/Privacy){#w-privacy}
 * [Program optimization](https://en.wikipedia.org/wiki/Program_optimization){#w-premature-optimization}
@@ -951,8 +958,10 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
 * [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
+* [Superkey](https://en.wikipedia.org/wiki/Superkey){#w-superkey}
 * [Superuser](https://en.wikipedia.org/wiki/Superuser){#w-superuser}
 * [Surface web](https://en.wikipedia.org/wiki/Surface_web){#w-surface-web}
+* [Surrogate key](https://en.wikipedia.org/wiki/Surrogate_key){#w-surrogate-key}
 * [Switch statement](https://en.wikipedia.org/wiki/Switch_statement){#w-case-programming}
 * [Symbol (programming)](https://en.wikipedia.org/wiki/Symbol_(programming)){#w-symbol}
 * [Symfony](https://en.wikipedia.org/wiki/Symfony){#w-symfony}

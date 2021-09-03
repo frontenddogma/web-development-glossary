@@ -1,5 +1,11 @@
 # O
 
+OATH
+: → Initiative for Open Authentication
+
+OAuth
+: → Open Authorization
+
 Obfuscation
 : The deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements. Programmers may deliberately obfuscate code to conceal its purpose or its logic or implicit values embedded in it (security through obscurity), primarily in order to prevent tampering, deter reverse engineering, or even as a puzzle or recreational challenge for someone reading the source code.&nbsp;[†](#w-obfuscation)
 
@@ -36,6 +42,9 @@ Offline First
 OGP
 : → Open Graph Protocol
 
+OIDC
+: → OpenID Connect
+
 OKR
 : → Objectives and Key Results
 
@@ -69,6 +78,9 @@ OOM
 OOP
 : → Object-Oriented Programming
 
+Open Authorization
+: An open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords. This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party services. OAuth is a service that is complementary to and distinct from OpenID; however, OAuth is directly related to OpenID Connect (OIDC), since OIDC is an authentication layer built on top of OAuth&nbsp;2.0. Development of OAuth began in 2006.&nbsp;[†](#w-oauth) ℹ︎&nbsp;[oauth.net](https://oauth.net/)
+
 Open Graph
 : → Open Graph Protocol
 
@@ -86,6 +98,12 @@ Open Web Application Security Project
 
 Open-Closed Principle
 : The idea that “software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification,” that is, that such an entity can allow its behavior to be extended without modifying its source code.&nbsp;[†](#w-open-closed)
+
+OpenID
+: An open standard and decentralized authentication protocol. Promoted by the non-profit OpenID Foundation, OpenID allows users to be authenticated by cooperating sites (known as relying parties, or RP) using a third-party service, eliminating the need for webmasters to provide their own _ad hoc_ login systems, and allowing users to log into multiple unrelated websites without having to have a separate identity and password for each. Users create accounts by selecting an OpenID identity provider and then use those accounts to sign onto any website that accepts OpenID authentication.&nbsp;[†](#w-openid) ℹ︎&nbsp;[openid.net](https://openid.net/)
+
+OpenID Connect
+: An authentication layer on top of the OAuth&nbsp;2.0 authorization framework. OIDC allows computing clients to verify the identity of an end user based on the authentication performed by an authorization server, as well as to obtain the basic profile information about the end user in an interoperable and REST-like manner.&nbsp;[†](#w-openid) ℹ︎&nbsp;[openid.net/connect](https://openid.net/connect/)
 
 OpenType
 : A format for scalable computer fonts. OpenType was built on its predecessor TrueType, retaining TrueType’s basic structure and adding many intricate data structures for prescribing typographic behavior. The specification was developed at Microsoft, with Adobe Systems contributing by the time of public announcement in 1996.&nbsp;[†](#w-opentype)

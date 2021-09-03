@@ -682,6 +682,9 @@ Subversion
 SUIT CSS
 : A CSS methodology for component-based UI development. ℹ︎&nbsp;[suitcss.github.io](https://suitcss.github.io/)
 
+Superkey
+: In the relational model of data, a set of attributes that uniquely identifies each tuple of a relation. Because superkey values are unique, tuples with the same superkey value must also have the same non-key attribute values. That is, non-key attributes are functionally dependent on the superkey.&nbsp;[†](#w-superkey)
+
 Superuser
 : A special user account used for system administration. Depending on the operating system, the actual name of this account might be “root,” “administrator,” “admin,” or “supervisor.” In some cases, the actual name of the account is not the determining factor; on Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser, regardless of the name of that account; and in systems which implement a role-based security model, any user with the role of superuser (or its synonyms) can carry out all actions of the superuser account. The principle of least privilege recommends that most users and applications run under an ordinary account to perform their work, as a superuser account is capable of making unrestricted and potentially adverse system-wide changes.&nbsp;[†](#w-superuser)
 
@@ -693,6 +696,9 @@ Surface Web
 
 Surfing
 : → Browsing
+
+Surrogate key
+: A unique identifier for either an entity in the outside world or an object in a database. The surrogate key is not derived from application data, unlike a natural (or business) key.&nbsp;[†](#w-surrogate-key)
 
 SVG
 : → Scalable Vector Graphics

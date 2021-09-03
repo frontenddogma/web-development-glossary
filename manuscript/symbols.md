@@ -1,8 +1,11 @@
 {sample: true}
-# /.!
+# /_.!
 
 /dev/null
 : → Null device
+
+`__qem`
+: A proprietary, inofficial CSS unit (“quirky em”) to manage margins in reflow roots (`body`, `th`, and `td`) like the Internet Explorer web browser. According to [the source code](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/css/CSSPrimitiveValue.h?rev=107688&order=name#L167), “When the quirky value is used, if you’re in quirks mode, the margin will collapse away inside a table cell.” `__qem` was originally spelled with one underscore, `_qem`.
 
 .gitignore
 : A plain-text file that, one per line, contains patterns for files and directories to be ignored by Git version control.

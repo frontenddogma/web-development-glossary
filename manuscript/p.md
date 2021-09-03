@@ -339,6 +339,9 @@ Presentation
 Presto
 : The browser engine of the Opera web browser from the release of Opera&nbsp;7 in 2003 until the release of Opera&nbsp;15 in 2013, at which time Opera switched to using the Blink engine that was originally created for Chromium. Presto was also used to power the Opera Mini and Opera Mobile browsers.&nbsp;[†](#w-presto)
 
+Primary key
+: In the relational model of data, a specific choice of a minimal set of attributes (columns) that uniquely specify a tuple (row) in a relation (table). Informally, a primary key is “which attributes identify a record,” and in simple cases constitute a single attribute, that is, a unique ID. More formally, a primary key is a choice of candidate key (a minimal superkey); any other candidate key is an alternate key.&nbsp;[†](#w-primary-key)
+
 Primitive
 : A data type that is either a basic type (a data type provided by a programming language as a basic building block) or a built-in type (a data type for which the programming language provides built-in support). In most programming languages, all basic data types are built-in. In addition, many languages also provide a set of composite data types.&nbsp;[†](#w-primitive)
 

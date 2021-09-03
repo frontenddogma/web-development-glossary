@@ -129,6 +129,9 @@ Entity
 Entity graph
 : → Knowledge Graph
 
+Entity identifier
+: → Surrogate key
+
 Entity reference
 : → Character entity reference
 : → Numeric character reference

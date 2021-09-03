@@ -33,6 +33,15 @@ Native
 NativeScript
 : A framework to develop mobile apps on the iOS and Android platforms. NativeScript apps are built using JavaScript, or by using any programming language that transpiles to JavaScript, such as TypeScript. NativeScript supports the Angular and Vue JavaScript frameworks. It was first released in 2014.&nbsp;[†](#w-nativescript) ℹ︎&nbsp;[nativescript.org](https://nativescript.org/)
 
+Natural interface
+: → Natural user interface
+
+Natural key
+: A type of unique key in a database formed of attributes that exist and are used in the external world outside the database (i.e., in the business domain or domain of discourse). In the relational model of data, a natural key is a superkey and is therefore a functional determinant for all attributes in a relation.&nbsp;[†](#w-natural-key)
+
+Natural user interface
+: A user interface that is effectively invisible, and remains invisible as the user learns increasingly complex interactions. The word “natural“ is used because most computer interfaces use artificial control devices whose operation has to be learned. Examples include voice assistants, such as Alexa and Siri, touch and multitouch interactions on today’s mobile phones and tablets, but also touch interfaces invisiblly integrated into the textiles furnitures.&nbsp;[†](#w-nui)
+
 Navigation
 : A menu UI element for website navigation.
 : The process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia. The user interface that is used to do so is called a web browser. A central theme in web design is the development of a web navigation interface that maximizes usability.&nbsp;[†](#w-navigation)
@@ -156,6 +165,9 @@ npm
 
 NPS
 : → Net Promoter Score
+
+NUI
+: → Natural user interface
 
 Null
 : A `null` value which represents a reference that points, generally intentionally, to a non-existent or invalid object or address. The meaning of a `null` reference varies among language implementations. In JavaScript, `null` is one of the primitive values.&nbsp;[‡](#m-null)

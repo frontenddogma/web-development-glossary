@@ -238,6 +238,9 @@ Foobar
 `foreach`
 : → Loop
 
+Foreign key
+: A set of attributes in a database table that refers to the primary key of another table. The foreign key links these two tables.&nbsp;[†](#w-foreign-key)
+
 Fork
 : The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork can imply not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 
