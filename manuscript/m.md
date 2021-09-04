@@ -21,6 +21,9 @@ macOS, Apache, MySQL, PHP/Perl/Python
 Macromedia Flash
 : → Flash
 
+MacWWW
+: An early minimalist web browser from 1992 meant to run on Macintosh computers. It was the first web browser for the classic Mac OS platform, and the first for any non-Unix operating system. MacWWW tries to emulate the design of WorldWideWeb. Unlike modern browsers it opens each link in a new window only after a double-click.&nbsp;[†](#w-macwww)
+
 Magic code
 : An informal term for abstraction, used to describe code that handles complex tasks while hiding the respective complexity to present a simple interface. The term is somewhat tongue-in-cheek, and often carries bad connotations, implying that the true behavior of the code is not immediately apparent.&nbsp;[†](#w-magic)
 

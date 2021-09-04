@@ -274,6 +274,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management){#w-drm}
 * [Disabilities affecting intellectual abilities](https://en.wikipedia.org/wiki/Disabilities_affecting_intellectual_abilities){#w-cognitive-disability}
 * [Disability Discrimination Act 1995](https://en.wikipedia.org/wiki/Disability_Discrimination_Act_1995){#w-dda}
+* [Disciplined agile delivery](https://en.wikipedia.org/wiki/Disciplined_agile_delivery){#w-dad}
 * [Display contrast](https://en.wikipedia.org/wiki/Display_contrast){#w-contrast}
 * [Display resolution](https://en.wikipedia.org/wiki/Display_resolution){#w-resolution}
 * [Distributed Concurrent Versions System](https://en.wikipedia.org/wiki/Distributed_Concurrent_Versions_System){#w-dcvs}
@@ -617,6 +618,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
 * [Macromedia HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite){#w-homesite}
+* [MacWWW](https://en.wikipedia.org/wiki/MacWWW){#w-macwww}
 * [Magic (programming)](https://en.wikipedia.org/wiki/Magic_(programming)){#w-magic}
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability){#w-maintainability}
 * [Maintenance (technical)](https://en.wikipedia.org/wiki/Maintenance_(technical)){#w-maintenance}
@@ -821,6 +823,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Race condition](https://en.wikipedia.org/wiki/Race_condition){#w-race-condition}
 * [Raku (programming language)](https://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
 * [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
+* [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory){#w-random-access-memory}
 * [Ranking](https://en.wikipedia.org/wiki/Ranking){#w-ranking}
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics){#w-raster-image}
 * [Rate limiting](https://en.wikipedia.org/wiki/Rate_limiting){#w-rate-limiting}
@@ -847,6 +850,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
 * [Reserved word](https://en.wikipedia.org/wiki/Reserved_word){#w-keyword}
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework){#w-rdf}
+* [Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix){#w-responsibility-assignment-matrix}
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design){#w-rwd}
 * [Reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy){#w-reverse-proxy}
 * [Revision tag](https://en.wikipedia.org/wiki/Revision_tag){#w-tag}

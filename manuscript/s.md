@@ -12,12 +12,21 @@ Safari
 SAFe
 : → Scaled Agile Framework
 
+Samba
+: → MacWWW
+
 Same origin
 : → Origin
 
 Sandbox
 : In computer security, a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading. A sandbox is often used to execute untested or untrusted programs or code, possibly from unverified or untrusted third parties, suppliers, users or websites, without risking harm to the host machine or operating system. A sandbox typically provides a tightly controlled set of resources for guest programs to run in, such as storage and memory scratch space. Network access, the ability to inspect the host system, or read from input devices are usually disallowed or heavily restricted.&nbsp;[†](#w-sandbox-security)
-: In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software) 
+: In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software)
+
+SAP User Interface for HTML5
+: A user interface development toolkit based on HTML, CSS, and JavaScript, providing libraries to build desktop and mobile web applications. SAPUI5, first named Phoenix, was released in 2010 by SAP. ℹ︎&nbsp;[ui5.sap.com](https://ui5.sap.com/)
+
+SAPUI5
+: → SAP User Interface for HTML5
 
 Sass
 : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called the indented syntax, uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, SCSS (Sassy CSS), uses block formatting like that of CSS, with braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
@@ -42,6 +51,9 @@ Scaled Agile Framework
 
 Scaled Scrum
 : → Nexus
+
+Schema stitching
+: The process of creating a single GraphQL schema from multiple GraphQL services.
 
 SCM
 : → Source Code Management
@@ -79,6 +91,9 @@ Scrum
 
 Scrum Master
 : A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum.
+
+Scrum of Scrums
+: A technique to operate Scrum at scale, for multiple teams working on the same product, allowing them to discuss progress on their interdependencies and to coordinate on delivering software especially in areas of overlap and integration. Depending on the cadence (timing) of the Scrum of Scrums, the relevant Daily Scrum for each Scrum Team ends by designating one member as an ambassador to participate in the Scrum of Scrums with ambassadors from other teams. Rather than a progress update, the Scrum of Scrums should focus on how teams are collectively working to resolve, mitigate, or accept any risks, impediments, dependencies, and assumptions (RIDAs) that have been identified.&nbsp;[†](#w-scrum)
 
 Scrum Team
 : A self-organizing and cross-functional team consisting of Product Owner, the Development Team, and a Scrum Master.

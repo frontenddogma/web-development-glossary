@@ -25,6 +25,9 @@ Language
 Laravel
 : A PHP web framework based on Symfony, intended for the development of web applications following the model-view-controller (MVC) architectural pattern. Laravel features include a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and an orientation toward syntactic sugar. Laravel was released in 2011 by Taylor Otwell.&nbsp;[†](#w-laravel) ℹ︎&nbsp;[laravel.com](https://laravel.com/)
 
+Large-Scale Scrum
+: A product development framework that extends Scrum with scaling rules and guidelines without losing the original purposes of Scrum. There are two levels to the framework: The first LeSS level is designed for up to eight teams; the second level, known as “LeSS Huge,” introduces additional scaling elements for development with up to hundreds of developers.&nbsp;[†](#w-scrum)
+
 Largest Contentful Paint
 : The time it takes for the largest content element visible in the viewport to render. Large elements considered for measurement include images, videos, and large text blocks. ℹ︎&nbsp;[wicg.github.io/largest-contentful-paint](https://wicg.github.io/largest-contentful-paint/)
 
@@ -89,6 +92,9 @@ Legibility
 Less/LESS
 : A dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client or server side. The indented syntax of Less is a nested meta-language, as valid CSS is valid Less code with the same semantics. Less provides variables, nesting, mixins, operators, and functions. The main difference between Less and other CSS precompilers is that Less allows real-time compilation via less.js by the browser. Less was first released in 2009.&nbsp;[†](#w-less) ℹ︎&nbsp;[lesscss.org](http://lesscss.org/)
 
+LeSS
+: → Large-Scale Scrum
+
 Let’s Encrypt
 : A non-profit certificate authority run by Internet Security Research Group (ISRG) that provides X.509 certificates for Transport Layer Security (TLS) encryption at no charge. Certificate are valid for 90 days, during which renewal can take place at any time. The offer is accompanied by an automated process designed to overcome manual creation, validation, signing, installation, and renewal of certificates for secure websites. Let’s Encrypt was launched in 2016.&nbsp;[†](#w-lets-encrypt) ℹ︎&nbsp;[letsencrypt.org](https://letsencrypt.org/)
 
@@ -142,6 +148,9 @@ Line spacing
 
 Line terminator
 : → Newline
+
+Linear Responsibility Chart
+: → Responsibility Assignment Matrix
 
 Lines of Code
 : A software metric used to measure the size of a computer program by counting the number of lines in the text of the program’s source code. LOC (and SLOC, Source Lines of Code) is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.&nbsp;[†](#w-loc)
@@ -292,6 +301,9 @@ Love-at-first-sight pattern
 
 Low vision
 : → Visual impairment
+
+LRC
+: → Linear Responsibility Chart
 
 LSB
 : → Linux Standard Base

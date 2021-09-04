@@ -3,6 +3,9 @@
 D3.js
 : A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HyperText Markup Language (HTML), and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
 
+DAD
+: → Disciplined Agile Delivery
+
 Daemon
 : A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
 
@@ -148,7 +151,7 @@ Defect tracking system
 : → Bug tracking system
 
 Definition of “Done”
-: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum teams.
+: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum Teams.
 
 Delete, Add, View, Edit
 : A variation of CRUD.&nbsp;[†](#w-crud)
@@ -252,6 +255,9 @@ Directionality
 
 Disability Discrimination Act
 : British accessibility regulations which have been repealed and replaced by the Equality Act 2010 (except in Northern Ireland where the Act still applies).&nbsp;[†](#w-dda)
+
+Disciplined Agile Delivery
+: An approach to agile software development. DAD enables teams to make simplified process decisions around incremental and iterative solution delivery. It builds on the many practices espoused by advocates of agile software development, including Scrum, agile modeling, lean software development, and others.&nbsp;[†](#w-dad)
 
 Display advertising
 : Graphic advertising on Internet websites, apps, or social media through banners or other advertising formats made of text, images, Flash, video, and audio. The main purpose of display advertising is to deliver general advertisements and brand messages to site visitors.&nbsp;[†](#w-display-advertising)

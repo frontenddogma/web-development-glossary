@@ -6,14 +6,24 @@ Race condition
 Race hazard
 : → Race condition
 
+RACI matrix
+: → Responsibility Assignment Matrix
+
 Rails
 : → Ruby on Rails
 
 Raku
 : A member of the Perl family of programming languages. Formerly known as Perl&nbsp;6, it was renamed in 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification. The design process for Raku began in 2000.&nbsp;[†](#w-raku) ℹ︎&nbsp;[raku.org](https://www.raku.org/)
 
+RAM
+: → Random-Access Memory
+: → Responsibility Assignment Matrix
+
 Random variable
 : A variable whose values depend on outcomes of a random phenomenon. The formal mathematical treatment of random variables is a topic in probability theory. In that context, a random variable is understood as a measurable function defined on a probability space whose outcomes are typically real numbers.&nbsp;[†](#w-random-variable)
+
+Random-Access Memory
+: A form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media.&nbsp;[†](#w-random-access-memory)
 
 Ranking
 : A relationship between a set of items such that, for any two items, the first is either “ranked higher than,” “ranked lower than,” or “ranked equal to” the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank, and TrustRank.&nbsp;[†](#w-ranking)
@@ -244,6 +254,9 @@ Response
 
 Response header
 : An HTTP header that can be used in an HTTP response and that does not relate to the content of the message. Response headers, like `Age`, `Location`, or `Server` are used to give a more detailed context of the response. Not all headers appearing in a response are response headers. For example, the `Content-Length` header is an entity header referring to the size of the body of the response message. However, these entity requests are usually called responses headers in such a context.&nbsp;[‡](#m-response-header)
+
+Responsibility Assignment Matrix
+: A description of the participation of various roles in completing tasks or deliverables for a project or business process. When referred to as a RACI matrix, “RACI” stands for the four key responsibilities most typically used: responsible, accountable, consulted, and informed. RAMs and RACIs are used for defining and clarifying roles and responsibilities in cross-functional or departmental projects and processes.&nbsp;[†](#w-responsibility-assignment-matrix)
 
 Responsive design
 : → Responsive web design
