@@ -72,6 +72,9 @@ Parameter
 Paraphrase testing
 : A method to test the effectiveness of content in which test participants paraphrase and explain sections that they were asked to read. Notes on the responses can be analyzed and used for follow-up questions.
 
+Parcel
+: A web application bundler. Parcel was released in 2017. ℹ︎&nbsp;[parceljs.org](https://parceljs.org/)
+
 Pareto Principle
 : The observation that for many events, roughly 80% of the effects come from 20% of the causes. It is named after Italian economist Vilfredo Pareto, who noted the 80/20 connection in 1896, as published in his first work, _Cours d’économie politique_. In it, Pareto showed that approximately 80% of the land in Italy was owned by 20% of the population. It is a similar axiom of business management that “80% of sales come from 20% of clients.”&nbsp;[†](#w-pareto-principle)
 

@@ -914,10 +914,12 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Shell (computing)](https://en.wikipedia.org/wiki/Shell_(computing)){#w-shell}
 * [Shim (computing)](https://en.wikipedia.org/wiki/Shim_(computing)){#w-shim}
 * [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol){#w-smtp}
+* [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure){#w-spof}
 * [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle){#w-srp}
 * [Single-page application](https://en.wikipedia.org/wiki/Single-page_application){#w-spa}
 * [Site map](https://en.wikipedia.org/wiki/Site_map){#w-site-map}
 * [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps){#w-sitemaps}
+* [Slowloris (computer security)](https://en.wikipedia.org/wiki/Slowloris_(computer_security)){#w-slowloris}
 * [Smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_(software)){#w-smoke-testing}
 * [Snake case](https://en.wikipedia.org/wiki/Snake_case){#w-snake-case}
 * [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
@@ -951,6 +953,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack){#w-spoofing}
 * [SQL](https://en.wikipedia.org/wiki/SQL){#w-sql}
 * [SQL injection](https://en.wikipedia.org/wiki/SQL_injection){#w-sql-injection}
+* [Squarespace](https://en.wikipedia.org/wiki/Squarespace){#w-squarespace}
 * [sRGB](https://en.wikipedia.org/wiki/SRGB){#w-srgb}
 * [SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol){#w-sftp}
 * [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)){#w-stack}
@@ -1274,6 +1277,7 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [Scrollport](https://developer.mozilla.org/en-US/docs/Glossary/Scrollport){#m-scrollport}
 * [Secure contexts](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts){#m-secure-context}
 * [Shadow tree](https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree){#m-shadow-tree}
+* [SharedWorker](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker){#m-shared-worker}
 * [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties){#m-shorthand}
 * [Snap positions](https://developer.mozilla.org/en-US/docs/Glossary/Snap_positions){#m-snap-position}
 * [Speed index](https://developer.mozilla.org/en-US/docs/Glossary/Speed_index){#m-speed-index}

@@ -283,6 +283,9 @@ Shared hosting
 Shared tenancy
 : → Shared hosting
 
+Shared worker
+: A special kind of web worker that can be accessed from several browsing contexts, such as several windows, iframes, or even workers. Shared workers implement an interface different from dedicated workers and have a different global scope, `SharedWorkerGlobalScope`.&nbsp;[‡](#m-shared-worker)
+
 Shebang
 : The character sequence consisting of the characters number sign and exclamation mark (`#!`) at the beginning of a script. In Unix-like operating systems, when a text file has a shebang, it is interpreted as an executable file. In this case, the program loader mechanism parses the rest of the file’s initial line as an interpreter directive. The loader executes the specified interpreter program, passing to it as an argument the path that was initially used when attempting to run the script, so that the program may use the file as input data.&nbsp;[†](#w-shebang)
 
@@ -318,6 +321,9 @@ Simple Mail Transfer Protocol
 
 Simple Object Access Protocol
 : A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP’s purpose is to provide extensibility, neutrality, and independence. It uses XML Information Set for its message format, and relies on application-layer protocols, most often Hypertext Transfer Protocol (HTTP), for message negotiation and transmission. SOAP was first released in 1998.&nbsp;[†](#w-soap)
+
+Single point of failure
+: A part of a system that, if it fails, will stop the entire system from working. SPOFs are undesirable in any system with a goal of high availability or reliability, be it a business practice, software application, or other industrial system. Systems can be made robust by adding redundancy in all potential SPOFs.&nbsp;[†](#w-spof)
 
 Single Responsibility Principle
 : A computer programming principle that states that every module, class, or function should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the module, class, or function. All its services should be narrowly aligned with that responsibility.&nbsp;[†](#w-srp)
@@ -367,6 +373,9 @@ Sloppy mode
 Slot
 : The HTML `slot` element and the respective use with web components.
 
+Slowloris
+: A denial of service attack tool which allows a single machine to take down another machine’s web server with minimal bandwidth and side effects on unrelated services and ports. Slowloris tries to establish connections to the target web server and to hold these open as long as possible, eventually leading the affected server to deny additional connection attempts. The program was named after slow lorises, a group of primates which are known for their slow movement. Slowloris was released in 2009.&nbsp;[†](#w-slowloris)
+
 Slug
 : The part of a URL that identifies a page in human-readable keywords. A slug is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word “slug” in the news media to indicate a short name given to an article for internal use.&nbsp;[†](#w-clean-url)
 
@@ -405,6 +414,9 @@ Snap position
 
 SNI
 : → Server Name Indication
+
+Snowpack
+: A frontend build tool. Snowpack was released in 2020. ℹ︎&nbsp;[snowpack.dev](https://www.snowpack.dev/)
 
 SOA
 : → Service-oriented architecture
@@ -515,6 +527,9 @@ Spinner
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
 
+SPOF
+: → Single point of failure
+
 Spoofing
 : A situation in which a person or program successfully identifies as another by falsifying data, to gain an illegitimate advantage.&nbsp;[†](#w-spoofing)
 
@@ -538,6 +553,12 @@ SQL injection
 
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
+
+Squarespace
+: A website building and hosting company. It provides software as a service for website building and hosting, allowing users to use pre-built website templates and drag-and-drop elements to create and modify webpages. Squarespace was founded in 2003.&nbsp;[†](#w-squarespace) ℹ︎&nbsp;[squarespace.com](https://www.squarespace.com/)
+
+Squint test
+: An improvised test for the effectiveness of a design, involving to squint the eyes when looking at the design to assess visual structure and hierarchy.
 
 src
 : A name conventionally used for the main folder for source code and files.

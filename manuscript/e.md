@@ -61,13 +61,13 @@ Electron
 : A framework developed and maintained by GitHub. Electron combines the Chromium rendering engine and the Node.js runtime, and allows for the development of desktop GUI applications using web technologies. Electron was first released in 2013.&nbsp;[†](#w-electron) ℹ︎&nbsp;[electronjs.org](https://www.electronjs.org/)
 
 Electronic Frontier Foundation
-: An international non-profit digital rights group based in San Francisco, California. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
+: An international non-profit digital rights group. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
 
 Element
 : In HTML, a part of a document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
 
 Eleventy
-: A JavaScript-based, zero-config static site generator. Eleventy was released in 2018 by Zach Leatherman. ℹ︎&nbsp;[11ty.dev](https://www.11ty.dev/)
+: A JavaScript-based static site generator. Eleventy was released in 2018 by Zach Leatherman. ℹ︎&nbsp;[11ty.dev](https://www.11ty.dev/)
 
 `else`
 : → Conditional
