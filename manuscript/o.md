@@ -78,6 +78,9 @@ OOM
 OOP
 : → Object-Oriented Programming
 
+OOPIF
+: → Out-of-Process Iframe
+
 Open Authorization
 : An open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords. This mechanism is used by companies such as Amazon, Google, Facebook, Microsoft, and Twitter to permit the users to share information about their accounts with third-party services. OAuth is a service that is complementary to and distinct from OpenID; however, OAuth is directly related to OpenID Connect (OIDC), since OIDC is an authentication layer built on top of OAuth&nbsp;2.0. Development of OAuth began in 2006.&nbsp;[†](#w-oauth) ℹ︎&nbsp;[oauth.net](https://oauth.net/)
 
@@ -159,6 +162,9 @@ OTP
 
 Out of memory
 : An often undesired state of computer operation where no additional memory can be allocated for use by programs or the operating system. Such a system will be unable to load any additional programs, and since many programs may load additional data into memory during execution, these will cease to function correctly.&nbsp;[†](#w-oom)
+
+Out-of-Process Iframe
+: An iframe that’s being handled in a different rendering process for security reasons.
 
 Outline
 : A CSS feature managed with special `outline` properties that allows to draw lines around elements. A CSS outline is different from a border in that it does not take up space, and that it may be non-rectangular.

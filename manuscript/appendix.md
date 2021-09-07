@@ -173,6 +173,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Command-query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation){#w-cqs}
 * [Comment (computer programming)](https://en.wikipedia.org/wiki/Comment_(computer_programming)){#w-comment}
 * [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface){#w-cgi}
+* [Common Vulnerabilities and Exposures](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures){#w-cve}
 * [Common Vulnerability Scoring System](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System){#w-cvss}
 * [CommonJS](https://en.wikipedia.org/wiki/CommonJS){#w-commonjs}
 * [Communication protocol](https://en.wikipedia.org/wiki/Communication_protocol){#w-protocol}
@@ -946,6 +947,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Spamdexing](https://en.wikipedia.org/wiki/Spamdexing){#w-spamdexing}
 * [Spamming](https://en.wikipedia.org/wiki/Spamming){#w-spamming}
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
+* [Spectre (security vulnerability)](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)){#w-spectre}
 * [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
 * [Spike (software development)](https://en.wikipedia.org/wiki/Spike_(software_development)){#w-spike}
 * [Spinner (computing)](https://en.wikipedia.org/wiki/Spinner_(computing)){#w-spinner}
@@ -967,6 +969,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Stream (computing)](https://en.wikipedia.org/wiki/Stream_(computing)){#w-stream}
 * [Streaming media](https://en.wikipedia.org/wiki/Streaming_media){#w-streaming}
 * [String (computer science)](https://en.wikipedia.org/wiki/String_(computer_science)){#w-string}
+* [Structural similarity](https://en.wikipedia.org/wiki/Structural_similarity){#w-ssim}
 * [Style sheet (web development)](https://en.wikipedia.org/wiki/Style_sheet_(web_development)){#w-style-sheet}
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
 * [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}

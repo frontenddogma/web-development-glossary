@@ -511,6 +511,9 @@ Specification
 Specificity
 : A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector’s specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have the final say.)
 
+Spectre
+: A vulnerability that affects modern microprocessors that perform branch prediction. On most processors, the speculative execution resulting from a branch misprediction may leave observable side effects that may reveal private data to attackers. Spectre was discovered in 2018.&nbsp;[†](#w-spectre)
+
 Speed Index
 : A page load performance metric that shows how quickly the contents of a page are visibly populated. Speed Index is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on the size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)
 
@@ -578,6 +581,9 @@ SSH
 
 SSH File Transfer Protocol
 : A network protocol that provides file access, file transfer, and file management over any reliable data stream. SFTP was designed by the Internet Engineering Task Force (IETF) as an extension of the Secure Shell protocol (SSH) version 2.0 to provide secure file transfer capabilities. The protocol assumes that it is run over a secure channel, such as SSH, that the server has already authenticated the client, and that the identity of the client user is available to the protocol.&nbsp;[†](#w-sftp)
+
+SSIM
+: → Structural Similarity Index Measure
 
 SSL
 : → Secure Sockets Layer
@@ -672,6 +678,9 @@ Strict mode
 
 String
 : A sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.&nbsp;[†](#w-string)
+
+Structural Similarity Index Measure
+: A method for predicting the perceived quality of digital television and cinematic pictures, as well as other kinds of digital images and videos. SSIM is used for measuring the similarity between two images. The SSIM index is a full reference metric; in other words, the measurement or prediction of image quality is based on an initial uncompressed or distortion-free image as reference.&nbsp;[†](#w-ssim)
 
 Structure
 : In web development, the code that deals with how content is organized and weighed. This is usually achieved through HTML (HyperText Markup Language).
