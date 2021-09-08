@@ -200,6 +200,9 @@ Inline-level element
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
+Insertion mode
+: In HTML, the state variable that controls the primary operation of the tree construction stage. It affects how tokens are processed and whether CDATA sections are supported.&nbsp;§
+
 Instance store
 : Storage capacity located on disks physically attached to the respective host machine. In cloud computing, an instance store is used for temporary storage.
 
