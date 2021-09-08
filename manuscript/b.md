@@ -31,6 +31,9 @@ Backward compatibility
 Bad Neighborhood
 : Bad quality websites, or websites that are being penalized and downgraded by search engines. Search engine optimization (SEO) best practices suggest to avoid links to and from bad neighborhood websites.
 
+Bada
+: A discontinued operating system for mobile devices such as smartphones and tablet computers. Bada was developed by Samsung. Its name is derived from “바다” (“bada”), meaning “ocean” or “sea” in Korean. Bada was released in 2010 and discontinued in 2013.&nbsp;[†](#w-bada)
+
 Bandwidth
 : The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
 

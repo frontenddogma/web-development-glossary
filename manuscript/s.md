@@ -18,6 +18,9 @@ Samba
 Same origin
 : → Origin
 
+Same-origin policy
+: An important concept in the web application security model. Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number. The same-origin policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page’s Document Object Model (DOM).&nbsp;[†](#w-sop)
+
 Sandbox
 : In computer security, a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading. A sandbox is often used to execute untested or untrusted programs or code, possibly from unverified or untrusted third parties, suppliers, users or websites, without risking harm to the host machine or operating system. A sandbox typically provides a tightly controlled set of resources for guest programs to run in, such as storage and memory scratch space. Network access, the ability to inspect the host system, or read from input devices are usually disallowed or heavily restricted.&nbsp;[†](#w-sandbox-security)
 : In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software)
@@ -472,6 +475,9 @@ SOLID
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
 
+SOP
+: → Same-origin policy
+
 Source Code Management
 : → Version control
 
@@ -558,7 +564,7 @@ Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
 Squarespace
-: A website building and hosting company. It provides software as a service for website building and hosting, allowing users to use pre-built website templates and drag-and-drop elements to create and modify webpages. Squarespace was founded in 2003.&nbsp;[†](#w-squarespace) ℹ︎&nbsp;[squarespace.com](https://www.squarespace.com/)
+: A website building and hosting company. It provides software as a service for website building and hosting, allowing users to use pre-built website templates and drag-and-drop elements to create and modify web pages. Squarespace was founded in 2003.&nbsp;[†](#w-squarespace) ℹ︎&nbsp;[squarespace.com](https://www.squarespace.com/)
 
 Squint test
 : An improvised test for the effectiveness of a design, involving to squint the eyes when looking at the design to assess visual structure and hierarchy.

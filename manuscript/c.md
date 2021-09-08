@@ -204,6 +204,9 @@ CIDR
 Cipher
 : An algorithm for encryption or decryption. To encipher or encode is to convert information into cipher or code.&nbsp;[†](#w-cipher)
 
+CircleCI
+: A continuous integration and delivery platform. CircleCI was founded in 2011. ℹ︎&nbsp;[circleci.com](https://circleci.com/)
+
 CL
 : → Change list
 
@@ -681,6 +684,9 @@ Cross-Origin Resource Policy
 
 Cross-Site Request Forgery
 : A type of malicious exploit of a website where unauthorized commands are transmitted from a user that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image elements, hidden forms, and JavaScript XMLHttpRequests, for example, can all work without the user’s interaction or even knowledge. Unlike cross-site scripting (XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user’s browser.&nbsp;[†](#w-csrf)
+
+Cross-Site Script Inclusion
+: A vulnerability which uses the circumstance that a script referenced through a `script` element is exempt from the same-origin policy, as scripts need to work across domains. An attacker may access and use what is being loaded using the respective script, and thus leaked across origins.
 
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)

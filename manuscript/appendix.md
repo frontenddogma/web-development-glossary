@@ -78,6 +78,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Backlink](https://en.wikipedia.org/wiki/Backlink){#w-backlink}
 * [Backup](https://en.wikipedia.org/wiki/Backup){#w-backup}
 * [Backward compatibility](https://en.wikipedia.org/wiki/Backward_compatibility){#w-backward-compatibility}
+* [Bada](https://en.wikipedia.org/wiki/Bada){#w-bada}
 * [Bandwidth (computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)){#w-bandwidth}
 * [Base64](https://en.wikipedia.org/wiki/Base64){#w-base64}
 * [Baseline (typography)](https://en.wikipedia.org/wiki/Baseline_(typography)){#w-baseline}
@@ -735,6 +736,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Open-closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle){#w-open-closed}
 * [OpenID](https://en.wikipedia.org/wiki/OpenID){#w-openid}
 * [OpenType](https://en.wikipedia.org/wiki/OpenType){#w-opentype}
+* [Opera Mini](https://en.wikipedia.org/wiki/Opera_Mini){#w-opera-mini}
 * [Operand](https://en.wikipedia.org/wiki/Operand){#w-operand}
 * [Operating system](https://en.wikipedia.org/wiki/Operating_system){#w-os}
 * [Operator (computer programming)](https://en.wikipedia.org/wiki/Operator_(computer_programming)){#w-operator-computer-science}
@@ -876,6 +878,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails){#w-ruby-on-rails}
 * [Runbook](https://en.wikipedia.org/wiki/Runbook){#w-runbook}
 * [Safari (web browser)](https://en.wikipedia.org/wiki/Safari_(web_browser)){#w-safari}
+* [Same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy){#w-sop}
 * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security)){#w-sandbox-security}
 * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development)){#w-sandbox-software}
 * [Sass (stylesheet language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)){#w-sass}
@@ -1008,6 +1011,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Time-based One-Time Password](https://en.wikipedia.org/wiki/Time-based_One-Time_Password){#w-totp}
 * [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
+* [Tizen](https://en.wikipedia.org/wiki/Tizen){#w-tizen}
 * [Tokenization (data security)](https://en.wikipedia.org/wiki/Tokenization_(data_security)){#w-tokenization}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
@@ -1179,6 +1183,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [XUL](https://en.wikipedia.org/wiki/XUL){#w-xul}
 * [Yahoo! Query Language](https://en.wikipedia.org/wiki/Yahoo!_Query_Language){#w-yql}
 * [YAML](https://en.wikipedia.org/wiki/YAML){#w-yaml}
+* [Yandex Browser](https://en.wikipedia.org/wiki/Yandex_Browser){#w-yandex-browser}
 * [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem){#w-y2k}
 * [You aren’t gonna need it](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it){#w-yagni}
 * [YUI Library](https://en.wikipedia.org/wiki/YUI_Library){#w-yui}

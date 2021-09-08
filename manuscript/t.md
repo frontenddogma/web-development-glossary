@@ -190,6 +190,9 @@ tink
 Tiny integer
 : An integral data type of 8 bits, with a signed range from –128 to 127, and an unsigned range from 0 to 255.
 
+Tizen
+: A Linux-based mobile operating system backed by the Linux Foundation but developed and used primarily by Samsung. The project was originally conceived as an HTML-based platform for mobile devices to succeed MeeGo. Samsung merged its previous Linux-based OS effort, Bada, into Tizen, and has since used it primarily on platforms such as wearable devices and smart TVs. Tizen was first released in 2012.&nbsp;[†](#w-tizen) ℹ︎&nbsp;[tizen.org](https://www.tizen.org/)
+
 TL
 : → Technical Lead
 
@@ -344,6 +347,9 @@ TTL
 
 TUFU
 : → Trust Upon First Use
+
+Turbo mode
+: → Opera Turbo mode
 
 Turbo pages
 : A website publishing technology based on feed syndication, developed by Yandex. Turbo pages were introduced in 2017. ℹ︎&nbsp;[tech.yandex.com/turbo](https://tech.yandex.com/turbo/)

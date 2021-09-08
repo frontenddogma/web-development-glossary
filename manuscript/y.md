@@ -25,6 +25,9 @@ YAML
 YAML Ain’t Markup Language
 : A human-readable data-serialization language that is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as XML but has a minimal syntax which intentionally differs from SGML. It uses both Python-style indentation to indicate nesting, and a more compact format that uses `[]` for lists and `{}` for maps, making YAML 1.2 a superset of JSON.&nbsp;[†](#w-yaml) ℹ︎&nbsp;[yaml.org](https://yaml.org/)
 
+Yandex Browser
+: A web browser developed by the web search company Yandex that is based on the Chromium project and uses the Blink web browser engine. The browser checks web page security with the Yandex security system, and downloaded files with Kaspersky Anti-Virus. Yandex Browser was first released in 2012.&nbsp;[†](#w-yandex-browser) ℹ︎&nbsp;[yaml.org](https://yaml.org/) ℹ︎&nbsp;[browser.yandex.com](https://browser.yandex.com/)
+
 Yarn
 : A package manager for the JavaScript programming language. Yarn was developed in 2016 by Facebook. ℹ︎&nbsp;[yarnpkg.com](https://yarnpkg.com/)
 
