@@ -111,6 +111,9 @@ CD
 : → Continuous Delivery
 : → Continuous Deployment
 
+CDATA
+: → Character Data
+
 CDN
 : → Content Delivery Network
 
@@ -153,11 +156,14 @@ Chaos engineering
 Character
 : An encoded symbol that maps to a glyph.
 
+Character Data
+: A concept used for distinct but related purposes in the markup languages SGML and XML. “CDATA” indicates that a certain portion of the document is general character data, rather than non-character data or character data with a more specific, limited structure.&nbsp;[†](#w-cdata)
+
 Character encoding
 : A mapping of code points to characters, like UTF-8.
 
 Character entity reference
-: A character reference that refers to a character by the name of an entity which has the desired character as its replacement text. The entity must either be predefined (built into the markup language) or explicitly declared in a Document Type Definition (DTD). The format is the same as for any entity reference: `&name;`, where “name” is the case-sensitive name of the entity.&nbsp;[†](#w-character-reference)
+: A character reference that refers to a character by the name of an entity which has the desired character as its replacement text. The entity must either be predefined (built into the markup language) or explicitly declared in a document type definition (DTD). The format is the same as for any entity reference: `&name;`, where “name” is the case-sensitive name of the entity.&nbsp;[†](#w-character-reference)
 
 Character reference
 : → Character entity reference
@@ -247,6 +253,9 @@ Client Hints
 
 Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
+
+Client-Side Rendering
+: A technique in which a page is rendered on the client side, as opposed to the server side (as with SSR). On the first request, only a skeleton (a minimal HTML document) is returned by the server. It is then populated on the client side, usually via JavaScript, to turn it into a fully rendered page.
 
 Cloaking
 : A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to a user’s browser. This can be done by delivering content based on the IP addresses or the `User-Agent` HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
@@ -705,6 +714,9 @@ CSCS
 
 CSP
 : → Content Security Policy
+
+CSR
+: → Client-Side Rendering
 
 CSRF
 : → Cross-Site Request Forgery

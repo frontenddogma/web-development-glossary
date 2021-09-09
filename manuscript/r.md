@@ -37,6 +37,9 @@ Rate limiting
 Rax
 : A React framework for building universal applications. Rax is maintained by Alibaba. ℹ︎&nbsp;[rax.js.org](https://rax.js.org/)
 
+RCDATA
+: → Replaceable Character Data
+
 RCS
 : → Revision Control System
 
@@ -197,6 +200,9 @@ RenderingNG
 
 REP
 : → Robots Exclusion Protocol
+
+Replaceable Character Data
+: A term (“RCDATA”) used to declare that a markup element may contain text content and entity references, but not subelements.
 
 Replay attack
 : A form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed. This is carried out either by the originator or by an adversary who intercepts the data and re-transmits it, possibly as part of a spoofing attack by IP packet substitution. This is one of the lower-tier versions of a man-in-the-middle attack. Replay attacks are usually passive in nature.&nbsp;[†](#w-replay-attack)

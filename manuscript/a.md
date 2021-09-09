@@ -212,7 +212,7 @@ Amazon VPC
 : A commercial cloud computing service that provides users a virtual private cloud, by provisioning a logically isolated section of the Amazon Web Services (AWS) cloud.&nbsp;[†](#w-amazon-vpc) ℹ︎&nbsp;[aws.amazon.com/vpc](https://aws.amazon.com/vpc/)
 
 Amazon Web Services
-: A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
+: A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws) ℹ︎&nbsp;[aws.amazon.com](https://aws.amazon.com/)
 
 AMD
 : → Asynchronous Module Definition

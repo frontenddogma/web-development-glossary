@@ -12,6 +12,9 @@ Garbage In, Garbage Out
 Gatsby
 : A React-based frontend framework for creating websites, and a serverless cloud platform to build, deploy, and host the respective websites. Gatsby was released in 2017. ℹ︎&nbsp;[gatsbyjs.com](https://www.gatsbyjs.com/)
 
+GCP
+: → Google Cloud Platform
+
 GDPR
 : → General Data Protection Regulation
 
@@ -111,6 +114,9 @@ Golden section
 
 Google Chrome
 : → Chrome
+
+Google Cloud Platform
+: A suite of cloud computing services that runs on the same infrastructure that Google uses for its end user products, such as Google Search, Gmail, or YouTube. Alongside a set of management tools, GCP provides a series of modular cloud services covering computing, data storage, data analytics, and machine learning.&nbsp;[†](#w-gcp) ℹ︎&nbsp;[cloud.google.com](https://cloud.google.com/)
 
 Google Lighthouse
 : → Lighthouse

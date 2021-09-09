@@ -132,6 +132,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA){#w-captcha}
 * [Caret](https://en.wikipedia.org/wiki/Caret){#w-caret}
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets){#w-css}
+* [CDATA](https://en.wikipedia.org/wiki/CDATA){#w-cdata}
 * [Certificate authority](https://en.wikipedia.org/wiki/Certificate_authority){#w-ca}
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering){#w-chaos-engineering}
 * [CheiRank](https://en.wikipedia.org/wiki/CheiRank){#w-cheirank}
@@ -410,6 +411,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language)){#w-go}
 * [Goanna (software)](https://en.wikipedia.org/wiki/Goanna_(software)){#w-goanna}
 * [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio){#w-golden-ratio}
+* [Google Cloud Platform](https://en.wikipedia.org/wiki/Google_Cloud_Platform){#w-gcp}
 * [Google Lighthouse](https://en.wikipedia.org/wiki/Google_Lighthouse){#w-lighthouse}
 * [Google PageSpeed Tools](https://en.wikipedia.org/wiki/Google_PageSpeed_Tools){#w-pagespeed}
 * [Google TalkBack](https://en.wikipedia.org/wiki/Google_TalkBack){#w-talkback}
@@ -766,6 +768,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Pay-per-click](https://en.wikipedia.org/wiki/Pay-per-click){#w-ppc}
 * [Payload (computing)](https://en.wikipedia.org/wiki/Payload_(computing)){#w-payload}
 * [Paywall](https://en.wikipedia.org/wiki/Paywall){#w-paywall}
+* [PCDATA](https://en.wikipedia.org/wiki/PCDATA){#w-pcdata}
 * [PDF](https://en.wikipedia.org/wiki/PDF){#w-pdf}
 * [Penetration test](https://en.wikipedia.org/wiki/Penetration_test){#w-penetration-testing}
 * [Perceived performance](https://en.wikipedia.org/wiki/Perceived_performance){#w-perceived-performance}
@@ -812,6 +815,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Proxy server](https://en.wikipedia.org/wiki/Proxy_server){#w-proxy}
 * [Public key certificate](https://en.wikipedia.org/wiki/Public_key_certificate){#w-certificate}
 * [Punycode](https://en.wikipedia.org/wiki/Punycode){#w-punycode}
+* [Puppet (software)](https://en.wikipedia.org/wiki/Puppet_(software)){#w-puppet}
 * [Push technology](https://en.wikipedia.org/wiki/Push_technology){#w-push-technology}
 * [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language)){#w-python}
 * [qooxdoo](https://en.wikipedia.org/wiki/Qooxdoo){#w-qooxdoo}
