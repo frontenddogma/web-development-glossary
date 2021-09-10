@@ -43,6 +43,9 @@ WCAG
 WCAG Samurai
 : A group of developers independent of the World Wide Web Consortium (W3C), led by Joe Clark, that from 2006 to 2008 published suggestions, corrections, and extensions to WCAG&nbsp;1.0.&nbsp;[†](#w-wcag)
 
+Weak character
+: A character with vague direction. Examples include European digits, Eastern Arabic-Indic digits, arithmetic symbols, and currency symbols.&nbsp;[†](#w-bidirectional)
+
 Web&nbsp;2.0
 : A term for websites that emphasize user-generated content, ease of use, participatory culture, and interoperability (i.e., compatibility with other products, systems, and devices) for end users. The term was invented by Darcy DiNucci in 1999 and later popularized by Tim O’Reilly and Dale Dougherty at the O’Reilly Media Web&nbsp;2.0 Conference in late 2004. The concept details only the design and use of websites and does not place any technical demands or specifications. The transition to “Web&nbsp;2.0” was gradual and, therefore, no precise dates can be given.&nbsp;[†](#w-web-20)
 
@@ -224,6 +227,9 @@ WebView
 WeChat Mini Program
 : → Mini Program
 
+Weebly
+: A website builder and web hosting service. Weebly was founded in 2006; in 2018, it was acquired by Square. ℹ︎&nbsp;[weebly.com](https://www.weebly.com/)
+
 Weekly Active Users
 : → Active Users
 
@@ -334,6 +340,9 @@ Workbox
 
 Working Draft
 : The initial design phase of a World Wide Web Consortium (W3C) specification. Based on internal and external feedback, the respective W3C Working Group fleshes out the draft.
+
+Worklet
+: A piece of HTML specification infrastructure which can be used for running scripts independent of the main JavaScript execution environment, while not requiring a particular implementation model. Worklets are similar to web workers but are thread-agnostic; they are able to have multiple duplicate instances of the global scope created; they do not use an event-based API; they have a reduced API surface on the global scope; and they have a lifetime for their global object which is defined by other specifications.&nbsp;§
 
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)
