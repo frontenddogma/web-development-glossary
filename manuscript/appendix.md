@@ -544,6 +544,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [JavaScript Style Sheets](https://en.wikipedia.org/wiki/JavaScript_Style_Sheets){#w-jsss}
 * [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages){#w-jsp}
 * [JAWS (screen reader)](https://en.wikipedia.org/wiki/JAWS_(screen_reader)){#w-jaws}
+* [Jenkins (software)](https://en.wikipedia.org/wiki/Jenkins_(software)){#w-jenkins}
 * [Jetty (web server)](https://en.wikipedia.org/wiki/Jetty_(web_server)){#w-jetty}
 * [Jinja (template engine)](https://en.wikipedia.org/wiki/Jinja_(template_engine)){#w-jinja}
 * [Jira (software)](https://en.wikipedia.org/wiki/Jira_(software)){#w-jira}
@@ -685,6 +686,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Muphry’s law](https://en.wikipedia.org/wiki/Muphry's_law){#w-muphrys-law}
 * [Murphy’s law](https://en.wikipedia.org/wiki/Murphy%27s_law){#w-murphys-law}
 * [Mustache (template system)](https://en.wikipedia.org/wiki/Mustache_(template_system)){#w-mustache}
+* [Mutual authentication](https://en.wikipedia.org/wiki/Mutual_authentication){#w-mutual-authentication}
 * [MySQL](https://en.wikipedia.org/wiki/MySQL){#w-mysql}
 * [Name binding](https://en.wikipedia.org/wiki/Name_binding){#w-binding}
 * [Name server](https://en.wikipedia.org/wiki/Name_server){#w-name-server}
@@ -1162,6 +1164,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero){#w-windows-aero}
 * [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol){#w-wap}
 * [Wireless Markup Language](https://en.wikipedia.org/wiki/Wireless_Markup_Language){#w-wml}
+* [Wix.com](https://en.wikipedia.org/wiki/Wix.com){#w-wix}
 * [WordPress](https://en.wikipedia.org/wiki/WordPress){#w-wordpress}
 * [Workaround](https://en.wikipedia.org/wiki/Workaround){#w-workaround}
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web){#w-www}

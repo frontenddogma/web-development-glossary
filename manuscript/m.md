@@ -344,6 +344,9 @@ MSHTML
 MSIE
 : → Internet Explorer
 
+mTLS
+: → Mutual TLS authentication
+
 Multi-factor authentication
 : An authentication method in which a computer user is granted access only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows), possession (something the user and only the user has), and inherence (something the user and only the user is).&nbsp;[†](#w-mfa)
 
@@ -370,6 +373,12 @@ Mutable
 
 Mutation
 : In JavaScript, a change of the DOM tree or a change of object properties.
+
+Mutual authentication
+: The mutual authenticating of two parties at the same time, in an authentication protocol. Mutual authentication is a default mode of authentication in some protocols (IKE, SSH) and optional in others (TLS). Mutual authentication is desired in verification schemes that transmit sensitive data, in order to ensure data security. It can be accomplished with two types of credentials: usernames and passwords, and public key certificates.&nbsp;[†](#w-mutual-authentication)
+
+Mutual TLS authentication
+: Mutual authentication including client-to-server authentication using client-side X.509 certificates. mTLS is more often used in business-to-business (B2B) applications, where a limited number of programmatic and homogeneous clients are connecting to specific web services, the operational burden is limited, and security requirements are usually higher as compared to consumer environments.&nbsp;[†](#w-mutual-authentication)
 
 MVC
 : → Model-View-Controller

@@ -75,6 +75,9 @@ JDK
 Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
 
+Jenkins
+: A continuous integration and delivery solution that helps to automate testing, building, and deploying software. Jenkins was first released in 2011.&nbsp;[†](#w-jenkins) ℹ︎&nbsp;[jenkins.io](https://www.jenkins.io/)
+
 Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
 
