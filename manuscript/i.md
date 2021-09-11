@@ -23,6 +23,12 @@ IaC
 IANA
 : → Internet Assigned Numbers Authority
 
+IBM Home Page Reader
+: → Home Page Reader
+
+IBM WebExplorer
+: → WebExplorer
+
 ICANN
 : → Internet Corporation for Assigned Names and Numbers
 
@@ -200,6 +206,9 @@ Inline-level element
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
 
+Input/output operations per second
+: An input/output performance measurement used to characterize computer storage devices like hard disk drives (HDD), solid state drives (SSD), and storage area networks (SAN). Like benchmarks, IOPS numbers published by storage device manufacturers do not directly relate to real-world application performance.&nbsp;[†](#w-iops)
+
 Insertion mode
 : In HTML, the state variable that controls the primary operation of the tree construction stage. It affects how tokens are processed and whether CDATA sections are supported.&nbsp;§
 
@@ -361,6 +370,9 @@ Inverted Triangle CSS
 
 IoC
 : → Inversion of Control
+
+IOPS
+: → Input/output operations per second
 
 iOS
 : A mobile operating system created and developed by Apple, exclusively for its hardware. iOS was first released in 2007.&nbsp;[†](#w-ios) ℹ︎&nbsp;[apple.com/ios](https://www.apple.com/ios/)

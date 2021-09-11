@@ -472,6 +472,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol){#w-http}
 * [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor){#w-hypervisor}
 * [IBM Home Page Reader](https://en.wikipedia.org/wiki/IBM_Home_Page_Reader){#w-hpr}
+* [IBM WebExplorer](https://en.wikipedia.org/wiki/IBM_WebExplorer){#w-webexplorer}
 * [ICANN](https://en.wikipedia.org/wiki/ICANN){#w-icann}
 * [Icon (computing)](https://en.wikipedia.org/wiki/Icon_(computing)){#w-icon}
 * [Identifier](https://en.wikipedia.org/wiki/Identifier){#w-id}
@@ -527,6 +528,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Interstitial webpage](https://en.wikipedia.org/wiki/Interstitial_webpage){#w-interstitial}
 * [Intranet](https://en.wikipedia.org/wiki/Intranet){#w-intranet}
 * [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control){#w-ioc}
+* [IOPS](https://en.wikipedia.org/wiki/IOPS){#w-iops}
 * [iOS](https://en.wikipedia.org/wiki/IOS){#w-ios}
 * [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
 * [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
@@ -980,6 +982,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [String (computer science)](https://en.wikipedia.org/wiki/String_(computer_science)){#w-string}
 * [Structural similarity](https://en.wikipedia.org/wiki/Structural_similarity){#w-ssim}
 * [Style sheet (web development)](https://en.wikipedia.org/wiki/Style_sheet_(web_development)){#w-style-sheet}
+* [Stylus (stylesheet language)](https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)){#w-stylus}
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
 * [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}

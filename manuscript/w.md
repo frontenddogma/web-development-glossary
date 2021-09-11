@@ -182,6 +182,9 @@ WebAssembly
 WebAuthn
 : A core component of the FIDO2 Project, which is a joint effort between the FIDO Alliance and the World Wide Web Consortium (W3C) to provide strong authentication for the Web, and to standardize an interface for authenticating users to web-based applications and services using public-key cryptography. Support for WebAuthn can be implemented in a variety of ways. The underlying cryptographic operations are performed by an authenticator, which is an abstract functional model that is mostly agnostic with respect to how the key material is managed. This makes it possible to implement support for WebAuthn purely in software. WebAuthn Level 1 was published as a W3C Recommendation in 2019.&nbsp;[†](#w-webauthn) ℹ︎&nbsp;[w3.org/TR/webauthn](https://www.w3.org/TR/webauthn/)
 
+WebExplorer
+: An early web browser developed by IBM for OS/2. It was released in 1995 and discontinued in 1998.&nbsp;[†](#w-webexplorer)
+
 WebGL
 : → Web Graphics Library
 

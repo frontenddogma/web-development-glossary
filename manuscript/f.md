@@ -275,7 +275,7 @@ FOUT
 : → Flash of Unstyled Text
 
 FPS
-: → Frames per Second
+: → Frames per second
 
 FPWD
 : → First Public Working Draft
@@ -298,7 +298,7 @@ Frame rate
 Framekiller
 : A technique used by websites and applications to prevent their web pages from being displayed within a frame, to avoid being displayed without permission or for malicious purposes, like as part of a clickjacking attack.&nbsp;[†](#w-framekiller)
 
-Frames per Second
+Frames per second
 : → Frame rate
 
 Framework

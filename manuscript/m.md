@@ -52,7 +52,10 @@ MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Man-in-the-middle attack
-: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm) 
+: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm)
+
+Manifesto for Agile Software Development
+: A seminal document that describes key values and principles of the Agile philosophy. It was conceived in 2001. ℹ︎&nbsp;[agilemanifesto.org](https://agilemanifesto.org/)
 
 Margin
 : Per the CSS box model, the margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.

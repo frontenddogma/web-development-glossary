@@ -151,6 +151,9 @@ Affordance
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
 
+Agile Manifesto
+: → Manifesto for Agile Software Development
+
 AirMosaic
 : An early commercial web browser based on the NCSA Mosaic browser. AirMosaic was released in 1994.&nbsp;[†](#w-airmosaic)
 

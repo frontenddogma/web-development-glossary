@@ -600,6 +600,9 @@ SSR
 Stack
 : An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (Last In, First Out).&nbsp;[†](#w-stack)
 
+Stack level
+: The position of a box on the z-axis, relative to other stack levels within the same stacking context. The CSS `z-index` property can be used to define the stack level of the respective box in the current stacking context.
+
 Stack Overflow
 : A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
 
@@ -672,6 +675,9 @@ Storage
 Storage engine
 : → Database engine
 
+Storybook
+: A tool for building UI components and pages in isolation, to aid UI development, testing, and documentation. Storybook was released in 2016. ℹ︎&nbsp;[storybook.js.org](https://storybook.js.org/)
+
 Stream
 : A sequence of data elements made available over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches. Streams are processed differently from batch data—normal functions cannot operate on streams as a whole, as they have potentially unlimited data, and formally, streams are co-data (potentially unlimited), not data (which is finite). Functions that operate on a stream, producing another stream, are known as filters, and can be connected in pipelines, analogously to function composition. Filters may operate on one item of a stream at a time, or may base an item of output on multiple items of input, such as a moving average.&nbsp;[†](#w-stream)
 
@@ -684,6 +690,9 @@ Strict mode
 
 String
 : A sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.&nbsp;[†](#w-string)
+
+Strong character
+: A character with a definite direction. Examples of this type of character include most alphabetic characters, syllabic characters, Han ideographs, non-European or non-Arabic digits, and punctuation characters that are specific to only those scripts.&nbsp;[†](#w-bidirectional)
 
 Structural Similarity Index Measure
 : A method for predicting the perceived quality of digital television and cinematic pictures, as well as other kinds of digital images and videos. SSIM is used for measuring the similarity between two images. The SSIM index is a full reference metric; in other words, the measurement or prediction of image quality is based on an initial uncompressed or distortion-free image as reference.&nbsp;[†](#w-ssim)
@@ -714,6 +723,9 @@ stylelint
 
 Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
+
+Stylus
+: A dynamic stylesheet preprocessor language that is compiled into Cascading Style Sheets (CSS). Its design is influenced by Sass and Less. Stylus was released in 2010 and is one of the most used CSS preprocessor syntaxes.&nbsp;[†](#w-stylus) ℹ︎&nbsp;[stylus-lang.com](https://stylus-lang.com/)
 
 Subject-Matter Expert
 : A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavor (e.g., an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
