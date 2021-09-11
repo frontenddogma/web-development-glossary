@@ -164,7 +164,7 @@ Three-Click Rule
 : An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
 TIL
-: The abbreviation and Internet slang for “today I learned.” 
+: The abbreviation and Internet slang for “today I learned.”
 
 Time box
 : A fixed time period.

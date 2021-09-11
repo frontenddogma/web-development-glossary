@@ -631,7 +631,7 @@ Standards mode
 : → Strict mode
 
 Standby redundancy
-: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power. 
+: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power.
 
 Star
 : A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).

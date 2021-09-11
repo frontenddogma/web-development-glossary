@@ -260,7 +260,7 @@ Anonymous inline element
 : Any text that is directly contained inside a block container element that is not inside an inline element.
 
 Anonymous text
-: Any string of characters that is not contained within an inline element. 
+: Any string of characters that is not contained within an inline element.
 
 ANSI
 : → American National Standards Institute
@@ -417,7 +417,7 @@ Atomic CSS
 : A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
 
 Atomicity, Consistency, Isolation, Durability
-: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid) 
+: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid)
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
