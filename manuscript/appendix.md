@@ -93,6 +93,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Binary large object](https://en.wikipedia.org/wiki/Binary_large_object){#w-blob}
 * [Binary number](https://en.wikipedia.org/wiki/Binary_number){#w-binary-number}
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm){#w-binary-search-algorithm}
+* [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket){#w-bitbucket}
 * [Black hat (computer security)](https://en.wikipedia.org/wiki/Black_hat_(computer_security)){#w-black-hat}
 * [Black-box testing](https://en.wikipedia.org/wiki/Black-box_testing){#w-black-box-testing}
 * [Blacklist (computing)](https://en.wikipedia.org/wiki/Blacklist_(computing)){#w-blacklist}
@@ -618,9 +619,6 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
-
-@@
-
 * [MAC address](https://en.wikipedia.org/wiki/MAC_address){#w-mac-address}
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
@@ -1019,16 +1017,20 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Time to first byte](https://en.wikipedia.org/wiki/Time_to_first_byte){#w-ttfb}
 * [Time to live](https://en.wikipedia.org/wiki/Time_to_live){#w-ttl}
 * [Time-based One-Time Password](https://en.wikipedia.org/wiki/Time-based_One-Time_Password){#w-totp}
+* [Timed text](https://en.wikipedia.org/wiki/Timed_text){#w-timed-text}
 * [Timestamp](https://en.wikipedia.org/wiki/Timestamp){#w-timestamp}
 * [Tizen](https://en.wikipedia.org/wiki/Tizen){#w-tizen}
 * [Tokenization (data security)](https://en.wikipedia.org/wiki/Tokenization_(data_security)){#w-tokenization}
 * [TOML](https://en.wikipedia.org/wiki/TOML){#w-toml}
 * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain){#w-tld}
+* [TOP500](https://en.wikipedia.org/wiki/TOP500){#w-top500}
 * [Tor (anonymity network)](https://en.wikipedia.org/wiki/Tor_(anonymity_network)){#w-tor}
 * [Tracing (software)](https://en.wikipedia.org/wiki/Tracing_(software)){#w-tracing}
+* [Transclusion](https://en.wikipedia.org/wiki/Transclusion){#w-transclusion}
 * [Transcreation](https://en.wikipedia.org/wiki/Transcreation){#w-transcreation}
 * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol){#w-tcp}
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security){#w-tls}
+* [Travis CI](https://en.wikipedia.org/wiki/Travis_CI){#w-travis-ci}
 * [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure)){#w-tree}
 * [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking){#w-tree-shaking}
 * [Trident (software)](https://en.wikipedia.org/wiki/Trident_(software)){#w-trident}
@@ -1074,6 +1076,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [User interface markup language](https://en.wikipedia.org/wiki/User_interface_markup_language){#w-uiml}
 * [User story](https://en.wikipedia.org/wiki/User_story){#w-user-story}
 * [User-centered design](https://en.wikipedia.org/wiki/User-centered_design){#w-ucd}
+* [Userscript](https://en.wikipedia.org/wiki/Userscript){#w-userscript}
 * [UTF-8](https://en.wikipedia.org/wiki/UTF-8){#w-utf-8}
 * [UTF-16](https://en.wikipedia.org/wiki/UTF-16){#w-utf-16}
 * [UTF-32](https://en.wikipedia.org/wiki/UTF-32){#w-utf-32}
@@ -1144,6 +1147,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web worker](https://en.wikipedia.org/wiki/Web_worker){#w-web-worker}
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly){#w-wasm}
 * [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn){#w-webauthn}
+* [WebDAV](https://en.wikipedia.org/wiki/WebDAV){#w-webdav}
 * [WebGL](https://en.wikipedia.org/wiki/WebGL){#w-webgl}
 * [WebKit](https://en.wikipedia.org/wiki/WebKit){#w-webkit}
 * [WebM](https://en.wikipedia.org/wiki/WebM){#w-webm}
@@ -1154,6 +1158,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Website](https://en.wikipedia.org/wiki/Website){#w-website}
 * [Website wireframe](https://en.wikipedia.org/wiki/Website_wireframe){#w-wireframe}
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
+* [WebVTT](https://en.wikipedia.org/wiki/WebVTT){#w-webvtt}
 * [Well-formed document](https://en.wikipedia.org/wiki/Well-formed_document){#w-well-formedness}
 * [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
 * [White-box testing](https://en.wikipedia.org/wiki/White-box_testing){#w-white-box-testing}

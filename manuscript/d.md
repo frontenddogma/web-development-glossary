@@ -392,6 +392,9 @@ Dots per inch
 Double
 : A double-precision, 64-bit floating-point data type.
 
+Downstream
+: In version control, a repository that is based on or pulls from another repository. The work “flows downstream.”
+
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. Downtime is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
 

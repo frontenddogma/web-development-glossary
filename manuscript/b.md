@@ -121,6 +121,9 @@ Binary search algorithm
 Binding
 : The association of entities (data or code) with identifiers. An identifier bound to an object is said to reference that object. Machine languages have no built-in notion of identifiers, but name-object bindings as a service and notation for the programmer is implemented by programming languages. Binding is intimately connected with scoping, as scope determines which names bind to which objects—at which locations in the program code (lexically) and in which one of the possible execution paths (temporally).&nbsp;[†](#w-binding)
 
+Bitbucket
+: A Git-based source code repository hosting service owned by Atlassian. Bitbucket was launched in 2008.&nbsp;[†](#w-bitbucket) ℹ︎&nbsp;[bitbucket.org](https://bitbucket.org/)
+
 Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image

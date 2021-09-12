@@ -117,9 +117,6 @@ Opera
 Opera Mini
 : A mobile web browser developed by Opera. It was primarily designed for the Java ME platform, as a low-end sibling for Opera Mobile. Opera Mini was previously developed for iOS, Windows 10 Mobile, Windows Phone 8.1, BlackBerry, Symbian, and Bada. As of 2018, the Android build is the only version still under active development. Opera Mini requests web pages through Opera’s compression servers, which process and compress requested web pages before sending them to the mobile phone.&nbsp;[†](#w-opera-mini) ℹ︎&nbsp;[opera.com/mobile/mini](https://www.opera.com/mobile/mini)
 
-Opera Turbo mode
-: A data saving mode in the Opera web browser promising up to 50% data savings. Turbo mode was removed in 2019.
-
 Operand
 : In mathematics, the object of a mathematical operation, i.e., the object or quantity that is operated on. In “3 + 6”, “3” and “6” are operands, while “+” is an (addition) operator.&nbsp;[†](#w-operand)
 

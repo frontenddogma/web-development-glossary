@@ -64,6 +64,9 @@ React Native
 Reactive Extensions for JavaScript
 : A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎&nbsp;[reactivex.io](http://reactivex.io/)
 
+Reactive Manifesto
+: A systems architecture approach in which it is declared necessary for systems to be responsive, resilient, elastic, and message-driven. Such systems are considered reactive systems. ℹ︎&nbsp;[reactivemanifesto.org](https://www.reactivemanifesto.org/)
+
 Reactive programming
 : A declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm it is possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow. Reactive programming has been proposed as a way to simplify the creation of interactive user interfaces and near-real-time system animation.&nbsp;[†](#w-reactive-programming)
 
@@ -374,7 +377,7 @@ Round-Trip Time
 : The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An Internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
 
 Route 53
-: → Amazon Route 53
+: A Domain Name System (DNS) service. Released in 2010, Route 53 is part of Amazon.com’s cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and “53” is a reference to the TCP/UDP port 53, where DNS server requests are addressed. In addition to being able to route users to various AWS services, including EC2 instances, Route 53 also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints.&nbsp;[†](#w-amazon-route-53) ℹ︎&nbsp;[aws.amazon.com/route53](https://aws.amazon.com/route53/)
 
 Router
 : For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered subsequently.&nbsp;[‡](#m-router)

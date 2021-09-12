@@ -1,7 +1,7 @@
 # S
 
 S3
-: → Amazon S3
+: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
 
 SaaS
 : → Software as a Service
@@ -560,6 +560,9 @@ SQL
 SQL injection
 : A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g., to dump database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is incorrectly filtered for string literal escape characters embedded in SQL statements, or when user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
+SQS
+: A distributed message queuing service introduced in 2004 by Amazon.com. SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
+
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
 
@@ -669,6 +672,9 @@ Static Site Generator
 Status code
 : → HTTP status code
 
+Stimulus
+: → Hotwire
+
 Storage
 : The recording (storing) of information (data) in a storage medium. Paper, magnetic tapes, and optical discs are examples of storage media. Recording may be accomplished with virtually any form of energy. Electronic data storage requires electrical power to store and retrieve data; computer data storage is one of the core functions of a general-purpose computer.&nbsp;[†](#w-data-storage)
 
@@ -677,6 +683,9 @@ Storage engine
 
 Storybook
 : A tool for building UI components and pages in isolation, to aid UI development, testing, and documentation. Storybook was released in 2016. ℹ︎&nbsp;[storybook.js.org](https://storybook.js.org/)
+
+Strada
+: → Hotwire
 
 Stream
 : A sequence of data elements made available over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches. Streams are processed differently from batch data—normal functions cannot operate on streams as a whole, as they have potentially unlimited data, and formally, streams are co-data (potentially unlimited), not data (which is finite). Functions that operate on a stream, producing another stream, are known as filters, and can be connected in pipelines, analogously to function composition. Filters may operate on one item of a stream at a time, or may base an item of output on multiple items of input, such as a moving average.&nbsp;[†](#w-stream)

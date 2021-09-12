@@ -191,22 +191,22 @@ Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
 Amazon Route 53
-: A Domain Name System (DNS) service. Released in 2010, Route 53 is part of Amazon.com’s cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and “53” is a reference to the TCP/UDP port 53, where DNS server requests are addressed. In addition to being able to route users to various AWS services, including EC2 instances, Route 53 also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints.&nbsp;[†](#w-amazon-route-53) ℹ︎&nbsp;[aws.amazon.com/route53](https://aws.amazon.com/route53/)
+: → Route 53
 
 Amazon S3
-: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. Amazon S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
+: → S3
 
 Amazon Silk
 : → Silk
 
 Amazon Simple Queue Service
-: → Amazon SQS
+: → SQS
 
 Amazon Simple Storage Service
 : → Amazon S3
 
 Amazon SQS
-: A distributed message queuing service introduced in 2004 by Amazon.com. Amazon SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
+: → SQS
 
 Amazon Virtual Private Cloud
 : → Amazon VPC
@@ -409,6 +409,9 @@ ATAG
 
 ATDD
 : → Acceptance Test-Driven Development
+
+Atlassian Bitbucket
+: → Bitbucket
 
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).

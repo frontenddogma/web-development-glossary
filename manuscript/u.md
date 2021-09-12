@@ -100,6 +100,9 @@ Unit testing
 Universal Access
 : A component of the Mac OS X operating system, later called Accessibility, that provides computing abilities to people with visual impairment, hearing impairment, or physical disability.&nbsp;[†](#w-universal-access) ℹ︎&nbsp;[apple.com/accessibility/mac](https://www.apple.com/accessibility/mac/)
 
+Universal Cross-Site Scripting
+: An attack that exploits vulnerabilities in a browser or browser extension (instead of a website or application, as with XSS) in order to run malicious code.
+
 Universal Design
 : The design of buildings, products, or environments to make them accessible to all people, regardless of age, disability or other factors. The term “universal design” was coined by the architect Ronald Mace to describe the concept of designing all products and the built environment to be aesthetic and usable to the greatest extent possible by everyone, regardless of their age, ability, or status in life. However, it was the work of Selwyn Goldsmith, author of _Designing for the Disabled_ (1963), who pioneered the concept of free access for people with disabilities. Goldsmith’s most significant achievement was the creation of the dropped curb—now a standard feature of the built environment.&nbsp;[†](#w-universal-design)
 
@@ -112,6 +115,9 @@ Universal selector
 Universally unique identifier
 : A 128-bit number used to identify information in computer systems. The term globally unique identifier (GUID) is also used, typically in software created by Microsoft. When generated according to the standard methods, UUIDs are for practical purposes unique. Their uniqueness does not depend on a central registration authority or coordination between the parties generating them, unlike most other numbering schemes. While the probability that a UUID will be duplicated is not zero, it is close enough to zero to be negligible. Thus, anyone can create a UUID and use it to identify something with near certainty that the identifier does not duplicate one that has already been, or will be, created to identify something else.&nbsp;[†](#w-uuid)
 
+Universal XSS
+: → Universal Cross-Site Scripting
+
 Unix/UNIX
 : A family of multi-tasking, multi-user computer operating systems that derive from the original AT&T Unix, with development starting in the 1970s at Bell Labs. Initially intended for use inside the Bell System, AT&T licensed Unix to outside parties in the late 1970s, leading to a variety of both academic and commercial Unix variants. Unix systems are characterized by a modular design that is sometimes called the Unix philosophy. Unix distinguishes itself from its predecessors as the first portable operating system: Almost the entire operating system is written in the C programming language, thus allowing Unix to reach numerous platforms.&nbsp;[†](#w-unix)
 
@@ -120,6 +126,9 @@ Unix philosophy
 
 UPA
 : → Usability Professionals Association
+
+Upstream
+: In version control, the parent repository, that is, the repository that was used to clone or fork the current work repository.
 
 URC
 : → Uniform Resource Characteristic
@@ -196,6 +205,9 @@ User Interface
 User interface markup language
 : A markup language that renders and describes graphical user interfaces and controls. Many of these markup languages are dialects of XML and are dependent upon a pre-existing scripting language engine, usually a JavaScript engine, for rendering of controls and extra scriptability. The concept of user interface markup languages is primarily based upon the desire to prevent the “re-invention of the wheel” in the design, development, and function of a user interface. The typical user interface markup language solidifies often re-used program or script code in the form of markup, making it easier to focus upon design of a user interface in an understandable dialect as opposed to focus on function. Examples for UIMLs include XAML, XUL, and SVG.&nbsp;[†](#w-uiml)
 
+User JavaScript
+: → Userscript
+
 User story
 : An informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded on index cards, on Post-it notes, or in project management software. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members.&nbsp;[†](#w-user-story)
 
@@ -207,6 +219,9 @@ User-Centered Design
 
 User-Driven Development
 : → User-Centered Design
+
+Userscript
+: A program, usually written in JavaScript, for modifying web pages to augment browsing. Uses include setting up keyboard shortcuts, adding features to sites, or enhancing the browsing history. Userscripts are often referred to as Greasemonkey scripts, named after the original userscript manager for the Firefox browser.&nbsp;[†](#w-userscript)
 
 Using Declarations Just Once
 : A CSS methodology to use each declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎&nbsp;[meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
@@ -242,5 +257,8 @@ UX
 
 UXPA
 : → User Experience Professionals Association
+
+UXSS
+: → Universal XSS
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

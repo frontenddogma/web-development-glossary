@@ -103,6 +103,9 @@ Web design
 Web development
 : The work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain-text to complex web-based Internet applications (web apps). A more comprehensive list of tasks to which web development commonly refers to may include web design, web content development, client- and server-side scripting, web engineering, web server and network security configuration, and e-commerce development. Among web professionals, “web development” usually refers to the main non-design aspects of building websites: describing document structures (HTML), giving formatting instructions (CSS), and implementing interaction and logic (scripting).&nbsp;[†](#w-web-development)
 
+Web Distributed Authoring and Versioning
+: An extension of the Hypertext Transfer Protocol (HTTP) that allows clients to perform remote web content authoring operations. WebDAV is defined in RFC&nbsp;4918 by a working group of the Internet Engineering Task Force (IETF). The WebDAV protocol provides a framework for users to create, change, and move documents on a server. The most important features include maintenance of content properties, namespace management, collections, and overwrite protection.&nbsp;[†](#w-webdav) ℹ︎&nbsp;[webdav.org](http://www.webdav.org/)
+
 Web feed
 : → Feed
 
@@ -170,6 +173,9 @@ Web tracking
 Web typography
 : The use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual web pages to control font display until Netscape introduced the `font` element in 1995, which was then standardized in HTML&nbsp;3.2. However, the font specified had to be installed on the user’s computer or a fallback font, such as a browser’s default sans-serif or monospace font, would be used. The CSS&nbsp;2 specification attempted to improve the font selection process by adding font matching, synthesis, and download. These techniques did not gain much use, and were removed in CSS&nbsp;2.1. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997, which was later included in the CSS&nbsp;3 fonts module, and has since been implemented in Safari&nbsp;3.1, Opera&nbsp;10, and Firefox 3.5. This has subsequently increased interest in web typography, as well as the usage of web fonts.&nbsp;[†](#w-web-typography)
 
+Web Video Text Tracks
+: A World Wide Web Consortium (W3C) standard for displaying timed text in connection with the HTML `track` element. The early drafts of the specification were written by the WHATWG in 2010 after discussions about what caption format should be supported by HTML.&nbsp;[†](#w-webvtt) ℹ︎&nbsp;[w3.org/TR/webvtt1](https://www.w3.org/TR/webvtt1/)
+
 Web Vitals
 : A set of metrics suggested important for a great user experience on the Web. The Web Vitals initiative was started in 2020 by Google. The “Core Web Vitals” include Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). ℹ︎&nbsp;[web.dev/vitals](https://web.dev/vitals/)
 
@@ -182,6 +188,9 @@ WebAssembly
 WebAuthn
 : A core component of the FIDO2 Project, which is a joint effort between the FIDO Alliance and the World Wide Web Consortium (W3C) to provide strong authentication for the Web, and to standardize an interface for authenticating users to web-based applications and services using public-key cryptography. Support for WebAuthn can be implemented in a variety of ways. The underlying cryptographic operations are performed by an authenticator, which is an abstract functional model that is mostly agnostic with respect to how the key material is managed. This makes it possible to implement support for WebAuthn purely in software. WebAuthn Level 1 was published as a W3C Recommendation in 2019.&nbsp;[†](#w-webauthn) ℹ︎&nbsp;[w3.org/TR/webauthn](https://www.w3.org/TR/webauthn/)
 
+WebDAV
+: → Web Distributed Authoring and Versioning
+
 WebExplorer
 : An early web browser developed by IBM for OS/2. It was released in 1995 and discontinued in 1998.&nbsp;[†](#w-webexplorer)
 
@@ -192,7 +201,7 @@ WebKit
 : A browser engine developed by Apple and primarily used in its Safari web browser, as well as all the iOS web browsers. WebKit’s C++ API provides a set of classes to display web content. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others. WebKit was first released in 1998.&nbsp;[†](#w-webkit) ℹ︎&nbsp;[webkit.org](https://webkit.org/)
 
 Webkrauts
-: A coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎&nbsp;[webkrauts.de](http://webkrauts.de/)
+: A former coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎&nbsp;[webkrauts.de](http://webkrauts.de/)
 
 Weblog
 : → Blog
@@ -226,6 +235,9 @@ WebStorm
 
 WebView
 : An Android system component (“View”) allowing apps to display web content directly in an application. ℹ︎&nbsp;[is.gd/Sx0xdE](https://developer.android.com/reference/android/webkit/WebView)
+
+WebVTT
+: → Web Video Text Tracks
 
 WeChat Mini Program
 : → Mini Program
