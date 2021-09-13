@@ -9,6 +9,9 @@ Garbage collection
 Garbage In, Garbage Out
 : The concept that flawed, or nonsense (garbage) input data produces nonsense output. The principle also applies more generally to analysis and logic, in that arguments are unsound if their premises are flawed.&nbsp;[†](#w-gigo)
 
+Gateway
+: A piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another. Gateways are distinct from routers or switches in that they communicate using more than one protocol to connect multiple networks, and can operate at any of the seven layers of the Open Systems Interconnection (OSI) model.&nbsp;[†](#w-gateway)
+
 Gatsby
 : A React-based frontend framework for creating websites, and a serverless cloud platform to build, deploy, and host the respective websites. Gatsby was released in 2017. ℹ︎&nbsp;[gatsbyjs.com](https://www.gatsbyjs.com/)
 

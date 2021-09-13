@@ -88,6 +88,9 @@ Bfcache
 BFF
 : → Backend for Frontend
 
+BGP
+: → Border Gateway Protocol
+
 BHO
 : → Browser Helper Object
 
@@ -222,6 +225,9 @@ Bootstrap
 
 Border
 : Per the CSS box model, any kind of line (solid, dotted, dashed, etc.) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
+
+Border Gateway Protocol
+: A standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule sets configured by a network administrator. It was first described in 1989 in RFC&nbsp;1105, and has been in use on the Internet since 1994.&nbsp;[†](#w-bgp)
 
 Bottom posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)

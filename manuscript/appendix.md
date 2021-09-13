@@ -104,6 +104,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_(digital)){#w-bookmark}
 * [Bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet){#w-bookmarklet}
 * [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type){#w-boolean}
+* [Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol){#w-bgp}
 * [Bounce rate](https://en.wikipedia.org/wiki/Bounce_rate){#w-bounce-rate}
 * [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem){#w-boundary-value-problem}
 * [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell){#w-bourne-shell}
@@ -397,6 +398,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Gamma correction](https://en.wikipedia.org/wiki/Gamma_correction){#w-gamma}
 * [Garbage collection (computer science)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){#w-garbage-collection}
 * [Garbage in, garbage out](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out){#w-gigo}
+* [Gateway (telecommunications)](https://en.wikipedia.org/wiki/Gateway_(telecommunications)){#w-gateway}
 * [Gecko (software)](https://en.wikipedia.org/wiki/Gecko_(software)){#w-gecko}
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation){#w-gdpr}
 * [Generic top-level domain](https://en.wikipedia.org/wiki/Generic_top-level_domain){#w-gtld}
