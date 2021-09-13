@@ -491,6 +491,9 @@ Confidentiality Agreement
 Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
 
+Connection draining
+: In load balancing, the allowing of existing requests (in-progress, in-flight) to complete while no new requests are being sent to the respective machine.
+
 Consent Management Platform
 : A platform that requests, stores, and manages user consent. A CMP helps ensure the privacy of user data in compliance with regulation like the European Union’s GDPR or California’s CCPA/CPRA.
 
