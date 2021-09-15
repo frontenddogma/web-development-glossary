@@ -106,6 +106,12 @@ Recidivism
 Recommendation
 : The World Wide Web Consortium (W3C) term for a specification or web standard.
 
+Recovery Point Objective
+: The maximum time period of data loss acceptable in the event of an incident or failure.
+
+Recovery Time Objective
+: The maximum period of downtime acceptable to restore from backup and to resume processing.
+
 Recursion
 : A method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time. At the opposite, recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.&nbsp;[†](#w-recursion)
 : → Recursion
@@ -404,6 +410,9 @@ RPM
 RPM Package Manager
 : A package management system originally called Red Hat Package Manager. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
+RPO
+: → Recovery Point Objective
+
 RPS
 : → Requests per second
 
@@ -423,6 +432,9 @@ RTFM
 
 RTL
 : → Right-to-Left
+
+RTO
+: → Recovery Time Objective
 
 RTT
 : → Round-Trip Time
