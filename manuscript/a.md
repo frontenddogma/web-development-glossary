@@ -190,6 +190,9 @@ Alternate style sheet
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
+Amazon Resource Name
+: A unique identifier for an Amazon Web Services (AWS) resource. An ARN follows the format `arn:partition:service:region:account-id:resource-id`, `arn:partition:service:region:account-id:resource-type/resource-id`, or `arn:partition:service:region:account-id:resource-type:resource-id`.
+
 Amazon Route 53
 : → Route 53
 
@@ -344,6 +347,9 @@ ARIA
 ARIA roles
 : A set of predefined names that can be used to specify the meaning and purpose of markup elements. Roles can cover abstract use cases, widgets, document structure, landmarks, live regions, and windows, and are set using the `role` attribute.
 
+ARN
+: → Amazon Resource Name
+
 Arrange, Act, Assert
 : A pattern to organize test methods by.
 
@@ -461,10 +467,16 @@ AV1
 AV1 Image File Format
 : An image file format that uses AV1 compression algorithms. AVIF competes with HEIC which uses the same container format, built upon ISOBMFF, but HEVC for compression. Version 1.0.0 of the AVIF specification was finalized in 2019.&nbsp;[†](#w-av1)
 
+Availability Zone
+: With Amazon Web Services (AWS), a term for one or more data centers with redundant power, networking, and connectivity. An AWS Region consists of several Availability Zones.
+
 AVIF
 : → AV1 Image File Format
 
 AWS
 : → Amazon Web Services
+
+AZ
+: → Availability Zone
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

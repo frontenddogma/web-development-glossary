@@ -33,6 +33,9 @@ Dart
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
+Data center
+: A dedicated space within a building, a building, or a group of buildings used to house computer systems and associated components, such as telecommunications and storage systems. A data center generally includes redundant or backup components and infrastructure for power supply, data communication connections, environmental controls (e.g., air conditioning, fire suppression), and various security devices.&nbsp;[†](#w-data-center)
+
 Data Control Language
 : A syntax similar to a computer programming language used to control access to data stored in a database (authorization). In particular, DCL is a component of Structured Query Language (SQL).&nbsp;[†](#w-dcl)
 

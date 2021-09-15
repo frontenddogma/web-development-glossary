@@ -243,6 +243,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Darknet](https://en.wikipedia.org/wiki/Darknet){#w-darknet}
 * [Dart (programming language)](https://en.wikipedia.org/wiki/Dart_(programming_language)){#w-dart}
 * [Data](https://en.wikipedia.org/wiki/Data){#w-data}
+* [Data center](https://en.wikipedia.org/wiki/Data_center){#w-data-center}
 * [Data compression](https://en.wikipedia.org/wiki/Data_compression){#w-compression}
 * [Data control language](https://en.wikipedia.org/wiki/Data_control_language){#w-dcl}
 * [Data definition language](https://en.wikipedia.org/wiki/Data_definition_language){#w-ddl}
@@ -338,6 +339,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Event (computing)](https://en.wikipedia.org/wiki/Event_(computing)){#w-event}
 * [Event loop](https://en.wikipedia.org/wiki/Event_loop){#w-event-loop}
 * [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture){#w-eda}
+* [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency){#w-eventual-consistency}
 * [Exception handling](https://en.wikipedia.org/wiki/Exception_handling){#w-exception-handling}
 * [Exception handling syntax](https://en.wikipedia.org/wiki/Exception_handling_syntax){#w-exception-handling-syntax}
 * [Exit status](https://en.wikipedia.org/wiki/Exit_status){#w-exit-status}
@@ -1136,6 +1138,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Web Open Font Format](https://en.wikipedia.org/wiki/Web_Open_Font_Format){#w-woff}
 * [Web page](https://en.wikipedia.org/wiki/Web_page){#w-web-page}
 * [Web performance](https://en.wikipedia.org/wiki/Web_performance){#w-performance}
+* [Web platform](https://en.wikipedia.org/wiki/Web_platform){#w-web-platform}
 * [Web portal](https://en.wikipedia.org/wiki/Web_portal){#w-portal}
 * [Web resource](https://en.wikipedia.org/wiki/Web_resource){#w-web-resource}
 * [Web service](https://en.wikipedia.org/wiki/Web_service){#w-web-service}

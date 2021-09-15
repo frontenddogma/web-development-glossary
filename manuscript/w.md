@@ -145,6 +145,9 @@ Web performance
 Web Performance Optimization
 : The field of knowledge about increasing web performance, focusing on how to make websites and apps faster, or to get them to appear faster (perceived performance).&nbsp;[†](#w-performance)
 
+Web platform
+: A collection of technologies developed as open standards by the World Wide Web Consortium (W3C) and other standardization bodies such as the Web Hypertext Application Technology Working Group (WHATWG), the Unicode Consortium, the Internet Engineering Task Force (IETF), and Ecma International. It includes technologies—computer languages and APIs—that were originally created in relation to the publication of web pages, like HTML, CSS, SVG, MathML, WAI-ARIA, ECMAScript, and many others. “Web platform” is an umbrella term introduced by the World Wide Web Consortium.&nbsp;[†](#w-web-platform)
+
 Web resource
 : Any identifiable thing or entity, whether digital, physical, or abstract. Resources are identified using Uniform Resource Identifiers. In the Semantic Web, web resources and their semantic properties are described using the Resource Description Framework. The concept of a web resource has evolved during the Web’s history, from the early notion of static addressable documents or files, to a more generic and abstract definition, now encompassing everything that can be identified, named, addressed, or handled, in any way whatsoever, in the Web at large, or in any networked information system.&nbsp;[†](#w-web-resource)
 
