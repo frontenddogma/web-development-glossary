@@ -54,6 +54,9 @@ Heading content
 Headless
 : Software capable of working without a graphical user interface.&nbsp;[†](#w-headless)
 
+Health check
+: Typically recurring, automated requests to confirm that a machine or application is available and functional.
+
 HEIC
 : → High Efficiency Image Coding
 

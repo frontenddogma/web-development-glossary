@@ -1212,6 +1212,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zero-configuration networking](https://en.wikipedia.org/wiki/Zero-configuration_networking){#w-zeroconf}
 * [Zip (file format)](https://en.wikipedia.org/wiki/Zip_(file_format)){#w-zip}
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
+* [Zone file](https://en.wikipedia.org/wiki/Zone_file){#w-zone-file}
 
 The original works, which have been released under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
 
