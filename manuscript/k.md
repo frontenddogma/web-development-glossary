@@ -25,6 +25,9 @@ Key
 Key frame
 : A drawing or shot that defines the starting and ending points of any smooth transition. These are called “frames” because their position in time is measured in frames on a strip of film or on a digital video editing timeline. A sequence of key frames defines which movement the viewer will see, whereas the position of the key frames on the film, video, or animation defines the timing of the movement. Because only two or three key frames over the span of a second do not create the illusion of movement, the remaining frames are filled with “inbetweens.”&nbsp;[†](#w-key-frame)
 
+Key management
+: The management of cryptographic keys, including their generating, storing, using, exchanging, and replacing.
+
 Key Performance Indicator
 : A type of performance measurement. KPIs evaluate the success of an organization or of a particular activity (such as projects, programs, products, and other initiatives) in which it engages. Choosing the right KPIs relies upon a good understanding of what is important to the organization. What is deemed important often depends on the business department measuring the performance.&nbsp;[†](#w-kpi)
 

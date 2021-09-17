@@ -148,6 +148,9 @@ Hooking
 Hop limit
 : → Time to Live
 
+Horizontal scaling
+: An increase in a number of resources, e.g., by adding more hard drives or servers.
+
 Host
 : A computer or other device connected to a computer network. A host may work as a server offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one network address. Network hosts that participate in applications that use the client-server model of computing are classified as server or client systems. Network hosts may also function as nodes in peer-to-peer applications, in which all nodes share and consume resources in an equipotent manner.&nbsp;[†](#w-host)
 

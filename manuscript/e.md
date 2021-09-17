@@ -63,6 +63,9 @@ EIP
 Elastic IP
 : With Amazon Web Services (AWS), a reserved public IP address that can be assigned to any Elastic Compute Cloud (EC2) instance in a region. An EIP can be flexibly allocated and released.
 
+Elasticity
+: The ability of a system to handle high load, whether gradually over time or because of sudden change.
+
 Electron
 : A framework developed and maintained by GitHub. Electron combines the Chromium rendering engine and the Node.js runtime, and allows for the development of desktop GUI applications using web technologies. Electron was first released in 2013.&nbsp;[†](#w-electron) ℹ︎&nbsp;[electronjs.org](https://www.electronjs.org/)
 
