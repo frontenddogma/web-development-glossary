@@ -38,10 +38,14 @@ Acceptance testing
 : A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance test-driven development (ATDD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
-: The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
+: The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-access-control)
 
 Access Control List
 : A list of permissions associated with an object. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects. Each entry in a typical ACL specifies a subject and an operation.&nbsp;[†](#w-acl)
+
+Access key
+: In accessibility, a shortcut to jump to a specific web page via the keyboard. Access keys were introduced in 1999 and quickly achieved near-universal browser support.&nbsp;[†](#w-access-key)
+: In computer security, security credentials that consist of an access key ID and a secret access key.
 
 Access logs
 : → Server logs
@@ -139,11 +143,17 @@ ads.txt
 ADT
 : → Abstract Data Type
 
+Advanced Encryption Standard
+: A specification for the encryption of electronic data established in 2001 by the U.S. National Institute of Standards and Technology (NIST). AES is a subset of the Rijndael block cipher developed by Vincent Rijmen and Joan Daemen. For AES, NIST selected three members of the Rijndael family, each with a block size of 128 bits, but three different key lengths: 128, 192, and 256 bits.&nbsp;[†](#w-aes)
+
 Advanced Package Tool
 : A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-advanced-package-tool)
 
 Advanced Persistent Threat
 : A stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period. In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals. The median time an APT attack goes undetected differs widely between regions.&nbsp;[†](#w-advanced-persistent-threat)
+
+AES
+: → Advanced Encryption Standard
 
 Affordance
 : Those action possibilities that are readily perceivable by an actor, that is, an affordance suggests how an object may be interacted with. For example, an underlined word on a web page has the affordance of being clickable.&nbsp;[†](#w-affordance)

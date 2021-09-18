@@ -327,6 +327,9 @@ Rich Web Application
 Right-to-Left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
 
+Rijndael
+: → Advanced Encryption Standard
+
 RIRO
 : → Rubbish In, Rubbish Out
 

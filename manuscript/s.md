@@ -12,6 +12,9 @@ Safari
 SAFe
 : → Scaled Agile Framework
 
+SAK
+: → Secret → access key
+
 Samba
 : → MacWWW
 
