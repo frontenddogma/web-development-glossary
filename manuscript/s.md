@@ -313,6 +313,9 @@ Shorthand
 SI
 : → Speed Index
 
+Siamese twins document
+: An HTML document with two `head`s and two `body`s, an expression coined by Simon Pieters.
+
 Signed HTTP Exchanges
 : A draft standard to make Internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
