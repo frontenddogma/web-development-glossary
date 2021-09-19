@@ -27,6 +27,9 @@ NaN
 NAT
 : → Network Address Translation
 
+National Institute of Standards and Technology
+: A physical sciences laboratory and non-regulatory agency of the United States Department of Commerce. Its mission is to promote American innovation and industrial competitiveness. NIST’s activities are organized into laboratory programs that include nano-scale science and technology, engineering, information technology, neutron research, material measurement, and physical measurement. From 1901 to 1988, the agency was named “National Bureau of Standards.”&nbsp;[†](#w-nist) ℹ︎&nbsp;[nist.gov](https://www.nist.gov/)
+
 Native
 : Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it is using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
@@ -114,6 +117,9 @@ Night Mode
 Ninety-Ninety Rule
 : A humorous aphorism attributed to Tom Cargill that states: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” This adds up to 180%, making an allusion to the notoriety of software development projects significantly over-running their schedules.&nbsp;[†](#w-ninety-ninety-rule)
 
+NIST
+: → National Institute of Standards and Technology
+
 Nmap
 : → Network Mapper
 
@@ -164,7 +170,7 @@ NoSQL
 : A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g., key-value, column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
 
 Not a Number
-: A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
+: A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE&nbsp;754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
 
 npm
 : A package manager for the JavaScript programming language. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command-line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
@@ -185,7 +191,7 @@ Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
 
 Number
-: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
+: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE&nbsp;754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
 : The symbol “#”, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois,” having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as hashtags, and from that, the symbol itself is sometimes called a hashtag.&nbsp;[†](#w-number-sign)

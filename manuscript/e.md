@@ -160,10 +160,14 @@ Ephemeral storage
 Epic
 : In agile development, a large problem or feature space that is broken into several user stories, or issues, and necessarily distributed over several Sprints.
 
+Equal-width typeface
+: → Uniwidth typeface
+
 Equality Act 2010
 : An Act of Parliament of the United Kingdom with the purpose of consolidating, updating, and supplementing prior Acts and Regulations. These consisted, primarily, of the Equal Pay Act 1970, the Sex Discrimination Act 1975, the Race Relations Act 1976, the Disability Discrimination Act 1995, and three major statutory instruments protecting discrimination in employment on grounds of religion or belief, sexual orientation, and age.&nbsp;[†](#w-equality-act) ℹ︎&nbsp;[is.gd/4f7mLd](http://www.legislation.gov.uk/ukpga/2010/15/contents)
 
 Error
+: An action which is inaccurate or incorrect. In some usages, an error is synonymous with a mistake.&nbsp;[†](#w-error)
 : → Bug
 
 ES

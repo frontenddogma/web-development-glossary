@@ -336,6 +336,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [End-of-file](https://en.wikipedia.org/wiki/End-of-file){#w-eof}
 * [Environment variable](https://en.wikipedia.org/wiki/Environment_variable){#w-env-variable}
 * [Equality Act 2010](https://en.wikipedia.org/wiki/Equality_Act_2010){#w-equality-act}
+* [Error](https://en.wikipedia.org/wiki/Error){#w-error}
 * [Ethics](https://en.wikipedia.org/wiki/Ethics){#w-ethics}
 * [Etiquette](https://en.wikipedia.org/wiki/Etiquette){#w-etiquette}
 * [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act){#w-eaa}
@@ -499,6 +500,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Information overload](https://en.wikipedia.org/wiki/Information_overload){#w-information-overload}
 * [Information retrieval](https://en.wikipedia.org/wiki/Information_retrieval){#w-information-retrieval}
 * [Information security](https://en.wikipedia.org/wiki/Information_security){#w-infosec}
+* [Information security operations center](https://en.wikipedia.org/wiki/Information_security_operations_center){#w-information-security-operations-center}
 * [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service){#w-iaas}
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code){#w-iac}
 * [Inheritance (object-oriented programming)](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){#w-inheritance}
@@ -625,6 +627,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Locale (computer software)](https://en.wikipedia.org/wiki/Locale_(computer_software)){#w-locale}
 * [Location information server](https://en.wikipedia.org/wiki/Location_information_server){#w-lis}
 * [Log file](https://en.wikipedia.org/wiki/Log_file){#w-log-file}
+* [Login](https://en.wikipedia.org/wiki/Login){#w-login}
 * [Long-term support](https://en.wikipedia.org/wiki/Long-term_support){#w-lts}
 * [Look and feel](https://en.wikipedia.org/wiki/Look_and_feel){#w-look-and-feel}
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
@@ -706,6 +709,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Name server](https://en.wikipedia.org/wiki/Name_server){#w-name-server}
 * [Namespace](https://en.wikipedia.org/wiki/Namespace){#w-namespace}
 * [NaN](https://en.wikipedia.org/wiki/NaN){#w-nan}
+* [National Institute of Standards and Technology](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology){#w-nist}
 * [Native (computing)](https://en.wikipedia.org/wiki/Native_(computing)){#w-native}
 * [NativeScript](https://en.wikipedia.org/wiki/NativeScript){#w-nativescript}
 * [Natural key](https://en.wikipedia.org/wiki/Natural_key){#w-natural-key}
@@ -844,6 +848,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [QUIC](https://en.wikipedia.org/wiki/QUIC){#w-quic}
 * [Quirks mode](https://en.wikipedia.org/wiki/Quirks_mode){#w-quirks-mode}
 * [Race condition](https://en.wikipedia.org/wiki/Race_condition){#w-race-condition}
+* [RADIUS](https://en.wikipedia.org/wiki/RADIUS){#w-radius}
 * [Raku (programming language)](https://en.wikipedia.org/wiki/Raku_(programming_language)){#w-raku}
 * [Random variable](https://en.wikipedia.org/wiki/Random_variable){#w-random-variable}
 * [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory){#w-random-access-memory}
@@ -914,6 +919,8 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Search engine marketing](https://en.wikipedia.org/wiki/Search_engine_marketing){#w-sem}
 * [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell){#w-ssh}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
+* [Security operations center
+  ](https://en.wikipedia.org/wiki/Security_operations_center){#w-security-operations-center}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
 * [Selenium (software)](https://en.wikipedia.org/wiki/Selenium_(software)){#w-selenium}
@@ -1073,6 +1080,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Universal Access](https://en.wikipedia.org/wiki/Universal_Access){#w-universal-access}
 * [Universal design](https://en.wikipedia.org/wiki/Universal_design){#w-universal-design}
 * [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier){#w-uuid}
+* [Uniwidth typeface](https://en.wikipedia.org/wiki/Uniwidth_typeface){#w-uniwidth-typeface}
 * [Unix](https://en.wikipedia.org/wiki/Unix){#w-unix}
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy){#w-unix-philosophy}
 * [URL](https://en.wikipedia.org/wiki/URL){#w-url}

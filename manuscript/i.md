@@ -156,6 +156,9 @@ Information scent
 Information Security
 : The practice of protecting information by mitigating information risks. Information Security is part of information risk management, and typically involves preventing or at least reducing the probability of unauthorized or inappropriate access, use, disclosure, disruption, deletion or destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g., electronic or physical, tangible (e.g., paperwork) or intangible (e.g., knowledge). The primary focus of Information Security is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
+Information Security Operations Center
+: A special Security Operations Center (SOC) facility where enterprise information systems (websites, applications, databases, data centers and servers, networks, desktops, and other endpoints) are monitored, assessed, and defended.&nbsp;[†](#w-information-security-operations-center)
+
 Infosec
 : → Information Security
 
@@ -418,7 +421,8 @@ ISO
 : → International Organization for Standardization
 
 ISOC
-: → Internet Society
+: → Information Security Operations Center
+: → Internet Societ
 
 ISP
 : → Interface Segregation Principle

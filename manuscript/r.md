@@ -9,6 +9,9 @@ Race hazard
 RACI matrix
 : → Responsibility Assignment Matrix
 
+RADIUS
+: → Remote Authentication Dial-In User Service
+
 Rails
 : → Ruby on Rails
 
@@ -185,6 +188,9 @@ Relaunch
 
 Rem
 : → Root em
+
+Remote Authentication Dial-In User Service
+: A networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users who connect and use a network service. RADIUS was developed in 1991 by Livingston Enterprises as an access server authentication and accounting protocol. It was later brought into IEEE&nbsp;802 and IETF standards. RADIUS is a client/server protocol that runs in the application layer, and can use either TCP or UDP.&nbsp;[†](#w-radius)
 
 Remote method invocation
 : The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC).&nbsp;[†](#w-distributed-object-communication)

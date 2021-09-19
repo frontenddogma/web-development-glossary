@@ -272,6 +272,12 @@ Logging
 Logical properties
 : A CSS module introducing properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS&nbsp;2.1.&nbsp;[‡](#m-logical-properties) ℹ︎&nbsp;[w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
+Login
+: The option, process, or credentials by which an individual gains access to a computer system. The user credentials are typically some form of username and a matching password, and these credentials themselves are sometimes referred to as a “login.” In practice, modern secure systems often require a second factor for extra security, like email or SMS confirmation.&nbsp;[†](#w-login)
+
+Logon
+: → Login
+
 Long task
 : Any uninterrupted period where the main UI thread is busy for 50&nbsp;ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop.&nbsp;[‡](#m-long-task) ℹ︎&nbsp;[w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
 

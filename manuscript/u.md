@@ -118,6 +118,9 @@ Universally unique identifier
 Universal XSS
 : → Universal Cross-Site Scripting
 
+Uniwidth typeface
+: A typeface where every variation (font) has the same metrics (size of each letter). As a result, changing the variation used, such as using bold or italics, does not change the layout (reflow).&nbsp;[†](#w-uniwidth-typeface)
+
 Unix/UNIX
 : A family of multi-tasking, multi-user computer operating systems that derive from the original AT&T Unix, with development starting in the 1970s at Bell Labs. Initially intended for use inside the Bell System, AT&T licensed Unix to outside parties in the late 1970s, leading to a variety of both academic and commercial Unix variants. Unix systems are characterized by a modular design that is sometimes called the Unix philosophy. Unix distinguishes itself from its predecessors as the first portable operating system: Almost the entire operating system is written in the C programming language, thus allowing Unix to reach numerous platforms.&nbsp;[†](#w-unix)
 

@@ -271,6 +271,9 @@ Hugo
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
 
+humans.txt
+: An initiative acknowledging the people behind a website, promoting a “humans.txt” text file that features more information on the respective contributors. ℹ︎&nbsp;[humanstxt.org](https://humanstxt.org/)
+
 Hungarian notation
 : An identifier naming convention in computer programming, in which the name of a variable or function indicates its intention or kind, and in some dialects its type (like “bBusy”, “cApples”, or “rgStudents”). The original Hungarian notation uses intention or kind in its naming convention and is sometimes called “Apps Hungarian” as it became popular in the Microsoft Apps division in the development of Word, Excel, and other apps.&nbsp;[†](#w-hungarian-notation)
 
