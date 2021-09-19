@@ -26,6 +26,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Active redundancy](https://en.wikipedia.org/wiki/Active_redundancy){#w-active-redundancy}
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages){#w-asp}
 * [Active users](https://en.wikipedia.org/wiki/Active_users){#w-active-users}
+* [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol){#w-arp}
 * [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion){#w-coldfusion}
 * [Adobe Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver){#w-dreamweaver}
 * [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash){#w-flash}
@@ -354,12 +355,14 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Facebook Instant Articles](https://en.wikipedia.org/wiki/Facebook_Instant_Articles){#w-instant-articles}
 * [Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform){#w-facebook-platform}
 * [Fagan inspection](https://en.wikipedia.org/wiki/Fagan_inspection){#w-fagan-inspection}
+* [Failover](https://en.wikipedia.org/wiki/Failover){#w-failover}
 * [Fallback](https://en.wikipedia.org/wiki/Fallback){#w-fallback}
 * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives){#w-false-positive-false-negative}
 * [Favicon](https://en.wikipedia.org/wiki/Favicon){#w-favicon}
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep){#w-feature-creep}
 * [Feature detection (web development)](https://en.wikipedia.org/wiki/Feature_detection_(web_development)){#w-feature-detection}
 * [Feature phone](https://en.wikipedia.org/wiki/Feature_phone){#w-feature-phone}
+* [Federal Information Processing Standards](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards){#w-fips}
 * [Federated Learning of Cohorts](https://en.wikipedia.org/wiki/Federated_Learning_of_Cohorts){#w-floc}
 * [Federation (information technology)](https://en.wikipedia.org/wiki/Federation_(information_technology)){#w-federation}
 * [FIFO (computing and electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)){#w-fifo}
@@ -529,6 +532,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat){#w-irc}
 * [Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider){#w-isp}
 * [Internet Society](https://en.wikipedia.org/wiki/Internet_Society){#w-isoc}
+* [InterNIC](https://en.wikipedia.org/wiki/InterNIC){#w-internic}
 * [Interoperability](https://en.wikipedia.org/wiki/Interoperability){#w-interoperability}
 * [InterPlanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System){#w-ipfs}
 * [Interpolation](https://en.wikipedia.org/wiki/Interpolation){#w-interpolation}
@@ -538,6 +542,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [IOPS](https://en.wikipedia.org/wiki/IOPS){#w-iops}
 * [iOS](https://en.wikipedia.org/wiki/IOS){#w-ios}
 * [IP address](https://en.wikipedia.org/wiki/IP_address){#w-ip-address}
+* [iptables](https://en.wikipedia.org/wiki/Iptables){#w-iptables}
 * [IPv4](https://en.wikipedia.org/wiki/IPv4){#w-ipv4}
 * [IPv6](https://en.wikipedia.org/wiki/IPv6){#w-ipv6}
 * [JAR (file format)](https://en.wikipedia.org/wiki/JAR_(file_format)){#w-jar}

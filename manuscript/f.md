@@ -12,6 +12,9 @@ Fagan inspection
 Fagan testing
 : → Fagan inspection
 
+Failover
+: The switching to a redundant or standby computer server, system, hardware component, or network upon the failure or abnormal termination of the previously active application, server, system, hardware component, or network. Failover and switchover are essentially the same operation, except that failover is automatic and usually operates without warning, while switchover requires human intervention.&nbsp;[†](#w-failover)
+
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
@@ -50,6 +53,9 @@ Feature phone
 
 Feature testing
 : → Feature detection
+
+Federal Information Processing Standard
+: A publicly announced standard developed by the National Institute of Standards and Technology (NIST) for use in computer systems by non-military American government agencies and government contractors. FIPS standards are issued to establish requirements for purposes such as ensuring computer security and interoperability, and are intended for cases in which suitable industry standards do not already exist. Many FIPS specifications are modified versions of standards used in the technical communities, such as the American National Standards Institute (ANSI), the Institute of Electrical and Electronics Engineers (IEEE), and the International Organization for Standardization (ISO).&nbsp;[†](#w-fips) ℹ︎&nbsp;[is.gd/Obox4z](https://csrc.nist.gov/publications/fips)
 
 Federated Learning of Cohorts
 : A type of web tracking through federated learning. FLoC groups people into “cohorts” based on their browsing history for the purpose of interest-based advertising. Google began testing the technology in the Chrome browser in March 2021 as a replacement for third-party cookies, which it plans to stop supporting in Chrome by early 2023. As of April 2021, every major browser aside from Google Chrome that is based on Google’s Chromium platform has declined to implement FLoC.&nbsp;[†](#w-floc) ℹ︎&nbsp;[github.com/WICG/floc](https://github.com/WICG/floc)
@@ -93,6 +99,9 @@ File Transfer Protocol
 Fingerprinting
 : In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
 : In computer security, information collected about a remote computing device for the purpose of identification. Fingerprints can be used to fully or partially identify individual users or devices even when persistent cookies (and zombie cookies) cannot be read or stored in the browser, the client IP address is hidden, and even if one switches to another browser on the same device. This may allow a remote application to detect and prevent online identity theft and credit card fraud, but also to compile long-term records of individuals’ browsing histories even when they are attempting to avoid tracking.&nbsp;[†](#w-device-fingerprint)
+
+FIPS
+: → Federal Information Processing Standard
 
 Firebird
 : → Firefox

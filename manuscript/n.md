@@ -77,6 +77,9 @@ Network
 Network Address Translation
 : A method of remapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. NAT has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion, as one Internet-routable IP address of a NAT gateway can be used for an entire private network.&nbsp;[†](#w-nat)
 
+Network Information Center
+: Known as InterNIC from 1993 until 1998, an organization primarily responsible for Domain Name System (DNS) domain name allocations and X.500 directory services. From its inception in 1972 until 1991, it was run by the Stanford Research Institute, now known as SRI International. From 1991 until 1998, it was run by Network Solutions. Thereafter, the responsibility was assumed by the Internet Corporation for Assigned Names and Numbers (ICANN).&nbsp;[†](#w-internic) ℹ︎&nbsp;[internic.net](https://www.internic.net/)
+
 Network Mapper
 : A network scanner. Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. It was created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich), and first released in 1997.&nbsp;[†](#w-nmap) ℹ︎&nbsp;[nmap.org](https://nmap.org/)
 

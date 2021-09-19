@@ -335,6 +335,9 @@ Internet Society
 InternetWorks
 : A web browser by BookLink Technologies. InternetWorks was the first browser to offer tabbed browsing. It was released in 1994.
 
+InterNIC
+: → Network Information Center
+
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
 
@@ -389,6 +392,9 @@ IP telephony
 
 IPFS
 : → InterPlanetary File System
+
+iptables
+: A user space utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall. The filters are organized in different tables, which contain chains of rules for how to treat network traffic packets. Different kernel modules and programs are currently used for different protocols: iptables applies to IPv4, ip6tables to IPv6, arptables to ARP, and ebtables to Ethernet frames.&nbsp;[†](#w-iptables) ℹ︎&nbsp;[is.gd/8vgf9l](https://linux.die.net/man/8/iptables)
 
 IPv4
 : The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based inter-networking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)

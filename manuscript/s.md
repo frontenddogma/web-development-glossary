@@ -790,6 +790,9 @@ SVG
 SVN
 : → Subversion
 
+Switchover
+: → Failover
+
 SXG
 : → Signed HTTP Exchange
 

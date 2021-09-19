@@ -125,6 +125,9 @@ Adaptive technology
 Addon
 : → Plugin
 
+Address Resolution Protocol
+: A communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address. This mapping is a critical function in the Internet protocol suite. ARP was defined in 1982 by RFC&nbsp;826, which is Internet Standard STD&nbsp;37.&nbsp;[†](#w-arp)
+
 Adobe ColdFusion
 : → ColdFusion
 
@@ -359,6 +362,9 @@ ARIA roles
 
 ARN
 : → Amazon Resource Name
+
+ARP
+: → Address Resolution Protocol
 
 Arrange, Act, Assert
 : A pattern to organize test methods by.
