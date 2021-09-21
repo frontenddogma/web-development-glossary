@@ -345,7 +345,7 @@ Rich Text Format
 Rich Web Application
 : A web application that has many of the characteristics of desktop application software. The concept is closely related to a single-page application, and may allow the user interactive features such as drag and drop, context menus, WYSIWYG editing, etc. Prior to HTML&nbsp;5, approaches to RWAs were based on Adobe Flash, Java applets, JavaFX, or Microsoft Silverlight.&nbsp;[†](#w-rwa)
 
-Right-to-Left
+Right-to-left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
 
 Rijndael
@@ -464,7 +464,7 @@ RTFM
 : → Read the Fucking Manual
 
 RTL
-: → Right-to-Left
+: → Right-to-left
 
 RTO
 : → Recovery Time Objective

@@ -396,6 +396,9 @@ IP telephony
 IPFS
 : → InterPlanetary File System
 
+IPSECKEY
+: An IPsec key resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 iptables
 : A user space utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall. The filters are organized in different tables, which contain chains of rules for how to treat network traffic packets. Different kernel modules and programs are currently used for different protocols: iptables applies to IPv4, ip6tables to IPv6, arptables to ARP, and ebtables to Ethernet frames.&nbsp;[†](#w-iptables) ℹ︎&nbsp;[is.gd/8vgf9l](https://linux.die.net/man/8/iptables)
 

@@ -289,14 +289,23 @@ Divitis
 Django
 : A Python-based web framework that follows the model-template-views (MTV) architectural pattern and whose primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and “pluggability” of components, less code, low coupling, rapid development, and the principle of Don’t Repeat Yourself (DRY). Django was released in 2005; it is maintained by the Django Software Foundation (DSF).&nbsp;[†](#w-django) ℹ︎&nbsp;[djangoproject.com](https://www.djangoproject.com/)
 
+DKIM
+: → DomainKeys Identified Mail
+
 DLR
 : → Dynamic Language Runtime
+
+DMARC
+: → Domain-Based Message Authentication, Reporting, and Conformance
 
 DML
 : → Data Manipulation Language
 
 DMZ
 : → Demilitarized Zone
+
+DNAME
+: A delegation name resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 DNS
 : → Domain Name Service
@@ -310,6 +319,9 @@ DNS root zone
 
 DNS spoofing
 : A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver’s cache, causing the name server to return an incorrect result record, e.g., an IP address. This results in traffic being diverted to the attacker’s computer (or any other computer).&nbsp;[†](#w-dns-spoofing)
+
+DNSKEY
+: A DNS key resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 DNSSEC
 : → Domain Name System Security Extensions
@@ -377,8 +389,14 @@ Domain Name System Security Extensions
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
 
+Domain-Based Message Authentication, Reporting, and Conformance
+: An email authentication protocol designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email spoofing. The purpose and primary outcome of implementing DMARC is to protect a domain from being used in business email compromise attacks, phishing emails, email scams, and other cyber threat activities. Once a DMARC DNS entry is published, any receiving email server can authenticate the incoming email based on the instructions published by the domain owner within the DNS entry. DMARC was defined in 2015 in RFC&nbsp;7489.&nbsp;[†](#w-dmarc)
+
 Domain-Driven Design
 : The concept that the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.&nbsp;[†](#w-ddd)
+
+DomainKeys Identified Mail
+: An email authentication method designed to detect forged sender addresses in email (email spoofing), a technique often used in phishing and email spam. DKIM allows the receiver to check that an email claimed to have come from a specific domain was indeed authorized by the owner of that domain. It achieves this by affixing a digital signature, linked to a domain name, to each outgoing email message. The recipient system can verify this by looking up the sender’s public key published in the DNS. DKIM is an Internet Standard, defined in 2011 in RFC&nbsp;6376, with updates in RFC&nbsp;8301 and 8463.&nbsp;[†](#w-dkim)
 
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)

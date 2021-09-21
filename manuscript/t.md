@@ -142,6 +142,9 @@ Testing
 TeX
 : A typesetting or formatting system. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems. TeX was released in 1978 by Donald Knuth.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
 
+Text-to-speech
+: → Speech synthesis
+
 Textile
 : A lightweight markup language that uses a text formatting syntax to convert plain-text into structured HTML markup. Textile is used for writing articles, forum posts, documentation, and any other type of written content published online. It was first released in 2002.&nbsp;[†](#w-textile) ℹ︎&nbsp;[textile-lang.com](https://textile-lang.com/)
 
@@ -363,6 +366,9 @@ TTI
 TTL
 : → Time to Live
 
+TTS
+: → Text-to-speech
+
 TUFU
 : → Trust Upon First Use
 
@@ -382,6 +388,9 @@ Turing completeness
 
 Two-factor authentication
 : A type, or subset, of multi-factor authentication. Two-factor authentication is a method of confirming users’ claimed identities by using a combination of two different factors: 1) something they know, 2) something they have, or 3) something they are. An example is the withdrawing of money from an ATM; only the correct combination of a bank card (something the user possesses) and a PIN (something the user knows) allows the transaction to be carried out.&nbsp;[†](#w-mfa)
+
+TXT
+: A text resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Type
 : An attribute of data which tells the compiler or interpreter how the data is intended to be used. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters, and Booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e., variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)

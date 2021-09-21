@@ -178,6 +178,9 @@ npm
 NPS
 : → Net Promoter Score
 
+NS
+: A name server resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 NUI
 : → Natural user interface
 

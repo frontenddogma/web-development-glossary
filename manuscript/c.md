@@ -123,6 +123,9 @@ CDN
 CDP
 : → Chrome DevTools Protocol
 
+CERT
+: A certificate resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
 

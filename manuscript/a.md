@@ -1,6 +1,9 @@
 {sample: true}
 # A
 
+A
+: An IPv4 address resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 A List Apart
 : A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
 
@@ -12,6 +15,9 @@ A11Y
 
 AAA
 : → Arrange, Act, Assert
+
+AAAA
+: An IPv6 address resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Above the fold
 : The part of a web page that is visible without scrolling.

@@ -441,6 +441,9 @@ Pseudo-code
 Pseudo-element
 : One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`.&nbsp;[‡](#m-pseudo-element)
 
+PTR
+: A pointer resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 Pull request
 : → Merge request
 

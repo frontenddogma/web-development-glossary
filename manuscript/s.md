@@ -202,6 +202,9 @@ Semantics
 SemVer
 : → Semantic Versioning
 
+Sender Policy Framework
+: An email authentication method designed to detect forging sender addresses during the delivery of the email. SPF alone, however, is limited to detecting a forged sender claim in the envelope of the email, which is used when the mail gets bounced. Only in combination with DMARC can it be used to detect the forging of the visible sender in emails (email spoofing), a technique often used in phishing and email spam.&nbsp;[†](#w-spf)
+
 SEO
 : → Search Engine Optimization
 
@@ -269,6 +272,9 @@ Servlet
 Session
 : A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)
 
+Session affinity
+: → Sticky session
+
 Session hijacking
 : The exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system. In particular, session hijacking is used to refer to the theft of a cookie used to authenticate a user to a remote server. It has particular relevance to web developers, as the HTTP cookies used to maintain a session on many websites can be easily stolen by an attacker using an intermediary computer or with access to the saved cookies on the victim’s computer. After successfully stealing appropriate session cookies, an adversary might use the Pass the Cookie technique to hijack the session.&nbsp;[†](#w-session-hijacking)
 
@@ -328,6 +334,9 @@ SI
 
 Siamese twins document
 : An HTML document with two `head`s and two `body`s, an expression coined by Simon Pieters.
+
+SIG
+: A signature resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Sign-in
 : → Login
@@ -547,8 +556,14 @@ Specificity
 Spectre
 : A vulnerability that affects modern microprocessors that perform branch prediction. On most processors, the speculative execution resulting from a branch misprediction may leave observable side effects that may reveal private data to attackers. Spectre was discovered in 2018.&nbsp;[†](#w-spectre)
 
+Speech synthesis
+: The artificial production of human speech. A computer system used for this purpose is called a speech computer or speech synthesizer, and can be implemented in software or hardware products. A text-to-speech (TTS) system converts normal language text into speech; other systems render symbolic linguistic representations like phonetic transcriptions into speech.&nbsp;[†](#w-speech-synthesis)
+
 Speed Index
 : A page load performance metric that shows how quickly the contents of a page are visibly populated. Speed Index is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on the size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)
+
+SPF
+: → Sender Policy Framework
 
 Spider
 : → Crawler
@@ -607,6 +622,9 @@ sRGB
 
 SRI
 : → Subresource Integrity
+
+SRV
+: A service locator resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 SSG
 : → Static Site Generation
@@ -702,6 +720,9 @@ Static Site Generator
 Status code
 : → HTTP status code
 
+Sticky session
+: The routing of requests for a particular session to the same specific machine that handled the first request for that session.
+
 Stimulus
 : → Hotwire
 
@@ -780,6 +801,15 @@ Subnav
 
 Subnavigation
 : A secondary or auxiliary website navigation menu. Visually, a subnavigation is usually less prominent than a main navigation menu.
+
+Subnet
+: A logical subdivision of an IP network. Computers that belong to the same subnet are addressed with an identical most-significant bit-group in their IP addresses. This results in the logical division of an IP address into two fields: the network number or routing prefix, and the rest field or host identifier. Traffic is exchanged between subnetworks through routers when the routing prefixes of the source address and the destination address differ. The practice of dividing a network into two or more networks is called subnetting. Subnetting may enhance routing efficiency, or have advantages in network management when subnetworks are administratively controlled by different entities in a larger organization.&nbsp;[†](#w-subnet)
+
+Subnet mask
+: The bitmask that, when applied by a bitwise `AND` operation to any IP address in the network, yields the routing prefix. Subnet masks are expressed in dot-decimal notation like an IP address. For example, “255.255.255.0” is the subnet mask for the prefix “198.51.100.0/24”.&nbsp;[†](#w-subnet)
+
+Subnetwork
+: → Subnet
 
 Subresource Integrity
 : A W3C specification to provide a method to protect website delivery. Specifically, SRI validates assets served by a third party, such as a Content Delivery Network (CDN). This ensures these assets have not been compromised for hostile purposes. SRI was created in response to a number of attacks where CDN-served content was injected with malicious code, compromising thousands of websites using it.&nbsp;[†](#w-sri)

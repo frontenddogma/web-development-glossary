@@ -392,6 +392,9 @@ MVP
 MVVM
 : → Model-View-Viewmodel
 
+MX
+: A mail exchange resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 MySQL
 : A relational database management system (RDBMS). Its name is a combination of “My,” the name of co-founder Michael Widenius’s daughter, and “SQL,” the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)
 

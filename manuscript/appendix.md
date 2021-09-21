@@ -292,6 +292,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control){#w-dvcs}
 * [Dither](https://en.wikipedia.org/wiki/Dither){#w-dither}
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework)){#w-django}
+* [DMARC](https://en.wikipedia.org/wiki/DMARC){#w-dmarc}
 * [DMZ (computing)](https://en.wikipedia.org/wiki/DMZ_(computing)){#w-dmz}
 * [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS){#w-doh}
 * [DNS root zone](https://en.wikipedia.org/wiki/DNS_root_zone){#w-root-zone}
@@ -309,6 +310,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
 * [Domain Name System Security Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions){#w-dnssec}
 * [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design){#w-ddd}
+* [DomainKeys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail){#w-dkim}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
 * [Dots per inch](https://en.wikipedia.org/wiki/Dots_per_inch){#w-dpi}
@@ -332,6 +334,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Em (typography)](https://en.wikipedia.org/wiki/Em_(typography)){#w-em}
 * [Emacs](https://en.wikipedia.org/wiki/Emacs){#w-emacs}
 * [Email](https://en.wikipedia.org/wiki/Email){#w-email}
+* [Email spoofing](https://en.wikipedia.org/wiki/Email_spoofing){#w-email-spoofing}
 * [Email address](https://en.wikipedia.org/wiki/Email_address){#w-email-address}
 * [Empty string](https://en.wikipedia.org/wiki/Empty_string){#w-empty-string}
 * [Encapsulation (computer programming)](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)){#w-encapsulation}
@@ -466,6 +469,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Home screen](https://en.wikipedia.org/wiki/Home_screen){#w-home-screen}
 * [Hooking](https://en.wikipedia.org/wiki/Hooking){#w-hooking}
 * [Host (network)](https://en.wikipedia.org/wiki/Host_(network)){#w-host}
+* [Host Identity Protocol](https://en.wikipedia.org/wiki/Host_Identity_Protocol){#w-hip}
 * [Hostname](https://en.wikipedia.org/wiki/Hostname){#w-hostname}
 * [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV){#w-hsx}
 * [HTML](https://en.wikipedia.org/wiki/HTML){#w-html}
@@ -619,6 +623,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base){#w-lsb}
 * [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle){#w-liskov-substitution}
 * [Lisp (programming language)](https://en.wikipedia.org/wiki/Lisp_(programming_language)){#w-lisp}
+* [List of DNS record types](https://en.wikipedia.org/wiki/List_of_DNS_record_types){#w-dns-record-types}
 * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes){#w-http-status-code}
 * [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references){#w-character-reference}
 * [Literal (computer programming)](https://en.wikipedia.org/wiki/Literal_(computer_programming)){#w-literal}
@@ -635,9 +640,6 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression){#w-lossless}
 * [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression){#w-lossy}
 * [Lynx (web browser)](https://en.wikipedia.org/wiki/Lynx_(web_browser)){#w-lynx}
-
-@@
-
 * [MAC address](https://en.wikipedia.org/wiki/MAC_address){#w-mac-address}
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning){#w-ml}
 * [macOS](https://en.wikipedia.org/wiki/MacOS){#w-macos}
@@ -931,6 +933,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Selenium (software)](https://en.wikipedia.org/wiki/Selenium_(software)){#w-selenium}
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web){#w-semantic-web}
 * [Semantics (computer science)](https://en.wikipedia.org/wiki/Semantics_(computer_science)){#w-semantics}
+* [Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework){#w-spf}
 * [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns){#w-soc}
 * [Serialization](https://en.wikipedia.org/wiki/Serialization){#w-serialization}
 * [Serif](https://en.wikipedia.org/wiki/Serif){#w-serif}
@@ -985,6 +988,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
 * [Spectre (security vulnerability)](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)){#w-spectre}
 * [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
+* [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis){#w-speech-synthesis}
 * [Spike (software development)](https://en.wikipedia.org/wiki/Spike_(software_development)){#w-spike}
 * [Spinner (computing)](https://en.wikipedia.org/wiki/Spinner_(computing)){#w-spinner}
 * [Splash screen](https://en.wikipedia.org/wiki/Splash_screen){#w-splash-screen}
@@ -1011,6 +1015,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Stylus (stylesheet language)](https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)){#w-stylus}
 * [Subject Alternative Name](https://en.wikipedia.org/wiki/Subject_Alternative_Name){#w-subject-alternative-name}
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
+* [Subnetwork](https://en.wikipedia.org/wiki/Subnetwork){#w-subnet}
 * [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
 * [Superkey](https://en.wikipedia.org/wiki/Superkey){#w-superkey}
