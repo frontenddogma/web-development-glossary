@@ -48,6 +48,9 @@ Geofence
 Geolocation API
 : An effort by the World Wide Web Consortium (W3C) to standardize an interface to retrieve the location information for a client-side device. The Geolocation API defines an ECMAScript-compliant set of objects that give the client’s device location through the consulting of location information servers. The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, Wi-Fi connection location, radio-frequency identification (RFID), and device Global Positioning System (GPS) or GSM/CDMA cell IDs.&nbsp;[†](#w-geolocation-api) ℹ︎&nbsp;[w3.org/TR/geolocation-API](https://www.w3.org/TR/geolocation-API/)
 
+Geturl
+: → Wget
+
 GIF
 : → Graphics Interchange Format
 

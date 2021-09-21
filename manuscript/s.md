@@ -24,6 +24,13 @@ Same origin
 Same-origin policy
 : An important concept in the web application security model. Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number. The same-origin policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page’s Document Object Model (DOM).&nbsp;[†](#w-sop)
 
+SAML
+: → Security Assertion Markup Language
+
+SAN
+: → Storage area network
+: → Subject Alternative Name
+
 Sandbox
 : In computer security, a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading. A sandbox is often used to execute untested or untrusted programs or code, possibly from unverified or untrusted third parties, suppliers, users or websites, without risking harm to the host machine or operating system. A sandbox typically provides a tightly controlled set of resources for guest programs to run in, such as storage and memory scratch space. Network access, the ability to inspect the host system, or read from input devices are usually disallowed or heavily restricted.&nbsp;[†](#w-sandbox-security)
 : In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software)
@@ -160,6 +167,9 @@ Secure Sockets Layer
 
 Security
 : → Information Security
+
+Security Assertion Markup Language
+: An open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is an XML-based markup language for security assertions (statements that service providers use to make access-control decisions). It is also a set of XML-based protocol messages, protocol message bindings, and profiles. SAML was first published in 2002.&nbsp;[†](#w-saml) ℹ︎&nbsp;[saml.xml.org](http://saml.xml.org/)
 
 Security hacker
 : Someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering, challenge, recreation, or to evaluate system weaknesses to assist in formulating defenses against potential hackers. The subculture that has evolved around hackers is often referred to as the “computer underground.” Longstanding controversy surrounds the meaning of the term “hacker” itself.&nbsp;[†](#w-security-hacker)
@@ -438,6 +448,7 @@ Snowpack
 
 SOA
 : → Service-oriented architecture
+: → Start of Authority
 
 SOAP
 : → Simple Object Access Protocol
@@ -658,6 +669,9 @@ Star
 Star hack
 : A once-popular CSS hack allowing to apply declarations only to Internet Explorer 7 and below. The hack consisted of adding an asterisk (`*`) right in front of the property of a declaration so as to apply it in IE, while a declaration using the same—but “unprefixed”—property held for other browsers. The star hack is one of a class of similar hacks for Internet Explorer, as other characters, like an underscore (`_`), would have the same effect and would be used as well (underscore hack). ℹ︎&nbsp;[browserhacks.com/#ie](http://browserhacks.com/#ie)
 
+Start of Authority
+: A type of resource record in the Domain Name System (DNS) containing administrative information about the zone, especially regarding zone transfers. The SOA record format is specified in RFC&nbsp;1035.&nbsp;[†](#w-start-of-authority)
+
 Start page
 : → Home page
 
@@ -693,6 +707,9 @@ Stimulus
 
 Storage
 : The recording (storing) of information (data) in a storage medium. Paper, magnetic tapes, and optical discs are examples of storage media. Recording may be accomplished with virtually any form of energy. Electronic data storage requires electrical power to store and retrieve data; computer data storage is one of the core functions of a general-purpose computer.&nbsp;[†](#w-data-storage)
+
+Storage area network
+: A computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access data storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).&nbsp;[†](#w-storage-area-network)
 
 Storage engine
 : → Database engine
@@ -751,6 +768,9 @@ Styling
 
 Stylus
 : A dynamic stylesheet preprocessor language that is compiled into Cascading Style Sheets (CSS). Its design is influenced by Sass and Less. Stylus was released in 2010 and is one of the most used CSS preprocessor syntaxes.&nbsp;[†](#w-stylus) ℹ︎&nbsp;[stylus-lang.com](https://stylus-lang.com/)
+
+Subject Alternative Name
+: An extension to X.509 that allows various values to be associated with a security certificate using a `subjectAltName` field. Subject Alternative Names (SANs) can cover email and IP addresses, URIs, DNS names, directory names, and other information.&nbsp;[†](#w-subject-alternative-name)
 
 Subject-Matter Expert
 : A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavor (e.g., an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)

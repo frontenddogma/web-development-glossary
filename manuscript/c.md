@@ -772,6 +772,9 @@ CTR
 Cumulative Layout Shift
 : A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
 
+curl
+: A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for “Client URL,” which was first released in 1997.&nbsp;[†](#w-curl) ℹ︎&nbsp;[curl.se](https://curl.se/)
+
 Currying
 : The technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.&nbsp;[†](#w-currying)
 

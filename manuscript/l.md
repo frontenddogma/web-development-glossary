@@ -13,7 +13,7 @@ LAMP
 : → Linux, Apache, MySQL, PHP/Perl/Python
 
 LAN
-: → Local Area Network
+: → Local area network
 
 Landing page
 : A single web page that appears in response to clicking on an search-optimized search result, online advertisement, or marketing promotion. The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result, or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser’s conversion rate. A landing page may be part of a microsite or a single page within an organization’s main website.&nbsp;[†](#w-landing-page)
@@ -236,7 +236,7 @@ LOC
 Local
 : → Local scope
 
-Local Area Network
+Local area network
 : A computer network that interconnects computers within a limited area such as a residence, laboratory, school, university campus, or office building. By contrast, a wide area network (WAN) covers a larger geographic distance. Ethernet and Wi-Fi are the two most common technologies in use for local area networks.&nbsp;[†](#w-lan)
 
 Local scope

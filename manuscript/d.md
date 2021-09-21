@@ -311,6 +311,9 @@ DNS root zone
 DNS spoofing
 : A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver’s cache, causing the name server to return an incorrect result record, e.g., an IP address. This results in traffic being diverted to the attacker’s computer (or any other computer).&nbsp;[†](#w-dns-spoofing)
 
+DNSSEC
+: → Domain Name System Security Extensions
+
 DocBook
 : A semantic markup language originally created for technical documentation. As a semantic language, DocBook documents do not describe what their contents “look like,” but rather the meaning of those contents.&nbsp;[†](#w-docbook) ℹ︎&nbsp;[docbook.org](https://docbook.org/)
 
@@ -367,6 +370,9 @@ Domain Name Service
 
 Domain Name System
 : A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a world-wide distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
+
+Domain Name System Security Extensions
+: A suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. The protocol provides cryptographic authentication of data, authenticated denial of existence, and data integrity, but not availability or confidentiality.&nbsp;[†](#w-dnssec)
 
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)

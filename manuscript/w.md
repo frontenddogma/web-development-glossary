@@ -17,7 +17,7 @@ WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
 
 WAN
-: → Wide Area Network
+: → Wide area network
 
 WAP
 : → Wireless Application Protocol
@@ -148,6 +148,9 @@ Web Performance Optimization
 Web platform
 : A collection of technologies developed as open standards by the World Wide Web Consortium (W3C) and other standardization bodies such as the Web Hypertext Application Technology Working Group (WHATWG), the Unicode Consortium, the Internet Engineering Task Force (IETF), and Ecma International. It includes technologies—computer languages and APIs—that were originally created in relation to the publication of web pages, like HTML, CSS, SVG, MathML, WAI-ARIA, ECMAScript, and many others. “Web platform” is an umbrella term introduced by the World Wide Web Consortium.&nbsp;[†](#w-web-platform)
 
+Web Platform Incubator Community Group
+: A World Wide Web Consortium (W3C) Community Group to provide “a lightweight venue for proposing and discussing new web platform features.” The WICG was founded in 2015. ℹ︎&nbsp;[wicg.io](https://wicg.io/)
+
 Web resource
 : Any identifiable thing or entity, whether digital, physical, or abstract. Resources are identified using Uniform Resource Identifiers. In the Semantic Web, web resources and their semantic properties are described using the Resource Description Framework. The concept of a web resource has evolved during the Web’s history, from the early notion of static addressable documents or files, to a more generic and abstract definition, now encompassing everything that can be identified, named, addressed, or handled, in any way whatsoever, in the Web at large, or in any networked information system.&nbsp;[†](#w-web-resource)
 
@@ -269,6 +272,9 @@ Well-formedness
 WET
 : The opposite of DRY (Don’t Repeat Yourself).
 
+Wget
+: A computer program that retrieves content from web servers. Wget’s name derives from “World Wide Web” and “get.” It supports downloading via HTTP, HTTPS, and FTP, and features include recursive download, conversion of links for offline viewing of local HTML, as well as support for proxies. Wget was first released in 1996 and is part of the GNU Project.&nbsp;[†](#w-wget) ℹ︎&nbsp;[gnu.org/software/wget](https://www.gnu.org/software/wget/)
+
 What You See Is All You Get
 : An idea from _The Pragmatic Programmer_, a disadvantage with WYSIWYG tools.
 
@@ -293,7 +299,10 @@ Whitespace
 WHOIS
 : A query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC&nbsp;3912. The first WHOIS directory was created in the 1970s.&nbsp;[†](#w-whois)
 
-Wide Area Network
+WICG
+: → Web Platform Incubator Community Group
+
+Wide area network
 : A telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits. The Internet may be considered a WAN.&nbsp;[†](#w-wan)
 
 Widow

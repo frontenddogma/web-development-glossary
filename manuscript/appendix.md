@@ -237,6 +237,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [CSS image replacement](https://en.wikipedia.org/wiki/CSS_image_replacement){#w-image-replacement}
 * [CSS Zen Garden](https://en.wikipedia.org/wiki/CSS_Zen_Garden){#w-css-zen-garden}
 * [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS){#w-css-in-js}
+* [cURL](https://en.wikipedia.org/wiki/CURL){#w-curl}
 * [Currying](https://en.wikipedia.org/wiki/Currying){#w-currying}
 * [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management){#w-crm}
 * [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity){#w-cyclomatic-complexity}
@@ -306,6 +307,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Domain name](https://en.wikipedia.org/wiki/Domain_name){#w-domain-name}
 * [Domain name registrar](https://en.wikipedia.org/wiki/Domain_name_registrar){#w-registrar}
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System){#w-dns}
+* [Domain Name System Security Extensions](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions){#w-dnssec}
 * [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design){#w-ddd}
 * [Don’t repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself){#w-dry}
 * [Doorway page](https://en.wikipedia.org/wiki/Doorway_page){#w-doorway-page}
@@ -873,6 +875,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Relational data stream management system](https://en.wikipedia.org/wiki/Relational_data_stream_management_system){#w-rdsms}
 * [Relational database](https://en.wikipedia.org/wiki/Relational_database){#w-relational-database}
 * [Relational model](https://en.wikipedia.org/wiki/Relational_model){#w-relational-model}
+* [Remote Desktop Protocol](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol){#w-rdp}
 * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call){#w-rpc}
 * [Replay attack](https://en.wikipedia.org/wiki/Replay_attack){#w-replay-attack}
 * [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments){#w-rfc}
@@ -890,6 +893,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle){#w-postels-law}
 * [Root directory](https://en.wikipedia.org/wiki/Root_directory){#w-root-directory}
 * [Root element](https://en.wikipedia.org/wiki/Root_element){#w-root-element}
+* [Root name server](https://en.wikipedia.org/wiki/Root_name_server){#w-root-server}
 * [Rooting (Android)](https://en.wikipedia.org/wiki/Rooting_(Android)){#w-rooting}
 * [Round-trip delay time](https://en.wikipedia.org/wiki/Round-trip_delay_time){#w-rtt}
 * [Router (computing)](https://en.wikipedia.org/wiki/Router_(computing)){#w-router}
@@ -918,6 +922,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing){#w-search-engine-indexing}
 * [Search engine marketing](https://en.wikipedia.org/wiki/Search_engine_marketing){#w-sem}
 * [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell){#w-ssh}
+* [Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language){#w-saml}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
 * [Security operations center
   ](https://en.wikipedia.org/wiki/Security_operations_center){#w-security-operations-center}
@@ -953,6 +958,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Slowloris (computer security)](https://en.wikipedia.org/wiki/Slowloris_(computer_security)){#w-slowloris}
 * [Smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_(software)){#w-smoke-testing}
 * [Snake case](https://en.wikipedia.org/wiki/Snake_case){#w-snake-case}
+* [SOA record](https://en.wikipedia.org/wiki/SOA_record){#w-start-of-authority}
 * [SOAP](https://en.wikipedia.org/wiki/SOAP){#w-soap}
 * [Soft launch](https://en.wikipedia.org/wiki/Soft_launch){#w-soft-launch}
 * [Software](https://en.wikipedia.org/wiki/Software){#w-software}
@@ -995,6 +1001,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [State (computer science)](https://en.wikipedia.org/wiki/State_(computer_science)){#w-state}
 * [Statement (computer science)](https://en.wikipedia.org/wiki/Statement_(computer_science)){#w-statement}
 * [Static web page](https://en.wikipedia.org/wiki/Static_web_page){#w-static}
+* [Storage area network](https://en.wikipedia.org/wiki/Storage_area_network){#w-storage-area-network}
 * [Strategic design](https://en.wikipedia.org/wiki/Strategic_design){#w-design-strategy}
 * [Stream (computing)](https://en.wikipedia.org/wiki/Stream_(computing)){#w-stream}
 * [Streaming media](https://en.wikipedia.org/wiki/Streaming_media){#w-streaming}
@@ -1002,6 +1009,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Structural similarity](https://en.wikipedia.org/wiki/Structural_similarity){#w-ssim}
 * [Style sheet (web development)](https://en.wikipedia.org/wiki/Style_sheet_(web_development)){#w-style-sheet}
 * [Stylus (stylesheet language)](https://en.wikipedia.org/wiki/Stylus_(stylesheet_language)){#w-stylus}
+* [Subject Alternative Name](https://en.wikipedia.org/wiki/Subject_Alternative_Name){#w-subject-alternative-name}
 * [Subject-matter expert](https://en.wikipedia.org/wiki/Subject-matter_expert){#w-sme}
 * [Subresource Integrity](https://en.wikipedia.org/wiki/Subresource_Integrity){#w-sri}
 * [Subroutine](https://en.wikipedia.org/wiki/Subroutine){#w-subroutine}
@@ -1183,6 +1191,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket){#w-websocket}
 * [WebVTT](https://en.wikipedia.org/wiki/WebVTT){#w-webvtt}
 * [Well-formed document](https://en.wikipedia.org/wiki/Well-formed_document){#w-well-formedness}
+* [Wget](https://en.wikipedia.org/wiki/Wget){#w-wget}
 * [WHATWG](https://en.wikipedia.org/wiki/WHATWG){#w-whatwg}
 * [White-box testing](https://en.wikipedia.org/wiki/White-box_testing){#w-white-box-testing}
 * [Whitelisting](https://en.wikipedia.org/wiki/Whitelisting){#w-whitelist}

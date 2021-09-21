@@ -55,6 +55,9 @@ RDF
 RDF Site Summary
 : A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. An RSS document (called feed, web feed, or channel) includes full or summarized text, and metadata, like publishing date and author names.&nbsp;[†](#w-rss)
 
+RDP
+: → Remote Desktop Protocol
+
 RDSMS
 : → Relational Data Stream Management System
 
@@ -192,6 +195,9 @@ Rem
 Remote Authentication Dial-In User Service
 : A networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users who connect and use a network service. RADIUS was developed in 1991 by Livingston Enterprises as an access server authentication and accounting protocol. It was later brought into IEEE&nbsp;802 and IETF standards. RADIUS is a client/server protocol that runs in the application layer, and can use either TCP or UDP.&nbsp;[†](#w-radius)
 
+Remote Desktop Protocol
+: A proprietary protocol developed by Microsoft which provides a user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software. The protocol is an extension of the ITU-T T.128 application sharing protocol.&nbsp;[†](#w-rdp)
+
 Remote method invocation
 : The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC).&nbsp;[†](#w-distributed-object-communication)
 
@@ -270,6 +276,9 @@ Resource Description Framework
 Resource Hints
 : A number of HTML link relationships that allow to indicate what resources to fetch ahead of time in order to improve performance. Resource Hints include `dns-prefetch`, `preconnect`, `prefetch`, and `prerender`, and can be implemented using the HTML `link` element as well as the `Link` HTTP header. ℹ︎&nbsp;[w3.org/TR/resource-hints](https://www.w3.org/TR/resource-hints/)
 
+Resource record
+: A DNS record type. Each resource record has a type (name and number), an expiration time (time to live), a class, and type-specific data. Resource records of the same type are described as a resource record set (RRset), having no special ordering. DNS resolvers return the entire set upon query, but servers may implement round-robin ordering to achieve load balancing.&nbsp;[†](#w-dns)
+
 Response
 : In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client’s request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
@@ -281,6 +290,9 @@ Responsibility Assignment Matrix
 
 Responsive design
 : → Responsive web design
+
+Responsive Images Community Group
+: A group of developers working towards “a client-side solution for delivering alternate image data based on device capabilities to prevent wasted bandwidth and optimize display for both screen and print.” The RICG was founded in 2012. ℹ︎&nbsp;[responsiveimages.org](https://responsiveimages.org/)
 
 Responsive web design
 : An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic.&nbsp;[†](#w-rwd)
@@ -317,6 +329,9 @@ RIA
 
 RIB
 : → Routing Information Base
+
+RICG
+: → Responsive Images Community Group
 
 Rich Internet Application
 : → Rich Web Application
@@ -376,8 +391,14 @@ Root element
 Root em
 : A typographic unit in CSS (`rem`) that corresponds with the computed value of the font size of the root element (for HTML, the `html` element).
 
+Root name server
+: → Root server
+
 Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
+
+Root server
+: A name server for the root zone of the Domain Name System (DNS) of the Internet. It directly answers requests for records in the root zone and answers other requests by returning a list of the authoritative name servers for the appropriate top-level domain (TLD). Root name servers are a critical part of the Internet infrastructure because they are the first step in translating (resolving) human readable host names into IP addresses that are used in communication between Internet hosts.&nbsp;[†](#w-root-server)
 
 Root zone
 : The top-level DNS zone in the hierarchical namespace of the Domain Name System (DNS) of the Internet. Since 2016, the root zone has been overseen by the Internet Corporation for Assigned Names and Numbers (ICANN), which delegates the management to a subsidiary acting as the Internet Assigned Numbers Authority (IANA). Distribution services are provided by Verisign.&nbsp;[†](#w-root-zone)
@@ -424,6 +445,9 @@ RPO
 
 RPS
 : → Requests per second
+
+RR
+: → Resource record
 
 RSS
 : → RDF Site Summary
