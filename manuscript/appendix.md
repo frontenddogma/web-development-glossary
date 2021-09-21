@@ -926,8 +926,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell){#w-ssh}
 * [Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language){#w-saml}
 * [Security hacker](https://en.wikipedia.org/wiki/Security_hacker){#w-security-hacker}
-* [Security operations center
-  ](https://en.wikipedia.org/wiki/Security_operations_center){#w-security-operations-center}
+* [Security operations center](https://en.wikipedia.org/wiki/Security_operations_center){#w-security-operations-center}
 * [security.txt](https://en.wikipedia.org/wiki/Security.txt){#w-securitytxt}
 * [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization){#w-seo}
 * [Selenium (software)](https://en.wikipedia.org/wiki/Selenium_(software)){#w-selenium}
