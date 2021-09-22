@@ -10,6 +10,9 @@ QC
 qooxdoo
 : An AJAX web application framework. qooxdoo provides support for professional JavaScript development with a graphical user interface (GUI) toolkit and high-level client-server communication. It was first released in 2005.&nbsp;[†](#w-qooxdoo) ℹ︎&nbsp;[qooxdoo.org](https://qooxdoo.org/)
 
+QPS
+: → Queries per second
+
 Quality
 : The non-inferiority or superiority of something, and also its being suitable for the intended purpose (fitness for purpose) while satisfying customer expectations. Quality is a perceptual, conditional, and somewhat subjective attribute and may be understood differently by different people. Consumers may focus on the specification quality of a product or service, or how it compares to competitors in the marketplace. Producers might measure the conformance quality, or degree to which the product or service was produced correctly. Support personnel may measure quality in the degree that a product is reliable, maintainable, or sustainable.&nbsp;[†](#w-quality)
 
@@ -25,6 +28,9 @@ Quality Control
 Quantity query
 : A complex CSS selector that allows styles to be applied to elements based on the number of siblings. The term was first coined in 2015 by Heydon Pickering. ℹ︎&nbsp;[quantityqueries.com](https://quantityqueries.com/)
 
+Queries per second
+: → Requests per second
+
 Query
 : A form of questioning, in a line of inquiry. In computing, a precise request for information retrieval.&nbsp;[†](#w-query)
 
@@ -32,10 +38,10 @@ Query language
 : A language to make queries in databases and information systems. Query languages can be classified according to whether they are database query languages or information retrieval query languages. The difference is that a database query language attempts to give factual answers to factual questions, while an information retrieval query language attempts to find documents containing information that is relevant to an area of inquiry.&nbsp;[†](#w-query-language)
 
 QUIC
-: → Quick UDP Internet Connection
-
-Quick UDP Internet Connection
 : A general-purpose transport-layer network protocol. While still an Internet Draft, QUIC is used by more than half of all connections from the Chrome web browser to Google’s servers. Most other web browsers do not support the protocol. Among other applications, QUIC improves performance of connection-oriented web applications that are currently using TCP. QUIC was designed by Jim Roskind at Google, implemented in 2012, announced in 2013, and then proposed to the IETF.&nbsp;[†](#w-quic)
+
+Quick UDP Internet Connections
+: → QUIC
 
 Quirks mode
 : A technique used by some web browsers for maintaining backward-compatibility with web pages designed for old web browsers, instead of strictly complying with the respective standards in strict mode. One prominent difference between quirks and strict mode is the handling of the CSS box model. Before version 6, Internet Explorer used an algorithm for determining the width of an element’s box which conflicted with the algorithm detailed in the CSS specification, and due to Internet Explorer’s popularity many pages were created which relied upon this non-standard algorithm, or used a box model hack.&nbsp;[†](#w-quirks-mode)

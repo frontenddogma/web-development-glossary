@@ -75,8 +75,14 @@ JDK
 Jekyll
 : A static site generator based on Ruby. Jekyll was first released in 2008. ℹ︎&nbsp;[jekyllrb.com](https://jekyllrb.com/)
 
+Jenkins
+: A continuous integration and delivery solution that helps to automate testing, building, and deploying software. Jenkins was released in 2011.&nbsp;[†](#w-jenkins) ℹ︎&nbsp;[jenkins.io](https://www.jenkins.io/)
+
 Jetty
 : A Java HTTP (Web) server and Java servlet container. While web servers are usually associated with serving documents to people, Jetty is often used for machine to machine communications, usually within larger software frameworks. Jetty was first released in 1995.&nbsp;[†](#w-jetty) ℹ︎&nbsp;[eclipse.org/jetty](https://www.eclipse.org/jetty/)
+
+Jimdo
+: A website builder, e-commerce platform, and hosting solution, designed for users to create their own websites and stores without web design experience. Jimdo was founded in 2007. ℹ︎&nbsp;[jimdo.com](https://www.jimdo.com/)
 
 Jinja
 : A web template engine for the Python programming language. Jinja was created in 2008 by Armin Ronacher. It is similar to the Django template engine but provides Python-like expressions while ensuring that templates are evaluated in a sandbox. Jinja is a text-based template language and can therefore be used to generate any markup as well as source code.&nbsp;[†](#w-jinja) ℹ︎&nbsp;[is.gd/waQ3Ew](https://jinja.palletsprojects.com/)
@@ -144,6 +150,12 @@ JSON-LD
 
 JSON-P
 : → JSON with Padding
+
+JSON5
+: → JSON5 Data Interchange Format
+
+JSON5 Data Interchange Format
+: An inofficial superset of, and proposed extension to, the JSON format. The goal of JSON5 is to make it easier for people to write and maintain JSON. Its features relate to the handling of objects, arrays, strings, numbers, and comments. JSON5 is suggested to have a special file extension, .json5, as well as a different MIME type. ℹ︎&nbsp;[json5.org](https://json5.org/)
 
 JSONP
 : → JSON with Padding

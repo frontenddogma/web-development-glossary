@@ -15,12 +15,19 @@ IaaS
 IAB
 : → In-App Browser
 : → Interactive Advertising Bureau
+: → Internet Architecture Board
 
 IaC
 : → Infrastructure as Code
 
 IANA
 : → Internet Assigned Numbers Authority
+
+IBM Home Page Reader
+: → Home Page Reader
+
+IBM WebExplorer
+: → WebExplorer
 
 ICANN
 : → Internet Corporation for Assigned Names and Numbers
@@ -43,6 +50,11 @@ IDE
 
 Identifier
 : A name that identifies (that is, labels the identity of) either a unique object or a unique class of objects, where the “object” or class may be an idea, physical, or countable object (or class thereof), or physical or uncountable substance (or class thereof). The abbreviation “ID” often refers to identity, identification (the process of identifying), or an identifier (that is, an instance of identification). An identifier may be a word, number, letter, symbol, or any combination of those.&nbsp;[†](#w-id)
+
+IDL
+: → Interactive Data Language
+: → Interface definition language
+: → Interface description language
 
 IE
 : → Internet Explorer
@@ -91,6 +103,9 @@ Inclusive Design
 
 Increment
 : A term from the Scrum framework that describes all Product Backlog items completed during a Sprint, and the value of the increments of prior Sprints. The Increment is created by members of the Development Team. It must be usable and meet the definition of “Done.”
+
+Incremental Static Regeneration
+: Static generation on a per-page and on-demand basis, as opposed to regeneration of an entire website at build-time. Through this approach, ISR allows to significantly reduce build time.
 
 Indexed color
 : A technique to manage digital images’ colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. Indexed color is a form of vector quantization compression. When an image is encoded this way, color information is not directly carried by the image pixel data, but stored in a separate piece of data called a palette, that is, an array of color elements.&nbsp;[†](#w-indexed-color)
@@ -141,6 +156,9 @@ Information scent
 Information Security
 : The practice of protecting information by mitigating information risks. Information Security is part of information risk management, and typically involves preventing or at least reducing the probability of unauthorized or inappropriate access, use, disclosure, disruption, deletion or destruction, corruption, modification, inspection, recording, or devaluation, although it may also involve reducing the adverse impacts of incidents. Information may take any form, e.g., electronic or physical, tangible (e.g., paperwork) or intangible (e.g., knowledge). The primary focus of Information Security is the balanced protection of the confidentiality, integrity, and availability of data while maintaining a focus on efficient policy implementation, all without hampering organization productivity.&nbsp;[†](#w-infosec)
 
+Information Security Operations Center
+: A special Security Operations Center (SOC) facility where enterprise information systems (websites, applications, databases, data centers and servers, networks, desktops, and other endpoints) are monitored, assessed, and defended.&nbsp;[†](#w-information-security-operations-center)
+
 Infosec
 : → Information Security
 
@@ -153,6 +171,9 @@ Infrastructure as Code
 Inheritance
 : The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a “child object”) acquires all the properties and behaviors of the parent object (except: constructors, destructors, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces.&nbsp;[†](#w-inheritance)
 
+Initiative for Open Authentication
+: An industry-wide collaboration to develop an open reference architecture using open standards to promote the adoption of strong authentication. OATH has close to 30 coordinating and contributing members and is proposing standards for a variety of authentication technologies, with the aim of lowering costs and simplifying their functions.&nbsp;[†](#w-oath) ℹ︎&nbsp;[openauthentication.org](https://openauthentication.org/)
+
 Inline
 : → Inline box
 : → Inline-level box
@@ -163,6 +184,9 @@ Inline box
 
 Inline element
 : → Inline-level element
+
+Inline flow
+: A CSS concept referring to the direction of text flow in a sentence. In an English document, inline flow runs left to right.
 
 Inline formatting context
 : A formatting context in which boxes are laid out horizontally. Horizontal padding, borders, and margins are respected.
@@ -184,6 +208,15 @@ Inline-level element
 
 Input/Output
 : The communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it.&nbsp;[†](#w-io)
+
+Input/output operations per second
+: An input/output performance measurement used to characterize computer storage devices like hard disk drives (HDD), solid state drives (SSD), and storage area networks (SAN). Like benchmarks, IOPS numbers published by storage device manufacturers do not directly relate to real-world application performance.&nbsp;[†](#w-iops)
+
+Insertion mode
+: In HTML, the state variable that controls the primary operation of the tree construction stage. It affects how tokens are processed and whether CDATA sections are supported.&nbsp;§
+
+Instance store
+: Storage capacity located on disks physically attached to the respective host machine. In cloud computing, an instance store is used for temporary storage.
 
 Instance variable
 : A variable defined in a class for which each instantiated object of the class has a separate copy, or instance. An instance variable is declared in a class but outside a constructor, method, or block; it is created when an object is instantiated. Instance variables are accessible to all constructors, methods, and blocks in the class.&nbsp;[†](#w-instance-variable)
@@ -228,10 +261,19 @@ Interactive Advertising Bureau
 Interactive content
 : Content that is specifically intended for user interaction.&nbsp;§
 
+Interactive Data Language
+: A programming language used for data analysis. IDL is popular in particular areas of science, such as astronomy, atmospheric physics, and medical imaging.&nbsp;[†](#w-interactive-data-language) ℹ︎&nbsp;[is.gd/7PRg0z](https://www.l3harrisgeospatial.com/Software-Technology/IDL)
+
 Interface
 : A shared boundary across which two or more separate components of a computer system exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, and combinations of these. Some computer hardware devices, such as a touchscreen, can both send and receive data through the interface, while others such as a mouse or microphone may only provide an interface to send data to a given system.&nbsp;[†](#w-interface)
 : → Graphical User Interface
 : → User Interface
+
+Interface definition language
+: A generic term for a language that lets a program or object written in one language communicate with another program written in an unknown language. IDLs describe an interface in a language-independent way, enabling communication between software components that do not share one language, for example, between those written in C++ and those written in Java. IDLs are commonly used in remote procedure call software.&nbsp;[†](#w-interface-definition-language)
+
+Interface description language
+: → Interface definition language
 
 Interface Segregation Principle
 : The principle that no client should be forced to depend on methods it does not use. ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.&nbsp;[†](#w-interface-segregation)
@@ -256,6 +298,9 @@ Internationalized Resource Identifier
 
 Internet
 : The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices world-wide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.&nbsp;[†](#w-internet)
+
+Internet Architecture Board
+: A committee of the Internet Engineering Task Force (IETF) and an advisory body of the Internet Society (ISOC). The IAB’s responsibilities include architectural oversight of IETF activities, Internet Standards Process oversight and appeal, and the appointment of the Request for Comments (RFC) Editor. It is also responsible for the management of the IETF protocol parameter registries. The IAB started as the Internet Configuration Control Board in 1979.&nbsp;[†](#w-internet-architecture-board) ℹ︎&nbsp;[iab.org](https://www.iab.org/)
 
 Internet Assigned Numbers Authority
 : A function of ICANN that is responsible for the allocation of globally unique names and numbers that are used in Internet protocols, and for the assignment of Internet numbers which are numerical identifier assigned to an Internet resource or used in the networking protocols of the Internet protocol suite. Examples include IP addresses and autonomous system (AS) numbers. IANA was founded in 1988.&nbsp;[†](#w-iana) ℹ︎&nbsp;[iana.org](https://www.iana.org/)
@@ -290,8 +335,20 @@ Internet Service Provider
 Internet Society
 : A non-profit organization founded in 1992 to provide leadership in Internet-related standards, education, access, and policy. The ISOC’s mission is “to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.”&nbsp;[†](#w-isoc) ℹ︎&nbsp;[internetsociety.org](https://www.internetsociety.org/)
 
+InternetWorks
+: A web browser by BookLink Technologies. InternetWorks was the first browser to offer tabbed browsing. It was released in 1994.
+
+InterNIC
+: → Network Information Center
+
 Interoperability
 : A characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions.&nbsp;[†](#w-interoperability)
+
+InterPlanetary File System
+: A protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. As opposed to a centrally located server, IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing. IPFS was released in 2015.&nbsp;[†](#w-ipfs) ℹ︎&nbsp;[ipfs.io](https://ipfs.io/)
+
+Interpolation
+: An estimation method of constructing (finding) new data points based on the range of a discrete set of known data points.&nbsp;[†](#w-interpolation)
 
 Intersection Observer
 : An API providing a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document’s viewport. Historically, detecting visibility of an element, or the relative visibility of two elements in relation to each other, has been a difficult task for which solutions have been unreliable and prone to causing browsers and sites to become sluggish. The Intersection Observer API lets code register a callback function that is executed whenever an element they wish to monitor enters or exits another element (or the viewport), or when the amount by which the two intersect changes by a requested amount.&nbsp;[‡](#m-intersection-observer) ℹ︎&nbsp;[w3.org/TR/intersection-observer](https://www.w3.org/TR/intersection-observer/)
@@ -305,6 +362,12 @@ Intranet
 Intrinsic size
 : The size an element has just going by its content, with no external factors applied. For example, inline elements are sized intrinsically, with styling for width, height, and vertical margin and padding having no impact.&nbsp;[‡](#m-intrinsic-size)
 
+Intrinsic typography
+: Typography, notably text size and leading, that responds to its environment. Such intrinsic styling can be accomplished through the use of CSS animations and easing functions. ℹ︎&nbsp;[is.gd/pyNr4P](https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/)
+
+Intrinsic web design
+: A content-focused approach to web design that is more versatile and promises to be more code-efficient than responsive web design (RWD). The term “intrinsic web design” is attributed to Jen Simmons.
+
 Inversion of Control
 : A programming principle that inverts the flow of control as compared to traditional control flow. In IoC, custom-written portions of a computer program receive the flow of control from a generic framework. A software architecture with this design inverts control as compared to traditional procedural programming, where the custom code that expresses the purpose of the program calls into reusable libraries to take care of generic tasks. With inversion of control, it is the framework that calls into the custom, or task-specific, code.&nbsp;[†](#w-ioc)
 
@@ -313,6 +376,9 @@ Inverted Triangle CSS
 
 IoC
 : → Inversion of Control
+
+IOPS
+: → Input/output operations per second
 
 iOS
 : A mobile operating system created and developed by Apple, exclusively for its hardware. iOS was first released in 2007.&nbsp;[†](#w-ios) ℹ︎&nbsp;[apple.com/ios](https://www.apple.com/ios/)
@@ -326,6 +392,15 @@ IP address
 
 IP telephony
 : → Voice over IP
+
+IPFS
+: → InterPlanetary File System
+
+IPSECKEY
+: An IPsec key resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
+iptables
+: A user space utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall. The filters are organized in different tables, which contain chains of rules for how to treat network traffic packets. Different kernel modules and programs are currently used for different protocols: iptables applies to IPv4, ip6tables to IPv6, arptables to ARP, and ebtables to Ethernet frames.&nbsp;[†](#w-iptables) ℹ︎&nbsp;[is.gd/8vgf9l](https://linux.die.net/man/8/iptables)
 
 IPv4
 : The fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based inter-networking methods in the Internet and other packet-switched networks. IPv4 was the first version deployed for production in the ARPANET in 1983. It still routes most Internet traffic today, despite the ongoing deployment of a successor protocol, IPv6.&nbsp;[†](#w-ipv4)
@@ -342,21 +417,31 @@ IRI
 IRL
 : → Internet Resource Locator
 
+Islands architecture
+: The use of placeholders for dynamic parts of a web page, to be loaded and hydrated separately in order to improve perceived performance.
+
 ISO
 : → International Organization for Standardization
 
 ISOC
-: → Internet Society
+: → Information Security Operations Center
+: → Internet Societ
 
 ISP
 : → Interface Segregation Principle
 : → Internet Service Provider
+
+ISR
+: → Incremental Static Regeneration
 
 ITCSS
 : → Inverted Triangle CSS
 
 ITU
 : → International Telecommunication Union
+
+IWD
+: → Intrinsic web design
 
 IxD
 : → Interaction Design

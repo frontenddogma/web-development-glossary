@@ -75,8 +75,14 @@ Tech Lead
 Tech Twitter
 : A colloquial name for the tech-savvy users of the Twitter microblogging and social networking service.
 
+Technical and organizational measure
+: A system, process, or feature that enables or promotes the secure and legally compliant processing of personal data and personally identifiable information (PII). Technical measures include encryption and pseudonymization, whereas organizational measures include data protection and privacy assessments.
+
 Technical debt
 : A concept in software development that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer. As with monetary debt, if technical debt is not repaid, it can accumulate “interest,” making it harder to implement changes. Unaddressed technical debt increases software entropy. Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof of concept) is required to move projects forward. On the other hand, the “technical debt” metaphor may minimize impact and result in insufficient prioritization of the necessary work to correct it.&nbsp;[†](#w-technical-debt)
+
+Technical key
+: → Surrogate key
 
 Technical Lead
 : A software or web developer in charge of one or more software projects. Alternative titles include lead programmer, development lead, lead software engineer, software design engineer lead (SDE lead), software development manager, software manager, or lead application developer. When primarily contributing in a high-level enterprise software design role, the title software architect (or similar) is often used.&nbsp;[†](#w-lead)
@@ -109,6 +115,9 @@ Template system
 Temporal Dead Zone
 : In JavaScript, an expression for the fact that `let` and `const` cannot be accessed before they are declared, with this resulting in a reference error. The TDZ encourages to always declare a variable before using it.
 
+Temporary storage
+: Storage that is used for frequently changing data, like caches or buffers.
+
 Ten-Second Rule
 : A rough limit for user attention. After ten seconds, the probability is deemed to increase that users start to engage in other activities, or abandon a process or site.
 
@@ -132,6 +141,9 @@ Testing
 
 TeX
 : A typesetting or formatting system. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems. TeX was released in 1978 by Donald Knuth.&nbsp;[†](#w-tex) ℹ︎&nbsp;[tug.org](https://tug.org/)
+
+Text-to-speech
+: → Speech synthesis
 
 Textile
 : A lightweight markup language that uses a text formatting syntax to convert plain-text into structured HTML markup. Textile is used for writing articles, forum posts, documentation, and any other type of written content published online. It was first released in 2002.&nbsp;[†](#w-textile) ℹ︎&nbsp;[textile-lang.com](https://textile-lang.com/)
@@ -158,7 +170,7 @@ Three-Click Rule
 : An unofficial, debunked web design rule concerning the design of website navigation. The Three-Click Rule suggests that a user of a website should be able to find information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within three clicks. The rule has explicitly been [called out as false](https://www.nngroup.com/articles/3-click-rule/) by usability specialists Nielsen Norman Group.&nbsp;[†](#w-three-click-rule)
 
 TIL
-: The abbreviation and Internet slang for “today I learned.” 
+: The abbreviation and Internet slang for “today I learned.”
 
 Time box
 : A fixed time period.
@@ -167,13 +179,16 @@ Time to First Byte
 : A measurement used as an indication of the responsiveness of a web server or other network resource. TTFB measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client’s browser. This time is made up of the socket connection time, the time taken to send the HTTP request, and the time taken to get the first byte of the page. Although sometimes misunderstood as a post-DNS calculation, the original calculation of TTFB in networking always includes network latency in measuring the time it takes for a resource to begin loading.&nbsp;[†](#w-ttfb)
 
 Time to Interactive
-: A non-standardized web performance “progress” metric defined as the point in time when the last long task finished and was followed by five seconds of network and main thread inactivity. TTI, proposed by the Web Incubator Community Group in 2018, is intended to provide a metric that describes when a page or application contains useful content and the main thread is idle and free to respond to user interactions, including having event handlers registered.&nbsp;[‡](#m-tti)
+: A non-standardized web performance “progress” metric defined as the point in time when the last long task finished and was followed by five seconds of network and main thread inactivity. TTI, proposed by the Web Incubator Community Group (WICG) in 2018, is intended to provide a metric that describes when a page or application contains useful content and the main thread is idle and free to respond to user interactions, including having event handlers registered.&nbsp;[‡](#m-tti)
 
 Time to Live
 : A mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded or revalidated. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is commonly used to improve the performance and manage the caching of data.&nbsp;[†](#w-ttl)
 
 Time-Based One-Time Password
 : A computer algorithm that generates a one-time password (OTP) which uses the current time as a source of uniqueness. An extension of the HMAC-based One-time Password algorithm (HOTP), it has been adopted as Internet Engineering Task Force (IETF) standard RFC&nbsp;6238. TOTP is the cornerstone of Initiative for Open Authentication (OATH), and is used in a number of two-factor authentication (2FA) systems.&nbsp;[†](#w-totp)
+
+Timed text
+: The presentation of text media in synchrony with other media, such as audio and video.&nbsp;[†](#w-timed-text)
 
 Timestamp
 : A sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. The term derives from rubber stamps used in offices to stamp the current date, and sometimes time, in ink on paper documents, to record when a document was received.&nbsp;[†](#w-timestamp)
@@ -183,6 +198,9 @@ tink
 
 Tiny integer
 : An integral data type of 8 bits, with a signed range from –128 to 127, and an unsigned range from 0 to 255.
+
+Tizen
+: A Linux-based mobile operating system backed by the Linux Foundation but developed and used primarily by Samsung. The project was originally conceived as an HTML-based platform for mobile devices to succeed MeeGo. Samsung merged its previous Linux-based OS effort, Bada, into Tizen, and has since used it primarily on platforms such as wearable devices and smart TVs. Tizen was first released in 2012.&nbsp;[†](#w-tizen) ℹ︎&nbsp;[tizen.org](https://www.tizen.org/)
 
 TL
 : → Technical Lead
@@ -220,6 +238,9 @@ Token
 Tokenization
 : The process of substituting a sensitive data element with a non-sensitive equivalent, referred to as a token, that has no extrinsic or exploitable meaning or value. The token is a reference (i.e., identifier) that maps back to the sensitive data through a tokenization system.&nbsp;[†](#w-tokenization)
 
+TOM
+: → Technical and organizational measure
+
 Tom’s Obvious, Minimal Language
 : A configuration file format that is intended to be easy to read and write due to obvious semantics which aim to be minimal, and that is designed to map unambiguously to a dictionary. TOML was released in 2013 by Tom Preston-Werner.&nbsp;[†](#w-toml) ℹ︎&nbsp;[github.com/toml-lang/toml](https://github.com/toml-lang/toml)
 
@@ -237,6 +258,9 @@ Top posting
 
 Top-level domain
 : One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone.&nbsp;[†](#w-tld)
+
+TOP500
+: A project that ranks and details the 500 most powerful non-distributed computer systems in the world. The TOP500 project was started in 1993 and publishes an updated list of the supercomputers twice a year.&nbsp;[†](#w-top500) ℹ︎&nbsp;[top500.org](https://www.top500.org/)
 
 Tor
 : A project, software, and network for enabling anonymous communication. The name is derived from an acronym for the original software project name “The Onion Router.” Tor directs Internet traffic through a free, world-wide, volunteer overlay network consisting of more than 7,000 relays to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. Tor’s intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities unmonitored. Tor does not prevent an online service from determining when it is being accessed through Tor. Tor protects a user’s privacy, but does not hide that someone is using Tor. Tor was first released in 2002.&nbsp;[†](#w-tor) ℹ︎&nbsp;[torproject.org](https://www.torproject.org/)
@@ -276,6 +300,9 @@ Tracking pixel
 Trade
 : → Craft
 
+Transclusion
+: The inclusion of part or all of an electronic document into one or more other documents by hypertext reference. Transclusion is usually performed when the referencing document is displayed, and is normally automatic and transparent to the end user. The result of transclusion is a single integrated document made of parts assembled dynamically from separate sources, possibly stored on different computers in disparate places.&nbsp;[†](#w-transclusion)
+
 Transcompiler
 : → Transpiler
 
@@ -293,6 +320,9 @@ Transpiler
 
 Transport Layer Security
 : A cryptographic protocol designed to provide communications security over a computer network. Several versions of the TLS (and SSL) protocols find widespread use in applications such as web browsing, email, instant messaging, and voice over IP (VoIP). Websites can use TLS to secure all communications between their servers and web browsers. The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. TLS was first specified in 1999.&nbsp;[†](#w-tls)
+
+Travis CI
+: A continuous integration service used to build and test software projects hosted on GitHub and Bitbucket. Travis CI was founded in 2011.&nbsp;[†](#w-travis-ci) ℹ︎&nbsp;[travis-ci.com](https://www.travis-ci.com/)
 
 Tree-shaking
 : A dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like JavaScript, TypeScript, or Dart into a single bundle that is loaded by a web browser. Rather than eliminating code that can never be executed, tree-shaking starts from entry point and includes only the code that is guaranteed to be executed. Tree-shaking is also described as “live code inclusion.”&nbsp;[†](#w-tree-shaking)
@@ -336,8 +366,19 @@ TTI
 TTL
 : → Time to Live
 
+TTS
+: → Text-to-speech
+
 TUFU
 : → Trust Upon First Use
+
+Turbo
+: → Hotwire
+: → Turbo mode
+: → Turbo pages
+
+Turbo mode
+: A data saving mode in the Opera web browser promising up to 50% data savings. Turbo mode was removed in 2019.
 
 Turbo pages
 : A website publishing technology based on feed syndication, developed by Yandex. Turbo pages were introduced in 2017. ℹ︎&nbsp;[tech.yandex.com/turbo](https://tech.yandex.com/turbo/)
@@ -347,6 +388,9 @@ Turing completeness
 
 Two-factor authentication
 : A type, or subset, of multi-factor authentication. Two-factor authentication is a method of confirming users’ claimed identities by using a combination of two different factors: 1) something they know, 2) something they have, or 3) something they are. An example is the withdrawing of money from an ATM; only the correct combination of a bank card (something the user possesses) and a PIN (something the user knows) allows the transaction to be carried out.&nbsp;[†](#w-mfa)
+
+TXT
+: A text resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Type
 : An attribute of data which tells the compiler or interpreter how the data is intended to be used. Most programming languages support basic data types of integer numbers (of varying sizes), Floating-point numbers (which approximate real numbers), characters, and Booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e., variable, function, etc.) may take its values.&nbsp;[†](#w-data-type)

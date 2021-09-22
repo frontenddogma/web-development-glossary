@@ -21,6 +21,9 @@ ZIP
 Zombie cookie
 : An HTTP cookie that is recreated after deletion, usually from backups stored outside the web browser’s dedicated cookie storage. A zombie cookie may be stored online or directly onto a visitor’s computer, in a breach of browser security and making it difficult to remove. Zombie cookies may be installed on a web browser that has opted not to receive cookies.&nbsp;[†](#w-zombie-cookie)
 
+Zone file
+: A text file that describes a Domain Name System (DNS) zone. A DNS zone is a subset, often a single domain, of the hierarchical domain name structure of the DNS. The zone file contains mappings between domain names and IP addresses and other resources, organized in the form of text representations of resource records (RR). A zone file may be either a DNS master file, authoritatively describing a zone, or it may be used to list the contents of a DNS cache. Zone files were first introduced in 1987.&nbsp;[†](#w-zone-file)
+
 Zsh
 : → Z shell
 

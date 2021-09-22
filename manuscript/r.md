@@ -6,14 +6,27 @@ Race condition
 Race hazard
 : → Race condition
 
+RACI matrix
+: → Responsibility Assignment Matrix
+
+RADIUS
+: → Remote Authentication Dial-In User Service
+
 Rails
 : → Ruby on Rails
 
 Raku
 : A member of the Perl family of programming languages. Formerly known as Perl&nbsp;6, it was renamed in 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification. The design process for Raku began in 2000.&nbsp;[†](#w-raku) ℹ︎&nbsp;[raku.org](https://www.raku.org/)
 
+RAM
+: → Random-Access Memory
+: → Responsibility Assignment Matrix
+
 Random variable
 : A variable whose values depend on outcomes of a random phenomenon. The formal mathematical treatment of random variables is a topic in probability theory. In that context, a random variable is understood as a measurable function defined on a probability space whose outcomes are typically real numbers.&nbsp;[†](#w-random-variable)
+
+Random-Access Memory
+: A form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media.&nbsp;[†](#w-random-access-memory)
 
 Ranking
 : A relationship between a set of items such that, for any two items, the first is either “ranked higher than,” “ranked lower than,” or “ranked equal to” the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank, and TrustRank.&nbsp;[†](#w-ranking)
@@ -21,8 +34,14 @@ Ranking
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG.&nbsp;[†](#w-raster-image)
 
+Rate limiting
+: A measure to control the rate of requests sent or received by a network interface controller. Rate limiting can be used to prevent DoS attacks and to limit web scraping.&nbsp;[†](#w-rate-limiting)
+
 Rax
 : A React framework for building universal applications. Rax is maintained by Alibaba. ℹ︎&nbsp;[rax.js.org](https://rax.js.org/)
+
+RCDATA
+: → Replaceable Character Data
 
 RCS
 : → Revision Control System
@@ -36,6 +55,9 @@ RDF
 RDF Site Summary
 : A web feed which allows users and applications to access updates to websites in a standardized, computer-readable format. These feeds can, for example, allow a user to keep track of many different websites in a single news aggregator. Websites usually use RSS feeds to publish frequently updated information, such as blog entries, news headlines, or episodes of audio and video series. An RSS document (called feed, web feed, or channel) includes full or summarized text, and metadata, like publishing date and author names.&nbsp;[†](#w-rss)
 
+RDP
+: → Remote Desktop Protocol
+
 RDSMS
 : → Relational Data Stream Management System
 
@@ -47,6 +69,9 @@ React Native
 
 Reactive Extensions for JavaScript
 : A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎&nbsp;[reactivex.io](http://reactivex.io/)
+
+Reactive Manifesto
+: A systems architecture approach in which it is declared necessary for systems to be responsive, resilient, elastic, and message-driven. Such systems are considered reactive systems. ℹ︎&nbsp;[reactivemanifesto.org](https://www.reactivemanifesto.org/)
 
 Reactive programming
 : A declarative programming paradigm concerned with data streams and the propagation of change. With this paradigm it is possible to express static (e.g., arrays) or dynamic (e.g., event emitters) data streams with ease, and also communicate that an inferred dependency within the associated execution model exists, which facilitates the automatic propagation of the changed data flow. Reactive programming has been proposed as a way to simplify the creation of interactive user interfaces and near-real-time system animation.&nbsp;[†](#w-reactive-programming)
@@ -87,6 +112,12 @@ Recidivism
 Recommendation
 : The World Wide Web Consortium (W3C) term for a specification or web standard.
 
+Recovery Point Objective
+: The maximum time period of data loss acceptable in the event of an incident or failure.
+
+Recovery Time Objective
+: The maximum period of downtime acceptable to restore from backup and to resume processing.
+
 Recursion
 : A method of solving a problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time. At the opposite, recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.&nbsp;[†](#w-recursion)
 : → Recursion
@@ -109,6 +140,9 @@ Redundancy
 
 Redux
 : A JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Redux was created in 2015 by Dan Abramov and Andrew Clark.&nbsp;[†](#w-redux) ℹ︎&nbsp;[redux.js.org](https://redux.js.org/)
+
+Reed-Solomon codes
+: A group of error-correcting codes that were introduced in 1960 by Irving S. Reed and Gustave Solomon. They have many applications, the most prominent of which include consumer technologies such as MiniDiscs, CDs, DVDs, Blu-ray discs, QR codes, data transmission technologies such as DSL and WiMAX, broadcast systems such as satellite communications, DVB and ATSC, and storage systems such as RAID&nbsp;6. Reed-Solomon codes operate on blocks of data treated as sets of finite-field elements called symbols, where they are able to detect and correct multiple symbol errors. For example, Reed-Solomon codes can help correct burst errors associated with media defects, and make data transmissions over erasure channels more reliable.&nbsp;[†](#w-reed-solomon)
 
 Refactoring
 : The process of restructuring and optimizing existing computer code—changing the factoring—without changing its external behavior. Refactoring is intended to improve non-functional attributes of the software. Advantages include improved code readability and reduced complexity; these can improve source code maintainability and create a more expressive internal architecture or object model to improve extensibility.&nbsp;[†](#w-refactoring)
@@ -158,6 +192,12 @@ Relaunch
 Rem
 : → Root em
 
+Remote Authentication Dial-In User Service
+: A networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users who connect and use a network service. RADIUS was developed in 1991 by Livingston Enterprises as an access server authentication and accounting protocol. It was later brought into IEEE&nbsp;802 and IETF standards. RADIUS is a client/server protocol that runs in the application layer, and can use either TCP or UDP.&nbsp;[†](#w-radius)
+
+Remote Desktop Protocol
+: A proprietary protocol developed by Microsoft which provides a user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software. The protocol is an extension of the ITU-T T.128 application sharing protocol.&nbsp;[†](#w-rdp)
+
 Remote method invocation
 : The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC).&nbsp;[†](#w-distributed-object-communication)
 
@@ -167,11 +207,26 @@ Remote procedure call
 Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
 
+Renderer
+: A user agent that interprets the semantics of style sheets and renders documents that use them.
+
 Rendering
 : The transforming of HTML documents and other resources of a web page into an interactive visual representation in a web browser.&nbsp;[†](#w-browser-engine)
 
 Rendering engine
 : → Browser engine
+
+RenderingNG
+: A substantially revised and updated architecture of the Blink rendering engine used by the Chromium project. ℹ︎&nbsp;[is.gd/e9KbQ9](https://developer.chrome.com/blog/renderingng/)
+
+REP
+: → Robots Exclusion Protocol
+
+Replaceable Character Data
+: A term (“RCDATA”) used to declare that a markup element may contain text content and entity references, but not sub-elements.
+
+Replay attack
+: A form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed. This is carried out either by the originator or by an adversary who intercepts the data and re-transmits it, possibly as part of a spoofing attack by IP packet substitution. This is one of the lower-tier versions of a man-in-the-middle attack. Replay attacks are usually passive in nature.&nbsp;[†](#w-replay-attack)
 
 Repo
 : → Repository
@@ -200,6 +255,9 @@ Request header
 Request method
 : → HTTP method
 
+Requests per second
+: A common measure of the amount of traffic an information retrieval system, such as a search engine or a database, receives during one second. High-traffic systems must watch their RPS (or QPS, queries per second) in order to know when to scale the system to handle more load.&nbsp;[†](#w-qps)
+
 RequireJS
 : A JavaScript file and module loader. ℹ︎&nbsp;[requirejs.org](https://requirejs.org/)
 
@@ -218,14 +276,23 @@ Resource Description Framework
 Resource Hints
 : A number of HTML link relationships that allow to indicate what resources to fetch ahead of time in order to improve performance. Resource Hints include `dns-prefetch`, `preconnect`, `prefetch`, and `prerender`, and can be implemented using the HTML `link` element as well as the `Link` HTTP header. ℹ︎&nbsp;[w3.org/TR/resource-hints](https://www.w3.org/TR/resource-hints/)
 
+Resource record
+: A DNS record type. Each resource record has a type (name and number), an expiration time (time to live), a class, and type-specific data. Resource records of the same type are described as a resource record set (RRset), having no special ordering. DNS resolvers return the entire set upon query, but servers may implement round-robin ordering to achieve load balancing.&nbsp;[†](#w-dns)
+
 Response
 : In HTTP, a server’s answer to a client. A response message consists of a status line which includes the status code and reason message (e.g., `HTTP/1.1 200 OK`, which indicates that the client’s request succeeded), response header fields (e.g., `Content-Type: text/html`), an empty line, and an optional message body.&nbsp;[†](#w-http)
 
 Response header
 : An HTTP header that can be used in an HTTP response and that does not relate to the content of the message. Response headers, like `Age`, `Location`, or `Server` are used to give a more detailed context of the response. Not all headers appearing in a response are response headers. For example, the `Content-Length` header is an entity header referring to the size of the body of the response message. However, these entity requests are usually called responses headers in such a context.&nbsp;[‡](#m-response-header)
 
+Responsibility Assignment Matrix
+: A description of the participation of various roles in completing tasks or deliverables for a project or business process. When referred to as a RACI matrix, “RACI” stands for the four key responsibilities most typically used: responsible, accountable, consulted, and informed. RAMs and RACIs are used for defining and clarifying roles and responsibilities in cross-functional or departmental projects and processes.&nbsp;[†](#w-responsibility-assignment-matrix)
+
 Responsive design
 : → Responsive web design
+
+Responsive Images Community Group
+: A group of developers working towards “a client-side solution for delivering alternate image data based on device capabilities to prevent wasted bandwidth and optimize display for both screen and print.” The RICG was founded in 2012. ℹ︎&nbsp;[responsiveimages.org](https://responsiveimages.org/)
 
 Responsive web design
 : An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic.&nbsp;[†](#w-rwd)
@@ -238,6 +305,9 @@ REST
 
 Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the automatic insertion of a semicolon (ASI).
+
+Revalidation
+: Cache behavior in which a cache checks with the origin of a resource whether the resource has changed. If it has (HTTP 200 “OK” response), the origin server will also send the updated resource; if has not (HTTP 304 “Not Modified”), the cache will keep the resource.
 
 Reverse proxy
 : A reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the reverse proxy server itself. Popular web servers often use reverse-proxying functionality to shield application frameworks of weaker HTTP capabilities, where “weaker” means limitations to handle excessive load or a great variety of request formats.&nbsp;[†](#w-reverse-proxy)
@@ -260,6 +330,9 @@ RIA
 RIB
 : → Routing Information Base
 
+RICG
+: → Responsive Images Community Group
+
 Rich Internet Application
 : → Rich Web Application
 
@@ -272,8 +345,14 @@ Rich Text Format
 Rich Web Application
 : A web application that has many of the characteristics of desktop application software. The concept is closely related to a single-page application, and may allow the user interactive features such as drag and drop, context menus, WYSIWYG editing, etc. Prior to HTML&nbsp;5, approaches to RWAs were based on Adobe Flash, Java applets, JavaFX, or Microsoft Silverlight.&nbsp;[†](#w-rwa)
 
-Right-to-Left
+Right-to-left
 : A script in which writing starts from the right of a page and continues to the left. Arabic, Hebrew, Persian, Urdu, and Sindhi are the most widespread RTL writing systems in modern times.&nbsp;[†](#w-rtl)
+
+Rijndael
+: → Advanced Encryption Standard
+
+RIRO
+: → Rubbish In, Rubbish Out
 
 RMI
 : → Remote method invocation
@@ -281,11 +360,17 @@ RMI
 Roadmap
 : A flexible planning technique to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions. A roadmap is a plan that applies to a new product or process and may include using technology forecasting or scouting to identify suitable emerging technologies.&nbsp;[†](#w-roadmap)
 
+Robot
+: → Crawler
+
+Robots Exclusion Protocol
+: A combination of standards and conventions governing web crawler behavior and search engine indexing. The REP includes the robots exclusion standard (robots.txt), crawling and indexing directives for HTML `meta` elements, the Sitemaps protocol, and the `rel=nofollow` microformat.
+
 Robots exclusion standard
 : → robots.txt
 
 robots.txt
-: A standard and special file used by websites to communicate with web robots and crawlers. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt)
+: A standard and special file used by websites to communicate with web robots and crawlers. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned. Robots are often used by search engines to categorize websites. Not all robots cooperate with the standard; email harvesters, spambots, malware, and robots that scan for security vulnerabilities may even start with the portions of the website where they have been told to stay out.&nbsp;[†](#w-robotstxt) ℹ︎&nbsp;[robotstxt.org](https://www.robotstxt.org/)
 
 Robustness Principle
 : → Postel’s Law
@@ -305,8 +390,14 @@ Root element
 Root em
 : A typographic unit in CSS (`rem`) that corresponds with the computed value of the font size of the root element (for HTML, the `html` element).
 
+Root name server
+: → Root server
+
 Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children.&nbsp;[†](#w-tree)
+
+Root server
+: A name server for the root zone of the Domain Name System (DNS) of the Internet. It directly answers requests for records in the root zone and answers other requests by returning a list of the authoritative name servers for the appropriate top-level domain (TLD). Root name servers are a critical part of the Internet infrastructure because they are the first step in translating (resolving) human readable host names into IP addresses that are used in communication between Internet hosts.&nbsp;[†](#w-root-server)
 
 Root zone
 : The top-level DNS zone in the hierarchical namespace of the Domain Name System (DNS) of the Internet. Since 2016, the root zone has been overseen by the Internet Corporation for Assigned Names and Numbers (ICANN), which delegates the management to a subsidiary acting as the Internet Assigned Numbers Authority (IANA). Distribution services are provided by Verisign.&nbsp;[†](#w-root-zone)
@@ -319,6 +410,9 @@ Round-Trip Delay Time
 
 Round-Trip Time
 : The length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received. This time delay includes the propagation times for the paths between the two communication endpoints. In the context of computer networks, the signal is generally a data packet, and the RTT is also known as the ping time. An Internet user can determine the RTT by using the `ping` command.&nbsp;[†](#w-rtt)
+
+Route 53
+: A Domain Name System (DNS) service. Released in 2010, Route 53 is part of Amazon.com’s cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and “53” is a reference to the TCP/UDP port 53, where DNS server requests are addressed. In addition to being able to route users to various AWS services, including Elastic Compute Cloud (EC2) instances, Route 53 also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints.&nbsp;[†](#w-amazon-route-53) ℹ︎&nbsp;[aws.amazon.com/route53](https://aws.amazon.com/route53/)
 
 Router
 : For applications, a library that decides what web page is presented by a given URL. This middleware module is used for all URL functions, as these are given a path to a file that is rendered subsequently.&nbsp;[‡](#m-router)
@@ -345,6 +439,15 @@ RPM
 RPM Package Manager
 : A package management system originally called Red Hat Package Manager. The name “RPM” refers to .rpm file format and the package manager program itself. RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base. It was first released in 1997.&nbsp;[†](#w-rpm) ℹ︎&nbsp;[rpm.org](https://rpm.org/)
 
+RPO
+: → Recovery Point Objective
+
+RPS
+: → Requests per second
+
+RR
+: → Resource record
+
 RSS
 : → RDF Site Summary
 : → Really Simple Syndication
@@ -360,13 +463,19 @@ RTFM
 : → Read the Fucking Manual
 
 RTL
-: → Right-to-Left
+: → Right-to-left
+
+RTO
+: → Recovery Time Objective
 
 RTT
 : → Round-Trip Time
 
 Rubber ducking
 : A method of debugging code. The name is a reference to a story in the book _The Pragmatic Programmer_ in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck. Many other terms exist for this technique, often involving inanimate objects.&nbsp;[†](#w-rubber-ducking)
+
+Rubbish In, Rubbish Out
+: → Garbage In, Garbage Out
 
 Ruby
 : As a programming language, an interpreted, high-level, general-purpose language. Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Ruby was designed and developed in the 1990s by Yukihiro Matsumoto. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.&nbsp;[†](#w-ruby) ℹ︎&nbsp;[ruby-lang.org](https://www.ruby-lang.org/)

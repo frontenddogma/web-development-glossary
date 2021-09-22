@@ -3,6 +3,9 @@
 D3.js
 : A JavaScript library for producing dynamic, interactive data visualizations in web browsers. D3.js makes use of the widely implemented Scalable Vector Graphics (SVG), HyperText Markup Language (HTML), and Cascading Style Sheets (CSS) standards. It is the successor to the earlier Protovis framework. In contrast to many other libraries, D3.js allows great control over the final visual result. D3.js was first released in 2011.&nbsp;[†](#w-d3js) ℹ︎&nbsp;[d3js.org](https://d3js.org/)
 
+DAD
+: → Disciplined Agile Delivery
+
 Daemon
 : A computer program that runs as a background process, rather than being under the direct control of an interactive user. Traditionally, the process names of a daemon end with the letter “d”, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging, and sshd is a daemon that serves incoming SSH connections.&nbsp;[†](#w-daemon)
 
@@ -11,6 +14,9 @@ Daily Active Users
 
 Daily Scrum
 : A daily Scrum event, time-boxed to 15 minutes, in which a Scrum Development Team plans the next development day. A Daily Scrum is not necessarily a “stand-up.”
+
+DAM
+: → Digital Asset Management
 
 Dark Mode
 : A color scheme that uses light-colored text, icons, and graphical user interface elements on a dark background. Light on dark color schemes require less energy to display on the most common display technologies.&nbsp;[†](#w-dark-mode)
@@ -27,6 +33,9 @@ Dart
 Data
 : Individual units of information. A datum describes a single quality or quantity of some object or phenomenon. In analytical processes, data are represented by variables. Data is sometimes said to be transformed into information when it is viewed in context or in post-analysis.&nbsp;[†](#w-data)
 
+Data center
+: A dedicated space within a building, a building, or a group of buildings used to house computer systems and associated components, such as telecommunications and storage systems. A data center generally includes redundant or backup components and infrastructure for power supply, data communication connections, environmental controls (e.g., air conditioning, fire suppression), and various security devices.&nbsp;[†](#w-data-center)
+
 Data Control Language
 : A syntax similar to a computer programming language used to control access to data stored in a database (authorization). In particular, DCL is a component of Structured Query Language (SQL).&nbsp;[†](#w-dcl)
 
@@ -41,6 +50,9 @@ Data Manipulation Language
 
 Data Query Language
 : → Query language
+
+Data storage
+: → Storage
 
 Data Stream Management System
 : A computer software system to manage continuous data streams. A DSMS is similar to a database management system (DBMS), which is, however, designed for static data in conventional databases. A DSMS also offers flexible query processing so that the information needed can be expressed using queries. However, in contrast to a DBMS, a DSMS executes a continuous query that is not only performed once, but is permanently installed. Therefore, the query is continuously executed until it is explicitly uninstalled.&nbsp;[†](#w-dsms)
@@ -63,6 +75,9 @@ Data warehouse
 Database
 : An organized collection of data, generally stored and accessed electronically from a computer system. Relational databases model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. Non-relational databases, also referred to as NoSQL, use different query languages.&nbsp;[†](#w-database)
 
+Database engine
+: The underlying software component that a database management system (DBMS) uses to create, read, update, and delete (CRUD) data from a database. Most database management systems include their own application programming interface (API) that allows the user to interact with their underlying engine without going through the user interface of the DBMS. The term “database engine” is frequently used interchangeably with “database server” or “database management system.”&nbsp;[†](#w-database-engine)
+
 Database index
 : A data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure. Indexes can be created using one or more columns of a database table, providing the basis for both rapid random lookups and efficient access of ordered records.&nbsp;[†](#w-database-index)
 
@@ -71,6 +86,9 @@ Database language
 
 Database Management System
 : A software system that enables users to define, create, maintain, and control access to a database. The “DBMS” acronym is sometimes extended to indicate the underlying database model, with RDBMS for the relational, OODBMS or ORDBMS for the object-oriented, and ORDBMS for the object-relational model. Other extensions can indicate some other characteristic, such as DDBMS for a distributed database management systems.&nbsp;[†](#w-database)
+
+Database server
+: A server which uses a database application to provide database services to other computer programs or computers. Database management systems frequently provide database server functionality, and some database management systems (such as MySQL) rely exclusively on this client–server model for database access (while others, like SQLite, are meant for use as an embedded database).&nbsp;[†](#w-database-server)
 
 DAU
 : → Daily Active Users
@@ -108,6 +126,9 @@ DDoS
 Dead code elimination
 : A compiler optimization to remove code which does not affect the program results. Removing such code has several benefits: It shrinks program size, an important consideration in some contexts, and it allows the running program to avoid executing irrelevant operations, which reduces its running time. Dead code elimination can also enable further optimizations by simplifying program structure. Dead code includes code that can never be executed (unreachable code), and code that only affects dead variables (written to, but never read again), that is, irrelevant to the program.&nbsp;[†](#w-dce)
 
+Dead letter queue
+: A queue that other queues can send messages that could not be processed successfully. Dead letter queues are useful to isolate unsuccessfully handled messages.
+
 Debugging
 : The process of finding and resolving defects or problems within a computer program that prevent correct operation of application or system software. Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.&nbsp;[†](#w-debugging)
 
@@ -136,7 +157,7 @@ Defect tracking system
 : → Bug tracking system
 
 Definition of “Done”
-: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum teams.
+: A Scrum term that means a shared understanding of expectations that an increment must meet in order to be potentially releasable. The Definition of “Done” is mutually defined by the Development Teams of an organization’s Scrum Teams.
 
 Delete, Add, View, Edit
 : A variation of CRUD.&nbsp;[†](#w-crud)
@@ -211,17 +232,26 @@ Development and operations
 Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
+Device orientation
+: The physical orientation of a hardware device. In the `deviceorientation` event specification, it is defined through three angles alpha (z-axis), beta (x-axis), and gamma (y-axis). ℹ︎&nbsp;[w3.org/TR/orientation-event](https://www.w3.org/TR/orientation-event/)
+
 Device pixel
 : A reference to the physical pixels of a device.
 
 DevOps
 : A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.&nbsp;[†](#w-devops)
 
+DHCP
+: → Dynamic Host Configuration Protocol
+
 DHTML
 : → Dynamic HTML
 
 Dialog box
 : A graphical control element in the form of a small window that communicates information to the user and prompts them for a response. Dialog boxes are classified as “modal” or “modeless,” depending on whether they block interaction with the software that initiated the dialog. The type of dialog box displayed is dependent upon the desired user interaction.&nbsp;[†](#w-dialog-box)
+
+Digital Asset Management
+: Software that enables the respective owner and their delegates to perform operations on digital assets, providing a system that can store, organize, and share the managed data.
 
 Digital Rights Management
 : A set of access control technologies for restricting the use of proprietary hardware and copyrighted works. DRM technologies try to control the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems within devices that enforce these policies. The use of digital rights management is not universally accepted.&nbsp;[†](#w-drm)
@@ -232,6 +262,9 @@ Directionality
 Disability Discrimination Act
 : British accessibility regulations which have been repealed and replaced by the Equality Act 2010 (except in Northern Ireland where the Act still applies).&nbsp;[†](#w-dda)
 
+Disciplined Agile Delivery
+: An approach to agile software development. DAD enables teams to make simplified process decisions around incremental and iterative solution delivery. It builds on the many practices espoused by advocates of agile software development, including Scrum, agile modeling, lean software development, and others.&nbsp;[†](#w-dad)
+
 Display advertising
 : Graphic advertising on Internet websites, apps, or social media through banners or other advertising formats made of text, images, Flash, video, and audio. The main purpose of display advertising is to deliver general advertisements and brand messages to site visitors.&nbsp;[†](#w-display-advertising)
 
@@ -240,6 +273,9 @@ Display resolution
 
 Distributed Concurrent Versions System
 : A distributed version control system that enables software developers working on locally distributed sites to efficiently collaborate on a software project. DCVS is based on Concurrent Versions System.&nbsp;[†](#w-dcvs)
+
+Distributed Persistent Rendering
+: A generating or rendering of assets that is distributed between build and request time. DPR allows an asset cache to persist while other assets, which were not previously rendered, are being requested. The concept of DPR was coined in 2021 by Netlify.
 
 Distributed Version Control System
 : A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups.&nbsp;[†](#w-dvcs)
@@ -253,14 +289,23 @@ Divitis
 Django
 : A Python-based web framework that follows the model-template-views (MTV) architectural pattern and whose primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and “pluggability” of components, less code, low coupling, rapid development, and the principle of Don’t Repeat Yourself (DRY). Django was released in 2005; it is maintained by the Django Software Foundation (DSF).&nbsp;[†](#w-django) ℹ︎&nbsp;[djangoproject.com](https://www.djangoproject.com/)
 
+DKIM
+: → DomainKeys Identified Mail
+
 DLR
 : → Dynamic Language Runtime
+
+DMARC
+: → Domain-Based Message Authentication, Reporting, and Conformance
 
 DML
 : → Data Manipulation Language
 
 DMZ
 : → Demilitarized Zone
+
+DNAME
+: A delegation name resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 DNS
 : → Domain Name Service
@@ -275,6 +320,12 @@ DNS root zone
 DNS spoofing
 : A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver’s cache, causing the name server to return an incorrect result record, e.g., an IP address. This results in traffic being diverted to the attacker’s computer (or any other computer).&nbsp;[†](#w-dns-spoofing)
 
+DNSKEY
+: A DNS key resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
+DNSSEC
+: → Domain Name System Security Extensions
+
 DocBook
 : A semantic markup language originally created for technical documentation. As a semantic language, DocBook documents do not describe what their contents “look like,” but rather the meaning of those contents.&nbsp;[†](#w-docbook) ℹ︎&nbsp;[docbook.org](https://docbook.org/)
 
@@ -282,7 +333,7 @@ Docker
 : A set of Platform as a Service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries, and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines. The Docker software was first released in 2013 by Docker, the company.&nbsp;[†](#w-docker) ℹ︎&nbsp;[docker.com](https://www.docker.com/)
 
 Doctype
-: An instruction that associates a particular SGML (for example, a web page) with a document type definition (DTD) (for example, the formal definition of a particular version of HTML) or XML document. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks mode or standards mode. The `text/html` serialization of HTML, which is not SGML-based, uses the doctype only for mode selection. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will not access them even if a URL is provided. The doctype is retained in current HTML as a “mostly useless, but required“ header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
+: An instruction that associates a particular SGML or XML document (for example, a web page) with a document type definition (for example, the formal definition of a particular version of HTML prior to HTML&nbsp;5). In the serialized form of the document, the doctype manifests as a short string of markup that conforms to a particular syntax. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks or standards mode. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will never access them even if a URL is provided. The doctype is retained in HTML as a “mostly useless, but required” header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
 
 Document directive
 : A way to govern the properties of a document or worker environment to which a content security policy (CSP) applies. Document directives do not fall back to the `default-src` directive.&nbsp;[‡](#m-document-directive)
@@ -311,6 +362,9 @@ Dojo
 DOM
 : → Document Object Model
 
+DOM clobbering
+: The injection of HTML into a web page with the goal of manipulating the DOM and escalating the injection to a cross-site scripting (XSS) attack. For example, one form of DOM clobbering uses an `a` element to overwrite a global variable for malicious purposes.
+
 Domain
 : An administrative grouping of multiple private computer networks or hosts within the same infrastructure. Domains can be identified using a domain name; domains which need to be accessible from the public Internet can be assigned a globally unique name within the Domain Name System (DNS).&nbsp;[†](#w-domain)
 
@@ -329,11 +383,20 @@ Domain Name Service
 Domain Name System
 : A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a world-wide distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.&nbsp;[†](#w-dns)
 
+Domain Name System Security Extensions
+: A suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. The protocol provides cryptographic authentication of data, authenticated denial of existence, and data integrity, but not availability or confidentiality.&nbsp;[†](#w-dnssec)
+
 Domain sharding
 : The splitting of content across multiple subdomains. When multiple domains are used to serve multiple assets, browsers are able to download more resources simultaneously, resulting in a faster page load time and improved user experience. The problem with domain sharding, in terms of performance, is the cost of extra DNS lookups for each domain and the overhead of establishing each TCP connection.&nbsp;[‡](#m-domain-sharding)
 
+Domain-Based Message Authentication, Reporting, and Conformance
+: An email authentication protocol designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email spoofing. The purpose and primary outcome of implementing DMARC is to protect a domain from being used in business email compromise attacks, phishing emails, email scams, and other cyber threat activities. Once a DMARC DNS entry is published, any receiving email server can authenticate the incoming email based on the instructions published by the domain owner within the DNS entry. DMARC was defined in 2015 in RFC&nbsp;7489.&nbsp;[†](#w-dmarc)
+
 Domain-Driven Design
 : The concept that the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.&nbsp;[†](#w-ddd)
+
+DomainKeys Identified Mail
+: An email authentication method designed to detect forged sender addresses in email (email spoofing), a technique often used in phishing and email spam. DKIM allows the receiver to check that an email claimed to have come from a specific domain was indeed authorized by the owner of that domain. It achieves this by affixing a digital signature, linked to a domain name, to each outgoing email message. The recipient system can verify this by looking up the sender’s public key published in the DNS. DKIM is an Internet Standard, defined in 2011 in RFC&nbsp;6376, with updates in RFC&nbsp;8301 and 8463.&nbsp;[†](#w-dkim)
 
 Don’t Repeat Yourself
 : A principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.” The principle has been introduced by Andy Hunt and Dave Thomas in their book _The Pragmatic Programmer_.&nbsp;[†](#w-dry)
@@ -359,6 +422,9 @@ Dots per inch
 Double
 : A double-precision, 64-bit floating-point data type.
 
+Downstream
+: In version control, a repository that is based on or pulls from another repository. The work “flows downstream.”
+
 Downtime
 : A period in which a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. Reliability, availability, recovery, and unavailability are related concepts. Downtime is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash) or communications failures (commonly known as network outage).&nbsp;[†](#w-downtime)
 
@@ -367,6 +433,9 @@ Downward compatibility
 
 DPI
 : → Dots per inch
+
+DPR
+: → Distributed Persistent Rendering
 
 DQL
 : → Data Query Language
@@ -415,6 +484,9 @@ DX
 
 Dynamic
 : A type of website being dynamic on the server or on the client side. A server-side dynamic website is a website whose construction is controlled by an application server processing server-side scripts. In such scripting, parameters determine how the assembly of every new website proceeds, including the setting up of more client-side processing. A client-side dynamic website processes the website using HTML scripting running in the browser as it loads. JavaScript and other scripting languages determine the way the HTML in the received page is parsed into the Document Object Model, or DOM, that represents the loaded website. The same client-side techniques can then dynamically update or change the DOM in the same way.&nbsp;[†](#w-dynamic)
+
+Dynamic Host Configuration Protocol
+: A network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network. DHCP eliminates the need for individually, manually configuring network devices. It consists of a centrally installed network DHCP server and client instances of the protocol stack on each computer or device. When connected to the network, and periodically thereafter, a client requests a set of parameters from the DHCP server using the DHCP protocol.&nbsp;[†](#w-dhcp)
 
 Dynamic HTML
 : A collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM). The application of DHTML was introduced by Microsoft with the release of Internet Explorer 4 in 1997.&nbsp;[†](#w-dynamic-html)

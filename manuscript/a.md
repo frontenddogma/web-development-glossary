@@ -1,6 +1,9 @@
 {sample: true}
 # A
 
+A
+: An IPv4 address resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 A List Apart
 : A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
 
@@ -12,6 +15,9 @@ A11Y
 
 AAA
 : → Arrange, Act, Assert
+
+AAAA
+: An IPv6 address resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Above the fold
 : The part of a web page that is visible without scrolling.
@@ -38,10 +44,14 @@ Acceptance testing
 : A test conducted to determine if the requirements of a specification or contract are met. In systems engineering it may involve black-box testing performed on a system prior to its delivery. In software testing the ISTQB (International Software Testing Qualifications Board) defines acceptance testing as formal testing with respect to user needs, requirements, and business processes conducted to determine whether a system satisfies the acceptance criteria and to enable users, customers, or other authorized entities to determine whether to accept the system. Acceptance testing is also known as user acceptance testing (UAT), end user testing, operational acceptance testing (OAT), acceptance test-driven development (ATDD), or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user, customer, or other authorized entity.&nbsp;[†](#w-acceptance-testing)
 
 Access control
-: The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-ac)
+: The selective restriction of access to a place or other resource, while access management describes the process. The act of accessing may mean consuming, entering, or using.&nbsp;[†](#w-access-control)
 
 Access Control List
 : A list of permissions associated with an object. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects. Each entry in a typical ACL specifies a subject and an operation.&nbsp;[†](#w-acl)
+
+Access key
+: In accessibility, a shortcut to jump to a specific web page via the keyboard. Access keys were introduced in 1999 and quickly achieved near-universal browser support.&nbsp;[†](#w-access-key)
+: In computer security, security credentials that consist of an access key ID and a secret access key.
 
 Access logs
 : → Server logs
@@ -85,6 +95,9 @@ Acq-hiring
 Acqui-hiring
 : The process of acquiring a company primarily to recruit its employees, rather than its products or services. “Acqui-hiring” is a portmanteau of “acquisition” and “hiring.” The term was first used in 2005.&nbsp;[†](#w-acqui-hiring)
 
+ACSS
+: → Atomic CSS
+
 ACT
 : → Accessibility Conformance Testing
 
@@ -118,6 +131,9 @@ Adaptive technology
 Addon
 : → Plugin
 
+Address Resolution Protocol
+: A communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address. This mapping is a critical function in the Internet protocol suite. ARP was defined in 1982 by RFC&nbsp;826, which is Internet Standard STD&nbsp;37.&nbsp;[†](#w-arp)
+
 Adobe ColdFusion
 : → ColdFusion
 
@@ -136,14 +152,29 @@ ads.txt
 ADT
 : → Abstract Data Type
 
+Advanced Encryption Standard
+: A specification for the encryption of electronic data established in 2001 by the U.S. National Institute of Standards and Technology (NIST). AES is a subset of the Rijndael block cipher developed by Vincent Rijmen and Joan Daemen. For AES, NIST selected three members of the Rijndael family, each with a block size of 128 bits, but three different key lengths: 128, 192, and 256 bits.&nbsp;[†](#w-aes)
+
 Advanced Package Tool
-: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-apt)
+: A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages.&nbsp;[†](#w-advanced-package-tool)
+
+Advanced Persistent Threat
+: A stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period. In recent times, the term may also refer to non-state-sponsored groups conducting large-scale targeted intrusions for specific goals. The median time an APT attack goes undetected differs widely between regions.&nbsp;[†](#w-advanced-persistent-threat)
+
+AES
+: → Advanced Encryption Standard
 
 Affordance
 : Those action possibilities that are readily perceivable by an actor, that is, an affordance suggests how an object may be interacted with. For example, an underlined word on a web page has the affordance of being clickable.&nbsp;[†](#w-affordance)
 
 Agile
 : An umbrella term for approaches to project management and software development under which self-organizing, cross-functional teams cooperate with customers and users to produce requirements and solutions. Agile advocates adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.&nbsp;[†](#w-agile)
+
+Agile Manifesto
+: → Manifesto for Agile Software Development
+
+AirMosaic
+: An early commercial web browser based on the NCSA Mosaic browser. AirMosaic was released in 1994.&nbsp;[†](#w-airmosaic)
 
 AJAX/Ajax
 : → Asynchronous JavaScript and XML
@@ -178,20 +209,26 @@ Alternate style sheet
 Amaya
 : A web editor with browsing capabilities. Amaya was developed by the World Wide Web Consortium (W3C) and INRIA from 1996 to 2012.
 
+Amazon Resource Name
+: A unique identifier for an Amazon Web Services (AWS) resource. An ARN follows the format `arn:partition:service:region:account-id:resource-id`, `arn:partition:service:region:account-id:resource-type/resource-id`, or `arn:partition:service:region:account-id:resource-type:resource-id`.
+
+Amazon Route 53
+: → Route 53
+
 Amazon S3
-: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. Amazon S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
+: → S3
 
 Amazon Silk
 : → Silk
 
 Amazon Simple Queue Service
-: → Amazon SQS
+: → SQS
 
 Amazon Simple Storage Service
 : → Amazon S3
 
 Amazon SQS
-: A distributed message queuing service introduced in 2004 by Amazon.com. Amazon SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
+: → SQS
 
 Amazon Virtual Private Cloud
 : → Amazon VPC
@@ -200,7 +237,7 @@ Amazon VPC
 : A commercial cloud computing service that provides users a virtual private cloud, by provisioning a logically isolated section of the Amazon Web Services (AWS) cloud.&nbsp;[†](#w-amazon-vpc) ℹ︎&nbsp;[aws.amazon.com/vpc](https://aws.amazon.com/vpc/)
 
 Amazon Web Services
-: A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws)
+: A subsidiary of Amazon that provides on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. AWS technology is implemented at server farms throughout the world.&nbsp;[†](#w-aws) ℹ︎&nbsp;[aws.amazon.com](https://aws.amazon.com/)
 
 AMD
 : → Asynchronous Module Definition
@@ -245,7 +282,7 @@ Anonymous inline element
 : Any text that is directly contained inside a block container element that is not inside an inline element.
 
 Anonymous text
-: Any string of characters that is not contained within an inline element. 
+: Any string of characters that is not contained within an inline element.
 
 ANSI
 : → American National Standards Institute
@@ -301,6 +338,9 @@ Applet
 Application
 : A computer program designed to help people perform an activity. An application differs from an operating system (which runs a computer), a utility (which performs maintenance or general-purpose chores), and a programming tool (with which computer programs are created). Depending on the activity for which it was designed, an application can manipulate text, numbers, audio, graphics, and a combination of these elements. Some application packages focus on a single task, such as word processing; others, called integrated software, include several applications.&nbsp;[†](#w-application)
 
+Application context
+: A top-level browsing context that has a manifest applied to it.&nbsp;[‡](#m-application-context)
+
 Application Programming Interface
 : An interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API may be for a web-based system, operating system, database system, computer hardware, or software library.&nbsp;[†](#w-api)
 
@@ -309,9 +349,13 @@ Application-Layer Protocol Negotiation
 
 APT
 : → Advanced Package Tool
+: → Advanced Persistent Threat
 
 AR
 : → Augmented Reality
+
+Arena
+: One of the first web browsers for Unix. Originally developed by Dave Raggett in 1993, development continued at CERN and the World Wide Web Consortium (W3C) and subsequently by Yggdrasil Computing. Arena was used in testing the implementations for HTML&nbsp;3.0, Cascading Style Sheets (CSS), Portable Network Graphics (PNG), and libwww. Arena was widely used and popular at the beginning of the World Wide Web.&nbsp;[†](#w-arena)
 
 Argument
 : The actual input expression passed or supplied to a function, procedure, or routine in a call or invocation statement.&nbsp;[†](#w-parameter-argument)
@@ -321,6 +365,12 @@ ARIA
 
 ARIA roles
 : A set of predefined names that can be used to specify the meaning and purpose of markup elements. Roles can cover abstract use cases, widgets, document structure, landmarks, live regions, and windows, and are set using the `role` attribute.
+
+ARN
+: → Amazon Resource Name
+
+ARP
+: → Address Resolution Protocol
 
 Arrange, Act, Assert
 : A pattern to organize test methods by.
@@ -345,6 +395,9 @@ ASP.NET
 
 Aspect ratio
 : A proportional relationship between an image’s width and height. The aspect ratio is commonly expressed as two numbers separated by a colon, as in 16:9.&nbsp;[†](#w-aspect-ratio)
+
+AssemblyScript
+: A TypeScript-based programming language (essentially JavaScript with static types) that is optimized for WebAssembly and compiled to WebAssembly using asc, the reference AssemblyScript compiler. AssemblyScript is developed by the AssemblyScript Project and the AssemblyScript community. It was first released in 2017.&nbsp;[†](#w-assemblyscript) ℹ︎&nbsp;[assemblyscript.org](https://www.assemblyscript.org/)
 
 Assignment
 : The setting or resetting of the value stored in the storage location(s) denoted by a variable name; in other words, an assignment statement copies a value into the variable. In most imperative programming languages, the assignment statement (or expression) is a fundamental construct. Today, the most commonly used notation for this basic operation has come to be `x = expr` (originally Superplan 1949–51, popularized by Fortran 1957 and C) followed by `x := expr` (originally ALGOL 1958, popularized by Pascal), although there are many other notations in use.&nbsp;[†](#w-assignment)
@@ -385,6 +438,9 @@ ATAG
 ATDD
 : → Acceptance Test-Driven Development
 
+Atlassian Bitbucket
+: → Bitbucket
+
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
 
@@ -392,7 +448,7 @@ Atomic CSS
 : A CSS architecture that is based on “single-purpose units of style” applied via “short, predictable class names.” ℹ︎&nbsp;[acss.io](https://acss.io/)
 
 Atomicity, Consistency, Isolation, Durability
-: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid) 
+: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. The acronym was coined in 1983 by Andreas Reuter and Theo Härder.&nbsp;[†](#w-acid)
 
 Attribute
 : A property of an object, element, or file. An attribute may also refer to or set the specific value for a given instance. An attribute of an object usually consists of a name and a value; of an element, a type or class name; of a file, a name and extension. Attributes should be considered metadata.&nbsp;[†](#w-attribute)
@@ -407,7 +463,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity.&nbsp;[†](#w-authentication)
 
 Authoring tool
-: Software that allows to create digital content.
+: Software that enables to create digital content.
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG&nbsp;1.0 became a W3C Recommendation in 2000, and ATAG&nbsp;2.0 in 2015. ℹ︎&nbsp;[w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
@@ -433,10 +489,16 @@ AV1
 AV1 Image File Format
 : An image file format that uses AV1 compression algorithms. AVIF competes with HEIC which uses the same container format, built upon ISOBMFF, but HEVC for compression. Version 1.0.0 of the AVIF specification was finalized in 2019.&nbsp;[†](#w-av1)
 
+Availability Zone
+: With Amazon Web Services (AWS), a term for one or more data centers with redundant power, networking, and connectivity. An AWS Region consists of several Availability Zones.
+
 AVIF
 : → AV1 Image File Format
 
 AWS
 : → Amazon Web Services
+
+AZ
+: → Availability Zone
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

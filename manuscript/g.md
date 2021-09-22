@@ -6,6 +6,18 @@ Gamma
 Garbage collection
 : A form of automatic memory management. The garbage collector, or just collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program. Garbage collection is essentially the opposite of manual memory management, which requires the programmer to specify which objects to deallocate and return to the memory system. However, many systems use a combination of approaches, including other techniques such as stack allocation and region inference.&nbsp;[†](#w-garbage-collection)
 
+Garbage In, Garbage Out
+: The concept that flawed, or nonsense (garbage) input data produces nonsense output. The principle also applies more generally to analysis and logic, in that arguments are unsound if their premises are flawed.&nbsp;[†](#w-gigo)
+
+Gateway
+: A piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another. Gateways are distinct from routers or switches in that they communicate using more than one protocol to connect multiple networks, and can operate at any of the seven layers of the Open Systems Interconnection (OSI) model.&nbsp;[†](#w-gateway)
+
+Gatsby
+: A React-based frontend framework for creating websites, and a serverless cloud platform to build, deploy, and host the respective websites. Gatsby was released in 2017. ℹ︎&nbsp;[gatsbyjs.com](https://www.gatsbyjs.com/)
+
+GCP
+: → Google Cloud Platform
+
 GDPR
 : → General Data Protection Regulation
 
@@ -30,11 +42,20 @@ Generator function
 Generic top-level domain
 : One of the categories of top-level domains (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use in the Domain Name System of the Internet. A top-level domain is the last level of every fully qualified domain name. gTLDs are called generic for historic reasons; initially, they were contrasted with country-specific TLDs in RFC&nbsp;920. The core group of generic top-level domains consists of the .com, .info, .net, and .org domains.&nbsp;[†](#w-gtld)
 
+Geofence
+: A virtual perimeter for a real-world geographic area. A geofence could be dynamically generated (as in a radius around a point location) or match a predefined set of boundaries (such as neighborhood boundaries). The use of a geofence is called geofencing, and one example of use involves a location-aware device entering or exiting a geofence. This activity could trigger an alert to the device’s user as well as messaging to the geofence operator.&nbsp;[†](#w-geofence)
+
 Geolocation API
 : An effort by the World Wide Web Consortium (W3C) to standardize an interface to retrieve the location information for a client-side device. The Geolocation API defines an ECMAScript-compliant set of objects that give the client’s device location through the consulting of location information servers. The most common sources of location information are IP address, Wi-Fi and Bluetooth MAC address, Wi-Fi connection location, radio-frequency identification (RFID), and device Global Positioning System (GPS) or GSM/CDMA cell IDs.&nbsp;[†](#w-geolocation-api) ℹ︎&nbsp;[w3.org/TR/geolocation-API](https://www.w3.org/TR/geolocation-API/)
 
+Geturl
+: → Wget
+
 GIF
 : → Graphics Interchange Format
+
+GIGO
+: → Garbage In, Garbage Out
 
 GIMP
 : A raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. GIMP was first released in 1996. ℹ︎&nbsp;[gimp.org](https://www.gimp.org/)
@@ -44,6 +65,9 @@ Git
 
 GitHub
 : A company that provides hosting for software development version control using Git. GitHub was founded in 2008 and is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as its own features.&nbsp;[†](#w-github) ℹ︎&nbsp;[github.com](https://github.com/)
+
+GitHub Copilot
+: An artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code through code auto-completion. GitHub Copilot was released in 2021.&nbsp;[†](#w-github-copilot) ℹ︎&nbsp;[copilot.github.com](https://copilot.github.com/)
 
 GitLab
 : A company providing a web-based DevOps lifecycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Dmitriy Zaporozhets and Valery Sizov.&nbsp;[†](#w-gitlab) ℹ︎&nbsp;[gitlab.com](https://gitlab.com/)
@@ -97,8 +121,14 @@ Golden section
 Google Chrome
 : → Chrome
 
+Google Cloud Platform
+: A suite of cloud computing services that runs on the same infrastructure that Google uses for its end user products, such as Google Search, Gmail, or YouTube. Alongside a set of management tools, GCP provides a series of modular cloud services covering computing, data storage, data analytics, and machine learning.&nbsp;[†](#w-gcp) ℹ︎&nbsp;[cloud.google.com](https://cloud.google.com/)
+
 Google Lighthouse
 : → Lighthouse
+
+Google QUIC
+: → QUIC
 
 Google TalkBack
 : → TalkBack
@@ -114,6 +144,9 @@ GPL
 
 GPU
 : → Graphics Processing Unit
+
+gQUIC
+: → Google QUIC
 
 Graceful Degradation
 : A design philosophy that centers around trying to build a modern website or app that will work in the newest browsers, but falls back to an experience that while not as good still delivers essential content and functionality in older browsers. Polyfills can be used to build in missing features with JavaScript, but acceptable alternatives to features like styling and layout should be provided where possible, for example by using the CSS cascade, or HTML fallback behavior.&nbsp;[‡](#m-graceful-degradation)
@@ -138,6 +171,9 @@ GraphQL
 
 GRASP
 : → General Responsibility Assignment Software Patterns
+
+Greasemonkey
+: A userscript manager made available as a Firefox extension. Greasemonkey enables users to install scripts that make on-the-fly changes to web page content before or after the page is loaded in the browser (also known as augmented browsing). The changes made to the web pages are executed every time the page is viewed, making them effectively permanent for the user running the script.&nbsp;[†](#w-greasemonkey) ℹ︎&nbsp;[greasespot.net](https://www.greasespot.net/)
 
 Greeking
 : → Placeholder text

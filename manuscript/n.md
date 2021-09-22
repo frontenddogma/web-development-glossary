@@ -27,11 +27,23 @@ NaN
 NAT
 : → Network Address Translation
 
+National Institute of Standards and Technology
+: A physical sciences laboratory and non-regulatory agency of the United States Department of Commerce. Its mission is to promote American innovation and industrial competitiveness. NIST’s activities are organized into laboratory programs that include nano-scale science and technology, engineering, information technology, neutron research, material measurement, and physical measurement. From 1901 to 1988, the agency was named “National Bureau of Standards.”&nbsp;[†](#w-nist) ℹ︎&nbsp;[nist.gov](https://www.nist.gov/)
+
 Native
 : Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it is using that same processor, which usually comes at the cost of speed.&nbsp;[†](#w-native)
 
 NativeScript
 : A framework to develop mobile apps on the iOS and Android platforms. NativeScript apps are built using JavaScript, or by using any programming language that transpiles to JavaScript, such as TypeScript. NativeScript supports the Angular and Vue JavaScript frameworks. It was first released in 2014.&nbsp;[†](#w-nativescript) ℹ︎&nbsp;[nativescript.org](https://nativescript.org/)
+
+Natural interface
+: → Natural user interface
+
+Natural key
+: A type of unique key in a database formed of attributes that exist and are used in the external world outside the database (i.e., in the business domain or domain of discourse). In the relational model of data, a natural key is a superkey and is therefore a functional determinant for all attributes in a relation.&nbsp;[†](#w-natural-key)
+
+Natural user interface
+: A user interface that is effectively invisible, and remains invisible as the user learns increasingly complex interactions. The word “natural“ is used because most computer interfaces use artificial control devices whose operation has to be learned. Examples include voice assistants, such as Alexa and Siri, touch and multi-touch interactions on today’s mobile phones and tablets, but also touch interfaces invisiblly integrated into the textiles furnitures.&nbsp;[†](#w-nui)
 
 Navigation
 : A menu UI element for website navigation.
@@ -68,8 +80,17 @@ Network
 Network Address Translation
 : A method of remapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. NAT has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion, as one Internet-routable IP address of a NAT gateway can be used for an entire private network.&nbsp;[†](#w-nat)
 
+Network Information Center
+: Known as InterNIC from 1993 until 1998, an organization primarily responsible for Domain Name System (DNS) domain name allocations and X.500 directory services. From its inception in 1972 until 1991, it was run by the Stanford Research Institute, now known as SRI International. From 1991 until 1998, it was run by Network Solutions. Thereafter, the responsibility was assumed by the Internet Corporation for Assigned Names and Numbers (ICANN).&nbsp;[†](#w-internic) ℹ︎&nbsp;[internic.net](https://www.internic.net/)
+
+Network Mapper
+: A network scanner. Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. It was created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich), and first released in 1997.&nbsp;[†](#w-nmap) ℹ︎&nbsp;[nmap.org](https://nmap.org/)
+
 Network packet
 : → Packet
+
+Neutral character
+: A character that has direction indeterminable without context. Examples include paragraph separators, tabs, and most other whitespace characters. Punctuation symbols that are common to many scripts, such as the colon, comma, full stop, and the no-break space also fall within this category.&nbsp;[†](#w-bidirectional)
 
 Newbie
 : A slang term for a novice or newcomer, or somebody inexperienced in a profession or activity. Contemporary use can particularly refer to a beginner or new user of computers, often concerning Internet activity, online gaming, or Linux use. Depending on the context and spelling variant used, the term can have derogatory connotations (and may be used as a term of abuse in Internet-based games), but is also often used for descriptive purposes only, without any value judgment.&nbsp;[†](#w-newbie)
@@ -96,6 +117,12 @@ Night Mode
 Ninety-Ninety Rule
 : A humorous aphorism attributed to Tom Cargill that states: “The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” This adds up to 180%, making an allusion to the notoriety of software development projects significantly over-running their schedules.&nbsp;[†](#w-ninety-ninety-rule)
 
+NIST
+: → National Institute of Standards and Technology
+
+Nmap
+: → Network Mapper
+
 Node
 : A basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.&nbsp;[†](#w-node)
 : → Node.js
@@ -106,17 +133,29 @@ Node Package Manager
 Node.js
 : A cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript for the creation of command-line tools, or for server-side scripting to produce dynamic web page content before a page is sent to the user’s web browser. Node.js represents a “JavaScript everywhere” paradigm, unifying web application development around a single programming language, rather than different languages for client- and server-side scripts.&nbsp;[†](#w-nodejs) ℹ︎&nbsp;[nodejs.org](https://nodejs.org/)
 
+`nofollow`
+: A setting on a hyperlink that directs search engines not to use the link for page ranking calculations. `nofollow` is a microformat which is specified as a type of link relation, e.g. `<a href=https://example.com/ rel=nofollow>Example</a>`. Because search engines may use the number of hyperlinks from other sites to calculate a site’s importance, the `nofollow` setting allows website authors to indicate that the presence of the link is not an endorsement of the target site’s importance.&nbsp;[†](#w-nofollow)
+
 Nolan’s Law
 : → Bushnell’s Law
 
 Non-Disclosure Agreement
 : A legal contract between at least two parties that outlines confidential material, knowledge, or information that the parties wish to share with one another for certain purposes, but wish to restrict access to. Doctor-patient confidentiality (physician-patient privilege), attorney-client privilege, priest-penitent privilege, bank-client confidentiality, and kickback agreements are examples, often not enshrined in a written contract between the parties.&nbsp;[†](#w-nda)
 
+Non-relational database
+: A database that does not use a tabular model like a relational database, and that is instead optimized for the specific data it is storing. Popular types of non-relational databases are key-value stores, column stores, graph stores, and document stores. Examples for non-relational databases, which are also known as NoSQL databases, include Apache Cassandra, MongoDB, and Couchbase.
+
+Nonce
+: An arbitrary number that can be used just once in a cryptographic communication (“number once,” “number only used once”). It is often a random or pseudo-random number issued in an authentication protocol to ensure that old communications cannot be reused in replay attacks.&nbsp;[†](#w-nonce)
+
 NonVisual Desktop Access
 : A screen reader for Microsoft Windows. Work on NonVisual Desktop Access was started in 2006 by Michael Curran.&nbsp;[†](#w-nvda) ℹ︎&nbsp;[nvaccess.org](https://www.nvaccess.org/)
 
 Noob
 : → Newbie
+
+Normal form
+: A database normalization step that aims to reduce data redundancies and anomalies.
 
 Normalization
 : The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Database normalization was first proposed in 1970 by Edgar F. Codd. Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving a database design).&nbsp;[†](#w-normalization)
@@ -128,16 +167,22 @@ Normative
 : Relating to an evaluative standard. Normativity is the phenomenon in human societies of designating some actions or outcomes as good or desirable or permissible and others as bad or undesirable or impermissible. A norm in this normative sense means a standard for evaluating or making judgments about behavior or outcomes.&nbsp;[†](#w-normative)
 
 NoSQL
-: A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g., key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
+: A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name “NoSQL” was only coined in the early 21st century. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called “Not only SQL” to emphasize that they may support SQL-like query languages, or sit alongside SQL databases in polyglot persistent architectures. Motivations for NoSQL include: simplicity of design, simpler “horizontal” scaling to clusters of machines, finer control over availability, and limiting the object-relational impedance mismatch. The data structures used by NoSQL databases (e.g., key-value, column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL.&nbsp;[†](#w-nosql)
 
 Not a Number
-: A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE 754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
+: A member of a numeric data type that can be interpreted as a value that is undefined or unrepresentable, especially in floating-point arithmetic. Systematic use of NaNs was introduced by the IEEE&nbsp;754 floating-point standard in 1985, along with the representation of other non-finite quantities such as infinities.&nbsp;[†](#w-nan)
 
 npm
 : A package manager for the JavaScript programming language. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command-line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm. npm was created in 2010.&nbsp;[†](#w-npm) ℹ︎&nbsp;[npmjs.com](https://www.npmjs.com/)
 
 NPS
 : → Net Promoter Score
+
+NS
+: A name server resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
+NUI
+: → Natural user interface
 
 Null
 : A `null` value which represents a reference that points, generally intentionally, to a non-existent or invalid object or address. The meaning of a `null` reference varies among language implementations. In JavaScript, `null` is one of the primitive values.&nbsp;[‡](#m-null)
@@ -149,7 +194,7 @@ Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer.&nbsp;[†](#w-null-pointer)
 
 Number
-: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE 754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
+: In JavaScript, a numeric data type in the double-precision 64-bit floating-point format (IEEE&nbsp;754). In other programming languages different numeric types exist, like Integers, Floats, Doubles, or Bignums.&nbsp;[‡](#m-number)
 
 Number sign
 : The symbol “#”, also known as hash, octothorpe, or (in North American usage) pound sign. The symbol has historically been used for a wide range of purposes, including the designation of an ordinal number and as a ligatured abbreviation for “pounds avoirdupois,” having been derived from the now rare “℔”. Since 2007, widespread usage of the symbol to introduce metadata tags on social media platforms has led to such tags being known as hashtags, and from that, the symbol itself is sometimes called a hashtag.&nbsp;[†](#w-number-sign)

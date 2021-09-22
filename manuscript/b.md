@@ -13,6 +13,9 @@ Back/forward cache
 Backend
 : The data access layer of software of a piece of software, usually covering business logic and data storage. In the client-server model, the server is considered the back end.&nbsp;[†](#w-frontend-backend)
 
+Backend for Frontend
+: The concept of having separate backends per application or interface, to act as intermediaries between the respective frontends and the underlying services. BFF was introduced in 2015 by Sam Newman.
+
 Backlink
 : A link from one web resource (the referrer) to another web resource (the referent), made by an anchor, as viewed from the web resource being referred to. Other words for “backlink” are “incoming link,” “inbound link,” “inlink,” “inward link,” and “citation.”&nbsp;[†](#w-backlink)
 
@@ -27,6 +30,9 @@ Backward compatibility
 
 Bad Neighborhood
 : Bad quality websites, or websites that are being penalized and downgraded by search engines. Search engine optimization (SEO) best practices suggest to avoid links to and from bad neighborhood websites.
+
+Bada
+: A discontinued operating system for mobile devices such as smartphones and tablet computers. Bada was developed by Samsung. Its name is derived from “바다” (“bada”), meaning “ocean” or “sea” in Korean. Bada was released in 2010 and discontinued in 2013.&nbsp;[†](#w-bada)
 
 Bandwidth
 : The maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.&nbsp;[†](#w-bandwidth)
@@ -79,6 +85,12 @@ Bézier curve
 Bfcache
 : → Back/forward cache
 
+BFF
+: → Backend for Frontend
+
+BGP
+: → Border Gateway Protocol
+
 BHO
 : → Browser Helper Object
 
@@ -112,6 +124,9 @@ Binary search algorithm
 Binding
 : The association of entities (data or code) with identifiers. An identifier bound to an object is said to reference that object. Machine languages have no built-in notion of identifiers, but name-object bindings as a service and notation for the programmer is implemented by programming languages. Binding is intimately connected with scoping, as scope determines which names bind to which objects—at which locations in the program code (lexically) and in which one of the possible execution paths (temporally).&nbsp;[†](#w-binding)
 
+Bitbucket
+: A Git-based source code repository hosting service owned by Atlassian. Bitbucket was launched in 2008.&nbsp;[†](#w-bitbucket) ℹ︎&nbsp;[bitbucket.org](https://bitbucket.org/)
+
 Bitmap
 : A raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter). Also known as bitmap image file or device independent bitmap (DIB) file format.&nbsp;[†](#w-bitmap)
 : → Raster image
@@ -135,7 +150,7 @@ Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
 
 Blob
-: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that isn’t necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
+: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that is not necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
 : → Binary large object
 
 Block
@@ -164,6 +179,9 @@ Block element
 
 Block Element Modifier
 : A naming convention for HTML and CSS classes. BEM was introduced in 2005 by Yandex. ℹ︎&nbsp;[getbem.com](http://getbem.com/)
+
+Block flow
+: A CSS concept referring to the direction in which blocks are running. In an English document, block flow goes from top to bottom.
 
 Block formatting context
 : A formatting context in which boxes are laid out vertically. Vertical margins are respected but collapse.
@@ -208,6 +226,9 @@ Bootstrap
 Border
 : Per the CSS box model, any kind of line (solid, dotted, dashed, etc.) surrounding an element of a document, if present. The border area lies between the padding and margin areas of a box.
 
+Border Gateway Protocol
+: A standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule sets configured by a network administrator. It was first described in 1989 in RFC&nbsp;1105, and has been in use on the Internet since 1994.&nbsp;[†](#w-bgp)
+
 Bottom posting
 : A posting style in which the reply follows the quote.&nbsp;[†](#w-posting-style)
 
@@ -245,7 +266,7 @@ Bracket notation
 : One of two ways to access object properties in JavaScript (`objectName['propertyName']`), the other being dot notation.
 
 Braille (⠃⠗⠁⠊⠇⠇⠑)
-: A tactile writing system used by people who are visually impaired. Braille is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser. Braille was developed by Louis Braille in 1824, who published it in 1829.&nbsp;[†](#w-braille)
+: A tactile writing system used by people who are visually impaired. Braille is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser. Braille was developed in 1824 by Louis Braille, who published it in 1829.&nbsp;[†](#w-braille)
 
 Branch
 : A duplicate of an object under version control. Branches are also known as trees, streams, or codelines. The originating branch is sometimes called the parent branch, the upstream branch (or “upstream,” especially if the branches are maintained by different organizations or individuals), or the backing stream. Child branches are branches that have a parent; a branch without a parent is referred to as the trunk or the mainline.&nbsp;[†](#w-branching)
@@ -268,6 +289,9 @@ Breakpoint
 
 Brewer’s Theorem
 : → CAP Theorem
+
+Bring Your Own License
+: A licensing model that allows to use available software licenses flexibly, both on-premise and in the cloud. While BYOL can help to save licensing cost, it comes with the responsibility of managing the respective licenses.
 
 Broken link
 : A hyperlink that does not work, or work anymore, that is, that points to a target that is not available. Broken links constitute link rot.
@@ -338,7 +362,13 @@ Bushnell’s Law
 BVT
 : → Build Verification Test
 
+BYOL
+: → Bring Your Own License
+
 Byte Order Mark
 : A particular use of a special Unicode character, `U+FEFF BYTE ORDER MARK`, whose appearance as a magic number at the start of a text stream can signal several things to a program reading the text: the byte order, or endianness, of the text stream in the cases of 16-bit and 32-bit encodings; the fact that the text stream’s encoding is Unicode, to a high level of confidence; or which Unicode character encoding is used.&nbsp;[†](#w-bom)
+
+Bytecode
+: A form of instruction set designed for efficient execution by a software interpreter. Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects. The name “bytecode” stems from instruction sets that have one-byte opcodes followed by optional parameters.&nbsp;[†](#w-bytecode)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

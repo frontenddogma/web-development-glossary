@@ -45,11 +45,17 @@ HCI
 HDD
 : → Hypothesis-Driven Development
 
+Head-of-line blocking
+: A performance-limiting phenomenon that occurs when a line of packets is held up by the first packet. Examples include input buffered network switches, out-of-order delivery, and multiple requests in HTTP pipelining.&nbsp;[†](#w-hol-blocking)
+
 Heading content
 : Content that defines the header of a section (whether explicitly marked up using sectioning content elements, or implied by the heading content itself), marked up through the `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, and `hgroup` elements.&nbsp;§
 
 Headless
 : Software capable of working without a graphical user interface.&nbsp;[†](#w-headless)
+
+Health check
+: Typically recurring, automated requests to confirm that a machine or application is available and functional.
 
 HEIC
 : → High Efficiency Image Coding
@@ -60,6 +66,9 @@ HEIF
 Helper class
 : In software development (object-oriented programming), a class that is used to assist in providing some functionality, which is not the main goal of the application or class in which it is used. An instance of a helper class is called a helper object.&nbsp;[†](#w-helper-class)
 : In web development (CSS), a class that has no functional bearing and carries no particular meaning (like `.aux` or `.alt`) but serves as an intentional hook for complementary or alternative styling.
+
+Heterogenous migration
+: A migration where source and target systems are different, as with different database engines.
 
 Hex
 : → Hexadecimal
@@ -91,6 +100,9 @@ Higher-order component
 Higher-order function
 : A function that either takes one or more functions as arguments (procedural parameters) or that returns a function as its result.&nbsp;[†](#w-higher-order-function)
 
+HIP
+: → Host Identity Protocol
+
 Hit
 : A request to a web server for a file (such as a web page, image, script, or style sheet). There may be many hits per page view since an HTML page can contain multiple files, such as images.&nbsp;[†](#w-hit)
 
@@ -108,6 +120,9 @@ HOC
 
 Hoisting
 : A general way of thinking about how execution contexts (specifically the creation and execution phases) work in JavaScript. While conceptually, a strict definition of hoisting suggests that variable and function declarations are physically moved to the top of your code, the variable and function declarations are instead put into memory during the compile phase. Only declarations are hoisted, not initializations.&nbsp;[‡](#m-hoisting)
+
+HOL blocking
+: → Head-of-line blocking
 
 Holey
 : A property of an array that misses elements, and cannot be optimized as effectively anymore.
@@ -127,14 +142,23 @@ Homepage
 HomeSite
 : A discontinued HTML editor originally developed in 1996 by Nick Bradbury. Unlike WYSIWYG HTML editors such as FrontPage and Dreamweaver, HomeSite was designed for direct editing, or “hand coding,” of HTML and other website languages. After a successful partnership with the company to distribute it alongside its own competing Dreamweaver software, HomeSite was acquired by Macromedia in 2001, after which elements of the software were integrated into Dreamweaver. Following the acquisition of Macromedia by Adobe, the company announced in 2009 that HomeSite would be discontinued.&nbsp;[†](#w-homesite)
 
+Homogenous migration
+: A migration where source and target systems are of the same type.
+
 Hooking
 : A range of techniques used to alter or augment the behavior of an operating system, of applications, or of other software components by intercepting function calls or messages or events passed between software components. Code that handles such intercepted function calls, events, or messages is called a hook. Hooking is used for many purposes, including debugging and extending functionality.&nbsp;[†](#w-hooking)
 
 Hop limit
 : → Time to Live
 
+Horizontal scaling
+: An increase in a number of resources, e.g., by adding more hard drives or servers.
+
 Host
 : A computer or other device connected to a computer network. A host may work as a server offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one network address. Network hosts that participate in applications that use the client-server model of computing are classified as server or client systems. Network hosts may also function as nodes in peer-to-peer applications, in which all nodes share and consume resources in an equipotent manner.&nbsp;[†](#w-host)
+
+Host Identity Protocol
+: A host identification technology for use on Internet Protocol (IP) networks, such as the Internet. The Internet has two main name spaces, IP addresses and the Domain Name System. HIP separates the end-point identifier and locator roles of IP addresses. It introduces a Host Identity (HI) name space, based on a public key security infrastructure. The Host Identity Protocol provides secure methods for IP multihoming and mobile computing.&nbsp;[†](#w-hip)
 
 Hostname
 : A label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication, such as the World Wide Web. Hostnames may be simple names consisting of a single word or phrase, or they may be structured. Internet hostnames may have appended the name of a Domain Name System (DNS) domain, separated from the host-specific label by a period (“dot”). In the latter form, a hostname is also called a domain name. If the domain name is completely specified, including a top-level domain of the Internet, then the hostname is said to be a fully qualified domain name (FQDN).&nbsp;[†](#w-hostname)
@@ -147,6 +171,9 @@ Hot linking
 
 HOTP
 : → HMAC-Based One-Time Password
+
+Hotwire
+: → HTML over the wire
 
 Houdini
 : A set of low-level APIs that give developers the power to extend CSS, providing the ability to hook into the styling and layout process of a browser’s rendering engine. Houdini gives developers access to the CSS Object Model (CSSOM), enabling developers to write code the browser can parse as CSS. The benefit of Houdini is that developers can create CSS features without waiting for web standards specifications to define them and without waiting for every browser to fully implement the features.&nbsp;[‡](#m-houdini) ℹ︎&nbsp;[ishoudinireadyyet.com](https://ishoudinireadyyet.com/)
@@ -171,6 +198,9 @@ HTML
 
 HTML Abstraction Markup Language
 : A templating system that is designed to avoid writing inline code in a web document and make the HTML cleaner. Haml gives the flexibility to have some dynamic content in HTML. Similar to other web languages like PHP, ASP, JSP, and template systems like eRuby, Haml also embeds some code that gets executed during runtime and generates HTML code in order to provide some dynamic content.&nbsp;[†](#w-haml) ℹ︎&nbsp;[haml.info](http://haml.info/)
+
+HTML over the wire
+: A marketing term promoting the use of HTML instead of JSON to populate web applications, and an umbrella term for Turbo, Stimulus, and Strada, tooling to help use HTML over the wire. Hotwire was presented in 2020 by Basecamp. ℹ︎&nbsp;[hotwired.dev](https://hotwired.dev/)
 
 HTML template
 : For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.
@@ -197,13 +227,19 @@ HTTP flood attack
 : A type of distributed denial of service (DDoS) attack in which the attacker makes unwanted `GET` or `POST` requests in order to attack a web server or application. These attacks often use interconnected computers that have been taken over with the aid of malware. Instead of using malformed packets, spoofing, or reflection techniques, HTTP floods require less bandwidth to attack the targeted sites or servers.&nbsp;[†](#w-http-flood-attack)
 
 HTTP method
-: A desired HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred to as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g., a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)
+: An HTTP action to be performed for a given resource. Although they can also be nouns, request methods are sometimes referred to as “HTTP verbs.” Each of them implements a different semantic, but some common features are shared by a group of them: e.g., a request method can be safe, idempotent, or cacheable. The methods are `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, and `PATCH`.&nbsp;[‡](#m-http-method)
+
+HTTP request method
+: → HTTP method
 
 HTTP status code
 : An HTTP status code is issued by a server in response to a client’s request to the server. The first digit of a status code specifies one of five standard classes of responses. The classes are Informational 1xx, Successful 2xx, Redirection 3xx, Client Error 4xx, and Server Error 5xx. “200 OK,” “301 Moved Permanently,” and “404 Not Found” may be among the most common and known status codes.&nbsp;[†](#w-http-status-code)
 
 HTTP Strict Transport Security
 : A web security policy mechanism that helps to protect websites against protocol downgrade attacks and cookie hijacking. It allows web servers to declare that web browsers (or other complying user agents) should interact with it using only HTTPS connections, which provide Transport Layer Security (TLS/SSL), unlike the insecure HTTP protocol used alone. The HSTS policy is communicated by the server to the user agent via an HTTPS response header field named `Strict-Transport-Security`. HSTS policy specifies a period of time during which the user agent should only access the server in a secure fashion.&nbsp;[†](#w-hsts)
+
+HTTP verb
+: → HTTP method
 
 HTTP/2
 : A major revision of the HTTP network protocol. A major goal of HTTP/2 was to decrease latency so as to improve page load speed in web browsers. It derived from the earlier experimental SPDY protocol, originally developed by Google. HTTP/2 was developed by the HTTP Working Group (also called httpbis, where “bis” means “second”) of the Internet Engineering Task Force. HTTP/2 is the first new version of HTTP since HTTP 1.1, which was standardized in 1997 by RFC&nbsp;2068. The HTTP/2 specification was published as in 2015 as RFC&nbsp;7540.&nbsp;[†](#w-http2)
@@ -235,8 +271,14 @@ Hue, Saturation, Lightness
 Hue, Saturation, Value
 : An alternative representation of the RGB color model.&nbsp;[†](#w-hsx)
 
+Hugo
+: A static site generator written in Go. Hugo was released in 2013 by Steve Francia. ℹ︎&nbsp;[gohugo.io](https://gohugo.io/)
+
 Human-Computer Interaction
 : The study of the design and use of computer technology, focused on the interfaces between people (users) and computers. Researchers in the field of HCI observe the ways in which humans interact with computers and design technologies that let humans interact with computers in novel ways. As a field of research, human-computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study.&nbsp;[†](#w-hci)
+
+humans.txt
+: An initiative acknowledging the people behind a website, promoting a “humans.txt” text file that features more information on the respective contributors. ℹ︎&nbsp;[humanstxt.org](https://humanstxt.org/)
 
 Hungarian notation
 : An identifier naming convention in computer programming, in which the name of a variable or function indicates its intention or kind, and in some dialects its type (like “bBusy”, “cApples”, or “rgStudents”). The original Hungarian notation uses intention or kind in its naming convention and is sometimes called “Apps Hungarian” as it became popular in the Microsoft Apps division in the development of Word, Excel, and other apps.&nbsp;[†](#w-hungarian-notation)

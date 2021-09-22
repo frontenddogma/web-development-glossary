@@ -4,7 +4,7 @@ MAC
 : → Message Authentication Code
 
 MAC address
-: A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
+: A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE&nbsp;802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth. Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer. As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator. MAC addresses are primarily assigned by device manufacturers.&nbsp;[†](#w-mac-address)
 
 Mac OS
 : → macOS
@@ -20,6 +20,9 @@ macOS, Apache, MySQL, PHP/Perl/Python
 
 Macromedia Flash
 : → Flash
+
+MacWWW
+: An early minimalist web browser from 1992 meant to run on Macintosh computers. It was the first web browser for the classic Mac OS platform, and the first for any non-Unix operating system. MacWWW tries to emulate the design of WorldWideWeb. Unlike modern browsers it opens each link in a new window only after a double-click.&nbsp;[†](#w-macwww)
 
 Magic code
 : An informal term for abstraction, used to describe code that handles complex tasks while hiding the respective complexity to present a simple interface. The term is somewhat tongue-in-cheek, and often carries bad connotations, implying that the true behavior of the code is not immediately apparent.&nbsp;[†](#w-magic)
@@ -42,11 +45,17 @@ Maintenance
 Makefile
 : A file (named “Makefile” by default) containing a set of directives used by a make build automation tool to generate a target. A makefile works upon the principle that files only need recreating if their dependencies are newer than the file being created. The makefile is recursively carried out until everything has been updated and the ultimate target is complete.&nbsp;[†](#w-makefile)
 
+MAM
+: → Media Asset Management
+
 MAMP
 : → macOS, Apache, MySQL, PHP/Perl/Python
 
 Man-in-the-middle attack
-: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm) 
+: An attack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker.&nbsp;[†](#w-mitm)
+
+Manifesto for Agile Software Development
+: A seminal document that describes key values and principles of the Agile philosophy. It was conceived in 2001. ℹ︎&nbsp;[agilemanifesto.org](https://agilemanifesto.org/)
 
 Margin
 : Per the CSS box model, the margin area of a box, that is, an element of a document. The margin area lies outside the border area of a box.
@@ -126,8 +135,11 @@ Media
 Media access control address
 : → MAC address
 
+Media Asset Management
+: A special type of Digital Asset Management (DAM) that helps to organize media like images, audio, and video.
+
 Media query
-: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. Media Queries became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
+: A CSS specification allowing content rendering to adapt to conditions such as screen resolution (e.g., smartphone screen vs. computer screen) by so-called `@media` rules. _Media Queries_ became a W3C recommended standard in 2012 and is a cornerstone of responsive web design (RWD).&nbsp;[†](#w-media-query) ℹ︎&nbsp;[w3.org/TR/css3-mediaqueries](https://www.w3.org/TR/css3-mediaqueries/)
 
 Media type
 : → MIME type
@@ -335,6 +347,9 @@ MSHTML
 MSIE
 : → Internet Explorer
 
+mTLS
+: → Mutual TLS authentication
+
 Multi-factor authentication
 : An authentication method in which a computer user is granted access only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows), possession (something the user and only the user has), and inherence (something the user and only the user is).&nbsp;[†](#w-mfa)
 
@@ -347,6 +362,12 @@ Multiple inheritance
 Multipurpose Internet Mail Extensions
 : An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP).&nbsp;[†](#w-mime)
 
+Muphry’s Law
+: An adage that states: “If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written.” The name is a deliberate misspelling of “Murphy’s Law.”&nbsp;[†](#w-muphrys-law)
+
+Murphy’s Law
+: An adage or epigram that is typically stated as: “Anything that can go wrong will go wrong.”&nbsp;[†](#w-murphys-law)
+
 Mustache
 : A web template system. Mustache is described as a “logic-less” system because it lacks any explicit control flow statements, like `if` and `else` conditionals or `for` loops; however, both looping and conditional evaluation can be achieved using section tags processing lists and lambdas. It is named “Mustache” because of the heavy use of curly brackets, which resemble a sideways moustache. Mustache is used mainly for mobile and web applications.&nbsp;[†](#w-mustache) ℹ︎&nbsp;[mustache.github.io](https://mustache.github.io/)
 
@@ -356,6 +377,12 @@ Mutable
 Mutation
 : In JavaScript, a change of the DOM tree or a change of object properties.
 
+Mutual authentication
+: The mutual authenticating of two parties at the same time, in an authentication protocol. Mutual authentication is a default mode of authentication in some protocols (IKE, SSH) and optional in others (TLS). Mutual authentication is desired in verification schemes that transmit sensitive data, in order to ensure data security. It can be accomplished with two types of credentials: usernames and passwords, and public key certificates.&nbsp;[†](#w-mutual-authentication)
+
+Mutual TLS authentication
+: Mutual authentication including client-to-server authentication using client-side X.509 certificates. mTLS is more often used in business-to-business (B2B) applications, where a limited number of programmatic and homogeneous clients are connecting to specific web services, the operational burden is limited, and security requirements are usually higher as compared to consumer environments.&nbsp;[†](#w-mutual-authentication)
+
 MVC
 : → Model-View-Controller
 
@@ -364,6 +391,9 @@ MVP
 
 MVVM
 : → Model-View-Viewmodel
+
+MX
+: A mail exchange resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 MySQL
 : A relational database management system (RDBMS). Its name is a combination of “My,” the name of co-founder Michael Widenius’s daughter, and “SQL,” the abbreviation for Structured Query Language. MySQL was first released in 1995.&nbsp;[†](#w-mysql) ℹ︎&nbsp;[mysql.com](https://www.mysql.com/)

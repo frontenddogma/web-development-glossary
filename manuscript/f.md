@@ -6,6 +6,15 @@ FaaS
 Facade pattern
 : A software design pattern commonly used in object-oriented programming. Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying or structural code. A facade can improve the readability and usability of a software library by masking interaction with more complex components behind a single (and often simplified) API; provide a context-specific interface to more generic functionality (complete with context-specific input validation); and serve as a launching point for a broader refactor of monolithic or tightly-coupled systems in favor of more loosely-coupled code.&nbsp;[†](#w-facade-pattern)
 
+Fagan inspection
+: A process of trying to find defects in documents (such as source code or formal specifications) during various phases of the software development process. It defines a process as an activity with pre-specified entry and exit criteria. Fagan inspection is named after Michael Fagan, who is credited as being the inventor of formal software inspections.&nbsp;[†](#w-fagan-inspection)
+
+Fagan testing
+: → Fagan inspection
+
+Failover
+: The switching to a redundant or standby computer server, system, hardware component, or network upon the failure or abnormal termination of the previously active application, server, system, hardware component, or network. Failover and switchover are essentially the same operation, except that failover is automatic and usually operates without warning, while switchover requires human intervention.&nbsp;[†](#w-failover)
+
 Fallback
 : A contingency option to be taken if the preferred choice is unavailable.&nbsp;[†](#w-fallback)
 
@@ -45,6 +54,15 @@ Feature phone
 Feature testing
 : → Feature detection
 
+Federal Information Processing Standard
+: A publicly announced standard developed by the National Institute of Standards and Technology (NIST) for use in computer systems by non-military American government agencies and government contractors. FIPS standards are issued to establish requirements for purposes such as ensuring computer security and interoperability, and are intended for cases in which suitable industry standards do not already exist. Many FIPS specifications are modified versions of standards used in the technical communities, such as the American National Standards Institute (ANSI), the Institute of Electrical and Electronics Engineers (IEEE), and the International Organization for Standardization (ISO).&nbsp;[†](#w-fips) ℹ︎&nbsp;[is.gd/Obox4z](https://csrc.nist.gov/publications/fips)
+
+Federated Learning of Cohorts
+: A type of web tracking through federated learning. FLoC groups people into “cohorts” based on their browsing history for the purpose of interest-based advertising. Google began testing the technology in the Chrome browser in March 2021 as a replacement for third-party cookies, which it plans to stop supporting in Chrome by early 2023. As of April 2021, every major browser aside from Google Chrome that is based on Google’s Chromium platform has declined to implement FLoC.&nbsp;[†](#w-floc) ℹ︎&nbsp;[github.com/WICG/floc](https://github.com/WICG/floc)
+
+Federation
+: A group of computing or network providers agreeing upon standards of operation in a collective fashion. The term may be used when describing the interoperation of distinct, formally disconnected, telecommunications networks that may have different internal structures; “federation” may also be referred to when groups attempt to delegate collective authority of development, in order to prevent fragmentation.&nbsp;[†](#w-federation)
+
 Feed
 : A data format used for providing users with frequently updated content. Content distributors syndicate a web feed, thereby allowing users to subscribe to a channel by adding the feed resource address to a news aggregator client (also called a feed reader or a news reader). Users typically subscribe to a feed by manually entering the URL of a feed, clicking a link in a web browser, or by dragging the link from the web browser to the aggregator. The kinds of content delivered by a web feed are usually HTML (web page content) or links to web pages and digital media. Common feed formats are RSS, Atom, and JSON Feed.&nbsp;[†](#w-feed)
 
@@ -59,6 +77,9 @@ FID
 
 FIFO
 : → First In, First Out
+
+Figma
+: A primarily web-based vector graphics editor and prototyping tool, with additional features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes in real-time on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration. Figma was released in 2016.&nbsp;[†](#w-figma) ℹ︎&nbsp;[figma.com](https://www.figma.com/)
 
 File
 : A computer resource for recording data discretely in a computer storage device. Just as words can be written to paper, so can information be written to a computer file.&nbsp;[†](#w-file)
@@ -78,6 +99,9 @@ File Transfer Protocol
 Fingerprinting
 : In computing in general, a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit string, its fingerprint, that uniquely identifies the original data for all practical purposes just as human fingerprints uniquely identify people. This fingerprint may be used for data de-duplication purposes. This kind of fingerprinting is also referred to as file fingerprinting, data fingerprinting, or structured data fingerprinting.&nbsp;[†](#w-fingerprint)
 : In computer security, information collected about a remote computing device for the purpose of identification. Fingerprints can be used to fully or partially identify individual users or devices even when persistent cookies (and zombie cookies) cannot be read or stored in the browser, the client IP address is hidden, and even if one switches to another browser on the same device. This may allow a remote application to detect and prevent online identity theft and credit card fraud, but also to compile long-term records of individuals’ browsing histories even when they are attempting to avoid tracking.&nbsp;[†](#w-device-fingerprint)
+
+FIPS
+: → Federal Information Processing Standard
 
 Firebird
 : → Firefox
@@ -157,6 +181,9 @@ Float
 : A single precision, 32-bit floating-point data type.
 : A mechanism for visual formatting in CSS building on the `float` property, allowing content to flow along an element’s sides.
 
+FLoC
+: → Federated Learning of Cohorts
+
 Flock
 : A discontinued web browser that specialized in providing social networking and Web&nbsp;2.0 facilities built into its user interface. Flock was released in 2005 and discontinued in 2011.&nbsp;[†](#w-flock)
 
@@ -206,7 +233,7 @@ Font failure period
 : A part of the font display timeline that governs that if a particular font face is not loaded, the user agent treats it as a failed load causing normal font fallback.&nbsp;[‡](#m-font-display-timeline)
 
 Font subsetting
-: The using of only the glyphs and features needed from a given font.
+: The use of only the glyphs and features needed from a given font.
 
 Font swap period
 : A part of the font display timeline that governs that if a particular font face is not loaded, any element attempting to use it must render a fallback font face. If the font face successfully loads during this period, it is used normally.&nbsp;[‡](#m-font-display-timeline)
@@ -220,6 +247,9 @@ Foobar
 `foreach`
 : → Loop
 
+Foreign key
+: A set of attributes in a database table that refers to the primary key of another table. The foreign key links these two tables.&nbsp;[†](#w-foreign-key)
+
 Fork
 : The taking of a copy of source code from one software package and starting independent development on it, creating a distinct and separate piece of software. A fork can imply not merely a development branch, but also a split in the developer community, a form of schism.&nbsp;[†](#w-fork)
 
@@ -230,7 +260,7 @@ Formatting context
 : A concept that governs how boxes are laid out with CSS. There are different formatting contexts, like block formatting context, inline formatting context, and table formatting context.
 
 Formatting Output Specification Instance
-: A style sheet language for SGML and, later, XML. FOSI was developed in the 1990s by the US Department of Defense to control the pagination and layout of SGML and XML technical data. FOSI style sheets are themselves written in SGML, an approach that would later be adopted by XSL.&nbsp;[†](#w-fosi)
+: A style sheet language for SGML and, later, XML. FOSI was developed in the 1990s by the U.S. Department of Defense to control the pagination and layout of SGML and XML technical data. FOSI style sheets are themselves written in SGML, an approach that would later be adopted by XSL.&nbsp;[†](#w-fosi)
 
 Forward compatibility
 : A design characteristic that allows a system to accept input intended for a later version of itself. The concept can be applied to entire systems, telecommunication signals, electrical interfaces, data communication protocols, file formats, and programming languages. A standard supports forward compatibility if a product that complies with earlier versions can “gracefully” process input designed for later versions of the standard, ignoring new parts which it does not understand.&nbsp;[†](#w-forward-compatibility)
@@ -254,7 +284,7 @@ FOUT
 : → Flash of Unstyled Text
 
 FPS
-: → Frames per Second
+: → Frames per second
 
 FPWD
 : → First Public Working Draft
@@ -277,7 +307,7 @@ Frame rate
 Framekiller
 : A technique used by websites and applications to prevent their web pages from being displayed within a frame, to avoid being displayed without permission or for malicious purposes, like as part of a clickjacking attack.&nbsp;[†](#w-framekiller)
 
-Frames per Second
+Frames per second
 : → Frame rate
 
 Framework
@@ -367,5 +397,11 @@ Functional testing
 
 FutureSplash
 : → Flash
+
+Fuzz testing
+: → Fuzzing
+
+Fuzzing
+: An automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failed code assertions, or memory leaks.&nbsp;[†](#w-fuzzing)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

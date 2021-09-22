@@ -57,14 +57,26 @@ Effectiveness
 Efficiency
 : The (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result. In a more general sense, it is the ability to do things well, successfully, and without waste. In more mathematical or scientific terms, it is a measure of the extent to which input is well used for an intended task or function (output). Efficiency often specifically comprises the capability of a specific application of effort to produce a specific outcome with a minimum amount or quantity of waste, expense, or unnecessary effort. Not to be confused with effectiveness.&nbsp;[†](#w-efficiency)
 
+EIP
+: → Elastic IP
+
+Elastic IP
+: With Amazon Web Services (AWS), a reserved public IP address that can be assigned to any Elastic Compute Cloud (EC2) instance in a region. An EIP can be flexibly allocated and released.
+
+Elasticity
+: The ability of a system to handle high load, whether gradually over time or because of sudden change.
+
 Electron
 : A framework developed and maintained by GitHub. Electron combines the Chromium rendering engine and the Node.js runtime, and allows for the development of desktop GUI applications using web technologies. Electron was first released in 2013.&nbsp;[†](#w-electron) ℹ︎&nbsp;[electronjs.org](https://www.electronjs.org/)
 
 Electronic Frontier Foundation
-: An international non-profit digital rights group based in San Francisco, California. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
+: An international non-profit digital rights group. The foundation was formed in 1990 by John Gilmore, John Perry Barlow, and Mitch Kapor to promote Internet civil liberties.&nbsp;[†](#w-eff) ℹ︎&nbsp;[eff.org](https://www.eff.org/)
 
 Element
 : In HTML, a part of a document that can be represented through a tag. Element nodes can have HTML attributes specified. Nodes can also have content, including other nodes and text. Most HTML elements represent semantics, that is, have a particular meaning.&nbsp;[†](#w-element)
+
+Eleventy
+: A JavaScript-based static site generator. Eleventy was released in 2018 by Zach Leatherman. ℹ︎&nbsp;[11ty.dev](https://www.11ty.dev/)
 
 `else`
 : → Conditional
@@ -80,6 +92,9 @@ Email
 
 Email address
 : An identifier for an email box to which email messages are delivered. A wide variety of formats were used in early email systems, but only a single format is used today, following the specifications developed for Internet mail systems since the 1980s. An email address such as jane.doe@example.com is made up of a local-part, an “@” symbol, then a case-insensitive domain.&nbsp;[†](#w-email-address)
+
+Email spoofing
+: The creation of email messages with a forged sender address.&nbsp;[†](#w-email-spoofing)
 
 Embedded content
 : Content that imports another resource into the document, or content from another vocabulary that is inserted into the document. Embedded content is marked up through the `audio`, `canvas`, `embed`, `iframe`, `img`, `math` (MathML), `object`, `picture`, `svg` (SVG), and `video` elements.&nbsp;§
@@ -126,6 +141,9 @@ Entity
 Entity graph
 : → Knowledge Graph
 
+Entity identifier
+: → Surrogate key
+
 Entity reference
 : → Character entity reference
 : → Numeric character reference
@@ -139,13 +157,20 @@ EOF
 EOL
 : → End of line
 
+Ephemeral storage
+: → Temporary storage
+
 Epic
 : In agile development, a large problem or feature space that is broken into several user stories, or issues, and necessarily distributed over several Sprints.
+
+Equal-width typeface
+: → Uniwidth typeface
 
 Equality Act 2010
 : An Act of Parliament of the United Kingdom with the purpose of consolidating, updating, and supplementing prior Acts and Regulations. These consisted, primarily, of the Equal Pay Act 1970, the Sex Discrimination Act 1975, the Race Relations Act 1976, the Disability Discrimination Act 1995, and three major statutory instruments protecting discrimination in employment on grounds of religion or belief, sexual orientation, and age.&nbsp;[†](#w-equality-act) ℹ︎&nbsp;[is.gd/4f7mLd](http://www.legislation.gov.uk/ukpga/2010/15/contents)
 
 Error
+: An action which is inaccurate or incorrect. In some usages, an error is synonymous with a mistake.&nbsp;[†](#w-error)
 : → Bug
 
 ES
@@ -186,6 +211,9 @@ Event loop
 
 Event-driven architecture
 : A software architecture paradigm promoting the production, detection, consumption of, and reaction to events. This architectural pattern may be applied by the design and implementation of applications and systems that transmit events among loosely coupled software components and services. An event-driven system typically consists of event emitters (or agents), event consumers (or sinks), and event channels. Building systems around an event-driven architecture simplifies horizontal scalability in distributed computing models and makes them more resilient to failure.&nbsp;[†](#w-eda)
+
+Eventual consistency
+: A consistency model used in distributed computing to achieve high availability that informally guarantees that, if no new updates are made to a given data item, eventually all accesses to that item will return the last updated value. A system that has achieved eventual consistency is often said to have converged, or achieved replica convergence.&nbsp;[†](#w-eventual-consistency)
 
 Evidence-Based Management
 : An empirical framework that documents means by which value can be delivered to customers, measures the value delivered, and uses those measures to guide improvements. ℹ︎&nbsp;[is.gd/yeRUyR](https://www.scrum.org/resources/evidence-based-management)

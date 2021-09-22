@@ -11,8 +11,17 @@ Cache
 Cache busting
 : A type of HTTP flood attack that uses query variations to get around caching. Instead of returning results from the cache, other servers must be contacted which increases their load to potentially overwhelm them.
 
+Cache eviction
+: The automatically or manually requested removal of old, unused, or large data from a cache.
+
+Cache partitioning
+: The dividing and assigning of cache space to different system or application tasks, in order to improve security (as with browser cache partitioning) or performance.
+
 Cache poisoning
 : → DNS spoofing
+
+California Consumer Privacy Act
+: A state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed in 2018, amending the California Civil Code. The intentions of the CCPA are to provide California residents with the right to know what personal data is being collected about them; to know whether their personal data is sold or disclosed and to whom; to say no to the sale of personal data; to access their personal data; to request a business to delete personal information about a consumer collected from that consumer; and not to be discriminated against for exercising their privacy rights.&nbsp;[†](#w-ccpa)
 
 Call stack
 : A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc.&nbsp;[‡](#m-call-stack)
@@ -23,8 +32,17 @@ Call to Action
 Callback
 : Executable code that is provided as an argument to other code that executes—calls back—that argument immediately (synchronous callback) or at a later time (asynchronous callback).&nbsp;[†](#w-callback)
 
+Callback queue
+: A queue of messages (functions) that are processed in a “first in, first out” order (FIFO) by the JavaScript event loop.
+
 Camel case
 : The practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation. Common examples include “iPhone” and “eBay.” Camel case is also sometimes used in online usernames such as “johnSmith.” In programming, camel case is often used for variable names.&nbsp;[†](#w-camel-case)
+
+Camino
+: A discontinued GUI-based web browser based on Mozilla’s Gecko layout engine, specifically designed for the OS X operating system. In place of an XUL-based user interface used by most Mozilla-based applications, Camino used Mac-native Cocoa APIs. In 2013, the Camino Project stopped the development of the browser.&nbsp;[†](#w-camino)
+
+Canary
+: Software that is only released to a small group of users, making it easy to roll it back in case of serious defects. The name comes from canaries that were once used in coal mines to warn of dangerous levels of carbon monoxide.
 
 Candidate Recommendation
 : The specification-testing phase of a World Wide Web Consortium (W3C) specification (also known as a recommendation).
@@ -85,6 +103,9 @@ CBSE
 CC/PP
 : → Composite Capability/Preference Profiles
 
+CCPA
+: → California Consumer Privacy Act
+
 CCT
 : → Chrome Custom Tabs
 
@@ -96,11 +117,17 @@ CD
 : → Continuous Delivery
 : → Continuous Deployment
 
+CDATA
+: → Character Data
+
 CDN
 : → Content Delivery Network
 
 CDP
 : → Chrome DevTools Protocol
+
+CERT
+: A certificate resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 Certificate
 : An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (called the subject), and the digital signature of an entity that has verified the certificate’s contents (called the issuer).&nbsp;[†](#w-certificate)
@@ -129,17 +156,23 @@ Change set
 Changeset
 : A method to handle multi-package changes and versions. ℹ︎&nbsp;[github.com/atlassian/changesets](https://github.com/atlassian/changesets)
 
+Channel messaging
+: An API described by the HTML specification that enables independent pieces of code (e.g., scripts in different browsing contexts) to communicate directly. Channel messaging works through two-way channels (or pipes) with a port at each end.&nbsp;[‡](#m-channel-messaging)
+
 Chaos engineering
 : The discipline of experimenting on a software system in production in order to build confidence in the system’s capability to withstand turbulent and unexpected conditions. Chaos engineering can be used to achieve resilience against infrastructure, network, and application failures.&nbsp;[†](#w-chaos-engineering)
 
 Character
 : An encoded symbol that maps to a glyph.
 
+Character Data
+: A concept used for distinct but related purposes in the markup languages SGML and XML. “CDATA” indicates that a certain portion of the document is general character data, rather than non-character data or character data with a more specific, limited structure.&nbsp;[†](#w-cdata)
+
 Character encoding
 : A mapping of code points to characters, like UTF-8.
 
 Character entity reference
-: A character reference that refers to a character by the name of an entity which has the desired character as its replacement text. The entity must either be predefined (built into the markup language) or explicitly declared in a Document Type Definition (DTD). The format is the same as for any entity reference: `&name;`, where “name” is the case-sensitive name of the entity.&nbsp;[†](#w-character-reference)
+: A character reference that refers to a character by the name of an entity which has the desired character as its replacement text. The entity must either be predefined (built into the markup language) or explicitly declared in a document type definition (DTD). The format is the same as for any entity reference: `&name;`, where “name” is the case-sensitive name of the entity.&nbsp;[†](#w-character-reference)
 
 Character reference
 : → Character entity reference
@@ -186,6 +219,9 @@ CIDR
 Cipher
 : An algorithm for encryption or decryption. To encipher or encode is to convert information into cipher or code.&nbsp;[†](#w-cipher)
 
+CircleCI
+: A continuous integration and delivery platform. CircleCI was founded in 2011. ℹ︎&nbsp;[circleci.com](https://circleci.com/)
+
 CL
 : → Change list
 
@@ -227,8 +263,14 @@ Client Hints
 Client side
 : Operations on the client as opposed to the server side in a client-server relationship.&nbsp;[†](#w-client-side)
 
+Client-Side Rendering
+: A technique in which a page is rendered on the client side, as opposed to the server side (as with SSR). On the first request, only a skeleton (a minimal HTML document) is returned by the server. It is then populated on the client side, usually via JavaScript, to turn it into a fully rendered page.
+
 Cloaking
 : A search engine optimization (SEO) technique in which the content presented to the search engine spider is different from that presented to a user’s browser. This can be done by delivering content based on the IP addresses or the `User-Agent` HTTP header of the user requesting the page. When a user is identified as a search engine spider, a server-side script delivers a different version of the web page, one that contains content not present on the visible page, or that is present but not searchable. The purpose of cloaking is to deceive search engines so they display the page when it would not otherwise be displayed (black hat SEO). However, it can also be a functional (though antiquated) technique for informing search engines of content they would not otherwise be able to locate.&nbsp;[†](#w-cloaking)
+
+Clojure
+: A dynamic and functional dialect of the Lisp programming language on the Java platform. Like other Lisp dialects, Clojure treats code as data and has a Lisp macro system. The development process is community-driven, overseen by Rich Hickey as a “benevolent dictator for life” (BDFL). Clojure advocates immutability and immutable data structures and encourages programmers to be explicit about managing identity and its states.&nbsp;[†](#w-clojure) ℹ︎&nbsp;[clojure.org](https://clojure.org/)
 
 Clone detection
 : The automated process of finding duplication in source code.&nbsp;[†](#w-duplicate-code)
@@ -251,6 +293,9 @@ CLS
 
 Cluster
 : A set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.&nbsp;[†](#w-cluster)
+
+CMP
+: → Consent Management Platform
 
 CMS
 : → Content Management System
@@ -314,6 +359,9 @@ Coding by Convention
 Coding guidelines
 : Rules for how code is to be designed and formatted. Coding guidelines are usually established in organizations with several developers and development teams.
 
+COEP
+: → `Cross-Origin-Embedder-Policy`
+
 CoffeeScript
 : A programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript’s brevity and readability. Specific additional features include list comprehension and destructuring assignment.&nbsp;[†](#w-coffeescript) ℹ︎&nbsp;[coffeescript.org](https://coffeescript.org/)
 
@@ -364,6 +412,12 @@ Comment
 
 Common Gateway Interface
 : An interface specification for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts, or simply as CGIs. The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.&nbsp;[†](#w-cgi)
+
+Common Vulnerabilities and Exposures
+: A system that provides a reference method for publicly known information security vulnerabilities and exposures. The United States’ National Cybersecurity FFRDC, operated by The Mitre Corporation, maintains the system, with funding from the U.S. National Cyber Security Division of the U.S. Department of Homeland Security. The CVE system was officially launched for the public in 1999.&nbsp;[†](#w-cve) ℹ︎&nbsp;[cve.mitre.org](https://cve.mitre.org/)
+
+Common Vulnerability Scoring System
+: An industry standard for assessing the severity of computer system security vulnerabilities. CVSS assigns severity scores to vulnerabilities, allowing responders to prioritize responses and resources according to threat. Scores are calculated based on a formula that depends on several metrics that approximate the ease and impact of an exploit. Scores range from 0 to 10, with 10 being the most severe. CVSS version 1 (CVSSv1) was released in 2005.&nbsp;[†](#w-cvss) ℹ︎&nbsp;[first.org/cvss](https://www.first.org/cvss/)
 
 CommonJS
 : A discontinued project with the goal to establish conventions on a module ecosystem for JavaScript outside of the web browser. The primary reason for its creation was a major lack of commonly accepted form of JavaScript scripts module units which could be reusable in environments different from that provided by a conventional web browser. CommonJS maintains specifications (including drafts) and a list of implementations. Work on CommonJS started in 2009, and ended in 2014.&nbsp;[†](#w-commonjs)
@@ -416,6 +470,9 @@ Composite Capability/Preference Profiles
 Compression
 : The process of encoding information using fewer bits than the original representation. Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information. Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.&nbsp;[†](#w-compression)
 
+Computer programming
+: → Programming
+
 Concurrency
 : The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems.&nbsp;[†](#w-concurrency)
 
@@ -442,6 +499,12 @@ Confidentiality Agreement
 
 Conflict of interest
 : A situation in which a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another. Typically, this relates to situations in which the personal interest of an individual or organization might adversely affect a duty owed to make decisions for the benefit of a third party.&nbsp;[†](#w-conflict-of-interest)
+
+Connection draining
+: In load balancing, the allowing of existing requests (in-progress, in-flight) to complete while no new requests are being sent to the respective machine.
+
+Consent Management Platform
+: A platform that requests, stores, and manages user consent. A CMP helps ensure the privacy of user data in compliance with regulation like the European Union’s GDPR or California’s CCPA/CPRA.
 
 Consistency
 : In logic, a theory that does not entail a contradiction.&nbsp;[†](#w-consistency)
@@ -470,6 +533,9 @@ Content
 
 Content box
 : → Box
+
+Content category
+: A category that HTML puts elements in. The main categories are metadata content, flow content, sectioning content, heading content, phrasing content, embedded content, and interactive content.
 
 Content Delivery Network
 : A geographically distributed network of proxy servers and their data centers that has the goal to provide high availability and high performance by distributing the service spatially relative to end users. CDNs came into existence in the late 1990s as a means for alleviating performance bottlenecks of the Internet. They are a layer in the Internet ecosystem.&nbsp;[†](#w-cdn)
@@ -538,8 +604,14 @@ Cookie hijacking
 CoP
 : → Community of Practice
 
+CORB
+: → Cross-Origin Read Blocking
+
 Core Web Vitals
 : → Web Vitals
+
+CORP
+: → Cross-Origin Resource Policy
 
 Corporate Design
 : The official graphical design of the logo and name of a company or institution (or government) used on letterheads, envelopes, forms, folders, brochures, etc.&nbsp;[†](#w-corporate-design)
@@ -619,11 +691,23 @@ Cron job
 Crontab
 : A configuration file that specifies shell commands to run periodically on a given schedule. The crontab files are stored where the lists of jobs and other instructions to the cron daemon are kept. Users can have their own individual crontab files and often there is a system-wide crontab file (usually in /etc or a subdirectory of /etc) that only system administrators can edit.&nbsp;[†](#w-cron)
 
+Cross-Origin Read Blocking
+: A security feature that helps mitigate side-channel attacks. CORB prevents the browser from delivering certain cross-origin responses to a web page, for example, when these responses would contain sensitive information.
+
 Cross-Origin Resource Sharing
 : A mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, style sheets, scripts, iframes, and videos. Certain “cross-domain” requests are forbidden by default by the same-origin security policy. CORS defines a way in which a browser and server can interact to determine whether it is safe to allow the cross-origin request.&nbsp;[†](#w-cors)
 
+Cross-Origin Resource Policy
+: A policy set by the `Cross-Origin-Resource-Policy` HTTP header that lets websites and applications opt into protection against certain requests from other origins (such as those issued with elements like `<script>` and `<img>`), to mitigate speculative side-channel as well as cross-site script inclusion attacks. CORP is an additional layer of protection beyond the default same-origin policy.&nbsp;[‡](#m-corp)
+
+`Cross-Origin-Embedder-Policy`
+: An HTTP response header preventing a document from loading cross-origin resources that do not explicitly grant the document permission (using CORP or CORS).&nbsp;[‡](#m-coep)
+
 Cross-Site Request Forgery
 : A type of malicious exploit of a website where unauthorized commands are transmitted from a user that the web application trusts. There are many ways in which a malicious website can transmit such commands; specially-crafted image elements, hidden forms, and JavaScript XMLHttpRequests, for example, can all work without the user’s interaction or even knowledge. Unlike cross-site scripting (XSS), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user’s browser.&nbsp;[†](#w-csrf)
+
+Cross-Site Script Inclusion
+: A vulnerability which uses the circumstance that a script referenced through a `script` element is exempt from the same-origin policy, as scripts need to work across domains. An attacker may access and use what is being loaded using the respective script, and thus leaked across origins.
 
 Cross-Site Scripting
 : A type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.&nbsp;[†](#w-xss)
@@ -643,6 +727,9 @@ CSCS
 CSP
 : → Content Security Policy
 
+CSR
+: → Client-Side Rendering
+
 CSRF
 : → Cross-Site Request Forgery
 
@@ -660,6 +747,9 @@ CSS Modules
 
 CSS Object Model
 : A map of all CSS selectors and relevant properties for each selector in the form of tree, with root node, sibling, descendant, child, and other relationships. The CSSOM is similar to the Document Object Model (DOM). Both of them are part of the critical rendering path which is a series of steps that must happen to properly render a website.&nbsp;[‡](#m-cssom)
+
+CSS preprocessor
+: A program that allows to generate CSS from the preprocessor’s own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors add features that do not exist in pure CSS, such as mixins, selector nesting, or inheritance selectors. These features make the CSS structure more readable and easier to maintain.&nbsp;[‡](#m-css-preprocessor)
 
 CSS Zen Garden
 : A web development resource “built to demonstrate what can be accomplished visually through CSS-based design.” Style sheets contributed by web designers and developers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery). CSS Zen Garden is a poster child for CSS-only redesigning. It was created in 2003 by Dave Shea.&nbsp;[†](#w-css-zen-garden) ℹ︎&nbsp;[csszengarden.com](http://www.csszengarden.com/)
@@ -687,6 +777,9 @@ CTR
 
 Cumulative Layout Shift
 : A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
+
+curl
+: A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. The name stands for “Client URL,” which was first released in 1997.&nbsp;[†](#w-curl) ℹ︎&nbsp;[curl.se](https://curl.se/)
 
 Currying
 : The technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.&nbsp;[†](#w-currying)
@@ -716,13 +809,22 @@ Customized Scripting in C#
 Cutting the mustard
 : The succeeding under difficult circumstances, an expression attributed to BBC developers in the context of user agent detection.
 
+CVE
+: → Common Vulnerabilities and Exposures
+
 CVS
 : → Concurrent Versions System
+
+CVSS
+: → Common Vulnerability Scoring System
 
 Cyan, Magenta, Yellow, and Key
 : As the CMYK color model, a subtractive color model used in color printing, and also used to describe the printing process itself. CMYK refers to the four ink plates used in some color printing: cyan, magenta, yellow, and key (black). The CMYK model works by partially or entirely masking colors on a lighter, usually white, background. The ink reduces the light that would otherwise be reflected. Such a model is called subtractive because inks “subtract” the colors red, green, and blue from white light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow.&nbsp;[†](#w-cmyk)
 
 Cycle time
 : The amount of time between the start of work on a task to the time it is delivered.
+
+Cyclomatic complexity
+: A software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program’s source code, and is computed using the control-flow graph of the program. The nodes of the graph correspond to indivisible groups of commands of a program, and a directed edge connects two nodes if the second command might be executed immediately after the first command. Cyclomatic complexity may also be applied to individual functions, modules, methods, or classes. It was developed in 1976 by Thomas J. McCabe, Sr.&nbsp;[†](#w-cyclomatic-complexity)
 
 Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!

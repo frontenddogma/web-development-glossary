@@ -66,6 +66,9 @@ XSRF
 XSS
 : → Cross-Site Scripting
 
+XSSI
+: → Cross-Site Script Inclusion
+
 XUL
 : → XML User Interface Language
 

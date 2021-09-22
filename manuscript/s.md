@@ -1,7 +1,7 @@
 # S
 
 S3
-: → Amazon S3
+: A service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. It can be employed to store any type of object which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. S3 was launched in 2006.&nbsp;[†](#w-amazon-s3) ℹ︎&nbsp;[aws.amazon.com/s3](https://aws.amazon.com/s3/)
 
 SaaS
 : → Software as a Service
@@ -9,12 +9,37 @@ SaaS
 Safari
 : A graphical web browser developed by Apple, based on the WebKit engine. First released on desktop in 2003 with Mac OS X Panther, a mobile version has been bundled with iOS devices since the iPhone’s introduction in 2007. Safari is the default browser on Apple devices. A Windows version was available from 2007 to 2012.&nbsp;[†](#w-safari) ℹ︎&nbsp;[apple.com/safari](https://www.apple.com/safari/)
 
+SAFe
+: → Scaled Agile Framework
+
+SAK
+: → Secret → access key
+
+Samba
+: → MacWWW
+
 Same origin
 : → Origin
 
+Same-origin policy
+: An important concept in the web application security model. Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number. The same-origin policy prevents a malicious script on one page from obtaining access to sensitive data on another web page through that page’s Document Object Model (DOM).&nbsp;[†](#w-sop)
+
+SAML
+: → Security Assertion Markup Language
+
+SAN
+: → Storage area network
+: → Subject Alternative Name
+
 Sandbox
 : In computer security, a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading. A sandbox is often used to execute untested or untrusted programs or code, possibly from unverified or untrusted third parties, suppliers, users or websites, without risking harm to the host machine or operating system. A sandbox typically provides a tightly controlled set of resources for guest programs to run in, such as storage and memory scratch space. Network access, the ability to inspect the host system, or read from input devices are usually disallowed or heavily restricted.&nbsp;[†](#w-sandbox-security)
-: In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software) 
+: In software development, a testing environment that isolates untested code changes and outright experimentation from the production environment or repository.&nbsp;[†](#w-sandbox-software)
+
+SAP User Interface for HTML5
+: A user interface development toolkit based on HTML, CSS, and JavaScript, providing libraries to build desktop and mobile web applications. SAPUI5, first named Phoenix, was released in 2010 by SAP. ℹ︎&nbsp;[ui5.sap.com](https://ui5.sap.com/)
+
+SAPUI5
+: → SAP User Interface for HTML5
 
 Sass
 : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called the indented syntax, uses a syntax similar to Haml. It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, SCSS (Sassy CSS), uses block formatting like that of CSS, with braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively. Sass was developed in 2006 by Hampton Catlin and Natalie Weizenbaum.&nbsp;[†](#w-sass) ℹ︎&nbsp;[sass-lang.com](https://sass-lang.com/)
@@ -34,8 +59,14 @@ Scalable Vector Graphics
 Scalar
 : → Variable
 
+Scaled Agile Framework
+: A set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practices. Along with Large-Scale Scrum (LeSS), Disciplined Agile Delivery (DAD), and Nexus, SAFe is one of a growing number of frameworks that seek to address the problems encountered when scaling beyond a single team. The primary reference for SAFe was originally the development of a “big picture” view of how work flowed from product management (or other stakeholders), through governance, program, and development teams, out to customers. The framework promotes alignment, collaboration, and delivery across large numbers of agile teams. SAFe was first released in 2011 and is made available by Scaled Agile.&nbsp;[†](#w-safe) ℹ︎&nbsp;[scaledagileframework.com](https://www.scaledagileframework.com/)
+
 Scaled Scrum
 : → Nexus
+
+Schema stitching
+: The process of creating a single GraphQL schema from multiple GraphQL services.
 
 SCM
 : → Source Code Management
@@ -73,6 +104,9 @@ Scrum
 
 Scrum Master
 : A Scrum role that is accountable for guiding, coaching, and helping a Scrum Team and its environment to use Scrum.
+
+Scrum of Scrums
+: A technique to operate Scrum at scale, for multiple teams working on the same product, allowing them to discuss progress on their interdependencies and to coordinate on delivering software especially in areas of overlap and integration. Depending on the cadence (timing) of the Scrum of Scrums, the relevant Daily Scrum for each Scrum Team ends by designating one member as an ambassador to participate in the Scrum of Scrums with ambassadors from other teams. Rather than a progress update, the Scrum of Scrums should focus on how teams are collectively working to resolve, mitigate, or accept any risks, impediments, dependencies, and assumptions (RIDAs) that have been identified.&nbsp;[†](#w-scrum)
 
 Scrum Team
 : A self-organizing and cross-functional team consisting of Product Owner, the Development Team, and a Scrum Master.
@@ -134,8 +168,14 @@ Secure Sockets Layer
 Security
 : → Information Security
 
+Security Assertion Markup Language
+: An open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is an XML-based markup language for security assertions (statements that service providers use to make access-control decisions). It is also a set of XML-based protocol messages, protocol message bindings, and profiles. SAML was first published in 2002.&nbsp;[†](#w-saml) ℹ︎&nbsp;[saml.xml.org](http://saml.xml.org/)
+
 Security hacker
 : Someone who explores methods for breaching defenses and exploiting weaknesses in a computer system or network. Hackers may be motivated by a multitude of reasons, such as profit, protest, information gathering, challenge, recreation, or to evaluate system weaknesses to assist in formulating defenses against potential hackers. The subculture that has evolved around hackers is often referred to as the “computer underground.” Longstanding controversy surrounds the meaning of the term “hacker” itself.&nbsp;[†](#w-security-hacker)
+
+Security Operations Center
+: A centralized unit that deals with security issues on an organizational and technical level. It comprises the three building blocks people, processes, and technology for managing and enhancing an organization’s security posture. Governance and compliance provide a framework tying these building blocks together. A SOC within a building or facility is a central location from where staff supervises the site, using data processing technology. Typically, a SOC is equipped for access monitoring, and controlling of lighting, alarms, and vehicle barriers.&nbsp;[†](#w-security-operations-center)
 
 security.txt
 : A proposed standard for website security information that is meant to allow security researchers to easily report security vulnerabilities. The standard prescribes a text file called security.txt that is similar to robots.txt but intended to be read by humans wishing to contact a website’s owner about security issues.&nbsp;[†](#w-securitytxt)
@@ -161,6 +201,9 @@ Semantics
 
 SemVer
 : → Semantic Versioning
+
+Sender Policy Framework
+: An email authentication method designed to detect forging sender addresses during the delivery of the email. SPF alone, however, is limited to detecting a forged sender claim in the envelope of the email, which is used when the mail gets bounced. Only in combination with DMARC can it be used to detect the forging of the visible sender in emails (email spoofing), a technique often used in phishing and email spam.&nbsp;[†](#w-spf)
 
 SEO
 : → Search Engine Optimization
@@ -200,7 +243,7 @@ Server side
 : Operations on the server as opposed to the client side in a client-server relationship.&nbsp;[†](#w-server-side)
 
 Server-Side Rendering
-: A technique for rendering client-side Single-Page Applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
+: A technique for rendering client-side single-page applications (SPAs) on the server, sending a fully-rendered page to the client. SSR is used to manage and alleviate the initial rendering when an app is first requested.
 
 Serverless computing
 : A cloud computing execution model in which the cloud provider runs the server, and allocates machine resources on demand. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage. When an app is not in use, there are no computing resources allocated to the app. “Serverless” is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.&nbsp;[†](#w-serverless)
@@ -229,6 +272,9 @@ Servlet
 Session
 : A temporary and interactive information interchange between two or more communicating devices, or between a computer and a user. A session is established at a certain point in time, and brought to an end at a later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold information about the current state and the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.&nbsp;[†](#w-session)
 
+Session affinity
+: → Sticky session
+
 Session hijacking
 : The exploitation of a valid computer session—sometimes also called a session key—to gain unauthorized access to information or services in a computer system. In particular, session hijacking is used to refer to the theft of a cookie used to authenticate a user to a remote server. It has particular relevance to web developers, as the HTTP cookies used to maintain a session on many websites can be easily stolen by an attacker using an intermediary computer or with access to the saved cookies on the victim’s computer. After successfully stealing appropriate session cookies, an adversary might use the Pass the Cookie technique to hijack the session.&nbsp;[†](#w-session-hijacking)
 
@@ -256,6 +302,15 @@ Shadow root
 Shadow tree
 : A tree of DOM nodes whose topmost node is a shadow root; that is, the topmost node within a shadow DOM. A shadow tree is a hidden set of standard DOM nodes which is attached to a standard DOM node that serves as a host. The hidden nodes are not directly visible using regular DOM functionality, but require the use of a special Shadow DOM API to access. Nodes within the shadow tree are not affected by anything applied outside the shadow tree, and vice versa. This provides a way to encapsulate implementation details, which is especially useful for custom elements and other advanced design paradigms.&nbsp;[‡](#m-shadow-tree)
 
+Shared hosting
+: Infrastructure that is shared between different parties, like a web server that hosts several parties’ websites, or a storage instance that is used by several customers.
+
+Shared tenancy
+: → Shared hosting
+
+Shared worker
+: A special kind of web worker that can be accessed from several browsing contexts, such as several windows, iframes, or even workers. Shared workers implement an interface different from dedicated workers and have a different global scope, `SharedWorkerGlobalScope`.&nbsp;[‡](#m-shared-worker)
+
 Shebang
 : The character sequence consisting of the characters number sign and exclamation mark (`#!`) at the beginning of a script. In Unix-like operating systems, when a text file has a shebang, it is interpreted as an executable file. In this case, the program loader mechanism parses the rest of the file’s initial line as an interpreter directive. The loader executes the specified interpreter program, passing to it as an argument the path that was initially used when attempting to run the script, so that the program may use the file as input data.&nbsp;[†](#w-shebang)
 
@@ -277,6 +332,18 @@ Shorthand
 SI
 : → Speed Index
 
+Siamese twins document
+: An HTML document with two `head`s and two `body`s, an expression coined by Simon Pieters.
+
+SIG
+: A signature resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
+Sign-in
+: → Login
+
+Sign-on
+: → Login
+
 Signed HTTP Exchanges
 : A draft standard to make Internet content portable and distributable while verifying and vouching for its authenticity. SXG is a part of Google’s Web Packaging effort. ℹ︎&nbsp;[github.com/WICG/webpackage](https://github.com/WICG/webpackage)
 
@@ -292,6 +359,9 @@ Simple Mail Transfer Protocol
 Simple Object Access Protocol
 : A messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. SOAP’s purpose is to provide extensibility, neutrality, and independence. It uses XML Information Set for its message format, and relies on application-layer protocols, most often Hypertext Transfer Protocol (HTTP), for message negotiation and transmission. SOAP was first released in 1998.&nbsp;[†](#w-soap)
 
+Single point of failure
+: A part of a system that, if it fails, will stop the entire system from working. SPOFs are undesirable in any system with a goal of high availability or reliability, be it a business practice, software application, or other industrial system. Systems can be made robust by adding redundancy in all potential SPOFs.&nbsp;[†](#w-spof)
+
 Single Responsibility Principle
 : A computer programming principle that states that every module, class, or function should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the module, class, or function. All its services should be narrowly aligned with that responsibility.&nbsp;[†](#w-srp)
 
@@ -300,6 +370,9 @@ Single-Page Application
 
 Site
 : → Website
+
+Site isolation
+: A concept from the Chromium project that ensures that pages from different websites are put into different processes, sandboxed and therefore limiting what processes are allowed to do. Site isolation also enables to block processes from receiving sensitive data from other websites.
 
 Site map
 : A list of pages of a website. There are three primary kinds of site map: 1) site maps used during the planning of a website by its designers; 2) human-visible listings, typically hierarchical, of the pages on a site; and 3) structured listings (Sitemaps) intended for web crawlers such as search engines.&nbsp;[†](#w-site-map)
@@ -336,6 +409,9 @@ Sloppy mode
 
 Slot
 : The HTML `slot` element and the respective use with web components.
+
+Slowloris
+: A denial of service attack tool which allows a single machine to take down another machine’s web server with minimal bandwidth and side effects on unrelated services and ports. Slowloris tries to establish connections to the target web server and to hold these open as long as possible, eventually leading the affected server to deny additional connection attempts. The program was named after slow lorises, a group of primates which are known for their slow movement. Slowloris was released in 2009.&nbsp;[†](#w-slowloris)
 
 Slug
 : The part of a URL that identifies a page in human-readable keywords. A slug is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word “slug” in the news media to indicate a short name given to an article for internal use.&nbsp;[†](#w-clean-url)
@@ -376,13 +452,18 @@ Snap position
 SNI
 : → Server Name Indication
 
+Snowpack
+: A frontend build tool. Snowpack was released in 2020. ℹ︎&nbsp;[snowpack.dev](https://www.snowpack.dev/)
+
 SOA
 : → Service-oriented architecture
+: → Start of Authority
 
 SOAP
 : → Simple Object Access Protocol
 
 SOC
+: → Security Operations Center
 : → Separation of Concerns
 
 Social Web
@@ -430,6 +511,9 @@ SOLID
 Solution stack
 : A set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to “run on” or “run on top of” the resulting platform.&nbsp;[†](#w-solution-stack)
 
+SOP
+: → Same-origin policy
+
 Source Code Management
 : → Version control
 
@@ -469,8 +553,17 @@ Specification
 Specificity
 : A part of the CSS cascade and the mechanism how declarations are applied, as specificity can be the deciding factor. A selector’s specificity is calculated by counting a) whether it comes from a `style` attribute, b) how many ID attributes it contains, c) how many other attributes and pseudo-classes it contains, and d) the number of element names and pseudo-elements involved. The four resulting numbers yield the specificity, as with `1,0,0,0` for a `style` attribute, or `0,0,2,1` for a selector like `div.message.error`. If specificity decides on whether a declaration is applied, the declaration wins whose selector’s specificity is higher, that is, the individual numbers are compared, from left to right, and whichever selector hits a higher number wins. (Otherwise, per the cascade, order will have the final say.)
 
+Spectre
+: A vulnerability that affects modern microprocessors that perform branch prediction. On most processors, the speculative execution resulting from a branch misprediction may leave observable side effects that may reveal private data to attackers. Spectre was discovered in 2018.&nbsp;[†](#w-spectre)
+
+Speech synthesis
+: The artificial production of human speech. A computer system used for this purpose is called a speech computer or speech synthesizer, and can be implemented in software or hardware products. A text-to-speech (TTS) system converts normal language text into speech; other systems render symbolic linguistic representations like phonetic transcriptions into speech.&nbsp;[†](#w-speech-synthesis)
+
 Speed Index
 : A page load performance metric that shows how quickly the contents of a page are visibly populated. Speed Index is the average time at which visible parts of the page are displayed. Expressed in milliseconds, and dependent on the size of the view port, the lower the score, the better.&nbsp;[‡](#m-speed-index)
+
+SPF
+: → Sender Policy Framework
 
 Spider
 : → Crawler
@@ -484,6 +577,9 @@ Spinner
 
 Splash screen
 : A graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching. A splash page can also be an introductory page on a website. A splash screen may cover the entire screen or web page, but it may also be a rectangle near the center of the screen or page. The splash screens of operating systems and applications that expect to be run in full screen usually cover the entire screen. On websites, splash pages are considered an anti-pattern.&nbsp;[†](#w-splash-screen)
+
+SPOF
+: → Single point of failure
 
 Spoofing
 : A situation in which a person or program successfully identifies as another by falsifying data, to gain an illegitimate advantage.&nbsp;[†](#w-spoofing)
@@ -506,8 +602,17 @@ SQL
 SQL injection
 : A code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g., to dump database contents to the attacker). SQL injection must exploit a security vulnerability in an application’s software, for example, when user input is incorrectly filtered for string literal escape characters embedded in SQL statements, or when user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.&nbsp;[†](#w-sql-injection)
 
+SQS
+: A distributed message queuing service introduced in 2004 by Amazon.com. SQS supports programmatic sending of messages via web service applications as a way to communicate over the Internet. It is intended to provide a highly scalable hosted message queue that resolves issues arising from the common producer-consumer problem or connectivity between producer and consumer.&nbsp;[†](#w-amazon-sqs) ℹ︎&nbsp;[aws.amazon.com/sqs](https://aws.amazon.com/sqs/)
+
 Squad
 : The equivalent of a Scrum Team in Spotify’s Squad framework. ℹ︎&nbsp;[is.gd/SlluqK](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/)
+
+Squarespace
+: A website building and hosting company. It provides software as a service for website building and hosting, allowing users to use pre-built website templates and drag-and-drop elements to create and modify web pages. Squarespace was founded in 2003.&nbsp;[†](#w-squarespace) ℹ︎&nbsp;[squarespace.com](https://www.squarespace.com/)
+
+Squint test
+: An improvised test for the effectiveness of a design, involving to squint the eyes when looking at the design to assess visual structure and hierarchy.
 
 src
 : A name conventionally used for the main folder for source code and files.
@@ -518,7 +623,11 @@ sRGB
 SRI
 : → Subresource Integrity
 
+SRV
+: A service locator resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
+
 SSG
+: → Static Site Generation
 : → Static Site Generator
 
 SSH
@@ -526,6 +635,9 @@ SSH
 
 SSH File Transfer Protocol
 : A network protocol that provides file access, file transfer, and file management over any reliable data stream. SFTP was designed by the Internet Engineering Task Force (IETF) as an extension of the Secure Shell protocol (SSH) version 2.0 to provide secure file transfer capabilities. The protocol assumes that it is run over a secure channel, such as SSH, that the server has already authenticated the client, and that the identity of the client user is available to the protocol.&nbsp;[†](#w-sftp)
+
+SSIM
+: → Structural Similarity Index Measure
 
 SSL
 : → Secure Sockets Layer
@@ -535,6 +647,9 @@ SSR
 
 Stack
 : An abstract data type that serves as a collection of elements, with the two principal operations push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (Last In, First Out).&nbsp;[†](#w-stack)
+
+Stack level
+: The position of a box on the z-axis, relative to other stack levels within the same stacking context. The CSS `z-index` property can be used to define the stack level of the respective box in the current stacking context.
 
 Stack Overflow
 : A Q&A site for professional and enthusiast programmers. Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. The name for the website was chosen by voting.&nbsp;[†](#w-stack-overflow) ℹ︎&nbsp;[stackoverflow.com](https://stackoverflow.com/)
@@ -564,13 +679,16 @@ Standards mode
 : → Strict mode
 
 Standby redundancy
-: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power. 
+: The availability of a spare secondary machine, like a server, as a backup for a primary machine. The secondary machine may or may not be in sync with the primary machine, and it may (“hot standby”) or may not (“cold standby”) be under power.
 
 Star
 : A UI pattern for the (visual) marking of a favorite, like a location (Google Maps) or a software project (GitHub).
 
 Star hack
 : A once-popular CSS hack allowing to apply declarations only to Internet Explorer 7 and below. The hack consisted of adding an asterisk (`*`) right in front of the property of a declaration so as to apply it in IE, while a declaration using the same—but “unprefixed”—property held for other browsers. The star hack is one of a class of similar hacks for Internet Explorer, as other characters, like an underscore (`_`), would have the same effect and would be used as well (underscore hack). ℹ︎&nbsp;[browserhacks.com/#ie](http://browserhacks.com/#ie)
+
+Start of Authority
+: A type of resource record in the Domain Name System (DNS) containing administrative information about the zone, especially regarding zone transfers. The SOA record format is specified in RFC&nbsp;1035.&nbsp;[†](#w-start-of-authority)
 
 Start page
 : → Home page
@@ -593,11 +711,35 @@ Static Application Security Testing
 Static scope
 : → Lexical scope
 
+Static Site Generation
+: → Static Site Generator
+
 Static Site Generator
 : A usually template-based, often headless system that allows to generate static web pages.
 
 Status code
 : → HTTP status code
+
+Sticky session
+: The routing of requests for a particular session to the same specific machine that handled the first request for that session.
+
+Stimulus
+: → Hotwire
+
+Storage
+: The recording (storing) of information (data) in a storage medium. Paper, magnetic tapes, and optical discs are examples of storage media. Recording may be accomplished with virtually any form of energy. Electronic data storage requires electrical power to store and retrieve data; computer data storage is one of the core functions of a general-purpose computer.&nbsp;[†](#w-data-storage)
+
+Storage area network
+: A computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access data storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).&nbsp;[†](#w-storage-area-network)
+
+Storage engine
+: → Database engine
+
+Storybook
+: A tool for building UI components and pages in isolation, to aid UI development, testing, and documentation. Storybook was released in 2016. ℹ︎&nbsp;[storybook.js.org](https://storybook.js.org/)
+
+Strada
+: → Hotwire
 
 Stream
 : A sequence of data elements made available over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches. Streams are processed differently from batch data—normal functions cannot operate on streams as a whole, as they have potentially unlimited data, and formally, streams are co-data (potentially unlimited), not data (which is finite). Functions that operate on a stream, producing another stream, are known as filters, and can be connected in pipelines, analogously to function composition. Filters may operate on one item of a stream at a time, or may base an item of output on multiple items of input, such as a moving average.&nbsp;[†](#w-stream)
@@ -611,6 +753,12 @@ Strict mode
 
 String
 : A sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures.&nbsp;[†](#w-string)
+
+Strong character
+: A character with a definite direction. Examples of this type of character include most alphabetic characters, syllabic characters, Han ideographs, non-European or non-Arabic digits, and punctuation characters that are specific to only those scripts.&nbsp;[†](#w-bidirectional)
+
+Structural Similarity Index Measure
+: A method for predicting the perceived quality of digital television and cinematic pictures, as well as other kinds of digital images and videos. SSIM is used for measuring the similarity between two images. The SSIM index is a full reference metric; in other words, the measurement or prediction of image quality is based on an initial uncompressed or distortion-free image as reference.&nbsp;[†](#w-ssim)
 
 Structure
 : In web development, the code that deals with how content is organized and weighed. This is usually achieved through HTML (HyperText Markup Language).
@@ -639,6 +787,12 @@ stylelint
 Styling
 : The act of designing and implementing a design for a website or app, or the code for the design of a website or app.
 
+Stylus
+: A dynamic stylesheet preprocessor language that is compiled into Cascading Style Sheets (CSS). Its design is influenced by Sass and Less. Stylus was released in 2010 and is one of the most used CSS preprocessor syntaxes.&nbsp;[†](#w-stylus) ℹ︎&nbsp;[stylus-lang.com](https://stylus-lang.com/)
+
+Subject Alternative Name
+: An extension to X.509 that allows various values to be associated with a security certificate using a `subjectAltName` field. Subject Alternative Names (SANs) can cover email and IP addresses, URIs, DNS names, directory names, and other information.&nbsp;[†](#w-subject-alternative-name)
+
 Subject-Matter Expert
 : A person who is an authority in a particular area or topic. The term “domain expert” is frequently used in expert systems software development, and there the term always refers to the domain other than the software domain. A domain expert is a person with special knowledge or skills in a particular area of endeavor (e.g., an accountant is an expert in the domain of accountancy).&nbsp;[†](#w-sme)
 
@@ -647,6 +801,15 @@ Subnav
 
 Subnavigation
 : A secondary or auxiliary website navigation menu. Visually, a subnavigation is usually less prominent than a main navigation menu.
+
+Subnet
+: A logical subdivision of an IP network. Computers that belong to the same subnet are addressed with an identical most-significant bit-group in their IP addresses. This results in the logical division of an IP address into two fields: the network number or routing prefix, and the rest field or host identifier. Traffic is exchanged between subnetworks through routers when the routing prefixes of the source address and the destination address differ. The practice of dividing a network into two or more networks is called subnetting. Subnetting may enhance routing efficiency, or have advantages in network management when subnetworks are administratively controlled by different entities in a larger organization.&nbsp;[†](#w-subnet)
+
+Subnet mask
+: The bitmask that, when applied by a bitwise `AND` operation to any IP address in the network, yields the routing prefix. Subnet masks are expressed in dot-decimal notation like an IP address. For example, “255.255.255.0” is the subnet mask for the prefix “198.51.100.0/24”.&nbsp;[†](#w-subnet)
+
+Subnetwork
+: → Subnet
 
 Subresource Integrity
 : A W3C specification to provide a method to protect website delivery. Specifically, SRI validates assets served by a third party, such as a Content Delivery Network (CDN). This ensures these assets have not been compromised for hostile purposes. SRI was created in response to a number of attacks where CDN-served content was injected with malicious code, compromising thousands of websites using it.&nbsp;[†](#w-sri)
@@ -663,6 +826,9 @@ Subversion
 SUIT CSS
 : A CSS methodology for component-based UI development. ℹ︎&nbsp;[suitcss.github.io](https://suitcss.github.io/)
 
+Superkey
+: In the relational model of data, a set of attributes that uniquely identifies each tuple of a relation. Because superkey values are unique, tuples with the same superkey value must also have the same non-key attribute values. That is, non-key attributes are functionally dependent on the superkey.&nbsp;[†](#w-superkey)
+
 Superuser
 : A special user account used for system administration. Depending on the operating system, the actual name of this account might be “root,” “administrator,” “admin,” or “supervisor.” In some cases, the actual name of the account is not the determining factor; on Unix-like systems, for example, the user with a user identifier (UID) of zero is the superuser, regardless of the name of that account; and in systems which implement a role-based security model, any user with the role of superuser (or its synonyms) can carry out all actions of the superuser account. The principle of least privilege recommends that most users and applications run under an ordinary account to perform their work, as a superuser account is capable of making unrestricted and potentially adverse system-wide changes.&nbsp;[†](#w-superuser)
 
@@ -675,11 +841,17 @@ Surface Web
 Surfing
 : → Browsing
 
+Surrogate key
+: A unique identifier for either an entity in the outside world or an object in a database. The surrogate key is not derived from application data, unlike a natural (or business) key.&nbsp;[†](#w-surrogate-key)
+
 SVG
 : → Scalable Vector Graphics
 
 SVN
 : → Subversion
+
+Switchover
+: → Failover
 
 SXG
 : → Signed HTTP Exchange
@@ -694,7 +866,7 @@ SYN
 : A signal to initiate, establish, or synchronize a connection, as with a communications protocol like the Transmission Control Protocol (TCP).
 
 Synchronized Multimedia Integration Language
-: A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL 1.0 became a W3C standard in 1999, SMIL 2.0 in 2001, and SMIL 3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
+: A markup language to describe multimedia presentations. SMIL defines markup for timing, layout, animations, visual transitions, and media embedding, among other things. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. SMIL&nbsp;1.0 became a W3C standard in 1999, SMIL&nbsp;2.0 in 2001, and SMIL&nbsp;3.0 in 2008.&nbsp;[†](#w-smil) ℹ︎&nbsp;[w3.org/TR/SMIL3](https://www.w3.org/TR/SMIL3/)
 
 Synchronous
 : Real-time communication in which each party receives (and if necessary, processes and replies to) messages instantly (or as near to instantly as possible). A human example is the telephone—during a telephone call one tends to respond to another person immediately. Many programming commands are also synchronous—for example, when one types in a calculation, the environment will return the result instantly, unless programmed not to.&nbsp;[‡](#m-synchronous)

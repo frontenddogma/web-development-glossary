@@ -17,7 +17,7 @@ WAMP
 : → Windows, Apache, MySQL, PHP/Perl/Python
 
 WAN
-: → Wide Area Network
+: → Wide area network
 
 WAP
 : → Wireless Application Protocol
@@ -42,6 +42,9 @@ WCAG
 
 WCAG Samurai
 : A group of developers independent of the World Wide Web Consortium (W3C), led by Joe Clark, that from 2006 to 2008 published suggestions, corrections, and extensions to WCAG&nbsp;1.0.&nbsp;[†](#w-wcag)
+
+Weak character
+: A character with vague direction. Examples include European digits, Eastern Arabic-Indic digits, arithmetic symbols, and currency symbols.&nbsp;[†](#w-bidirectional)
 
 Web&nbsp;2.0
 : A term for websites that emphasize user-generated content, ease of use, participatory culture, and interoperability (i.e., compatibility with other products, systems, and devices) for end users. The term was invented by Darcy DiNucci in 1999 and later popularized by Tim O’Reilly and Dale Dougherty at the O’Reilly Media Web&nbsp;2.0 Conference in late 2004. The concept details only the design and use of websites and does not place any technical demands or specifications. The transition to “Web&nbsp;2.0” was gradual and, therefore, no precise dates can be given.&nbsp;[†](#w-web-20)
@@ -100,6 +103,9 @@ Web design
 Web development
 : The work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain-text to complex web-based Internet applications (web apps). A more comprehensive list of tasks to which web development commonly refers to may include web design, web content development, client- and server-side scripting, web engineering, web server and network security configuration, and e-commerce development. Among web professionals, “web development” usually refers to the main non-design aspects of building websites: describing document structures (HTML), giving formatting instructions (CSS), and implementing interaction and logic (scripting).&nbsp;[†](#w-web-development)
 
+Web Distributed Authoring and Versioning
+: An extension of the Hypertext Transfer Protocol (HTTP) that allows clients to perform remote web content authoring operations. WebDAV is defined in RFC&nbsp;4918 by a working group of the Internet Engineering Task Force (IETF). The WebDAV protocol provides a framework for users to create, change, and move documents on a server. The most important features include maintenance of content properties, namespace management, collections, and overwrite protection.&nbsp;[†](#w-webdav) ℹ︎&nbsp;[webdav.org](http://www.webdav.org/)
+
 Web feed
 : → Feed
 
@@ -139,6 +145,12 @@ Web performance
 Web Performance Optimization
 : The field of knowledge about increasing web performance, focusing on how to make websites and apps faster, or to get them to appear faster (perceived performance).&nbsp;[†](#w-performance)
 
+Web platform
+: A collection of technologies developed as open standards by the World Wide Web Consortium (W3C) and other standardization bodies such as the Web Hypertext Application Technology Working Group (WHATWG), the Unicode Consortium, the Internet Engineering Task Force (IETF), and Ecma International. It includes technologies—computer languages and APIs—that were originally created in relation to the publication of web pages, like HTML, CSS, SVG, MathML, WAI-ARIA, ECMAScript, and many others. “Web platform” is an umbrella term introduced by the World Wide Web Consortium.&nbsp;[†](#w-web-platform)
+
+Web Platform Incubator Community Group
+: A World Wide Web Consortium (W3C) Community Group to provide “a lightweight venue for proposing and discussing new web platform features.” The WICG was founded in 2015. ℹ︎&nbsp;[wicg.io](https://wicg.io/)
+
 Web resource
 : Any identifiable thing or entity, whether digital, physical, or abstract. Resources are identified using Uniform Resource Identifiers. In the Semantic Web, web resources and their semantic properties are described using the Resource Description Framework. The concept of a web resource has evolved during the Web’s history, from the early notion of static addressable documents or files, to a more generic and abstract definition, now encompassing everything that can be identified, named, addressed, or handled, in any way whatsoever, in the Web at large, or in any networked information system.&nbsp;[†](#w-web-resource)
 
@@ -167,6 +179,9 @@ Web tracking
 Web typography
 : The use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual web pages to control font display until Netscape introduced the `font` element in 1995, which was then standardized in HTML&nbsp;3.2. However, the font specified had to be installed on the user’s computer or a fallback font, such as a browser’s default sans-serif or monospace font, would be used. The CSS&nbsp;2 specification attempted to improve the font selection process by adding font matching, synthesis, and download. These techniques did not gain much use, and were removed in CSS&nbsp;2.1. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997, which was later included in the CSS&nbsp;3 fonts module, and has since been implemented in Safari&nbsp;3.1, Opera&nbsp;10, and Firefox 3.5. This has subsequently increased interest in web typography, as well as the usage of web fonts.&nbsp;[†](#w-web-typography)
 
+Web Video Text Tracks
+: A World Wide Web Consortium (W3C) standard for displaying timed text in connection with the HTML `track` element. The early drafts of the specification were written by the WHATWG in 2010 after discussions about what caption format should be supported by HTML.&nbsp;[†](#w-webvtt) ℹ︎&nbsp;[w3.org/TR/webvtt1](https://www.w3.org/TR/webvtt1/)
+
 Web Vitals
 : A set of metrics suggested important for a great user experience on the Web. The Web Vitals initiative was started in 2020 by Google. The “Core Web Vitals” include Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). ℹ︎&nbsp;[web.dev/vitals](https://web.dev/vitals/)
 
@@ -179,6 +194,12 @@ WebAssembly
 WebAuthn
 : A core component of the FIDO2 Project, which is a joint effort between the FIDO Alliance and the World Wide Web Consortium (W3C) to provide strong authentication for the Web, and to standardize an interface for authenticating users to web-based applications and services using public-key cryptography. Support for WebAuthn can be implemented in a variety of ways. The underlying cryptographic operations are performed by an authenticator, which is an abstract functional model that is mostly agnostic with respect to how the key material is managed. This makes it possible to implement support for WebAuthn purely in software. WebAuthn Level 1 was published as a W3C Recommendation in 2019.&nbsp;[†](#w-webauthn) ℹ︎&nbsp;[w3.org/TR/webauthn](https://www.w3.org/TR/webauthn/)
 
+WebDAV
+: → Web Distributed Authoring and Versioning
+
+WebExplorer
+: An early web browser developed by IBM for OS/2. It was released in 1995 and discontinued in 1998.&nbsp;[†](#w-webexplorer)
+
 WebGL
 : → Web Graphics Library
 
@@ -186,7 +207,7 @@ WebKit
 : A browser engine developed by Apple and primarily used in its Safari web browser, as well as all the iOS web browsers. WebKit’s C++ API provides a set of classes to display web content. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others. WebKit was first released in 1998.&nbsp;[†](#w-webkit) ℹ︎&nbsp;[webkit.org](https://webkit.org/)
 
 Webkrauts
-: A coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎&nbsp;[webkrauts.de](http://webkrauts.de/)
+: A former coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎&nbsp;[webkrauts.de](http://webkrauts.de/)
 
 Weblog
 : → Blog
@@ -221,8 +242,14 @@ WebStorm
 WebView
 : An Android system component (“View”) allowing apps to display web content directly in an application. ℹ︎&nbsp;[is.gd/Sx0xdE](https://developer.android.com/reference/android/webkit/WebView)
 
+WebVTT
+: → Web Video Text Tracks
+
 WeChat Mini Program
 : → Mini Program
+
+Weebly
+: A website builder and web hosting service. Weebly was founded in 2006; in 2018, it was acquired by Square. ℹ︎&nbsp;[weebly.com](https://www.weebly.com/)
 
 Weekly Active Users
 : → Active Users
@@ -244,6 +271,9 @@ Well-formedness
 
 WET
 : The opposite of DRY (Don’t Repeat Yourself).
+
+Wget
+: A computer program that retrieves content from web servers. Wget’s name derives from “World Wide Web” and “get.” It supports downloading via HTTP, HTTPS, and FTP, and features include recursive download, conversion of links for offline viewing of local HTML, as well as support for proxies. Wget was first released in 1996 and is part of the GNU Project.&nbsp;[†](#w-wget) ℹ︎&nbsp;[gnu.org/software/wget](https://www.gnu.org/software/wget/)
 
 What You See Is All You Get
 : An idea from _The Pragmatic Programmer_, a disadvantage with WYSIWYG tools.
@@ -269,7 +299,10 @@ Whitespace
 WHOIS
 : A query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system, but is also used for a wider range of other information. The protocol stores and delivers database content in a human-readable format. The current iteration of the WHOIS protocol was drafted by the Internet Society, and is documented in RFC&nbsp;3912. The first WHOIS directory was created in the 1970s.&nbsp;[†](#w-whois)
 
-Wide Area Network
+WICG
+: → Web Platform Incubator Community Group
+
+Wide area network
 : A telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits. The Internet may be considered a WAN.&nbsp;[†](#w-wan)
 
 Widow
@@ -285,7 +318,7 @@ Windows
 : A group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Microsoft Windows families include Windows NT and Windows IoT; these may encompass subfamilies, e.g., Windows Server or Windows Embedded Compact (Windows CE). Defunct Microsoft Windows families include Windows&nbsp;9x, Windows Mobile, and Windows Phone. Microsoft introduced an operating environment named Windows in 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).&nbsp;[†](#w-windows) ℹ︎&nbsp;[microsoft.com/windows](https://www.microsoft.com/windows)
 
 Windows Aero
-: A design language introduced in the Windows Vista operating system. “Aero” is a backronym for “Authentic, Energetic, Reflective, and Open.” Windows Aero was in force during the development of Windows Vista and Windows&nbsp;7. In 2012, with the development of Windows&nbsp;8 and Windows Server 2012, Microsoft moved on to a design language codenamed “Metro.”&nbsp;[†](#w-windows-aero)
+: A design language introduced in the Windows Vista operating system. “Aero” is a backronym for “Authentic, Energetic, Reflective, and Open.” Windows Aero was in force during the development of Windows Vista and Windows&nbsp;7. In 2012 and with Windows&nbsp;8 and Windows Server 2012, Microsoft moved on to a design language codenamed “Metro.”&nbsp;[†](#w-windows-aero)
 
 Windows, Apache, MySQL, PHP/Perl/Python
 : The equivalent of the LAMP or MAMP solution stack but with the Windows operating system.
@@ -301,6 +334,9 @@ Wireless Application Protocol
 
 Wireless Markup Language
 : A now-obsolete XML-based markup language intended for devices that implement the Wireless Application Protocol (WAP) specification, such as mobile phones. WML provides navigational support, data input, hyperlinks, text and image presentation, as well as forms, much like HTML. It preceded the use of other markup languages now used with WAP, such as HTML itself as well as XHTML (which have been gaining in popularity as processing power in mobile devices increased). WML was first released in 1998.&nbsp;[†](#w-wml)
+
+Wix
+: A software company providing cloud-based web development services. It allows users to create websites through the use of online drag-and-drop tools. Wix was founded in 2006.&nbsp;[†](#w-wix) ℹ︎&nbsp;[wix.com](https://www.wix.com/)
 
 WML
 : → Wireless Markup Language
@@ -331,6 +367,9 @@ Workbox
 
 Working Draft
 : The initial design phase of a World Wide Web Consortium (W3C) specification. Based on internal and external feedback, the respective W3C Working Group fleshes out the draft.
+
+Worklet
+: A piece of HTML specification infrastructure which can be used for running scripts independent of the main JavaScript execution environment, while not requiring a particular implementation model. Worklets are similar to web workers but are thread-agnostic; they are able to have multiple duplicate instances of the global scope created; they do not use an event-based API; they have a reduced API surface on the global scope; and they have a lifetime for their global object which is defined by other specifications.&nbsp;§
 
 World Wide Web
 : An information system where documents and other web resources are identified by Uniform Resource Locators (URLs), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are published by a software application called a web server, may be accessed by users through a software application called a web browser, and are transferred via the Hypertext Transfer Protocol (HTTP). Tim Berners-Lee invented the World Wide Web in 1989.&nbsp;[†](#w-www)
