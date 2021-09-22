@@ -984,9 +984,9 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Spam](https://en.wikipedia.org/wiki/Spam){#w-spam}
 * [Spamdexing](https://en.wikipedia.org/wiki/Spamdexing){#w-spamdexing}
 * [Spamming](https://en.wikipedia.org/wiki/Spamming){#w-spamming}
+* [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
 * [Specification (technical standard)](https://en.wikipedia.org/wiki/Specification_(technical_standard)){#w-specification}
 * [Spectre (security vulnerability)](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)){#w-spectre}
-* [SPDY](https://en.wikipedia.org/wiki/SPDY){#w-spdy}
 * [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis){#w-speech-synthesis}
 * [Spike (software development)](https://en.wikipedia.org/wiki/Spike_(software_development)){#w-spike}
 * [Spinner (computing)](https://en.wikipedia.org/wiki/Spinner_(computing)){#w-spinner}

@@ -150,7 +150,7 @@ Blisk
 : A developer-centered cross-platform web browser. Blisk was first released in 2016. ℹ︎&nbsp;[blisk.io](https://blisk.io/)
 
 Blob
-: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that isn’t necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
+: In JavaScript, an object that represents a blob, which is a file-like object of immutable, raw data. Blobs can be read as text or binary data, or converted into a `ReadableStream` so its methods can be used for processing the data. Blobs can represent data that is not necessarily in a JavaScript-native format.&nbsp;[‡](#m-blob)
 : → Binary large object
 
 Block
