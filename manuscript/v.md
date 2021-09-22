@@ -47,7 +47,7 @@ Versioning
 : The process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor, patch), these numbers are generally assigned in increasing order and correspond to new developments in the software. At a fine-grained level, version control is often used for keeping track of incrementally different versions of information, whether this information is computer software. Modern computer software is often tracked using two different software versioning schemes—an internal version number that may be incremented many times in a single day, such as a revision control number, and a release version that typically changes far less often.&nbsp;[†](#w-versioning)
 
 Vertical scaling
-: An increase in the capabilities of an individual resource, e.g., by equipping a server with a faster CPU, more memory, or more disk space.
+: An increase in the capabilities of an individual resource, e.g., by equipping a machine with a faster CPU, more memory, or more disk space.
 
 vi
 : A screen-oriented text editor originally created for the Unix operating system. The portable subset of the behavior of vi and programs based on it, and the ex editor language supported within these programs, is described by the Single Unix Specification and POSIX. The original code for vi was written in 1976 by Bill Joy, as the visual mode for the ex line editor. The name “vi” is derived from the shortest unambiguous abbreviation for the ex command `visual`, which switches the ex line editor to visual mode.&nbsp;[†](#w-vi)

@@ -208,7 +208,7 @@ Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
 
 Renderer
-: A user agent that interprets the semantics of a style sheet and renders documents that use them.
+: A user agent that interprets the semantics of style sheets and renders documents that use them.
 
 Rendering
 : The transforming of HTML documents and other resources of a web page into an interactive visual representation in a web browser.&nbsp;[†](#w-browser-engine)
@@ -223,7 +223,7 @@ REP
 : → Robots Exclusion Protocol
 
 Replaceable Character Data
-: A term (“RCDATA”) used to declare that a markup element may contain text content and entity references, but not subelements.
+: A term (“RCDATA”) used to declare that a markup element may contain text content and entity references, but not sub-elements.
 
 Replay attack
 : A form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed. This is carried out either by the originator or by an adversary who intercepts the data and re-transmits it, possibly as part of a spoofing attack by IP packet substitution. This is one of the lower-tier versions of a man-in-the-middle attack. Replay attacks are usually passive in nature.&nbsp;[†](#w-replay-attack)
@@ -307,7 +307,7 @@ Restricted production
 : A statement like `break` or `continue` that, when followed by a line terminator, triggers the automatic insertion of a semicolon (ASI).
 
 Revalidation
-: Cache behavior in which a cache checks with the origin of a resource whether the resource has changed. If it has (HTTP 200 “OK” response), the origin server will also send the updated resource; if has not (HTTP 304 “Not Modified”), the cache will keep the cached resource.
+: Cache behavior in which a cache checks with the origin of a resource whether the resource has changed. If it has (HTTP 200 “OK” response), the origin server will also send the updated resource; if has not (HTTP 304 “Not Modified”), the cache will keep the resource.
 
 Reverse proxy
 : A reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the reverse proxy server itself. Popular web servers often use reverse-proxying functionality to shield application frameworks of weaker HTTP capabilities, where “weaker” means limitations to handle excessive load or a great variety of request formats.&nbsp;[†](#w-reverse-proxy)
@@ -365,7 +365,6 @@ Robot
 
 Robots Exclusion Protocol
 : A combination of standards and conventions governing web crawler behavior and search engine indexing. The REP includes the robots exclusion standard (robots.txt), crawling and indexing directives for HTML `meta` elements, the Sitemaps protocol, and the `rel=nofollow` microformat.
-: → Robots exclusion standard
 
 Robots exclusion standard
 : → robots.txt

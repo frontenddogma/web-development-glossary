@@ -303,7 +303,7 @@ Shadow tree
 : A tree of DOM nodes whose topmost node is a shadow root; that is, the topmost node within a shadow DOM. A shadow tree is a hidden set of standard DOM nodes which is attached to a standard DOM node that serves as a host. The hidden nodes are not directly visible using regular DOM functionality, but require the use of a special Shadow DOM API to access. Nodes within the shadow tree are not affected by anything applied outside the shadow tree, and vice versa. This provides a way to encapsulate implementation details, which is especially useful for custom elements and other advanced design paradigms.&nbsp;[‡](#m-shadow-tree)
 
 Shared hosting
-: Infrastructure that is shared between different parties, like a web server that hosts several people’s websites, or a storage instance that is used by several customers.
+: Infrastructure that is shared between different parties, like a web server that hosts several parties’ websites, or a storage instance that is used by several customers.
 
 Shared tenancy
 : → Shared hosting

@@ -11,6 +11,9 @@ Cache
 Cache busting
 : A type of HTTP flood attack that uses query variations to get around caching. Instead of returning results from the cache, other servers must be contacted which increases their load to potentially overwhelm them.
 
+Cache eviction
+: The automatically or manually requested removal of old, unused, or large data from a cache.
+
 Cache partitioning
 : The dividing and assigning of cache space to different system or application tasks, in order to improve security (as with browser cache partitioning) or performance.
 
