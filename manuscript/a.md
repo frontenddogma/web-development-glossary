@@ -5,7 +5,7 @@ A
 : An IPv4 address resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
 A List Apart
-: A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
+: A popular online magazine that “explores the design, development, and meaning of web content, with a special focus on web standards and best practices.” A List Apart was founded in 1998. ℹ︎&nbsp;[alistapart.com](https://alistapart.com/)
 
 A/B testing
 : A user experience research methodology. A/B tests consist of a randomized experiment with two variants, A and B. A/B testing includes the application of statistical hypothesis testing or “two-sample hypothesis testing” as used in the field of statistics. It is a way to compare two versions of a single variable, typically by testing a subject’s response to variant A against variant B, and determining which of the two variants is more effective.&nbsp;[†](#w-a-b-testing)
@@ -32,7 +32,7 @@ Abstraction
 : A way to reduce complexity and allow efficient design and implementation in complex software systems. Abstractions hide the technical complexity of systems behind simpler APIs.&nbsp;[‡](#m-abstraction)
 
 Accelerated Mobile Pages
-: A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
+: A web component framework and a website publishing technology developed by Google which has the mission to “provide a user-first format for web content.” The AMP framework consists of three components: AMP HTML, which is standard HTML markup with web components, AMP JavaScript, which manages resource loading, and AMP caches, which serve and validate AMP pages. Most AMP pages are delivered by Google’s AMP cache. AMP was released in 2015.&nbsp;[†](#w-amp) ℹ︎&nbsp;[amp.dev](https://amp.dev/)
 
 `Accept-CH`
 : An HTTP header that is used to specify which Client Hints headers a client should include in subsequent requests.&nbsp;[‡](#m-accept-ch)
@@ -147,7 +147,7 @@ Adobe Photoshop
 : → Photoshop
 
 ads.txt
-: An initiative from the IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of Internet fraud prevention.&nbsp;[†](#w-adstxt)
+: An initiative from the IAB Technology Laboratory that specifies an “ads.txt” text file that companies can host on their web servers, listing the other companies authorized to sell their products or services. This is designed to allow online buyers to check the validity of the sellers from whom they buy, for the purposes of Internet fraud prevention. ads.txt was introduced in 2017.&nbsp;[†](#w-adstxt)
 
 ADT
 : → Abstract Data Type
@@ -243,7 +243,7 @@ AMD
 : → Asynchronous Module Definition
 
 American National Standards Institute
-: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” ℹ︎&nbsp;[ansi.org](https://www.ansi.org/)
+: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” The ANSI was founded in 1918. ℹ︎&nbsp;[ansi.org](https://www.ansi.org/)
 
 American Standard Code for Information Interchange
 : A character encoding standard for electronic communication. ASCII was conceived in 1960 and published in 1963 by the ASA (American Standards Association), now ANSI.
@@ -267,7 +267,7 @@ Animation
 : A method in which images and graphics are manipulated to appear as moving. In web development, animations are often created using CSS (CSS Animations, CSS Transitions) or JavaScript.&nbsp;[†](#w-animation)
 
 Anonymous block box
-: Within a block container box, a block-level box forced by the presence of other block-level boxes. In `<div>Some text<p>More text</div>`, “Some text” resides in an anonymous block-level box because `<p>` spawned a block-level box.
+: Within a block container box, a block-level box forced by the presence of other block-level boxes. In `<div>Some text<p>More text</div>`, “Some text” resides in an anonymous block-level box because `<p>` spawns a block-level box.
 
 Anonymous block element
 : → Anonymous block box
@@ -355,7 +355,7 @@ AR
 : → Augmented Reality
 
 Arena
-: One of the first web browsers for Unix. Originally developed by Dave Raggett in 1993, development continued at CERN and the World Wide Web Consortium (W3C) and subsequently by Yggdrasil Computing. Arena was used in testing the implementations for HTML&nbsp;3.0, Cascading Style Sheets (CSS), Portable Network Graphics (PNG), and libwww. Arena was widely used and popular at the beginning of the World Wide Web.&nbsp;[†](#w-arena)
+: One of the first web browsers for Unix. Originally developed in 1993 by Dave Raggett, development continued at CERN and the World Wide Web Consortium (W3C) and subsequently by Yggdrasil Computing. Arena was used in testing the implementations for HTML&nbsp;3.0, Cascading Style Sheets (CSS), Portable Network Graphics (PNG), and libwww. Arena was widely used and popular at the beginning of the World Wide Web.&nbsp;[†](#w-arena)
 
 Argument
 : The actual input expression passed or supplied to a function, procedure, or routine in a call or invocation statement.&nbsp;[†](#w-parameter-argument)
@@ -501,4 +501,4 @@ AWS
 AZ
 : → Availability Zone
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

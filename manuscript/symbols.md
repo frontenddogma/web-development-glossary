@@ -25,4 +25,4 @@
 `__qem`
 : A proprietary, inofficial CSS unit (“quirky em”) to manage margins in reflow roots (`body`, `th`, and `td`) like the Internet Explorer web browser. According to [the source code](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/css/CSSPrimitiveValue.h?rev=107688&order=name#L167), “When the quirky value is used, if you’re in quirks mode, the margin will collapse away inside a table cell.” `__qem` was originally spelled with one underscore, `_qem`.
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

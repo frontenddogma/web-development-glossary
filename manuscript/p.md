@@ -471,4 +471,4 @@ PWA
 Python
 : An interpreted, high-level, general-purpose programming language. Python’s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a “batteries included” language due to its comprehensive standard library. It was created in 1991 by Guido van Rossum.&nbsp;[†](#w-python) ℹ︎&nbsp;[python.org](https://www.python.org/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

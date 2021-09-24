@@ -46,4 +46,4 @@ Quick UDP Internet Connections
 Quirks mode
 : A technique used by some web browsers for maintaining backward-compatibility with web pages designed for old web browsers, instead of strictly complying with the respective standards in strict mode. One prominent difference between quirks and strict mode is the handling of the CSS box model. Before version 6, Internet Explorer used an algorithm for determining the width of an element’s box which conflicted with the algorithm detailed in the CSS specification, and due to Internet Explorer’s popularity many pages were created which relied upon this non-standard algorithm, or used a box model hack.&nbsp;[†](#w-quirks-mode)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

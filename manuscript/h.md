@@ -316,4 +316,4 @@ Hypervisor
 Hypothesis-Driven Development
 : A product development approach based on continuously running experiments to test hypotheses about a product, its users, and the market.
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

@@ -758,7 +758,7 @@ CSS-in-JS
 : A styling technique in which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `style` element) and attached to the DOM. CSS-in-JS allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept such as styled components or JSS.&nbsp;[†](#w-css-in-js) ℹ︎&nbsp;[cssinjs.org](https://cssinjs.org/)
 
 CSS-Tricks
-: A popular web development online magazine and CSS resource. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
+: A popular web development online magazine and CSS resource. CSS-Tricks was founded in 2007 by Chris Coyier. ℹ︎&nbsp;[css-tricks.com](https://css-tricks.com/)
 
 CSSOM
 : → CSS Object Model
@@ -827,4 +827,4 @@ Cycle time
 Cyclomatic complexity
 : A software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program’s source code, and is computed using the control-flow graph of the program. The nodes of the graph correspond to indivisible groups of commands of a program, and a directed edge connects two nodes if the second command might be executed immediately after the first command. Cyclomatic complexity may also be applied to individual functions, modules, methods, or classes. It was developed in 1976 by Thomas J. McCabe, Sr.&nbsp;[†](#w-cyclomatic-complexity)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!

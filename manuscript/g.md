@@ -218,4 +218,4 @@ GWS
 gzip
 : A file format and software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the “g” is from “GNU”). Version 1.0 was released in 1993. gzip is based on the DEFLATE algorithm.&nbsp;[†](#w-gzip) ℹ︎&nbsp;[gnu.org/software/gzip](https://www.gnu.org/software/gzip/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new) and become a glossary&nbsp;contributor!
+Q> Is something important missing, or did you find a mistake? Please [share your&nbsp;feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!
