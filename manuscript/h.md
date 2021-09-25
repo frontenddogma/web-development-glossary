@@ -200,7 +200,7 @@ HTML Abstraction Markup Language
 : A templating system that is designed to avoid writing inline code in a web document and make the HTML cleaner. Haml gives the flexibility to have some dynamic content in HTML. Similar to other web languages like PHP, ASP, JSP, and template systems like eRuby, Haml also embeds some code that gets executed during runtime and generates HTML code in order to provide some dynamic content.&nbsp;[†](#w-haml) ℹ︎&nbsp;[haml.info](http://haml.info/)
 
 HTML over the wire
-: A marketing term promoting the use of HTML instead of JSON to populate web applications, and an umbrella term for Turbo, Stimulus, and Strada, tooling to help use HTML over the wire. Hotwire was presented in 2020 by Basecamp. ℹ︎&nbsp;[hotwired.dev](https://hotwired.dev/)
+: A term marking the use of HTML instead of JSON to populate web applications, and an umbrella term for Turbo, Stimulus, and Strada, tooling to help use HTML over the wire. Hotwire was presented in 2020 by Basecamp. ℹ︎&nbsp;[hotwired.dev](https://hotwired.dev/)
 
 HTML template
 : For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.
