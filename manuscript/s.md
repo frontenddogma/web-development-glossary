@@ -748,7 +748,7 @@ Streaming media
 : Multimedia that is constantly received by and presented to an end user while being delivered by a provider. The verb “to stream” refers to the process of delivering or obtaining media in this manner; the term refers to the delivery method of the medium, rather than the medium itself, and is an alternative to file downloading, a process in which the end user obtains the entire file for the content before watching or listening to it.&nbsp;[†](#w-streaming)
 
 Strict mode
-: A web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a small number of quirks. Strict mode is triggered by particular doctypes, like the standard HTML doctype `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
+: A web browser compatibility mode in which standards are applied strictly and which, compared with quirks mode, only implements a small number of quirks. Strict mode is triggered by particular DOCTYPEs, like the standard HTML DOCTYPE `<!DOCTYPE html>`.&nbsp;[‡](#m-quirks-mode-strict-mode)
 : For JavaScript, a way to opt into a restricted variant of JavaScript, thereby implicitly opting-out of “sloppy mode.” Strict mode is not just a subset, it intentionally has different semantics from normal code. Browsers not supporting strict mode will run strict mode code with different behavior from browsers that do, so strict mode is not relied on without feature-testing for support for the relevant aspects. Strict mode code and non-strict mode code can coexist, so scripts can opt into strict mode incrementally. Strict mode is triggered with `'use strict';`.&nbsp;[‡](#m-strict-mode)
 
 String

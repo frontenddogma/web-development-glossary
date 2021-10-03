@@ -332,8 +332,8 @@ DocBook
 Docker
 : A set of Platform as a Service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries, and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines. The Docker software was first released in 2013 by Docker, the company.&nbsp;[†](#w-docker) ℹ︎&nbsp;[docker.com](https://www.docker.com/)
 
-Doctype
-: An instruction that associates a particular SGML or XML document (for example, a web page) with a document type definition (for example, the formal definition of a particular version of HTML prior to HTML&nbsp;5). In the serialized form of the document, the doctype manifests as a short string of markup that conforms to a particular syntax. The HTML layout engines in modern web browsers perform doctype sniffing or switching, wherein the doctype in a document served as `text/html` determines a layout mode, such as quirks or standards mode. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will never access them even if a URL is provided. The doctype is retained in HTML as a “mostly useless, but required” header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
+DOCTYPE
+: An instruction that associates a particular SGML or XML document (for example, a web page) with a document type definition (for example, the formal definition of a particular version of HTML prior to HTML&nbsp;5). In the serialized form of the document, the DOCTYPE manifests as a short string of markup that conforms to a particular syntax. The HTML layout engines in modern web browsers perform DOCTYPE sniffing or switching, wherein the DOCTYPE in a document served as `text/html` determines a layout mode, such as quirks or standards mode. Since web browsers are implemented with special-purpose HTML parsers, rather than general-purpose DTD-based parsers, they do not use DTDs and will never access them even if a URL is provided. The DOCTYPE is retained in HTML as a “mostly useless, but required” header only to trigger standards mode in common browsers.&nbsp;[†](#w-doctype)
 
 Document directive
 : A way to govern the properties of a document or worker environment to which a content security policy (CSP) applies. Document directives do not fall back to the `default-src` directive.&nbsp;[‡](#m-document-directive)
@@ -345,7 +345,7 @@ Document Style Semantics and Specification Language
 : An international standard developed to provide style sheets for SGML documents. DSSSL consists of two parts: a tree transformation process that can be used to manipulate the tree structure of documents prior to presentation, and a formatting process that associates the elements in the source document with specific nodes in the target representation—the flow object tree. DSSSL is compatible with any SGML-based document type, but it has been used most often with DocBook.&nbsp;[†](#w-dsssl)
 
 Document type declaration
-: → Doctype
+: → DOCTYPE
 
 Document Type Definition
 : A set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference.&nbsp;[†](#w-dtd)
