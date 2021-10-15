@@ -279,6 +279,7 @@ Port
 : A communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). A port number is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Specific port numbers are commonly reserved to identify specific services.&nbsp;[†](#w-port)
 
 Port number
+: → _0–9_ for various port numbers
 : → Port
 
 Portable code

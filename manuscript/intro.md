@@ -9,6 +9,8 @@ The glossary acquaints and reunites you with the major standards and concepts of
 
 The glossary does not tell a story in the same way as other books do, but it still tells a story. It tells a story that is sterile yet messy. It tells a story that only started three decades ago and that is still unfolding. It tells a story that starts with you. Why you? Because you are at your own stage of web development—and because web development is only unfolding, only so alive, because of people like you, people who take a personal interest in it. When you read the glossary like you would read another book, you may notice. (Yet still, it is a&nbsp;glossary.)
 
+C> ⁂
+
 Many explanations and definitions in this glossary are based on Wikipedia and the MDN Web Docs. It was neither necessary nor desirable to come up with a new and different explanation for every&nbsp;term.
 
 Arrows (“→”) point to the expanded forms of abbreviations, and to the more common synonyms and expressions. Sometimes they take you on a little detour, but only to be transparent about the journey taken (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML&nbsp;5 → HTML → HyperText Markup Language). This may seem lengthy, but it aims to make meanings, relationships, and sometimes history more clear. An arrow may also point at a term that encompasses the referring term, or at a related concept, and therefore does not necessarily indicate equivalence or&nbsp;identity.
