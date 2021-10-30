@@ -276,7 +276,7 @@ Anonymous function
 : A function definition that is not bound to an identifier. Anonymous functions are often arguments being passed to higher-order functions, or used for constructing the result of a higher-order function that needs to return a function. If the function is only used once, or a limited number of times, an anonymous function may be syntactically lighter than using a named function. Anonymous functions are ubiquitous in functional programming languages and other languages with first-class functions.&nbsp;[†](#w-anonymous-function)
 
 Anonymous inline box
-: Inline boxes that do not have an associated inline-level element.
+: An inline box that does not have an associated inline-level element.
 
 Anonymous inline element
 : Any text that is directly contained inside a block container element that is not inside an inline element.
@@ -440,6 +440,9 @@ ATDD
 
 Atlassian Bitbucket
 : → Bitbucket
+
+Atlassian Jira
+: → Jira
 
 Atom
 : An XML-based feed format consisting of two web standards, the Atom Syndication Format and the Atom Publishing Protocol (AtomPub or APP).
