@@ -71,7 +71,7 @@ Behavior-Driven Development
 : An agile software development process that encourages collaboration among developers, QA, and non-technical or business participants in a software project. BDD encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. It emerged from Test-Driven Development (TDD). BDD combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.&nbsp;[†](#w-bdd)
 
 Below the fold
-: The part of a web page that is visible only after scrolling.
+: The part of a web page that is visible only after scrolling down.
 
 BEM
 : → Block Element Modifier
