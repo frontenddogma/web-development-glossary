@@ -60,7 +60,7 @@ Canvas
 : A container, the HTML `canvas` element, that allows for dynamic, scriptable rendering of 2D and 3D shapes and bitmap images by providing an empty graphic zone on which specific JavaScript APIs can draw (such as Canvas 2D or WebGL).&nbsp;[‡](#m-canvas)
 
 CAP Theorem
-: A theoretical computer science theorem that states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: 1) Consistency: Every read receives the most recent write or an error; 2) Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write; and 3) Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes. The CAP Theorem implies that in the presence of a network partition, one has to choose between consistency and availability.&nbsp;[†](#w-cap-theorem)
+: A theoretical computer science theorem that states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: 1) Consistency: Every read receives the most recent write or an error. 2) Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write. 3) Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes. The CAP Theorem implies that in the presence of a network partition, one has to choose between consistency and availability.&nbsp;[†](#w-cap-theorem)
 
 CAPTCHA
 : A type of challenge-response test used in computing to determine whether the user is human. The term stands for “completely automated public Turing test to tell computers and humans apart” and was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.&nbsp;[†](#w-captcha)
@@ -248,7 +248,7 @@ CLI
 Click
 : A physical or emulated interaction with a pointing device.
 
-Click-Through Rate
+Click-through rate
 : The ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.&nbsp;[†](#w-ctr)
 
 Clickjacking
@@ -773,7 +773,7 @@ CTA
 : → Call to Action
 
 CTR
-: → Click-Through Rate
+: → Click-through rate
 
 Cumulative Layout Shift
 : A metric, the so-called layout shift score, for measuring visual stability. The layout shift score is based on a multiplication of impact fraction and distance fraction. ℹ︎&nbsp;[web.dev/cls](https://web.dev/cls/)
