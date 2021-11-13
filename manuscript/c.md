@@ -194,6 +194,9 @@ Chrome
 Chrome Custom Tabs
 : A Chrome feature that allows native apps to invoke the Chrome browser with customized actions, toolbars, and animations.
 
+Chrome DevTools
+: A set of web developer tools built directly into the Chrome web browser. ℹ︎&nbsp;[is.gd/TsOXbb](https://developers.google.com/web/tools/chrome-devtools)
+
 Chrome DevTools Protocol
 : A protocol to “instrument, inspect, debug, and profile” Chromium, Chrome, and other Blink-based browsers. ℹ︎&nbsp;[is.gd/a55qQ3](https://chromedevtools.github.io/devtools-protocol/)
 

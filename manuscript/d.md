@@ -222,9 +222,9 @@ Destructuring
 Developer Experience
 : The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
 
-Developer Tools
-: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used for testing the user interface of a website or application.&nbsp;[†](#w-developer-tools)
-: A set of web developer tools built directly into the Chrome web browser (Chrome DevTools). ℹ︎&nbsp;[is.gd/TsOXbb](https://developers.google.com/web/tools/chrome-devtools)
+Developer tools
+: Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used generate, deploy, test, analyze, and optimize a website or application.&nbsp;[†](#w-developer-tools)
+: → DevTools
 
 Development and operations
 : → DevOps
@@ -240,6 +240,9 @@ Device pixel
 
 DevOps
 : A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.&nbsp;[†](#w-devops)
+
+DevTools
+: → Chrome DevTools
 
 DHCP
 : → Dynamic Host Configuration Protocol
