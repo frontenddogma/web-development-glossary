@@ -55,7 +55,7 @@ Effectiveness
 : The capability of producing a desired result or the ability to produce desired output. When something is deemed effective, it means it has an intended or expected outcome, or produces a deep, vivid impression. Not to be confused with efficiency.&nbsp;[†](#w-effectiveness)
 
 Efficiency
-: The (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result. In a more general sense, it is the ability to do things well, successfully, and without waste. In more mathematical or scientific terms, it is a measure of the extent to which input is well used for an intended task or function (output). Efficiency often specifically comprises the capability of a specific application of effort to produce a specific outcome with a minimum amount or quantity of waste, expense, or unnecessary effort. Not to be confused with effectiveness.&nbsp;[†](#w-efficiency)
+: The (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result. In a more general sense, it is the ability to do things well, successfully, and without waste. In more mathematical or scientific terms, it is a measure of the extent to which input is well used for an intended task or function (output). Efficiency often specifically comprises the capability of a specific application of effort to produce a specific outcome with a minimum amount or quantity of waste, expense, or unnecessary effort.&nbsp;[†](#w-efficiency)
 
 EIP
 : → Elastic IP
@@ -161,7 +161,7 @@ Ephemeral storage
 : → Temporary storage
 
 Epic
-: In agile development, a large problem or feature space that is broken into several user stories, or issues, and necessarily distributed over several Sprints.
+: In agile development, a large problem or feature space that is broken into several user stories or tasks, and distributed over several Sprints.
 
 Equal-width typeface
 : → Uniwidth typeface
