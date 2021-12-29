@@ -3,7 +3,7 @@
 K-Meleon
 : A web browser for Microsoft Windows based on the Gecko layout engine. K-Meleon was first released in 2000.&nbsp;[†](#w-k-meleon) ℹ︎&nbsp;[kmeleonbrowser.org](http://kmeleonbrowser.org/)
 
-K8S
+K8s
 : → Kubernetes
 
 Kanban
