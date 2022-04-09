@@ -259,6 +259,9 @@ Digital Asset Management
 Digital Rights Management
 : A set of access control technologies for restricting the use of proprietary hardware and copyrighted works. DRM technologies try to control the use, modification, and distribution of copyrighted works (such as software and multimedia content), as well as systems within devices that enforce these policies. The use of digital rights management is not universally accepted.&nbsp;[†](#w-drm)
 
+DIP
+: → Dependency Inversion Principle
+
 Directionality
 : The direction in which a text is written.
 

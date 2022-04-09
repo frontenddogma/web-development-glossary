@@ -623,6 +623,9 @@ sRGB
 SRI
 : → Subresource Integrity
 
+SRP
+: → Single Responsibility Principle
+
 SRV
 : A service locator resource record in the Domain Name System (DNS).&nbsp;[†](#w-dns-record-types)
 
