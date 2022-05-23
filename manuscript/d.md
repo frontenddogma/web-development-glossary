@@ -220,7 +220,7 @@ Destructuring
 : A JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.&nbsp;[‡](#m-destructuring)
 
 Developer Experience
-: The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, but with the major difference that the user is a developer.
+: The experience developers have when they work with developer infrastructure, tools, and documentation. DX is similar to User Experience in that many UX guidelines also apply to DX, with the difference that the user is a developer.
 
 Developer tools
 : Tools for web developers to test and debug their code. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a web page, rather they are tools used generate, deploy, test, analyze, and optimize a website or application.&nbsp;[†](#w-developer-tools)
