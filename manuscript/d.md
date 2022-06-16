@@ -232,6 +232,9 @@ Development and operations
 Development Team
 : A Scrum role denoting a team that is responsible for managing and doing all the work required to prepare a releasable increment of software, and that knows and follows the Scrum values, roles, and events.
 
+DevEx
+: → Developer Experience
+
 Device orientation
 : The physical orientation of a hardware device. In the `deviceorientation` event specification, it is defined through three angles alpha (z-axis), beta (x-axis), and gamma (y-axis). ℹ︎&nbsp;[w3.org/TR/orientation-event](https://www.w3.org/TR/orientation-event/)
 
