@@ -208,7 +208,7 @@ Microsoft Active Accessibility
 : An API for user interface accessibility. MSAA was introduced in 1997 as a platform add-on to Microsoft Windows&nbsp;95. MSAA is designed to help assistive technology products interact with standard and custom user interface elements of an application (or the operating system), as well as to access, identify, and manipulate an application’s UI elements.&nbsp;[†](#w-msaa)
 
 Microsoft Design Language
-: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta 95 and MSN 2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.&nbsp;[†](#w-mdl)
+: A design language created by Microsoft. MDL is focused on typography and simplified icons, absence of clutter, increased content to chrome ratio (“content before chrome”), and basic geometric shapes. Early examples of MDL principles can be found in Encarta&nbsp;95 and MSN&nbsp;2.0. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7. It has since been incorporated into several of the company’s other products, including the Xbox 360 system software, Xbox One, Windows&nbsp;8, Windows Phone, and Outlook.&nbsp;[†](#w-mdl)
 
 Microsoft Edge
 : → Edge

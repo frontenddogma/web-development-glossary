@@ -201,7 +201,7 @@ Lisp/LISP
 : A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958, Lisp is the second-oldest high-level programming language in widespread use today; only Fortran is older, by one year. The name “LISP” derives from “LISt Processor.” Lisp was originally created as a practical mathematical notation for computer programs. It has changed since its early days, and many dialects have existed over its history. Today, the best-known general-purpose Lisp dialects are Racket, Common Lisp, Scheme, and Clojure.&nbsp;[†](#w-lisp)
 
 Lit
-: A library for building web components. Lit, or “Lit 2.0,” was released in 2021. ℹ︎&nbsp;[lit.dev](https://lit.dev/)
+: A library for building web components. Lit, or “Lit&nbsp;2.0,” was released in 2021. ℹ︎&nbsp;[lit.dev](https://lit.dev/)
 
 Lite Mode
 : A data saving mode in the Chrome browser, formerly called Data Saver.
