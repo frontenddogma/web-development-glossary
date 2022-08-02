@@ -4,7 +4,7 @@ This is the source of the book [_The Web Development Glossary_](https://meiert.c
 
 ## Snippets
 
-* Resource link: `ℹ︎&nbsp;[example.com](http://example.com/)`
+* Resource link: `ℹ︎&nbsp;[example.com](https://example.com/)`
 * Wikipedia reference: `&nbsp;[†](#w-TERM)`
 * MDN Web Docs reference: `&nbsp;[‡](#m-TERM)`
 * Appendix entry: `* [TITLE](LINK){REFERENCE}`
