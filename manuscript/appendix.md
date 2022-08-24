@@ -379,7 +379,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol){#w-ftp}
 * [Filler text](https://en.wikipedia.org/wiki/Filler_text){#w-placeholder-text}
 * [Fingerprint (computing)](https://en.wikipedia.org/wiki/Fingerprint_(computing)){#w-fingerprint}
-* [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fitts-law}
+* [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law){#w-fittss-law}
 * [Flash of unstyled content](https://en.wikipedia.org/wiki/Flash_of_unstyled_content){#w-fout}
 * [Flat design](https://en.wikipedia.org/wiki/Flat_design){#w-flat-design}
 * [Flock (web browser)](https://en.wikipedia.org/wiki/Flock_(web_browser)){#w-flock}

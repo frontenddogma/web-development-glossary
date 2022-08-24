@@ -139,8 +139,8 @@ First-class function
 First-order function
 : → First-class function
 
-Fitts’ Law
-: A predictive model of human movement primarily used in human-computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’ Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’ Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fitts-law)
+Fitts’s Law
+: A predictive model of human movement primarily used in human-computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts’s Law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device. Fitts’s Law has been shown to apply under a variety of conditions.&nbsp;[†](#w-fittss-law)
 
 Fixed
 : A CSS positioning scheme in which an element behaves as if it was set to `absolute` positioning, yet its containing block is the viewport.
