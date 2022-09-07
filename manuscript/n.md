@@ -43,7 +43,7 @@ Natural key
 : A type of unique key in a database formed of attributes that exist and are used in the external world outside the database (i.e., in the business domain or domain of discourse). In the relational model of data, a natural key is a superkey and is therefore a functional determinant for all attributes in a relation.&nbsp;[†](#w-natural-key)
 
 Natural user interface
-: A user interface that is effectively invisible, and remains invisible as the user learns increasingly complex interactions. The word “natural“ is used because most computer interfaces use artificial control devices whose operation has to be learned. Examples include voice assistants, such as Alexa and Siri, touch and multi-touch interactions on today’s mobile phones and tablets, but also touch interfaces invisiblly integrated into the textiles furnitures.&nbsp;[†](#w-nui)
+: A user interface that is effectively invisible, and remains invisible as the user learns increasingly complex interactions. The word “natural” is used because most computer interfaces use artificial control devices whose operation has to be learned. Examples include voice assistants, such as Alexa and Siri, touch and multi-touch interactions on today’s mobile phones and tablets, but also touch interfaces invisiblly integrated into the textiles furnitures.&nbsp;[†](#w-nui)
 
 Navigation
 : A menu UI element for website navigation.
