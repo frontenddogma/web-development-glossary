@@ -74,9 +74,6 @@ Caret
 Carousel
 : A slideshow-like design element for web pages. A carousel allows focus on one unit of content and media while providing access to similar units (by some way of carousel navigation).
 
-Cart
-: → Shopping cart
-
 Cascade
 : The order by which declarations are applied in CSS: 1) per target media type; 2) per importance and origin (from user agent to important user declarations); 3) by specificity; and 4) by order in which the declaration was specified (with all having the same weight, origin, and specificity, the latest declaration prevails).
 
