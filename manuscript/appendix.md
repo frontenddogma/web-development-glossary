@@ -3,7 +3,7 @@
 
 ## Wikipedia Contributions
 
-This book uses material from the following Wikipedia&nbsp;articles:
+This book uses material from the following Wikipedia articles:
 
 * [.htaccess](https://en.wikipedia.org/wiki/.htaccess){#w-htaccess}
 * [.htpasswd](https://en.wikipedia.org/wiki/.htpasswd){#w-htpasswd}
@@ -1145,7 +1145,7 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [W3C Geolocation API](https://en.wikipedia.org/wiki/W3C_Geolocation_API){#w-geolocation-api}
 * [WAR (file format)](https://en.wikipedia.org/wiki/WAR_(file_format)){#w-war}
 * [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model){#w-waterfall}
-* [Web&nbsp;2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
+* [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0){#w-web-20}
 * [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative){#w-wai}
 * [Web analytics](https://en.wikipedia.org/wiki/Web_analytics){#w-web-analytics}
 * [Web application](https://en.wikipedia.org/wiki/Web_application){#w-web-app}
@@ -1245,11 +1245,11 @@ This book uses material from the following Wikipedia&nbsp;articles:
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
 * [Zone file](https://en.wikipedia.org/wiki/Zone_file){#w-zone-file}
 
-The original works, which have been released under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and&nbsp;edited.
+The original works, which have been released under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and edited.
 
 ## MDN Web Docs Contributions
 
-This book uses material from the following articles by Mozilla&nbsp;contributors:
+This book uses material from the following articles by Mozilla contributors:
 
 * [About MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/About){#m-mdn}
 * [Abstraction](https://developer.mozilla.org/en-US/docs/Glossary/Abstraction){#m-abstraction}
@@ -1357,4 +1357,4 @@ This book uses material from the following articles by Mozilla&nbsp;contributors
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield){#m-yield}
 
-The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been&nbsp;edited.
+The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been edited.
