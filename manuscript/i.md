@@ -224,7 +224,7 @@ Instance variable
 Instant Articles
 : A feature from social networking company Facebook for use with collaborating news and content publishers, that the publisher can choose to use for articles they select. When a publisher selects an article for Instant Articles, people browsing Facebook with the Facebook mobile app can see the entire article within the app, with formatting similar to that on the publisher’s website. [†](#w-instant-articles) ℹ︎ [instantarticles.fb.com](https://instantarticles.fb.com/)
 
-Institute of Electrical and Electronics Engineers
+Institute of Electrical and Electronics Engineers {#t-institute-of-electrical-and-electronics-engineers}
 : A professional association that was formed in 1963 from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers. The IEEE’s objectives are the educational and technical advancement of electrical and electronic engineering, telecommunications, computer engineering, and associated disciplines. [†](#w-ieee) ℹ︎ [ieee.org](https://www.ieee.org/)
 
 Instrument flight
@@ -425,7 +425,7 @@ ISO
 
 ISOC
 : → Information Security Operations Center
-: → Internet Societ
+: → Internet Society
 
 ISP
 : → Interface Segregation Principle
