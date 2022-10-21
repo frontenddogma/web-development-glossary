@@ -155,7 +155,7 @@ JSON5
 : → JSON5 Data Interchange Format
 
 JSON5 Data Interchange Format
-: An inofficial superset of, and proposed extension to, the JSON format. The goal of JSON5 is to make it easier for people to write and maintain JSON. Its features relate to the handling of objects, arrays, strings, numbers, and comments. JSON5 is suggested to have a special file extension, .json5, as well as a different MIME type. ℹ︎ [json5.org](https://json5.org/)
+: An unofficial superset of, and proposed extension to, the JSON format. The goal of JSON5 is to make it easier for people to write and maintain JSON. Its features relate to the handling of objects, arrays, strings, numbers, and comments. JSON5 is suggested to have a special file extension, .json5, as well as a different MIME type. ℹ︎ [json5.org](https://json5.org/)
 
 JSONP
 : → JSON with Padding
