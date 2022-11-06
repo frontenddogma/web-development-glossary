@@ -105,7 +105,7 @@ Lexical scope
 : Name resolution depending on the location in the source code and the lexical context (also called static context), which is defined by where the named variable or function is defined. In lexical scope, if a variable name’s scope is a certain function, then its scope is the program text of the function definition; within that text, the variable name exists, and is bound to the variable’s value, but outside that text, the variable name does not exist. [†](#w-scope)
 
 Library
-: Typically used in connection with JavaScript, a collection of pre-written JavaScript which allows for easier development of JavaScript-based applications. [†](#w-library)
+: Typically used in connection with JavaScript, a collection of pre-written scripts which allows for easier development of JavaScript-based applications. [†](#w-library)
 
 Library World Wide Web
 : A modular client-side web API for Unix and Windows. “libwww” is also the name of the reference implementation of the libwww API. It has been used for applications of varying sizes, including web browsers, editors, Internet bots, and batch tools. libwww was first released in 1992. [†](#w-libwww) ℹ︎ [w3.org/Library](https://www.w3.org/Library/)
