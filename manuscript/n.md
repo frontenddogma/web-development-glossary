@@ -69,7 +69,7 @@ Netscape 4
 : → Netscape Communicator
 
 Netscape Communicator
-: The 4.0-4.8 versions of the Netscape browser memorable for web developers because of their particular support (or lack of support) of web standards.
+: The 4.0–4.8 versions of the Netscape browser memorable for web developers because of their particular support (or lack of support) of web standards.
 
 Netscape Navigator
 : A proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of Netscape and was the dominant web browser in terms of usage share in the 1990s. By 2002, use of Netscape Navigator had almost disappeared. Netscape Navigator was first released in 1994. [†](#w-netscape-navigator)
@@ -188,7 +188,7 @@ Null
 : A `null` value which represents a reference that points, generally intentionally, to a non-existent or invalid object or address. The meaning of a `null` reference varies among language implementations. In JavaScript, `null` is one of the primitive values. [‡](#m-null)
 
 Null device
-: A device file that discards all data written to it but reports that the write operation succeeded. This device is called `/dev/null` on Unix and Unix-like systems, `NUL:` or `NUL` on DOS and CP/M, `nul` on newer Windows systems (internally `\Device\Null` on Windows NT), `NIL:` on Amiga operating systems, and `NL:` on OpenVMS. In Windows Powershell, the equivalent is `$null`. The null device provides no data to any process that reads from it, yielding EOF immediately. In IBM DOS/360, OS/360 (MFT, MVT), OS/390, and z/OS operating systems, such files would be assigned in JCL to `DD DUMMY`. In programmer jargon, especially Unix jargon, the null device may also be called the “bit bucket” or “black hole.” [†](#w-null-device)
+: A device file that discards all data written to it but reports that the write operation succeeded. This device is called `/dev/null` on Unix and Unix-like systems, `NUL:` or `NUL` on DOS and CP/M, `nul` on newer Windows systems (internally `\Device\Null` on Windows NT), `NIL:` on Amiga operating systems, and `NL:` on OpenVMS. In Windows Powershell, the equivalent is `$null`. The null device provides no data to any process that reads from it, yielding EOF immediately. In IBM DOS/360, OS/360 (MFT, MVT), OS/390, and z/OS operating systems, such files would be assigned in JCL to `DD DUMMY`. In programmer jargon, the null device may also be called the “bit bucket” or “black hole.” [†](#w-null-device)
 
 Null pointer
 : A value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the `Nothing` value in an option type. A null pointer should not be confused with an uninitialized pointer. [†](#w-null-pointer)

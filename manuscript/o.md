@@ -118,7 +118,7 @@ Opera
 : A cross-platform web browser. Opera was first released in 1995. ℹ︎ [opera.com](https://www.opera.com/)
 
 Opera Mini
-: A mobile web browser developed by Opera. It was primarily designed for the Java ME platform, as a low-end sibling for Opera Mobile. Opera Mini was previously developed for iOS, Windows 10 Mobile, Windows Phone 8.1, BlackBerry, Symbian, and Bada. As of 2018, the Android build is the only version still under active development. Opera Mini requests web pages through Opera’s compression servers, which process and compress requested web pages before sending them to the mobile phone. [†](#w-opera-mini) ℹ︎ [opera.com/mobile/mini](https://www.opera.com/mobile/mini)
+: A mobile web browser developed by Opera. It was primarily designed for the Java ME platform, as a low-end sibling for Opera Mobile. Opera Mini was previously developed for iOS, Windows 10 Mobile, Windows Phone 8.1, BlackBerry, Symbian, and Bada. As of 2022, the Android build is the only version still under active development. Opera Mini requests web pages through Opera’s compression servers, which process and compress requested web pages before sending them to the mobile phone. [†](#w-opera-mini) ℹ︎ [opera.com/mobile/mini](https://www.opera.com/mobile/mini)
 
 Operand
 : In mathematics, the object of a mathematical operation, i.e., the object or quantity that is operated on. In “3 + 6”, “3” and “6” are operands, while “+” is an (addition) operator. [†](#w-operand)
