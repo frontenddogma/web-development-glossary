@@ -232,7 +232,7 @@ Border
 Border Gateway Protocol
 : A standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule sets configured by a network administrator. It was first described in 1989 in RFC 1105, and has been in use on the Internet since 1994. [†](#w-bgp)
 
-Bottom posting
+Bottom-posting
 : A posting style in which the reply follows the quote. [†](#w-posting-style)
 
 Bounce rate

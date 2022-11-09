@@ -19,7 +19,7 @@ Packet
 : A formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example, source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers. [†](#w-packet)
 
 Padding
-: Per the CSS box model, the padding area of a box, that is, an element of a document. The padding area lies between the content and border areas of a box.
+: Per the CSS box model, the padding area of a box, that is, of an element of a document. The padding area lies between the content and border areas of a box.
 
 Page
 : → Web page
@@ -110,7 +110,7 @@ Pattern library
 : A structured collection of design particles, elements, and components. May be part of a design system.
 
 Pave the cowpaths
-: The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard (“HTML5”).
+: The idea to build on and formalize existing practices. “Pave the cowpaths” was one of the principles applied to extend the HTML standard.
 
 Pay-per-click
 : An Internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher (typically a search engine, website owner, or a network of websites) when the ad is clicked. Pay-per-click is commonly associated with first-tier search engines (such as Google Ads and Bing Ads). With search engines, advertisers usually bid on keyword phrases relevant to their target market. In contrast, content sites commonly charge a fixed price per click rather than use a bidding system. PPC display advertisements, also known as banner ads, are shown on websites with related content that have agreed to show ads and are typically not pay-per-click advertising. Social networks such as Facebook, Twitter, LinkedIn, and Pinterest have also adopted pay-per-click as one of their advertising models. [†](#w-ppc)

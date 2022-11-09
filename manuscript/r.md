@@ -29,7 +29,7 @@ Random-Access Memory
 : A form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media. [†](#w-random-access-memory)
 
 Ranking
-: A relationship between a set of items such that, for any two items, the first is either “ranked higher than,” “ranked lower than,” or “ranked equal to” the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank, and TrustRank. [†](#w-ranking)
+: A relationship between a set of items such that, for any two items, the first is either ranked higher than, ranked lower than, or ranked equal to the second. In mathematics, this is known as a weak order or total preorder of objects. It is not necessarily a total order of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. Search engines rank web pages by their expected relevance to a user’s query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the HITS algorithm, PageRank, and TrustRank. [†](#w-ranking)
 
 Raster image
 : A dot matrix data structure that represents a generally rectangular grid of pixels (points of color), viewable via a monitor, paper, or other display medium. Raster images are stored in image files with varying formats. A raster is technically characterized by the width and height of the image in pixels and by the number of bits per pixel (or color depth, which determines the number of colors it can represent). Most computer images are stored in raster graphics formats or compressed variations, including GIF, JPEG, and PNG. [†](#w-raster-image)
@@ -222,8 +222,14 @@ RenderingNG
 REP
 : → Robots Exclusion Protocol
 
+REPL
+: → Read-Eval-Print Loop
+
 Replaceable Character Data
 : A term (“RCDATA”) used to declare that a markup element may contain text content and entity references, but not sub-elements.
+
+Replaced element
+: An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document’s styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have style sheets of their own, but they do not inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`. [‡](#m-replaced-element)
 
 Replay attack
 : A form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed. This is carried out either by the originator or by an adversary who intercepts the data and re-transmits it, possibly as part of a spoofing attack by IP packet substitution. This is one of the lower-tier versions of a man-in-the-middle attack. Replay attacks are usually passive in nature. [†](#w-replay-attack)
@@ -233,12 +239,6 @@ Repo
 
 Repository
 : A storage location for software. Repositories can be public or private, centralized or decentralized (as with version control repositories), and cover any kind of software.
-
-REPL
-: → Read-Eval-Print Loop
-
-Replaced element
-: An element whose representation is outside the scope of CSS; they are external objects whose representation is independent of the CSS formatting model. Put in simpler terms, they are elements whose contents are not affected by the current document’s styles. The position of the replaced element can be affected using CSS, but not the contents of the replaced element itself. Some replaced elements, such as `iframe` elements, may have style sheets of their own, but they do not inherit the styles of the parent document. Typical replaced elements include `iframe`, `video`, `embed`, and `img`. [‡](#m-replaced-element)
 
 Representational State Transfer
 : A group of software architecture design constraints that bring about efficient, reliable, and scalable distributed systems. A system is called RESTful when it adheres to those constraints. The basic idea of REST is that a resource, e.g., a document, is transferred with its state and relationships (hypertext) via well-defined, standardized operations and formats. Often APIs or services call themselves RESTful when they directly modify a type of document as opposed to triggering actions elsewhere. [‡](#m-rest)
@@ -295,7 +295,7 @@ Responsive Images Community Group
 : A group of developers working towards “a client-side solution for delivering alternate image data based on device capabilities to prevent wasted bandwidth and optimize display for both screen and print.” The RICG was founded in 2012. ℹ︎ [responsiveimages.org](https://responsiveimages.org/)
 
 Responsive web design
-: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total Internet traffic. [†](#w-rwd)
+: An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic accounts for more than half of total Internet traffic. [†](#w-rwd)
 
 Responsiveness
 : → Responsive web design

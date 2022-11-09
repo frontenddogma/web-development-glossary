@@ -13,7 +13,7 @@ SAFe
 : → Scaled Agile Framework
 
 SAK
-: → Secret → access key
+: Secret → access key
 
 Samba
 : → MacWWW
@@ -482,7 +482,7 @@ Software as a Service
 : A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. SaaS is sometimes referred to as “on-demand software,” and was formerly referred to as “software plus services” by Microsoft. SaaS applications are also known as web-based software, on-demand software, and hosted software. The term “Software as a Service” (SaaS) is considered to be part of the nomenclature of cloud computing, along with Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Desktop as a Service (DaaS), Managed Software as a Service (MSaaS), Mobile Backend as a Service (MBaaS), Data Center as a Service (DCaaS), and Information Technology Management as a Service (ITMaaS). SaaS apps are typically accessed by users using a thin client, e.g., via a web browser. [†](#w-saas)
 
 Software crisis
-: A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 at Garmisch, Germany. [†](#w-software-crisis)
+: A term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could now be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were inadequate. The term “software crisis” was coined by attendees at the first NATO Software Engineering Conference in 1968 in Garmisch, Germany. [†](#w-software-crisis)
 
 Software development
 : The process of conceiving, specifying, designing, programming, documenting, testing, and bugfixing involved in creating and maintaining applications, frameworks, or other software components. Software development is a process of writing and maintaining source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process. Therefore, software development may include research, prototyping, modification, reuse, re-engineering, maintenance, and other activities that result in software products. [†](#w-software-development)

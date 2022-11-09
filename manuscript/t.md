@@ -107,7 +107,7 @@ Template language
 : The syntax used by a template processor.
 
 Template processor
-: A software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template language or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter. [†](#w-template-processor)
+: A software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter. [†](#w-template-processor)
 
 Template system
 : A platform that lets web designers and developers work with web templates to automatically generate custom web pages. This reuses static web page elements while defining dynamic elements based on web request parameters. Web templates support static content, providing basic structure and appearance. Developers can implement templates from content management systems, web application frameworks, and HTML editors. [†](#w-template-system)
@@ -131,7 +131,7 @@ Tesler’s Law
 : An adage in human-computer interaction stating that every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction, which poses the question of who should be exposed to the complexity. For example, should a software developer add complexity to the software code to make the interaction simpler for the user, or should a user deal with a complex interface so that the software code can be simple? [†](#w-teslers-law)
 
 Test pyramid
-: A concept by which unit tests, service tests, and UI tests, when drawn in comparison to their desired number and suspected cost (from many cheap unit tests to few expensive UI tests), form a pyramid. The test (automation) pyramid is attributed to Mike Cohn, who wrote about it in 2009.
+: A concept by which unit tests, service tests, and UI tests, when drawn in comparison to their desired number and suspected cost (from many cheap unit tests to few expensive UI tests), form a pyramid. The test automation pyramid is attributed to Mike Cohn, who wrote about it in 2009.
 
 Test-Driven Development
 : A software development process that relies on the repetition of a short development cycle: Requirements are turned into specific test cases, then the code is improved so that the tests pass. This is opposed to software development that allows code to be added that is not proven to meet requirements. Test-driven development is related to the “test first” programming concepts of Extreme Programming (XP), begun in 1999, but more recently has created more general interest in its own right. [†](#w-tdd)
@@ -253,11 +253,11 @@ TOML
 Tooling
 : All the software used in the development process. The term “tooling” is often used particularly to refer to CLI tools and scripts with which parts of a workflow are being supported or automated.
 
-Top posting
-: A posting style in which the reply precedes the quoted original message. [†](#w-posting-style)
-
 Top-level domain
 : One of the domains at the highest level in the hierarchical Domain Name System of the Internet. The top-level domain names are installed in the root zone of the name space. For all domains in lower levels, it is the last part of the domain name, that is, the last label of a fully qualified domain name. For example, in the domain name “example.com”, the top-level domain is “com”. Responsibility for the management of most top-level domains is delegated to specific organizations by the Internet Corporation for Assigned Names and Numbers (ICANN), which operates the Internet Assigned Numbers Authority (IANA) and is in charge of maintaining the DNS root zone. [†](#w-tld)
+
+Top-posting
+: A posting style in which the reply precedes the quoted original message. [†](#w-posting-style)
 
 TOP500
 : A project that ranks and details the 500 most powerful non-distributed computer systems in the world. The TOP500 project was started in 1993 and publishes an updated list of the supercomputers twice a year. [†](#w-top500) ℹ︎ [top500.org](https://www.top500.org/)
