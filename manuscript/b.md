@@ -94,11 +94,11 @@ BGP
 BHO
 : → Browser Helper Object
 
-Bidirectional
-: Text that contains both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which generally involves text containing different types of alphabets. [†](#w-bidirectional)
-
 Bidi
 : → Bidirectional
+
+Bidirectional
+: Text that contains both text directionalities, right-to-left (RTL or dextrosinistral) and left-to-right (LTR or sinistrodextral), and which generally involves text containing different types of alphabets. [†](#w-bidirectional)
 
 Big Bang
 : The practice of releasing a great amount of working software all at one time, as opposed to incrementally.
