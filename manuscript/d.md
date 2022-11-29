@@ -390,7 +390,7 @@ Domain Name Service
 : → Domain Name System
 
 Domain Name System
-: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a world-wide distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985. [†](#w-dns)
+: A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. The DNS associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985. [†](#w-dns)
 
 Domain Name System Security Extensions
 : A suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. The protocol provides cryptographic authentication of data, authenticated denial of existence, and data integrity, but not availability or confidentiality. [†](#w-dnssec)

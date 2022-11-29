@@ -285,7 +285,7 @@ Internal
 : Originating inside one’s organization.
 
 International Organization for Standardization
-: An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes world-wide proprietary, industrial, and commercial standards. [†](#w-iso) ℹ︎ [iso.org](https://www.iso.org/)
+: An international standard-setting body composed of representatives from various national standards organizations. Founded in 1947, the ISO promotes worldwide proprietary, industrial, and commercial standards. [†](#w-iso) ℹ︎ [iso.org](https://www.iso.org/)
 
 International Telecommunication Union
 : A specialized agency of the United Nations responsible for information and communication technologies. Established in 1865 as the International Telegraph Union, the ITU is one of the oldest international organizations in operation. It promotes the shared global use of the radio spectrum, facilitates international cooperation in assigning satellite orbits, assists in developing and coordinating worldwide technical standards, and works to improve telecommunication infrastructure in the developing world. The ITU is also active in the areas of broadband Internet, wireless technologies, aeronautical and maritime navigation, radio astronomy, satellite-based meteorology, TV broadcasting, and next-generation networks. [†](#w-itu) ℹ︎ [itu.int](https://www.itu.int/)
@@ -297,7 +297,7 @@ Internationalized Resource Identifier
 : An Internet protocol standard which builds on the Uniform Resource Identifier (URI) protocol by greatly expanding the set of permitted characters. IRIs were defined in 2005 by the Internet Engineering Task Force (IETF). [†](#w-iri)
 
 Internet
-: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices world-wide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing. [†](#w-internet)
+: The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. The Internet is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing. [†](#w-internet)
 
 Internet Architecture Board
 : A committee of the Internet Engineering Task Force (IETF) and an advisory body of the Internet Society (ISOC). The IAB’s responsibilities include architectural oversight of IETF activities, Internet Standards Process oversight and appeal, and the appointment of the Request for Comments (RFC) Editor. It is also responsible for the management of the IETF protocol parameter registries. The IAB started as the Internet Configuration Control Board in 1979. [†](#w-internet-architecture-board) ℹ︎ [iab.org](https://www.iab.org/)

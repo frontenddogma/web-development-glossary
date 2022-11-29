@@ -70,7 +70,7 @@ GitHub Copilot
 : An artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code through code auto-completion. GitHub Copilot was released in 2021. [†](#w-github-copilot) ℹ︎ [copilot.github.com](https://copilot.github.com/)
 
 GitLab
-: A company providing a web-based DevOps lifecycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Dmitriy Zaporozhets and Valery Sizov. [†](#w-gitlab) ℹ︎ [gitlab.com](https://gitlab.com/)
+: A company providing a web-based DevOps life cycle tool that includes a Git-repository manager providing wiki, issue tracking, and CI/CD pipeline features. GitLab’s software was created in 2011 by Dmitriy Zaporozhets and Valery Sizov. [†](#w-gitlab) ℹ︎ [gitlab.com](https://gitlab.com/)
 
 Global
 : → Global scope
