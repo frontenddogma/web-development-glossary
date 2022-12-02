@@ -242,7 +242,7 @@ Device pixel
 : A reference to the physical pixels of a device.
 
 DevOps
-: A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality. [†](#w-devops)
+: A set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development lifecycle and provide continuous delivery with high software quality. [†](#w-devops)
 
 DevTools
 : → Chrome DevTools

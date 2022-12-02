@@ -282,7 +282,7 @@ Long task
 : Any uninterrupted period where the main UI thread is busy for 50 ms or longer. Common examples include long running event handlers, expensive reflows and other re-renders, and work the browser does between different turns of the event loop. [‡](#m-long-task) ℹ︎ [w3c.github.io/longtasks](https://w3c.github.io/longtasks/)
 
 Long-Term Support
-: A product life cycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition. [†](#w-lts)
+: A product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition. The term is typically reserved for open source software, where it describes a software edition that is supported for months or years longer than the software’s standard edition. [†](#w-lts)
 
 `longdesc`
 : An obsolete HTML attribute that allowed to add a URL to a long description of an image (as defined by the `img` element). It is instead recommended to use a standard `a` element to link to the respective description.

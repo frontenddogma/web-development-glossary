@@ -31,7 +31,7 @@ Tag
 : → Tracking pixel
 
 Tag Management System
-: A software designed to help manage the life cycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events, and known data. Typical functionality includes a testing environment (sandbox), an audit trail and version control, the ability to A/B-test different solutions, tag de-duplication, and role-based access to data. [†](#w-tms)
+: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events, and known data. Typical functionality includes a testing environment (sandbox), an audit trail and version control, the ability to A/B-test different solutions, tag de-duplication, and role-based access to data. [†](#w-tms)
 
 Tag soup
 : A pejorative for syntactically or structurally incorrect HTML written for a web page. Because web browsers have historically treated HTML syntax or structural errors leniently, there has been little pressure for web developers to follow published standards, and therefore there is a need for all browser implementations to provide mechanisms to cope with the appearance of “tag soup,” accepting and correcting for invalid syntax and structure where possible. [†](#w-tag-soup)
@@ -46,7 +46,7 @@ TalkBack
 : An accessibility service for Android that helped blind and visually impaired users to interact with their devices. TalkBack used spoken words, vibration, and other audible feedback to allow the user to know what is happening on the screen allowing the user to better interact with their device. In 2017, it was replaced by Google with the Android Accessibility Suite. [†](#w-talkback)
 
 tar
-: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive,” as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, time stamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program. [†](#w-tar)
+: A computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. The name is derived from “tape archive,” as it was originally developed to write data to sequential I/O devices with no file system of their own. The archive data sets created by tar contain various file system parameters, such as name, timestamps, ownership, file access permissions, and directory organization. The command-line utility was first introduced in the Version 7 Unix in 1979, replacing the tp program. [†](#w-tar)
 
 Tarball
 : A tar archive file.
