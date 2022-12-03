@@ -204,7 +204,7 @@ Lit
 : A library for building web components. Lit, or “Lit 2.0,” was released in 2021. ℹ︎ [lit.dev](https://lit.dev/)
 
 Lite Mode
-: A data saving mode in the Chrome browser, formerly called Data Saver.
+: A data saving mode in the Chrome browser, formerly called “Data Saver.”
 
 LitElement
 : A JavaScript class for creating web components. Since 2021, LitElement is a part of Lit. ℹ︎ [is.gd/3Xte9p](https://lit-element.polymer-project.org/)

@@ -26,7 +26,7 @@ KEY
 : A key resource record in the Domain Name System (DNS). [†](#w-dns-record-types)
 
 Key frame
-: A drawing or shot that defines the starting and ending points of any smooth transition. These are called “frames” because their position in time is measured in frames on a strip of film or on a digital video editing timeline. A sequence of key frames defines which movement the viewer will see, whereas the position of the key frames on the film, video, or animation defines the timing of the movement. Because only two or three key frames over the span of a second do not create the illusion of movement, the remaining frames are filled with “inbetweens.” [†](#w-key-frame)
+: A drawing or shot that defines the starting and ending points of any smooth transition. These are called frames because their position in time is measured in frames on a strip of film or on a digital video editing timeline. A sequence of key frames defines which movement the viewer will see, whereas the position of the key frames on the film, video, or animation defines the timing of the movement. Because only two or three key frames over the span of a second do not create the illusion of movement, the remaining frames are filled with “inbetweens.” [†](#w-key-frame)
 
 Key management
 : The management of cryptographic keys, including their generating, storing, using, exchanging, and replacing.

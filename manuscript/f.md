@@ -107,7 +107,7 @@ Firebird
 : → Firefox
 
 Firefox
-: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named Phoenix. From 2003 to 2004, Phoenix was called Firebird before being renamed to Firefox. ℹ︎ [mozilla.org/firefox](https://www.mozilla.org/firefox/)
+: A cross-platform web browser. Firefox was developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation, and first released in 2002, named “Phoenix.” From 2003 to 2004, Phoenix was called “Firebird” before being renamed to “Firefox.” ℹ︎ [mozilla.org/firefox](https://www.mozilla.org/firefox/)
 
 First Contentful Paint
 : The time when the browser renders the first bit of content from the DOM, providing the first feedback to the user that the page is loading. The question “Is it happening?” is “yes” when the first contentful paint completes. [‡](#m-fcp)
