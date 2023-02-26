@@ -1245,7 +1245,7 @@ This book uses material from the following Wikipedia articles:
 * [Zombie cookie](https://en.wikipedia.org/wiki/Zombie_cookie){#w-zombie-cookie}
 * [Zone file](https://en.wikipedia.org/wiki/Zone_file){#w-zone-file}
 
-The original works, which have been released under a [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and edited.
+The original works, which have been released under a [CC BY–SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/), have been shortened and edited.
 
 ## MDN Web Docs Contributions
 
@@ -1357,4 +1357,4 @@ This book uses material from the following articles by Mozilla contributors:
 * [XSLT](https://developer.mozilla.org/en-US/docs/Glossary/XSLT){#m-xslt}
 * [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield){#m-yield}
 
-The original works, which have been licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been edited.
+The original works, which have been licensed under [CC BY–SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), have been edited.
