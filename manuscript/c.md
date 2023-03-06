@@ -432,7 +432,7 @@ Compared to what?
 : A question data graphics must be able to answer, according to distinguished information design expert Erward Tufte.
 
 Compass
-: A CSS authoring framework. ℹ︎ [compass-style.org](http://compass-style.org/)
+: A CSS authoring framework. ℹ︎ [compass-style.org](https://web.archive.org/web/20220928065952/http://compass-style.org/)
 
 Compatibility
 : The ability of software to run on a particular architecture or operating system, and the ability of hardware to work with a particular CPU architecture, bus, motherboard, or operating system. Compatible software and hardware may not always run at its highest stated performance. [†](#w-compatibility)
