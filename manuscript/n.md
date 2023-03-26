@@ -34,7 +34,7 @@ Native
 : Software or data formats that were designed to run on a particular system. In a more technical sense, native code is code written specifically for a certain processor. The only way to run this code on another processor is to use an emulator, tricking the program into thinking it is using that same processor, which usually comes at the cost of speed. [†](#w-native)
 
 NativeScript
-: A framework to develop mobile apps on the iOS and Android platforms. NativeScript apps are built using JavaScript, or by using any programming language that transpiles to JavaScript, such as TypeScript. NativeScript supports the Angular and Vue JavaScript frameworks. It was first released in 2014. [†](#w-nativescript) ℹ︎ [nativescript.org](https://nativescript.org/)
+: A framework to develop mobile apps on the iOS and Android platforms. NativeScript apps are built using JavaScript, or by using any programming language that transpiles to JavaScript, such as TypeScript. NativeScript supports the Angular and Vue.js JavaScript frameworks. It was first released in 2014. [†](#w-nativescript) ℹ︎ [nativescript.org](https://nativescript.org/)
 
 Natural interface
 : → Natural user interface
