@@ -309,7 +309,7 @@ Internet Corporation for Assigned Names and Numbers
 : A non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network’s stable and secure operation. ICANN performs the actual technical maintenance work of central Internet address pools and DNS root zone registries pursuant to the Internet Assigned Numbers Authority (IANA) function contract. ICANN was founded in 1998. [†](#w-icann) ℹ︎ [icann.org](https://www.icann.org/)
 
 Internet Engineering Task Force
-: An open standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986. [†](#w-ietf) ℹ︎ [ietf.org](https://ietf.org/)
+: An open-standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986. [†](#w-ietf) ℹ︎ [ietf.org](https://ietf.org/)
 
 Internet Explorer
 : A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained. [†](#w-ie) ℹ︎ [is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
