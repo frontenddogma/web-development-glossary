@@ -406,7 +406,7 @@ Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living. [†](#w-assistive-technology)
 
 Assistive Technology Service Provider Interface
-: A platform-neutral framework for providing bi-directional communication between assistive technologies (AT) and applications. AT-SPI is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project. [†](#w-at-spi)
+: A platform-neutral framework for providing bidirectional communication between assistive technologies (AT) and applications. AT-SPI is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project. [†](#w-at-spi)
 
 Association for Computing Machinery
 : An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing community. Its motto is “Advancing Computing as a Science and Profession.” [†](#w-acm) ℹ︎ [acm.org](https://www.acm.org/)
