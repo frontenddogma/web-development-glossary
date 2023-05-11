@@ -397,7 +397,7 @@ Root node
 : The top-most node in a tree. The root node has no parent. It is the node at which algorithms on the tree begin, since a tree being a data structure, one can only pass from parents to children. [†](#w-tree)
 
 Root server
-: A name server for the root zone of the Domain Name System (DNS) of the Internet. It directly answers requests for records in the root zone and answers other requests by returning a list of the authoritative name servers for the appropriate top-level domain (TLD). Root name servers are a critical part of the Internet infrastructure because they are the first step in translating (resolving) human readable host names into IP addresses that are used in communication between Internet hosts. [†](#w-root-server)
+: A name server for the root zone of the Domain Name System (DNS) of the Internet. It directly answers requests for records in the root zone and answers other requests by returning a list of the authoritative name servers for the appropriate top-level domain (TLD). Root name servers are a critical part of the Internet infrastructure because they are the first step in translating (resolving) human-readable host names into IP addresses that are used in communication between Internet hosts. [†](#w-root-server)
 
 Root zone
 : The top-level DNS zone in the hierarchical namespace of the Domain Name System (DNS) of the Internet. Since 2016, the root zone has been overseen by the Internet Corporation for Assigned Names and Numbers (ICANN), which delegates the management to a subsidiary acting as the Internet Assigned Numbers Authority (IANA). Distribution services are provided by Verisign. [†](#w-root-zone)
