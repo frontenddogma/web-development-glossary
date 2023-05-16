@@ -1,4 +1,4 @@
-# The Web Development Glossary
+# The Web Development Glossary: More Than 2,000 Key Terms for Developers
 
 This is the source of the book [_The Web Development Glossary_](https://meiert.com/en/blog/the-web-development-glossary/).
 
