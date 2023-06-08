@@ -406,7 +406,7 @@ Assistive technology
 : Assistive, adaptive, and rehabilitative devices and software for people with disabilities or the elderly population. Assistive technology can ameliorate the effects of disabilities that limit the ability to perform activities of daily living. [†](#w-assistive-technology)
 
 Assistive Technology Service Provider Interface
-: A platform-neutral framework for providing bidirectional communication between assistive technologies (AT) and applications. AT-SPI is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD, led by the GNOME Project. [†](#w-at-spi)
+: A platform-neutral framework for providing bidirectional communication between assistive technologies (AT) and applications. AT-SPI is the _de facto_ standard for providing accessibility to free and open desktops, like GNU/Linux or OpenBSD. It is led by the GNOME Project. [†](#w-at-spi)
 
 Association for Computing Machinery
 : An international learned society for computing. The ACM was founded in 1947, and is the world’s largest scientific and educational computing community. Its motto is “Advancing Computing as a Science and Profession.” [†](#w-acm) ℹ︎ [acm.org](https://www.acm.org/)
@@ -466,7 +466,7 @@ Authentication
 : The act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity. [†](#w-authentication)
 
 Authoring tool
-: Software that enables to create digital content.
+: Software that enables the creation of digital content.
 
 Authoring Tool Accessibility Guidelines
 : Guidelines for designing web content authoring tools that are accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors. ATAG 1.0 became a W3C Recommendation in 2000, and ATAG 2.0 in 2015. ℹ︎ [w3.org/TR/ATAG20](https://www.w3.org/TR/ATAG20/)
