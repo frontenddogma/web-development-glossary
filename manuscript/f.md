@@ -28,7 +28,7 @@ Falsy
 : A value that is considered false when encountered in a Boolean context, which is relevant notably with JavaScript which uses type conversion to coerce any value to a Boolean in contexts that require it, such as conditionals and loops. [‡](#m-falsy)
 
 Fat footer
-: A footer UI element but with a substantial amount of content and links. A “fat footer” stands in contrast to a minimal web page footer consisting only of basic navigation aids (like a home link) and meta-information (like legal notice and contact information).
+: A footer UI element but with a substantial amount of content and links. A “fat footer” stands in contrast to a minimal web page footer consisting only of basic navigation aids (like a home link) and meta-information (like a legal notice and contact information).
 
 Favelet
 : → Bookmarklet

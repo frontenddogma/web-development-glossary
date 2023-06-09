@@ -188,11 +188,11 @@ ES6
 Ethics
 : A branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. Three major areas of study within ethics recognized today are 1) meta-ethics, concerning the theoretical meaning and reference of moral propositions, and how their truth values (if any) can be determined; 2) normative ethics, concerning the practical means of determining a moral course of action; and 3) applied ethics, concerning what a person is obligated (or permitted) to do in a specific situation or a particular domain of action. [†](#w-ethics)
 
-ETL
-: → Extract, Transform, Load
-
 Etiquette
 : The set of conventional rules of personal behavior in polite society, usually in the form of an ethical code that delineates the expected and accepted social behaviors that accord with the conventions and norms observed by a society, a social class, or a social group. In modern English usage, the French word “étiquette” (“ticket”) dates from the year 1750. [†](#w-etiquette)
+
+ETL
+: → Extract, Transform, Load
 
 European Accessibility Act
 : A directive that aims to improve the trade between members of the EU for accessible products and services, by removing country-specific rules. The European Accessibility Act was built to complement the EU’s Web Accessibility Directive which became law in 2016. It is also reflecting the obligations of the UN’s Convention on the Rights of Persons with Disabilities. It covers a wide range of systems including personal devices such as computers, smartphones, ebooks, and TVs, as well as public services like television broadcasts, ATMs, ticketing machines, public transport services, banking services and e-commerce sites. [†](#w-eaa) ℹ︎ [is.gd/mFefnH](https://ec.europa.eu/social/main.jsp?catId=1202)
