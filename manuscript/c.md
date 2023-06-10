@@ -683,7 +683,7 @@ CRM
 : → Customer Relationship Management
 
 cron
-: A time-based job scheduler in Unix-like computer operating systems. Users that set up and maintain software environments use cron to schedule jobs (commands or shell scripts) to run periodically at fixed times, dates, or intervals. cron is most suitable for scheduling repetitive tasks. Scheduling one-time tasks can be accomplished using the associated at utility. cron was first released in 1975. [†](#w-cron)
+: A time-based job scheduler on Unix-like computer operating systems. Users that set up and maintain software environments use cron to schedule jobs (commands or shell scripts) to run periodically at fixed times, dates, or intervals. cron is most suitable for scheduling repetitive tasks. Scheduling one-time tasks can be accomplished using the associated at utility. cron was first released in 1975. [†](#w-cron)
 
 Cron job
 : A job (command) to be executed by cron.
