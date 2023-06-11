@@ -70,7 +70,7 @@ Feed reader
 : → News aggregator
 
 Fetch API
-: An interface for fetching resources (including across the network). The Fetch API is comparable to XMLHttpRequest, but provides a more powerful and flexible feature set building on a generic definition of `Request` and `Response` objects. [‡](#m-fetch-api) ℹ︎ [fetch.spec.whatwg.org](https://fetch.spec.whatwg.org/)
+: An interface for fetching resources across a network. The Fetch API is comparable to XMLHttpRequest, but provides a more powerful and flexible feature set building on a generic definition of `Request` and `Response` objects. [‡](#m-fetch-api) ℹ︎ [fetch.spec.whatwg.org](https://fetch.spec.whatwg.org/)
 
 FID
 : → First Input Delay
