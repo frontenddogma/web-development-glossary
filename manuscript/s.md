@@ -221,7 +221,7 @@ SERP
 : → Search Engine Results Page
 
 Server
-: A server is a computer program or a device that provides functionality for other programs or devices, called clients. This architecture is called the client-server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called services, such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device. Typical servers are web servers, database servers, application servers, file servers, mail servers, print servers, and game servers. [†](#w-server)
+: A computer program or a device that provides functionality for other programs or devices, called clients. This architecture is called the client-server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called services, such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device. Typical servers are web servers, database servers, application servers, file servers, mail servers, print servers, and game servers. [†](#w-server)
 
 Server cluster
 : → Cluster
@@ -291,7 +291,7 @@ SGML
 : → Standard Generalized Markup Language
 
 Shadow DOM
-: A scoped subtree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the web component standards. ℹ︎ [is.gd/70szug](https://w3c.github.io/webcomponents/spec/shadow/)
+: A scoped subtree, or isolated DOM tree, with its own elements and styles. Shadow DOM is one of the web component standards. ℹ︎ [w3.org/TR/shadow-dom](https://www.w3.org/TR/shadow-dom/)
 
 Shadow host
 : The element that a shadow tree is attached to, like the root element of a custom element.
