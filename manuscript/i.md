@@ -124,7 +124,7 @@ Indexing
 : → Zero-based indexing
 
 IndieWeb
-: A community of individual personal websites, connected by simple standards, based on the principles of owning your domain, using it as your primary identity, to publish on your own site (optionally syndicate elsewhere), and own your data. ℹ︎ [indieweb.org](https://indieweb.org/)
+: A community of individual personal websites, connected by simple standards, based on the principles of owning a domain, using it as one’s primary identity, to publish on one’s own site (optionally syndicate elsewhere), and own one’s data. ℹ︎ [indieweb.org](https://indieweb.org/)
 
 Industrial Design
 : A process of design applied to products that are to be manufactured through techniques of mass production. Its key characteristic is that design is separated from manufacture: The creative act of determining and defining a product’s form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication and distinguishes industrial design from craft-based design. [†](#w-industrial-design)

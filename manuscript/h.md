@@ -119,7 +119,7 @@ HOC
 : → Higher-order component
 
 Hoisting
-: A general way of thinking about how execution contexts (specifically the creation and execution phases) work in JavaScript. While conceptually, a strict definition of hoisting suggests that variable and function declarations are physically moved to the top of your code, the variable and function declarations are instead put into memory during the compile phase. Only declarations are hoisted, not initializations. [‡](#m-hoisting)
+: A general way of thinking about how execution contexts (specifically the creation and execution phases) work in JavaScript. While conceptually, a strict definition of hoisting suggests that variable and function declarations are physically moved to the top of the code, the variable and function declarations are instead put into memory during the compile phase. Only declarations are hoisted, not initializations. [‡](#m-hoisting)
 
 HOL blocking
 : → Head-of-line blocking

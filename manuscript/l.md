@@ -228,7 +228,7 @@ Load balancing
 : The process of distributing a set of tasks over a set of resources (computing units), with the aim of making their overall processing more efficient. Load balancing can optimize the response time and avoid unevenly overloading compute nodes while other compute nodes are left idle. [†](#w-load-balancing)
 
 Load time
-: The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of your users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter. [‡](#m-load-time)
+: The time it takes for a page to load, measured from navigation start to the start of the load event. While page load time appears like the perfect web performance metric, it is not. Load times can vary greatly between users depending on device capabilities, network conditions, and, to a lesser extent, distance from the server. The development environment, where page load time is measured, is likely an optimal experience, not reflective of users’ reality. In addition, web performance is not just about when the load event happens; it is also about perceived performance, responsiveness, jank, and jitter. [‡](#m-load-time)
 
 LOC
 : → Lines of Code

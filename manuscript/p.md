@@ -440,7 +440,7 @@ Pseudo-code
 : Code-like syntax that is used to indicate to humans how some code syntax works, or to illustrate the design of an item of code architecture. Pseudo-code does not work when tried to run as code. [‡](#m-pseudocode)
 
 Pseudo-element
-: One of a range of predefined CSS selectors that applies styles to parts of your document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`. [‡](#m-pseudo-element)
+: One of a range of predefined CSS selectors that applies styles to parts of a document content in scenarios where there is not a specific HTML element to select, but for which CSS provides an abstraction. For example, rather than putting the first letter of each paragraph in its own element, one can style them with `p::first-letter`. [‡](#m-pseudo-element)
 
 PTR
 : A pointer resource record in the Domain Name System (DNS). [†](#w-dns-record-types)
