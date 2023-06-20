@@ -351,7 +351,7 @@ Codeline
 : → Branch
 
 CodePen
-: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as a code editor and learning environment, where developers can create code snippets, called pens, test, and share them. Codepen was founded in 2012. [†](#w-codepen) ℹ︎ [codepen.io](https://codepen.io/)
+: An online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as a code editor and learning environment, where developers can create code snippets, called pens, test, and share them. CodePen was founded in 2012. [†](#w-codepen) ℹ︎ [codepen.io](https://codepen.io/)
 
 Coding by Convention
 : → Convention over Configuration

@@ -196,6 +196,9 @@ HSV
 HTML
 : → HyperText Markup Language
 
+HTML 5
+: → HTML
+
 HTML Abstraction Markup Language
 : A templating system that is designed to avoid writing inline code in a web document and make the HTML cleaner. Haml gives the flexibility to have some dynamic content in HTML. Similar to other web languages like PHP, ASP, JSP, and template systems like eRuby, Haml also embeds some code that gets executed during runtime and generates HTML code in order to provide some dynamic content. [†](#w-haml) ℹ︎ [haml.info](http://haml.info/)
 
@@ -204,9 +207,6 @@ HTML over the wire
 
 HTML template
 : For web components, a way to insert chunks of HTML that are then populated. HTML templates are written using the `template` and `slot` elements.
-
-HTML 5
-: → HTML
 
 HTML-in-JS
 : The writing of HTML code in JavaScript, notably by using the `innerHTML` property.
