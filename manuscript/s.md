@@ -163,7 +163,7 @@ Secure Shell
 : A cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote login and command execution, but any network service can be secured with SSH. SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. The protocol specification distinguishes between two major versions, referred to as SSH-1 and SSH-2. The standard TCP port for SSH is 22. [†](#w-ssh)
 
 Secure Sockets Layer
-: The deprecated predecessor to Transport Layer Security (TLS), a cryptographic protocol designed to provide communications security over a computer network. SSL was developed from 1995 to 1998. [†](#w-tls)
+: The deprecated predecessor of Transport Layer Security (TLS), a cryptographic protocol designed to provide communications security over a computer network. SSL was developed from 1995 to 1998. [†](#w-tls)
 
 Security
 : → Information Security

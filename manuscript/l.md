@@ -189,7 +189,7 @@ Linux, Apache, MySQL, PHP/Perl/Python
 : An archetypal model of web service stacks, named as an acronym (“LAMP”) of the names of its original four open source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic websites and applications. [†](#w-lamp)
 
 Liquid
-: A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor for responsive design.
+: A web design approach in which page elements have a variable as opposed to a fixed width. Liquid design is a predecessor of responsive design.
 
 LIS
 : → Location information server
@@ -270,7 +270,7 @@ Logging
 : The act of keeping a log file. [†](#w-log-file)
 
 Logical properties
-: A CSS module introducing properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS 2.1. [‡](#m-logical-properties) ℹ︎ [w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
+: A CSS module introducing properties and values that provide the ability to control layout through logical, rather than physical, direction, and dimension mappings. The module also defines logical properties and values for properties previously defined in CSS 2.1. [‡](#m-logical-properties) ℹ︎ [w3.org/TR/css-logical-1](https://www.w3.org/TR/css-logical-1/)
 
 Login
 : The option, process, or credentials by which an individual gains access to a computer system. The user credentials are typically some form of username and a matching password, and these credentials themselves are sometimes referred to as a “login.” In practice, modern secure systems often require a second factor for extra security, like email or SMS confirmation. [†](#w-login)
