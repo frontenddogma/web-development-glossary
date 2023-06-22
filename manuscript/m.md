@@ -121,7 +121,7 @@ MDN
 : → Mozilla Developer Network
 
 MDN Web Docs
-: A learning platform for web technologies and software that powers the Web, including HTML, CSS, and JavaScript. The MDN Web Docs aim to “provide developers with the information they need to easily build projects on the open Web.” The project was started in 2005. [‡](#m-mdn) ℹ︎ [developer.mozilla.org](https://developer.mozilla.org/)
+: A learning platform for web technologies and software that power the Web, including HTML, CSS, and JavaScript. The MDN Web Docs aim to “provide developers with the information they need to easily build projects on the open Web.” The project was started in 2005. [‡](#m-mdn) ℹ︎ [developer.mozilla.org](https://developer.mozilla.org/)
 
 MDX
 : A format that allows to write JSX in Markdown, including the importing of components. ℹ︎ [mdxjs.com](https://mdxjs.com/)
