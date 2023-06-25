@@ -26,7 +26,7 @@ YAML Ain’t Markup Language
 : A human-readable data-serialization language that is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as XML but has a minimal syntax which intentionally differs from SGML. It uses both Python-style indentation to indicate nesting, and a more compact format that uses `[]` for lists and `{}` for maps, making YAML 1.2 a superset of JSON. [†](#w-yaml) ℹ︎ [yaml.org](https://yaml.org/)
 
 Yandex Browser
-: A web browser developed by the web search company Yandex that is based on the Chromium project and uses the Blink web browser engine. The browser checks web page security with the Yandex security system, and downloaded files with Kaspersky Anti-Virus. Yandex Browser was first released in 2012. [†](#w-yandex-browser) ℹ︎ [yaml.org](https://yaml.org/) ℹ︎ [browser.yandex.com](https://browser.yandex.com/)
+: A web browser developed by the web search company Yandex that is based on the Chromium project and uses the Blink web browser engine. The browser checks web page security with the Yandex security system, and downloaded files with Kaspersky Anti-Virus. Yandex Browser was first released in 2012. [†](#w-yandex-browser) ℹ︎ [browser.yandex.com](https://browser.yandex.com/)
 
 Yarn
 : A package manager for the JavaScript programming language. Yarn was developed in 2016 by Facebook. ℹ︎ [yarnpkg.com](https://yarnpkg.com/)
@@ -49,14 +49,14 @@ Yet Another Multicolumn Layout
 YMYL
 : → Your Money or Your Life
 
-YQL
-: → Yahoo Query Language
-
 You Aren’t Gonna Need It
 : A principle of Extreme Programming (XP) that states that a programmer should not add functionality until deemed necessary. Quoting XP co-founder Ron Jeffries, “Always implement things when you actually need them, never when you just foresee that you need them.” Other forms of the phrase include “You aren’t going to need it” and “You ain’t gonna need it.” [†](#w-yagni)
 
 Your Money or Your Life
 : A category from Google’s _Search Quality Evaluator Guidelines_ that covers websites and apps that may impact “a person’s future happiness, health, financial stability, or safety” and for which result quality is particularly important.
+
+YQL
+: → Yahoo Query Language
 
 YSlow
 : A possibly retired browser extension and bookmarklet to analyze and improve website performance. ℹ︎ [yslow.org](http://yslow.org/)
