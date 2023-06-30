@@ -288,7 +288,7 @@ WHATWG
 : → Loop
 
 White-box testing
-: A method of software testing that tests internal structures or workings of an application, as opposed to its functionality (i.e., black-box testing). In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases. The tester chooses inputs to exercise paths through the code and to determine the expected outputs. White-box testing can be applied at the unit, integration, and system levels of the software testing process. [†](#w-white-box-testing)
+: A method of software testing that tests internal structures or workings of an application, as opposed to its functionality (i.e., black-box testing). In white-box testing an internal perspective of the system, as well as programming skills, are used to design test cases. A tester chooses inputs to exercise paths through the code and to determine the expected outputs. White-box testing can be applied at the unit, integration, and system levels of the software testing process. [†](#w-white-box-testing)
 
 Whitelist
 : The practice of explicitly allowing identified entities access to a particular privilege, service, mobility, access, or recognition. The opposite of a whitelist is a blacklist. [†](#w-whitelist)
@@ -306,7 +306,7 @@ Wide area network
 : A telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits. The Internet may be considered a WAN. [†](#w-wan)
 
 Widow
-: A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. Mnemonically, a widow is “alone at the top.” [†](#w-widows-orphans)
+: A paragraph-ending word that falls at the beginning of the following page or column, separated from the rest of the text. [†](#w-widows-orphans)
 
 Wiki
 : A hypertext publication collaboratively edited and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its internal knowledge base. [†](#w-wiki)

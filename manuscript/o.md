@@ -146,7 +146,7 @@ Origin trials
 : An approach to enable manageable experimentation with web platform features involving explicit developer opt-in, feature trial validation, and feedback collection. ℹ︎ [is.gd/6gJDY4](https://github.com/GoogleChrome/OriginTrials)
 
 Orphan
-: A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. Mnemonically, an orphan is “alone at the bottom.” [†](#w-widows-orphans)
+: A paragraph-opening line that appears by itself at the bottom of a page or column, separated from the rest of the text. [†](#w-widows-orphans)
 
 Orthogonality
 : A software design principle meaning that change of one piece of software does not affect other pieces, or that operations do not have side effects. Orthogonality in a programming language means that a relatively small set of primitive constructs can be combined in a relatively small number of ways to build the control and data structures of the language. It is associated with simplicity; the more orthogonal the design, the fewer exceptions. This makes it easier to learn, read and write programs in a programming language. The meaning of an orthogonal feature is independent of context; the key parameters are symmetry and consistency (for example, a pointer is an orthogonal concept). [†](#w-orthogonality)
