@@ -27,7 +27,7 @@ This all being said: Enjoy. Web development is a great field.
 
 I> ### Licenses
 I>
-I> _The Web Development Glossary_ is licensed under a [CC BY–SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
+I> _The Web Development Glossary_ is licensed under a [CC BY–SA 4.0 (Attribution–ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
 I>
 I> A great number of explanations build on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page). They are marked “†” and attributed in the _Appendix_. The original material is licensed under a [CC BY–SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 I>

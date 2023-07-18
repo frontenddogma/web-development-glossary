@@ -8,7 +8,7 @@ Published by [Frontend Dogma](https://frontenddogma.com/), c/o Jens Oliver Meier
 Editor: Gabriele Kretzschmar
 Consultants: Ganesh Subramanian, Yaroslav Kiyenko
 
-_The Web Development Glossary_ is licensed under a [CC BY–SA 4.0 (Attribution-ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
+_The Web Development Glossary_ is licensed under a [CC BY–SA 4.0 (Attribution–ShareAlike 4.0 International) license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 I> Material from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is licensed under a [CC BY–SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 I>
@@ -22,4 +22,4 @@ Contact +1-754-400-0999 or info@frontenddogma.com for more information.
 
 Follow [Frontend Dogma on Mastodon](https://mas.to/@frontenddogma).
 
-[1.4.69]
+[1.4.70]
