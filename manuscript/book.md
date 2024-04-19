@@ -3,7 +3,7 @@
 
 Written and compiled by Jens Oliver Meiert.
 
-Published by [Frontend Dogma](https://frontenddogma.com/), c/o Jens Oliver Meiert, Bäckerbreitergang 12, 20355 Hamburg, Germany.
+Published by [Frontend Dogma](https://frontenddogma.com/), c/o Jens Oliver Meiert, Apartado de correos 3, 36070 Pontevedra, Spain.
 
 Editor: Gabriele Kretzschmar
 Consultants: Ganesh Subramanian, Yaroslav Kiyenko
@@ -22,4 +22,4 @@ Contact +1-754-400-0999 or info@frontenddogma.com for more information.
 
 Follow [Frontend Dogma on Mastodon](https://mas.to/@frontenddogma).
 
-[1.4.72]
+[1.4.73]
