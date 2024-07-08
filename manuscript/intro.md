@@ -33,4 +33,4 @@ I> A great number of explanations build on [Wikipedia](https://en.wikipedia.org/
 I>
 I> Some explanations build on the [MDN Web Docs](https://developer.mozilla.org/). They are marked “‡” and likewise attributed in the _Appendix_. The original material is licensed under a [CC BY–SA 2.5 license](https://creativecommons.org/licenses/by-sa/2.5/).
 I>
-I> A handful of explanations build on the [HTML Living Standard](https://html.spec.whatwg.org/). They are marked “§”. The original material is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+I> A handful of explanations build on the [HTML Living Standard](https://html.spec.whatwg.org/). They are marked “§”. The original material is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
