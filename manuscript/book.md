@@ -16,10 +16,10 @@ I> Material from [MDN Web Docs](https://developer.mozilla.org/) is licensed unde
 I>
 I> Material from the [HTML Living Standard](https://html.spec.whatwg.org/) is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-While this book has been produced with great care, it may contain errors. The author and the publisher assume no liability. Use of the information in this book is at your own risk. When using code or content subject to open-source licenses or the rights of others, it is on you to ensure compliance with the respective licenses and rights.
+While this book has been produced with great care, the author, publisher, and contributors assume no liability for the up-to-dateness, correctness, and completeness of the information provided. Liability claims based on the use or non-use of this information are excluded, unless author, publisher, or contributors can be proven to have acted with intent or gross negligence. Use of the information in this book is on your own responsibility. When using code or content subject to open-source licenses or the rights of others, it is on you to ensure compliance with the respective licenses and rights.
 
 Contact +34-610859489 or info@frontenddogma.com for questions and more information.
 
 Follow [Frontend Dogma on Mastodon](https://mas.to/@frontenddogma).
 
-[1.4.77]
+[1.4.78]
