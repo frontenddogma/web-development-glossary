@@ -172,7 +172,7 @@ Inheritance
 : The mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes. In most class-based object-oriented languages, an object created through inheritance (a “child object”) acquires all the properties and behaviors of the parent object (except: constructors, destructors, overloaded operators, and friend functions of the base class). Inheritance allows to create classes that are built upon existing classes, to specify a new implementation while maintaining the same behaviors (realizing an interface), to reuse code, and to independently extend original software via public classes and interfaces. [†](#w-inheritance)
 
 Initiative for Open Authentication
-: An industry-wide collaboration to develop an open reference architecture using open standards to promote the adoption of strong authentication. OATH has close to 30 coordinating and contributing members and is proposing standards for a variety of authentication technologies, with the aim of lowering costs and simplifying their functions. [†](#w-oath) ℹ︎ [openauthentication.org](https://openauthentication.org/)
+: An industry-wide collaboration to develop an open reference architecture using open standards to promote the adoption of strong authentication. OATH has close to 30 coordinating and contributing members and is proposing standards for a variety of authentication technologies, with the aim of lowering costs and simplifying their functions. [†](#w-oath)
 
 Inline
 : → Inline box

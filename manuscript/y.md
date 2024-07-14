@@ -59,7 +59,7 @@ YQL
 : → Yahoo Query Language
 
 YSlow
-: A possibly retired browser extension and bookmarklet to analyze and improve website performance. ℹ︎ [yslow.org](http://yslow.org/)
+: A possibly retired browser extension and bookmarklet to analyze and improve website performance. ℹ︎ [yslow.org](https://yslow.org/)
 
 YUI
 : → Yahoo User Interface

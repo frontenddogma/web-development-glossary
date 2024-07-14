@@ -188,7 +188,7 @@ Phoenix
 : → Firefox
 
 Photoshop
-: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1987 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g., “to photoshop”) although Adobe discourages such use. [†](#w-photoshop) ℹ︎ [adobe.com/products/photoshop](https://www.adobe.com/products/photoshop)
+: A raster graphics editor developed and published by Adobe for Windows and macOS. Photoshop was originally created in 1987 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software’s name has thus become a generic trademark, leading to its usage as a verb (e.g., “to photoshop”) although Adobe discourages such use. [†](#w-photoshop) ↑ [is.gd/aAJsm0](https://www.adobe.com/products/photoshop.html)
 
 PHP
 : → Hypertext Preprocessor
