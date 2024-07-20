@@ -1,7 +1,7 @@
 {sample: true}
 # About _The Web Development Glossary_
 
-Written and compiled by Jens Oliver Meiert.
+Written and compiled by [Jens Oliver Meiert](https://meiert.com/en/).
 
 Published by [Frontend Dogma](https://frontenddogma.com/), c/o Jens Oliver Meiert, Apartado de correos 3, 36070 Pontevedra, Spain.
 
@@ -22,4 +22,4 @@ Contact +34-610859489 or info@frontenddogma.com for questions and more informati
 
 Follow [Frontend Dogma on Mastodon](https://mas.to/@frontenddogma).
 
-[1.4.79]
+[1.4.80]
