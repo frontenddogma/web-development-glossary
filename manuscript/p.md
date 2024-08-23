@@ -10,7 +10,7 @@ package-lock.json
 : A file that describes the dependencies and the exact tree that were generated for an npm package so that an identical tree can be recreated, independent of interim dependency updates. package-lock.json is intended to be committed to version control.
 
 Packaged Offline/Online Webpage
-: The use of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎ [hi.pow.tools](https://hi.pow.tools/)
+: The use of the PNG image format to store a ZIP archive of a website in a PNG image’s metadata. ℹ︎ [hi.pow.tools](https://web.archive.org/web/20230407020027/https://hi.pow.tools/)
 
 Packed
 : A property of an array that consists only of elements (no holes), and that can be optimized accordingly.
@@ -392,7 +392,7 @@ Progressive Enhancement
 : A strategy for web design that emphasizes core web page content first. This strategy then progressively adds more nuanced and technically rigorous layers of presentation and features on top of the content as the end user’s browser or Internet connection permit. The proposed benefits of this strategy are that it allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater bandwidth. [†](#w-progressive-enhancement)
 
 Progressive font enrichment
-: The downloading of only the required part of a font, and the patching of the respective download with additional glyphs as needed on additional page views. The concept for progressive font enrichment has been proven, but it is not widely usable yet. ℹ︎ [is.gd/ZMRgCR](https://fonts.gstatic.com/experimental/incxfer_demo)
+: The downloading of only the required part of a font, and the patching of the respective download with additional glyphs as needed on additional page views. The concept for progressive font enrichment has been proven, but it is not widely usable yet. ℹ︎ [is.gd/g8ii9j](https://web.archive.org/web/20181009034320/https://fonts.gstatic.com/experimental/incxfer_demo)
 
 Progressive rendering
 : An approach to improve the perceived performance of a website or app.

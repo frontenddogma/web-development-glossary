@@ -201,7 +201,7 @@ Chrome OS
 : A Linux kernel-based operating system designed by Google. Chrome OS is derived from the free software Chromium OS and uses the Google Chrome web browser as its principal user interface. Google announced Chrome OS in 2009, conceiving it as an operating system in which both applications and user data reside in the cloud—hence Chrome OS primarily runs web applications. Chrome OS is only available pre-installed on hardware from Google manufacturing partners, but there are unofficial methods that allow it to be installed in other equipment. [†](#w-chrome-os) ℹ︎ [google.com/chromebook/chrome-os](https://www.google.com/chromebook/chrome-os/)
 
 ChromeVox
-: A screen reader for Chrome OS as well as the Chrome web browser developed by Google. ℹ︎ [chromevox.com](https://www.chromevox.com/)
+: A screen reader for Chrome OS as well as the Chrome web browser developed by Google. ℹ︎ [chromevox.com](https://web.archive.org/web/20120216220015/https://www.chromevox.com/)
 
 Chromium
 : A Google-developed project whose source code can be compiled into a web browser. Google’s Chrome browser is based on the Chromium code, as are several other browsers, including Edge, Opera, and Silk. Other parties have compiled the code as-is, releasing their browsers under the Chromium name. [†](#w-chromium) ℹ︎ [chromium.org](https://www.chromium.org/)
@@ -258,7 +258,7 @@ Client
 : A piece of computer hardware or software that accesses a service made available by a server. The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network. [†](#w-client)
 
 Client Hints
-: A set of HTTP request header fields for proactive content negotiation allowing clients to indicate a list of device and agent specific preferences. Client Hints enable automated delivery of optimized assets, like the automatic negotiation of image DPR resolution. [‡](#m-client-hints) ℹ︎ [is.gd/iuXEbz](https://httpwg.org/http-extensions/client-hints.html)
+: A set of HTTP request header fields for proactive content negotiation allowing clients to indicate a list of device and agent specific preferences. Client Hints enable automated delivery of optimized assets, like the automatic negotiation of image DPR resolution. [‡](#m-client-hints) ℹ︎ [is.gd/NIdm5F](https://web.archive.org/web/20160226001940/https://httpwg.org/http-extensions/client-hints.html)
 
 Client side
 : Operations on the client as opposed to the server side in a client-server relationship. [†](#w-client-side)

@@ -262,7 +262,7 @@ Interactive content
 : Content that is specifically intended for user interaction. §
 
 Interactive Data Language
-: A programming language used for data analysis. IDL is popular in particular areas of science, such as astronomy, atmospheric physics, and medical imaging. [†](#w-interactive-data-language) ℹ︎ [is.gd/7PRg0z](https://www.l3harrisgeospatial.com/Software-Technology/IDL)
+: A programming language used for data analysis. IDL is popular in particular areas of science, such as astronomy, atmospheric physics, and medical imaging. [†](#w-interactive-data-language) ℹ︎ [is.gd/Wt5jSb](https://web.archive.org/web/20200917014133/https://www.l3harrisgeospatial.com/Software-Technology/IDL)
 
 Interface
 : A shared boundary across which two or more separate components of a computer system exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, and combinations of these. Some computer hardware devices, such as a touchscreen, can both send and receive data through the interface, while others such as a mouse or microphone may only provide an interface to send data to a given system. [†](#w-interface)
@@ -312,7 +312,7 @@ Internet Engineering Task Force
 : An open-standards organization, which develops and promotes voluntary Internet standards, in particular the standards that comprise the Internet protocol suite (TCP/IP). The IETF was founded in 1986. [†](#w-ietf) ℹ︎ [ietf.org](https://ietf.org/)
 
 Internet Explorer
-: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained. [†](#w-ie) ℹ︎ [is.gd/nJZDm3](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+: A series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year. Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows. The browser is discontinued, but still maintained. [†](#w-ie) ℹ︎ [is.gd/CblTUt](https://www.microsoft.com/en-us/download/internet-explorer)
 
 Internet Information Services
 : An extensible web server created by Microsoft for use with the Windows NT family. IIS was released in 1995. [†](#w-iis) ℹ︎ [iis.net](https://www.iis.net/)

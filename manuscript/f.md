@@ -329,7 +329,7 @@ Free variable
 : A notation (symbol) that specifies places in an expression where substitution may take place and is not a parameter of this or any container expression. Some older books use the terms real variable and apparent variable for free variable and bound variable, respectively. The idea is related to a placeholder (a symbol that will later be replaced by some literal string), or a wildcard character that stands for an unspecified symbol. [†](#w-free-bound-variable)
 
 Friend of a Friend
-: A machine-readable ontology describing persons, their activities, and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralized database. FOAF is a descriptive vocabulary expressed using the Resource Description Framework (RDF) and the Web Ontology Language (OWL). [†](#w-foaf) ℹ︎ [foaf-project.org](http://www.foaf-project.org/)
+: A machine-readable ontology describing persons, their activities, and their relations to other people and objects. Anyone can use FOAF to describe themselves. FOAF allows groups of people to describe social networks without the need for a centralized database. FOAF is a descriptive vocabulary expressed using the Resource Description Framework (RDF) and the Web Ontology Language (OWL). [†](#w-foaf) ℹ︎ [foaf-project.org](https://web.archive.org/web/20211024071948/http://www.foaf-project.org/)
 
 Frontend
 : The presentation layer of a piece of software, usually an abstraction that simplifies the underlying component by providing a user-friendly interface. In the client-server model, the client is considered the front end, even when some presentation work is done on the server itself. [†](#w-frontend-backend)

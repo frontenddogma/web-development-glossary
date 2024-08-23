@@ -272,7 +272,7 @@ Mobile First
 : A form of progressive enhancement and an approach to web development and web design that focuses on prioritizing design and development for mobile screen sizes over design and development for desktop screen sizes. The rationale behind the mobile-first approach is to provide users with good user experiences at all screen sizes—by starting with creating a user experience that works well on small screens, and then building on top of that to further enrich the user experience as the screen size increases. The mobile-first approach contrasts with the older approach of designing for desktop screen sizes first, and then only later adding some support for small screen sizes. [‡](#m-mobile-first)
 
 Mobile Instant Pages
-: A mobile-centered web development and publishing framework similar to Accelerated Mobile Pages (AMP). MIP was developed by Baidu; it was released in 2016, and discontinued in 2020. ℹ︎ [mipengine.org](https://www.mipengine.org/)
+: A mobile-centered web development and publishing framework similar to Accelerated Mobile Pages (AMP). MIP was developed by Baidu; it was released in 2016, and discontinued in 2020. ℹ︎ [mipengine.org](https://web.archive.org/web/20201111112909/https://www.mipengine.org/)
 
 Mobilegeddon
 : A name for Google’s search engine algorithm update of April 21, 2015. The term “Mobilegeddon” was coined by Chuck Price in a post written for _Search Engine Watch_ on March 9, 2015, and then adopted by webmasters and web developers. The main effect of the update was to give priority to websites that display well on smartphones and other mobile devices. The change did not affect searches made from a desktop computer or a laptop. [†](#w-mobilegeddon)

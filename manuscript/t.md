@@ -343,7 +343,7 @@ Trust Upon First Use
 : → Trust on First Use
 
 Trusted Types
-: A method to protect against cross-site scripting (XSS) attacks. Trusted Types allow to set certain policies for a browser to enforce, thereby avoiding known DOM XSS sinks. ℹ︎ [is.gd/FjarXK](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+: A method to protect against cross-site scripting (XSS) attacks. Trusted Types allow to set certain policies for a browser to enforce, thereby avoiding known DOM XSS sinks. ℹ︎ [is.gd/M2xviK](https://web.archive.org/web/20191206151254/https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 
 TrustRank
 : An algorithm that conducts link analysis to separate useful web pages from spam and helps search engine rank pages in SERPs (Search Engine Results Pages). It is a semi-automated process which means that it needs some human assistance in order to function properly. Search engines have many different algorithms and ranking factors that they use when measuring the quality of web pages, including TrustRank. [†](#w-trustrank)

@@ -217,7 +217,7 @@ Rendering engine
 : → Browser engine
 
 RenderingNG
-: A substantially revised and updated architecture of the Blink rendering engine used by the Chromium project. ℹ︎ [is.gd/e9KbQ9](https://developer.chrome.com/blog/renderingng/)
+: A substantially revised and updated architecture of the Blink rendering engine used by the Chromium project. ℹ︎ [is.gd/Kx6lG0](https://web.archive.org/web/20210623042323/https://developer.chrome.com/blog/renderingng/)
 
 REP
 : → Robots Exclusion Protocol
@@ -292,7 +292,7 @@ Responsive design
 : → Responsive web design
 
 Responsive Images Community Group
-: A group of developers working towards “a client-side solution for delivering alternate image data based on device capabilities to prevent wasted bandwidth and optimize display for both screen and print.” The RICG was founded in 2012. ℹ︎ [responsiveimages.org](https://responsiveimages.org/)
+: A group of developers working towards “a client-side solution for delivering alternate image data based on device capabilities to prevent wasted bandwidth and optimize display for both screen and print.” The RICG was founded in 2012. ℹ︎ [responsiveimages.org](https://web.archive.org/web/20121027002458/https://responsiveimages.org/)
 
 Responsive web design
 : An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for responsive web design. Content, design, and performance are necessary across all devices to ensure usability and satisfaction. A site designed responsively adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS media queries. Responsive web design has become more important as the amount of mobile traffic accounts for more than half of total Internet traffic. [†](#w-rwd)
