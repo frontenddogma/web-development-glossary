@@ -10,7 +10,7 @@ WAF
 WAI
 : → Web Accessibility Initiative
 
-WAI-ARIA
+WAI–ARIA
 : → ARIA
 
 WAMP
@@ -146,7 +146,7 @@ Web Performance Optimization
 : The field of knowledge about increasing web performance, focusing on how to make websites and apps faster, or to get them to appear faster (perceived performance). [†](#w-performance)
 
 Web platform
-: A collection of technologies developed as open standards by the World Wide Web Consortium (W3C) and other standardization bodies such as the Web Hypertext Application Technology Working Group (WHATWG), the Unicode Consortium, the Internet Engineering Task Force (IETF), and Ecma International. It includes technologies—computer languages and APIs—that were originally created in relation to the publication of web pages, like HTML, CSS, SVG, MathML, WAI-ARIA, ECMAScript, and many others. “Web platform” is an umbrella term introduced by the World Wide Web Consortium. [†](#w-web-platform)
+: A collection of technologies developed as open standards by the World Wide Web Consortium (W3C) and other standardization bodies such as the Web Hypertext Application Technology Working Group (WHATWG), the Unicode Consortium, the Internet Engineering Task Force (IETF), and Ecma International. It includes technologies—computer languages and APIs—that were originally created in relation to the publication of web pages, like HTML, CSS, SVG, MathML, WAI–ARIA, ECMAScript, and many others. “Web platform” is an umbrella term introduced by the World Wide Web Consortium. [†](#w-web-platform)
 
 Web Platform Incubator Community Group
 : A World Wide Web Consortium (W3C) Community Group to provide “a lightweight venue for proposing and discussing new web platform features.” The WICG was founded in 2015. ℹ︎ [wicg.io](https://wicg.io/)
