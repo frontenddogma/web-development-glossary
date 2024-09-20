@@ -36,7 +36,7 @@ Icon
 : A pictogram or ideogram displayed on a computer screen in order to help the user navigate a computer system. Icons make for a part of the graphical user interfaces of computer systems. [†](#w-icon)
 
 Icon font
-: A fonts that contains symbols and glyphs rather than letters or numbers.
+: A font that contains symbols and glyphs rather than letters or numbers.
 
 ID
 : → ID selector
