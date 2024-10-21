@@ -1,6 +1,6 @@
 frontmatter.md
-acknowledgments.md
 intro.md
+acknowledgments.md
 mainmatter.md
 main.md
 symbols.md
