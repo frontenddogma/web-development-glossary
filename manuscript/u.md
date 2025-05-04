@@ -227,7 +227,7 @@ Userscript
 : A program, usually written in JavaScript, for modifying web pages to augment browsing. Uses include setting up keyboard shortcuts, adding features to sites, or enhancing the browsing history. Userscripts are often referred to as Greasemonkey scripts, named after the original userscript manager for the Firefox browser. [†](#w-userscript)
 
 Using Declarations Just Once
-: A CSS methodology to use each declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎ [meiert.com/en/blog/dry-css](https://meiert.com/en/blog/dry-css/)
+: A CSS methodology to use each declaration only one time (per section, component, or file, within media query bounds). UDJO helps limit repetition (Don’t Repeat Yourself) and reduces the need and use for custom properties (CSS variables). UDJO was first mentioned in 2008. ℹ︎ [meiert.com/en/blog/dry-css](https://meiert.com/blog/dry-css/)
 
 USP
 : → Unique Selling Point
