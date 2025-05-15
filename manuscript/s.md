@@ -764,7 +764,7 @@ Structural Similarity Index Measure
 : A method for predicting the perceived quality of digital television and cinematic pictures, as well as other kinds of digital images and videos. SSIM is used for measuring the similarity between two images. The SSIM index is a full reference metric; in other words, the measurement or prediction of image quality is based on an initial uncompressed or distortion-free image as reference. [†](#w-ssim)
 
 Structure
-: In web development, the code that deals with how content is organized and weighed. This is usually achieved through HTML (HyperText Markup Language).
+: In web development, the code that deals with how content is organized and weighed. This is usually achieved through HTML (Hypertext Markup Language).
 
 Structured Query Language
 : A domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). SQL is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables. The scope of SQL includes data query, data manipulation (insert, update, and delete), data definition (schema creation and modification), and data access control. Although SQL is essentially a declarative language (4GL), it also includes procedural elements. SQL was first mentioned in 1974, and became a standard of the American National Standards Institute (ANSI) in 1986. [†](#w-sql)

@@ -19,7 +19,7 @@ XHR
 : → XMLHttpRequest
 
 XHTML
-: → Extensible HyperText Markup Language
+: → Extensible Hypertext Markup Language
 
 XLink
 : An XML markup language and W3C specification that provides methods for creating internal and external links within XML documents, and associating metadata with those links. [†](#w-xlink) ℹ︎ [w3.org/TR/xlink11](https://www.w3.org/TR/xlink11/)

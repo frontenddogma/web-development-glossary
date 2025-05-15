@@ -194,7 +194,7 @@ HSV
 : → Hue, Saturation, Value
 
 HTML
-: → HyperText Markup Language
+: → Hypertext Markup Language
 
 HTML 5
 : → HTML
@@ -299,7 +299,7 @@ Hyperlink-Induced Topic Search
 Hypertext
 : Text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access. Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set, or by touching the screen. Apart from text, the term “hypertext” is also sometimes used to describe tables, images, and other presentational content formats with integrated hyperlinks. Hypertext is one of the key underlying concepts of the World Wide Web. [†](#w-hypertext)
 
-HyperText Markup Language
+Hypertext Markup Language
 : The standard markup language for documents designed to be displayed in a web browser. HTML can be used together with formatting languages such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML and its elements describe the structure of a web page semantically, and HTML originally included cues for the appearance of the document. HTML was first presented in 1991. [†](#w-html) ℹ︎ [html.spec.whatwg.org](https://html.spec.whatwg.org/)
 
 Hypertext Preprocessor

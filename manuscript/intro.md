@@ -13,7 +13,7 @@ C> ⁂
 
 Many explanations and definitions in this glossary are based on Wikipedia and the MDN Web Docs. It was neither necessary nor desirable to come up with a new and different explanation for every term.
 
-Arrows (“→”) point to the expanded forms of abbreviations, and to the more common synonyms and expressions. Sometimes they take you on a little detour, but only to be transparent about the journey taken (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML 5 → HTML → HyperText Markup Language). This may seem lengthy, but it aims to make meanings, relationships, and sometimes history more clear. An arrow may also point at a term that encompasses the referring term, or at a related concept, and therefore does not necessarily indicate identity or equivalence.
+Arrows (“→”) point to the expanded forms of abbreviations, and to the more common synonyms and expressions. Sometimes they take you on a little detour, but only to be transparent about the journey taken (like Personal Home Page → PHP → Hypertext Preprocessor, or HTML 5 → HTML → Hypertext Markup Language). This may seem lengthy, but it aims to make meanings, relationships, and sometimes history more clear. An arrow may also point at a term that encompasses the referring term, or at a related concept, and therefore does not necessarily indicate identity or equivalence.
 
 Whenever there is a source of great quality or immediate use, explanations include references to external documentation and software.
 
