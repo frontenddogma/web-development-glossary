@@ -374,4 +374,4 @@ Byte Order Mark
 Bytecode
 : A form of instruction set designed for efficient execution by a software interpreter. Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects. The name “bytecode” stems from instruction sets that have one-byte opcodes followed by optional parameters. [†](#w-bytecode)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/frontenddogma/web-development-glossary-forum/issues/new)!

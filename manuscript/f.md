@@ -404,4 +404,4 @@ Fuzz testing
 Fuzzing
 : An automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failed code assertions, or memory leaks. [†](#w-fuzzing)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/frontenddogma/web-development-glossary-forum/issues/new)!

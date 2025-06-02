@@ -323,4 +323,4 @@ LTS
 Lynx
 : A customizable text-based web browser for use on cursor-addressable character cell terminals. Lynx was released in 1992; as of 2019, it is the oldest web browser still in general use and active development. [†](#w-lynx) ℹ︎ [lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/frontenddogma/web-development-glossary-forum/issues/new)!

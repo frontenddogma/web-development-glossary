@@ -827,4 +827,4 @@ Cycle time
 Cyclomatic complexity
 : A software metric used to indicate the complexity of a program. It is a quantitative measure of the number of linearly independent paths through a program’s source code, and is computed using the control-flow graph of the program. The nodes of the graph correspond to indivisible groups of commands of a program, and a directed edge connects two nodes if the second command might be executed immediately after the first command. Cyclomatic complexity may also be applied to individual functions, modules, methods, or classes. It was developed in 1976 by Thomas J. McCabe, Sr. [†](#w-cyclomatic-complexity)
 
-Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/j9t/web-development-glossary-forum/issues/new)!
+Q> Is something important missing, or did you find a mistake? Please [share your feedback](https://github.com/frontenddogma/web-development-glossary-forum/issues/new)!
