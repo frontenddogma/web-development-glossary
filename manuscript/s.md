@@ -51,7 +51,7 @@ SAST
 : → Static Application Security Testing
 
 Scalable and Modular Architecture for CSS
-: A CSS style guide. SMACSS was developed in 2011 by Jonathan Snook. ℹ︎ [smacss.com](http://smacss.com/)
+: A CSS style guide. SMACSS was developed in 2011 by Jonathan Snook. ℹ︎ [smacss.com](https://smacss.com/)
 
 Scalable Vector Graphics
 : An XML-based vector image format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999. SVG images and their behaviors are defined in XML files. This means that they can be searched, indexed, scripted, and compressed. ℹ︎ [w3.org/TR/SVG2](https://www.w3.org/TR/SVG2/)
