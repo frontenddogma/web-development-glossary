@@ -147,7 +147,7 @@ Fixed
 : A web design approach in which page elements have a fixed as opposed to a variable width. Outdated with the popularity of mobile devices and the concept of responsive design.
 
 Flame graph
-: A flame-like visualization method for software profiling. ℹ︎ [is.gd/EnyPjs](http://www.brendangregg.com/flamegraphs.html)
+: A flame-like visualization method for software profiling. ℹ︎ [is.gd/EnyPjs](https://www.brendangregg.com/flamegraphs.html)
 
 Flash
 : A deprecated multimedia software platform used for the production of animations, games, and applications. Flash was first released in 1993 (SmartSketch), rebranded in 1995 (FutureSplash Animator) and, after being bought by Macromedia, again renamed in 1996 (Macromedia Flash). Although Flash was previously a dominant platform for online multimedia content, it has been abandoned as Adobe, who purchased Macromedia in 2005, favored a transition to HTML. [†](#w-flash)
