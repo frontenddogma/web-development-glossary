@@ -207,7 +207,7 @@ WebKit
 : A browser engine developed by Apple and primarily used in its Safari web browser, as well as all the iOS web browsers. WebKit’s C++ API provides a set of classes to display web content. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others. WebKit was first released in 1998. [†](#w-webkit) ℹ︎ [webkit.org](https://webkit.org/)
 
 Webkrauts
-: A former coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎ [webkrauts.de](http://webkrauts.de/)
+: A former coalition of German web designers and developers. The Webkrauts were founded in 2005. ℹ︎ [webkrauts.de](https://webkrauts.de/)
 
 Weblog
 : → Blog
