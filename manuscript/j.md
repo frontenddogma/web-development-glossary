@@ -103,7 +103,7 @@ Job Access With Speech
 : A computer screen reader program for Microsoft Windows that allows blind and visually impaired users to read the screen either with a text-to-speech output or by a refreshable Braille display. JAWS is produced by the Blind and Low Vision Group of Freedom Scientific and was first released in 1995. [†](#w-jaws) ℹ︎ [is.gd/EJwKy3](https://www.freedomscientific.com/products/software/jaws/)
 
 Joint Photographic Experts Group
-: A joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards. [†](#w-joint-photographic-experts-group) ℹ︎ [jpeg.org](https://jpeg.org/)
+: A joint committee between ISO/IEC JTC 1 and ITU-T (formerly CCITT) that created and maintains the JPEG, JPEG 2000, and JPEG XR standards. [†](#w-joint-photographic-experts-group) ℹ︎ [jpeg.org](https://jpeg.org/)
 
 Joomla
 : A content management system (CMS) for publishing web content. Joomla is built on a model-view-controller web application framework that can be used independently of the CMS. It was first released in 2005. [†](#w-joomla) ℹ︎ [joomla.org](https://www.joomla.org/)
