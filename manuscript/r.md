@@ -68,7 +68,7 @@ React Native
 : A mobile application framework first released in 2015 by Facebook. React Native enables to use the React library along with native mobile platform capabilities. [†](#w-react-native)
 
 Reactive Extensions for JavaScript
-: A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎ [reactivex.io](http://reactivex.io/)
+: A library for the development of asynchronous and event-based programs, with helpers for asynchronous or callback-based code. ℹ︎ [reactivex.io](https://reactivex.io/)
 
 Reactive Manifesto
 : A systems architecture approach in which it is declared necessary for systems to be responsive, resilient, elastic, and message-driven. Such systems are considered reactive systems. ℹ︎ [reactivemanifesto.org](https://www.reactivemanifesto.org/)
