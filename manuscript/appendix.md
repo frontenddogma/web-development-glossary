@@ -92,7 +92,7 @@ This book uses material from the following Wikipedia articles:
 * [Best practice](https://en.wikipedia.org/wiki/Best_practice){#w-best-practice}
 * [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve){#w-bezier-curve}
 * [Bidirectional text](https://en.wikipedia.org/wiki/Bidirectional_text){#w-bidirectional}
-* [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation){#w-big-o}
+* [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation){#w-big-o}
 * [Binary large object](https://en.wikipedia.org/wiki/Binary_large_object){#w-blob}
 * [Binary number](https://en.wikipedia.org/wiki/Binary_number){#w-binary-number}
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm){#w-binary-search-algorithm}
