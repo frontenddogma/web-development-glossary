@@ -336,7 +336,7 @@ Wireless Markup Language
 : A now-obsolete XML-based markup language intended for devices that implement the Wireless Application Protocol (WAP) specification, such as mobile phones. WML provides navigational support, data input, hyperlinks, text and image presentation, as well as forms, much like HTML. It preceded the use of other markup languages now used with WAP, such as HTML itself as well as XHTML (which have been gaining in popularity as processing power in mobile devices increased). WML was first released in 1998. [†](#w-wml)
 
 Wix
-: A software company providing cloud-based web development services. It allows users to create websites through the use of online drag-and-drop tools. Wix was founded in 2006. [†](#w-wix) ℹ︎ [wix.com](https://www.wix.com/)
+: A software company providing cloud-based web development services. It allows users to create websites through the use of online drag-and-drop tools. Wix was founded in 2006. [†](#w-wix)
 
 WML
 : → Wireless Markup Language
