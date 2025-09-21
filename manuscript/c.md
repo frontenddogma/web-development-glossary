@@ -21,7 +21,7 @@ Cache poisoning
 : → DNS spoofing
 
 California Consumer Privacy Act
-: A state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed in 2018, amending the California Civil Code. The intentions of the CCPA are to provide California residents with the right to know what personal data is being collected about them; to know whether their personal data is sold or disclosed and to whom; to say no to the sale of personal data; to access their personal data; to request a business to delete personal information about a consumer collected from that consumer; and not to be discriminated against for exercising their privacy rights. [†](#w-ccpa)
+: A state statute intended to enhance privacy rights and consumer protection for residents of California, United States. The bill was passed in 2018, amending the California Civil Code. The intentions of the CCPA are to provide California residents with the right to know what personal data is being collected about them; to know whether their personal data is sold or disclosed and to whom; to say “no” to the sale of personal data; to access their personal data; to request a business to delete personal information about a consumer collected from that consumer; and not to be discriminated against for exercising their privacy rights. [†](#w-ccpa)
 
 Call stack
 : A mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions—what function is currently being run and what functions are called from within that function, etc. [‡](#m-call-stack)
