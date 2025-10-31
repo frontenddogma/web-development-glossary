@@ -262,7 +262,7 @@ Box model
 Box model hack
 : A popular early 2000’s workaround for Internet Explorer 5/5.5’s incorrect support of the CSS box model. The box model hack was obsoleted by improved browser implementations and an additional CSS property (`box-sizing`). ℹ︎ [is.gd/nZKbJw](https://tantek.com/CSS/Examples/boxmodelhack.html)
 
-Boyscout Rule
+Boy Scout Rule
 : The idea to “always leave code better than you found it,” which may be [attributable to Robert C. Martin](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html).
 
 Bracket notation
