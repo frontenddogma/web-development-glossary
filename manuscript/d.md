@@ -360,7 +360,7 @@ Document Type Definition
 : A set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference. [†](#w-dtd)
 
 Documentation
-: A set of documents provided in digital or analog media. Examples include user guides, white papers, online help, and quick-reference guides. [†](#w-documentation)
+: A set of documents provided in digital or analog media. Examples include user guides, whitepapers, online help, and quick-reference guides. [†](#w-documentation)
 
 DoH
 : → DNS over HTTPS
