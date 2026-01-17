@@ -510,7 +510,7 @@ Dynamic scope
 : Name resolution depending on the program state when the name is encountered, which is determined by the execution context (also called runtime context, calling context, or dynamic context). In dynamic scope, if a variable name’s scope is a certain function, then its scope is the time period during which the function is executing; while the function is running, the variable name exists, and is bound to its value, but after the function returns, the variable name does not exist. [†](#w-scope)
 
 Dynamic typing
-: An interpreter’s assigning at runtime of a type to a variable, based on the variable’s value at the time. [‡](#m-dynamic-typing)
+: An interpreter’s assigning at run-time of a type to a variable, based on the variable’s value at the time. [‡](#m-dynamic-typing)
 
 Dyslexia
 : A difficulty with reading despite normal intelligence. Different people are affected to varying degrees. Problems may include difficulties in spelling words, reading quickly, writing words, “sounding out” words in the head, pronouncing words when reading aloud, and understanding what one reads. [†](#w-dyslexia)
