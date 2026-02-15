@@ -287,7 +287,7 @@ Distributed Persistent Rendering
 : A generating or rendering of assets that is distributed between build and request time. DPR allows an asset cache to persist while other assets, which were not previously rendered, are being requested. The concept of DPR was coined in 2021 by Netlify.
 
 Distributed Version Control System
-: A form of version control in which the complete code base, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups. [†](#w-dvcs)
+: A form of version control in which the complete codebase, including its full history, is mirrored on every developer’s computer. This enables automatic management branching and merging, speeds up most operations (except pushing and pulling), improves the ability to work offline, and does not rely on a single location for backups. [†](#w-dvcs)
 
 Dither
 : An intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images. Dither is routinely used in processing of both digital audio and video data. [†](#w-dither)

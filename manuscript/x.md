@@ -31,7 +31,7 @@ XML Schema Definition
 : A specification for how to formally describe the elements in an Extensible Markup Language (XML) document. XSD can be used by programmers to verify each piece of item content in a document, and to check if it adheres to the description of the element it is placed in. [†](#w-xsd) ℹ︎ [w3.org/TR/xmlschema-0](https://www.w3.org/TR/xmlschema-0/)
 
 XML User Interface Language
-: A user interface markup language developed by Mozilla. XUL is implemented as an XML dialect, enabling graphical user interfaces to be written in a similar manner to web pages. Such applications must be created using the Mozilla code base (or a fork of it), with the Firefox web browser being the most prominent example. [†](#w-xul) ℹ︎ [developer.mozilla.org/XUL](https://web.archive.org/web/https://developer.mozilla.org/XUL)
+: A user interface markup language developed by Mozilla. XUL is implemented as an XML dialect, enabling graphical user interfaces to be written in a similar manner to web pages. Such applications must be created using the Mozilla codebase (or a fork of it), with the Firefox web browser being the most prominent example. [†](#w-xul) ℹ︎ [developer.mozilla.org/XUL](https://web.archive.org/web/https://developer.mozilla.org/XUL)
 
 XML-RPC
 : A remote procedure call (RPC) protocol which uses XML to encode its calls and HTTP as a transport mechanism. XML-RPC was created in 1998 by Dave Winer. As new functionality was introduced, the standard soon evolved into what is now SOAP. [†](#w-xml-rpc) ℹ︎ [xmlrpc.com](https://xmlrpc.com/)
