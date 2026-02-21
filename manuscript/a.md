@@ -153,7 +153,7 @@ ADT
 : → Abstract Data Type
 
 Advanced Encryption Standard
-: A specification for the encryption of electronic data established in 2001 by the U.S. National Institute of Standards and Technology (NIST). AES is a subset of the Rijndael block cipher developed by Vincent Rijmen and Joan Daemen. For AES, NIST selected three members of the Rijndael family, each with a block size of 128 bits, but three different key lengths: 128, 192, and 256 bits. [†](#w-aes)
+: A specification for the encryption of electronic data established in 2001 by the US National Institute of Standards and Technology (NIST). AES is a subset of the Rijndael block cipher developed by Vincent Rijmen and Joan Daemen. For AES, NIST selected three members of the Rijndael family, each with a block size of 128 bits, but three different key lengths: 128, 192, and 256 bits. [†](#w-aes)
 
 Advanced Package Tool
 : A software user interface that works with core libraries to handle the installation and removal of software on Debian, Ubuntu, and related Linux distributions. APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration, and installation of software packages. [†](#w-advanced-package-tool)
@@ -243,7 +243,7 @@ AMD
 : → Asynchronous Module Definition
 
 American National Standards Institute
-: A private non-profit organization that, per its mission, “enhances both the global competitiveness of U.S. business and the U.S. quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” The ANSI was founded in 1918. ℹ︎ [ansi.org](https://www.ansi.org/)
+: A private non-profit organization that, per its mission, “enhances both the global competitiveness of US business and the US quality of life by promoting and facilitating voluntary consensus standards and conformity assessment systems, and safeguarding their integrity.” The ANSI was founded in 1918. ℹ︎ [ansi.org](https://www.ansi.org/)
 
 American Standard Code for Information Interchange
 : A character encoding standard for electronic communication. ASCII was conceived in 1960 and published in 1963 by the ASA (American Standards Association), now ANSI.

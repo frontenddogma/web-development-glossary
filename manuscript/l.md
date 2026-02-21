@@ -258,7 +258,7 @@ Localization
 : The process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development). [†](#w-i18n-l10n)
 
 Location information server
-: A network node originally defined in the U.S. National Emergency Number Association’s i2 network architecture that addresses the intermediate solution for providing e911 emergency service for users of VoIP telephony. The LIS is the node that determines the location of the VoIP terminal. Beyond the NENA architecture and VoIP, the LIS is capable of providing location information to any IP device within its served access network. [†](#w-lis)
+: A network node originally defined in the US National Emergency Number Association’s i2 network architecture that addresses the intermediate solution for providing e911 emergency service for users of VoIP telephony. The LIS is the node that determines the location of the VoIP terminal. Beyond the NENA architecture and VoIP, the LIS is capable of providing location information to any IP device within its served access network. [†](#w-lis)
 
 Lock file
 : → File locking

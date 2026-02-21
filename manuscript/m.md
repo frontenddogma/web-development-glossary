@@ -79,7 +79,7 @@ Massively Parallel Processing
 : The use of a large number of computer processors (or separate computers) to simultaneously perform a set of coordinated computations in parallel. One approach for MPP is grid computing, where the processing power of many computers in distributed domains is opportunistically used whenever a computer is available. Another approach is grouping many processors in close proximity to each other, as in a computer cluster. [†](#w-mpp)
 
 Masthead
-: A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the U.K. and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.” [†](#w-masthead)
+: A publication’s masthead is a printed list, published in a fixed position in each edition, of its owners, departments, officers, contributors, and address details, which in British English usage is known as imprint. In the UK and other Commonwealth nations, the masthead is a publication’s designed title as it appears on the front page, which in American English is known as the nameplate or “flag.” [†](#w-masthead)
 
 Material Design
 : A design language, developed in 2014 by Google. Expanding on the “card” motifs that debuted in Google Now, Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows. [†](#w-material-design) ℹ︎ [material.io/design](https://material.io/design/)
