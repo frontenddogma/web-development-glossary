@@ -130,7 +130,7 @@ SEA
 : → Search Engine Advertising
 
 SeaMonkey
-: An Internet suite bundling web browser, an email, newsgroup, and feed client, an IRC chat, and an HTML editor. SeaMonkey is the continuation of the former Mozilla Application Suite, based on the same source code, which itself grew out of Netscape Communicator and formed the base of Netscape 6 and Netscape 7. SeaMonkey was created in 2005 after the Mozilla Foundation decided to focus on the standalone projects Firefox and Thunderbird. The development of SeaMonkey is community-driven. [†](#w-seamonkey) ℹ︎ [seamonkey-project.org](https://www.seamonkey-project.org/)
+: An Internet suite bundling a web browser, an email, newsgroup, and feed client, an IRC chat, and an HTML editor. SeaMonkey is the continuation of the former Mozilla Application Suite, based on the same source code, which itself grew out of Netscape Communicator and formed the base of Netscape 6 and Netscape 7. SeaMonkey was created in 2005 after the Mozilla Foundation decided to focus on the standalone projects Firefox and Thunderbird. The development of SeaMonkey is community-driven. [†](#w-seamonkey) ℹ︎ [seamonkey-project.org](https://www.seamonkey-project.org/)
 
 Search Engine Advertising
 : The purchasing and managing of advertisements in online search engines and their content networks.

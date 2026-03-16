@@ -165,7 +165,7 @@ Flash of Unstyled Text
 : The effect when a web page appears briefly with the browser’s default styles prior to loading an external style sheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; however, the shift may be distracting. [†](#w-fout)
 
 Flash Player
-: A software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plugin or on supported mobile devices. It was created by Macromedia and has been developed and distributed by Adobe since Adobe acquired Macromedia in 2005. Support for Flash Player ended at the end of 2020. [†](#w-flash-player)
+: Software for using content created on the Adobe Flash platform, including viewing multimedia contents, executing rich Internet applications, and streaming audio and video. Flash Player can run from a web browser as a browser plugin or on supported mobile devices. It was created by Macromedia and has been developed and distributed by Adobe since Adobe acquired Macromedia in 2005. Support for Flash Player ended at the end of 2020. [†](#w-flash-player)
 
 Flat Design
 : A minimalist design language and style that emphasizes the use of simple elements and typography as well as flat colors. The emergence and popularization of the International Typographic Style (Swiss Style) during the 1950s and 1960s is regarded as the starting point of Flat Design. [†](#w-flat-design)

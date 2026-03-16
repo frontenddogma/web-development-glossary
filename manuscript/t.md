@@ -107,7 +107,7 @@ Template language
 : The syntax used by a template processor.
 
 Template processor
-: A software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter. [†](#w-template-processor)
+: Software designed to combine templates with a data model to produce result documents. The language that the templates are written in is known as a template or templating language. A result document may be any kind of formatted output, including documents, web pages, or source code (in source code generation), either in whole or in fragments. A template engine is ordinarily included as a part of a web template system or application framework, and may be used also as a preprocessor or filter. [†](#w-template-processor)
 
 Template system
 : A platform that lets web designers and developers work with web templates to automatically generate custom web pages. This reuses static web page elements while defining dynamic elements based on web request parameters. Web templates support static content, providing basic structure and appearance. Developers can implement templates from content management systems, web application frameworks, and HTML editors. [†](#w-template-system)

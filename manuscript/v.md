@@ -4,7 +4,7 @@ Validation
 : The process of ensuring data or code have undergone cleansing to ensure they have quality, that is, that they are both correct and useful. Validation uses routines, often called validation rules, validation constraints, or check routines, that check for the correctness, meaningfulness, and security of the data and code that are input to the system. The rules may be implemented through the automated facilities of a dictionary, or by the inclusion of explicit validation logic. [†](#w-validation)
 
 Validator
-: A software used to check the validity or syntactical correctness of a fragment of code or document. The term is commonly used in the context of validating HTML, CSS, or XML documents like RSS feeds, though a validator can be used for any defined format or language. [†](#w-validator)
+: Software used to check the validity or syntactical correctness of a fragment of code or document. The term is commonly used in the context of validating HTML, CSS, or XML documents like RSS feeds, though a validator can be used for any defined format or language. [†](#w-validator)
 
 Value
 : The representation of some entity that can be manipulated by a program. The members of a type are the values of that type. In declarative (high-level) languages, values have to be referentially transparent. [†](#w-value)
