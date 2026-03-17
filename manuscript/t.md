@@ -152,7 +152,7 @@ The Onion Router
 : → Tor
 
 The Open Group Architecture Framework
-: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting in 1995 by The Open Group. [†](#w-togaf) ℹ︎ [is.gd/0pnYAF](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
+: A framework that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture. TOGAF is typically modeled at four levels: Business, Application, Data, and Technology. It relies heavily on modularization, standardization, and already existing, proven technologies and products. TOGAF was developed starting in 1995 by The Open Group. [†](#w-togaf)
 
 Theme
 : A preset package containing graphical appearance details. For operating systems, a theme usually comprises a set of shapes and colors for window, window decoration, and graphical control elements. Themes are used to customize the look and feel of software in general, including for websites and apps. [†](#w-theme)
