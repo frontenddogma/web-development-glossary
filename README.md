@@ -7,7 +7,7 @@ This is the source of the book [_The Web Development Glossary_](https://meiert.c
 	<a href="https://meiert.com/blog/the-web-development-glossary/"><img src="https://meiert.com/de/publications/books/the-web-development-glossary/cover-s.png" alt="The cover of “The Web Development Glossary.”"></a>
 </div>
 
-It is not maintained anymore: For the latest book edition of _The Web Development Glossary_, see [_The Web Development Glossary 3K_](https://meiert.com/blog/the-web-development-glossary-3k/). To try the online glossary, visit [WebGlossary.info](https://webglossary.info/).
+It is not maintained anymore: For the latest book edition of _The Web Development Glossary_, see [_The Web Development Glossary 4K_](https://meiert.com/blog/the-web-development-glossary-4k/). To try the online glossary, visit [WebGlossary.info](https://webglossary.info/).
 
 ## Table of Contents
 
