@@ -2,7 +2,7 @@
 
 This is the source of the book [_The Web Development Glossary_](https://meiert.com/blog/the-web-development-glossary/).
 
-<!-- Seriously, GitHub? -->
+<!-- Really, GitHub? -->
 <div align="center">
 	<a href="https://meiert.com/blog/the-web-development-glossary/"><img src="https://meiert.com/de/publications/books/the-web-development-glossary/cover-s.png" alt="The cover of “The Web Development Glossary.”"></a>
 </div>
