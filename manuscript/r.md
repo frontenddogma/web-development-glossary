@@ -202,7 +202,7 @@ Remote method invocation
 : The calling of a method on a remote object, the object-oriented programming analog of a remote procedure call (RPC). [†](#w-distributed-object-communication)
 
 Remote procedure call
-: The causing of a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), with the call being coded as if it was a normal (local) procedure call. That is, without explicitly coding the details for the remote interaction, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote. [†](#w-rpc)
+: The causing of a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), with the call being coded as if it were a normal (local) procedure call. That is, without explicitly coding the details for the remote interaction, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote. [†](#w-rpc)
 
 Render tree
 : A tree of the visible elements of a page as generated from the DOM and CSSOM trees. Elements for metadata content and elements “hidden” through `display: none` are not part of the render tree.
