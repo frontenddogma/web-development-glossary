@@ -372,7 +372,7 @@ Cold data
 : Rarely accessed data.
 
 ColdFusion
-: A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language. [†](#w-coldfusion) ℹ︎ [is.gd/r6E53v](https://www.adobe.com/products/coldfusion-family.html)
+: A commercial rapid web application development computing platform created in 1995 by J.J. Allaire. (The programming language used with the platform is also commonly called ColdFusion, though is more accurately known as CFML.) ColdFusion was originally designed to make it easier to connect simple HTML pages to a database. By version 2 (1996), it became a full platform that included an IDE in addition to a full scripting language. [†](#w-coldfusion) ℹ︎ [coldfusion.adobe.com](https://coldfusion.adobe.com/)
 
 ColdFusion Markup Language
 : A scripting language for web development that runs on the Java virtual machine, the .NET framework, and Google App Engine. Multiple implementations of CFML engines are available, including Adobe ColdFusion, Lucee, New Atlanta BlueDragon, Railo, and Open BlueDragon. [†](#w-cfml)
