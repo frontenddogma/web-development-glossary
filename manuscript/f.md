@@ -171,7 +171,7 @@ Flat Design
 : A minimalist design language and style that emphasizes the use of simple elements and typography as well as flat colors. The emergence and popularization of the International Typographic Style (Swiss Style) during the 1950s and 1960s is regarded as the starting point of Flat Design. [†](#w-flat-design)
 
 Flex
-: A new value (`flex`) added to the CSS `display` property. Along with `inline-flex` it causes the element that it applies to to become a flex container, and the element’s children to each become a flex item. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied. [‡](#m-flex)
+: A new value (`flex`) added to the CSS `display` property. Along with `inline-flex`, it causes the targeted element to become a flex container and its children to become flex items. The items then participate in flex layout, and all of the properties defined in the CSS Flexible Box Layout Module may be applied. [‡](#m-flex)
 : → Flexbox
 
 Flexbox
