@@ -31,7 +31,7 @@ Tag
 : → Tracking pixel
 
 Tag Management System
-: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events, and known data. Typical functionality includes a testing environment (sandbox), an audit trail and version control, the ability to A/B-test different solutions, tag de-duplication, and role-based access to data. [†](#w-tms)
+: A software designed to help manage the lifecycle of e-marketing tags (sometimes referred to as tracking pixels or web beacons), which are used to integrate third-party software into digital properties. Tag management systems replace marketing tags with a single container tag and subsequently prioritize and “fire” individual tags as appropriate based on business rules, navigation events, and known data. Typical functionality includes a testing environment (sandbox), an audit trail and version control, the ability to A/B-test different solutions, tag deduplication, and role-based access to data. [†](#w-tms)
 
 Tag soup
 : A pejorative for syntactically or structurally incorrect HTML written for a web page. Because web browsers have historically treated HTML syntax or structural errors leniently, there has been little pressure for web developers to follow published standards, and therefore there is a need for all browser implementations to provide mechanisms to cope with the appearance of “tag soup,” accepting and correcting for invalid syntax and structure where possible. [†](#w-tag-soup)
