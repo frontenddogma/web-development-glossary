@@ -426,7 +426,7 @@ Dot-agnostic
 : A configuration aspect for email that allows dots (“.”) anywhere within the local-part of the email address, to still refer to the same address. That is, when dot-agnostic, jane.doe@example.com, janedoe@example.com, and j.a.n.e.d.o.e@example.com would all be the same address and reach the same recipient.
 
 Dots per inch
-: A measure of spatial printing, video, or image scanner dot density, in particular the number of individual dots that can be placed in a line within the span of 1 inch (2.54 cm). Similarly, the more newly introduced dots per centimeter (d/cm or dpcm) refers to the number of individual dots that can be placed within a line of 1 centimeter (≈ 0.393 in). [†](#w-dpi)
+: A measure of spatial printing, video, or image scanner dot density, in particular the number of individual dots that can be placed in a line within the span of 1 inch (2.54 cm). Similarly, the more newly introduced dots per centimeter (d/cm or dpcm) refers to the number of individual dots that can be placed within a line of 1 centimeter (0.393 in). [†](#w-dpi)
 
 Double
 : A double-precision, 64-bit floating-point data type.
